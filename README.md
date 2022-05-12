@@ -26,7 +26,7 @@ It encapsulates the entire computing environment within a single image,
 including operating system and all dependencies. 
 The Docker approach is good if you want to rerun analyses but you don't
 want to extend the code significantly yourself.
-Alternatively, you can take the *renv* approach. Renv is more lightweight,
+Alternatively, you can take the *renv* approach. renv is more lightweight,
 and only provides a snapshot of the R packages used by the analyses,
 not the operating system or other dependencies. This makes less
 guarantees about reproducibility, but is the easier option if you want to
@@ -69,6 +69,8 @@ This should take you to an RStudio window hosting the analyses.
 #### Creating a Docker image from the Git repository
 
 *The following instructions are primarily intended for the papers' authors*.
+*You do not need to run them if you're just trying to reproduce the analyses.*
+
 You can create a Docker image from the Git repository by following these steps:
 
 1. Log into your Docker repository:
@@ -299,7 +301,7 @@ error message:
 Error in x %>% data.table::rbindlist() %>% { : object 'digits' not found
 ```
 
-- `scripts/clear-behavioral-output.R` - A helper script that deletes all the 
+`scripts/clear-behavioral-output.R` - A helper script that deletes all the 
 outputs of the behavioral analyses in `output/batches`, so that they 
 will be regenerated from scratch in the next call to 
 `scripts/analysis/010-run-model-batches.R`.
