@@ -1,0 +1,480 @@
+---
+title: "Supplementary materials"
+
+output: 
+  html_document:
+    theme: spacelab
+    self_contained: false
+---
+
+This webpage provides a collection of supplementary plots and datasets for the article 'Reshaping musical consonance with timbral manipulations and massive online experiments' by Raja Marjieh, Peter M. C. Harrison, Harin Lee, Fotini Deligiannaki, and Nori Jacoby. Click on the different tabs to navigate through the different plots and datasets.
+
+```{r, include = FALSE}
+library(shiny)
+library(tidyverse)
+
+
+DyadSupplementary <- function(
+  plot_id,
+  raw_id,
+  video_id = NULL,
+  skip_musicianship = FALSE
+) {
+  x <- list(
+    plot_id = plot_id,
+    video_id = video_id,
+    raw_id = raw_id,
+    skip_musicianship = skip_musicianship
+  )
+  class(x) <- c("DyadSupplementary", class(x))
+  x
+}
+
+TriadSupplementary <- function(
+  exp_label,
+  raw_data_id
+) {
+  x <- list(
+    exp_label = exp_label,
+    raw_data_id = raw_data_id
+  )
+  class(x) <- c("TriadSupplementary", class(x))
+  x
+}
+
+
+RawDataOnly <- function(
+  info,
+  raw_data_path,
+  processed_data_path
+) {
+  x <- list(
+    info = info,
+    raw_data_path = raw_data_path,
+    processed_data_path = processed_data_path
+  )
+  class(x) <- c("RawDataOnly", class(x))
+  x
+}
+
+spec <- list(
+  "Study 1" = list(
+    "1A: Harmonic dyads" = DyadSupplementary(
+      "1 - Harmonic dyads (3 dB roll-off)",
+      raw_id = "Rating/rating_dyh3dd.csv",
+      video_id = "harmonic-dyads.mp4"
+    ),
+    "1B: Instrument dyads" = list(
+      "1B(i): Piano dyads" = DyadSupplementary(
+        "13 - Piano dyads",
+        raw_id = "Rating/rating_piano_harmonic_harpno.csv",
+      ),
+      "1B(ii): Guitar dyads" = DyadSupplementary(
+        "12 - Guitar dyads",
+        raw_id = "Rating/rating_guitar_harmonic_hargtr.csv"
+      ),
+      "1B(iii): Flute dyads" = DyadSupplementary(
+        "11 - Flute dyads",
+        raw_id = "Rating/rating_flute_harmonic_harflt.csv"
+      )
+    )
+  ),
+  "Study 2" = list(
+    "2A: Stretched/compressed dyads" = list(
+      "2A(i): Stretched dyads" = DyadSupplementary(
+        "2 - Stretched dyads (3 dB roll-off)",
+        raw_id = "Rating/rating_dys3dd.csv",
+        video_id = "stretched-dyads.mp4"
+      ),
+      "2A(ii): Compressed dyads" = DyadSupplementary(
+        "3 - Compressed dyads (3 dB roll-off)",
+        raw_id = "Rating/rating_dyc3dd.csv",
+        video_id = "compressed-dyads.mp4"
+      )
+    ),
+    "2B: Bonang dyads" = DyadSupplementary(
+      "4 - Bonang dyads",
+      raw_id = "Rating/gamelan_dyad_gamdyrt.csv",
+      video_id = "bonang-dyads.mp4"
+    )
+  ),
+  "Study 3" = list(
+    "2 dB roll-off (harmonic dyads)" = DyadSupplementary(
+      "8 - 2 dB roll-off (harmonic dyads)",
+      raw_id = "Rating/rolloff_dyad_rodyrt.csv",
+      video_id = "2-dB-roll-off-dyads.mp4"
+    ),
+    "7 dB roll-off (harmonic dyads)" = DyadSupplementary(
+      "9 - 7 dB roll-off (harmonic dyads)",
+      raw_id = "Rating/rolloff_dyad_rodyrt.csv",
+      video_id = "7-dB-roll-off-dyads.mp4"
+    ),
+    "12 dB roll-off (harmonic dyads)" = DyadSupplementary(
+      "10 - 12 dB roll-off (harmonic dyads)",
+      raw_id = "Rating/rolloff_dyad_rodyrt.csv",
+      video_id = "12-dB-roll-off-dyads.mp4"
+    )
+  ),
+  "Study 4" = list(
+    "4A: Harmonic deletion and global consonance" = list(
+      "4A(i): Dyads with 5 equal harmonics" = DyadSupplementary(
+        "5 - Harmonic dyads (5 equal harmonics)",
+        raw_id = "Rating/rating_w3rdd.csv",
+        video_id = "remove_dyad_harmonics__harmonic_dyads_(5_equal_harmonics).mp4"
+      ),
+      "4A(ii): Dyads without third harmonic" = DyadSupplementary(
+        "6 - Harmonic dyads (no 3rd harmonic)",
+        raw_id = "Rating/rating_wo3rdd.csv",
+        video_id = "remove_dyad_harmonics__harmonic_dyads_(no_3rd_harmonic).mp4"
+      ),
+      "4A(iii): Pure dyads" = DyadSupplementary(
+        "7 - Pure dyads",
+        raw_id = "Rating/pure_dyad_purdyrt.csv",
+        video_id = "remove_dyad_harmonics__pure_dyads.mp4"
+      )
+    ),
+    "4B: Harmonic deletion and local consonance" = list(
+      "Major 3rd" = list(
+        "4B(i): Harmonics" = DyadSupplementary(
+          "14 - Major 3rd (3 dB roll-off)",
+          raw_id = "Rating/tuning_4_tun3p9.csv",
+          video_id = "tuning/Pleasantness_-_Major_3rd_-_3_dB_roll-off.mp4"
+        ),
+        "4B(ii): No harmonics" = DyadSupplementary(
+          "15 - Major 3rd (pure tones)",
+          raw_id = "Rating/tuning_4_tunp39.csv",
+          video_id = "tuning/Pleasantness_-_Major_3rd_-_Pure_tones.mp4"
+        )
+      ),
+      "Major 6th" = list(
+        "4B(iii): Harmonics" = DyadSupplementary(
+          "16 - Major 6th (3 dB roll-off)",
+          raw_id = "Rating/tuning_9_tun8p9.csv",
+          video_id = "tuning/Pleasantness_-_Major_6th_-_3_dB_roll-off.mp4"
+        ),
+        "4B(iv): No harmonics" = DyadSupplementary(
+          "17 - Major 6th (pure tones)",
+          raw_id = "Rating/tuning_9_tunp89.csv",
+          video_id = "tuning/Pleasantness_-_Major_6th_-_Pure_tones.mp4"
+        )
+      ),
+      "Octave" = list(
+        "4B(v): Harmonics" = DyadSupplementary(
+          "18 - Octave (3 dB roll-off)",
+          raw_id = "Rating/tuning_12_tunoch.csv",
+          video_id = "tuning/Pleasantness_-_Octave_-_3_dB_roll-off.mp4"
+        ),
+        "4B(vi): No harmonics" = DyadSupplementary(
+          "19 - Octave (pure tones)",
+          raw_id = "Rating/tuning_12_tunocp.csv",
+          video_id = "tuning/Pleasantness_-_Octave_-_Pure_tones.mp4"
+        )
+      )
+    )
+  ),
+  "Study 5" = list(
+    "5A(i): Harmonic triads" = TriadSupplementary(
+      "Harmonic triads",
+      raw_data_id = "harmonic_GSP_3db_trdh3d.csv"
+    ),
+    "5B(i): Stretched triads" = TriadSupplementary(
+      "Stretched triads",
+      raw_data_id = "stretched_GSP_3db_trds3d.csv"
+    ),
+    "5(ii): Compressed triads" = TriadSupplementary(
+      "Compressed triads",
+      raw_data_id = "compressed_GSP_3db_trdc3d.csv"
+    )
+  ),
+  "Study 6" = list(
+    "6(i): Harmonic dyads" = DyadSupplementary(
+      "20 - Harmonic dyads (3 dB roll-off) (Korean)",
+      raw_id = "Rating/korean_dyad_harm.csv",
+      video_id = "korean-harmonic-dyads.mp4",
+      skip_musicianship = TRUE
+    ),
+    "6(ii): Stretched dyads (Korean)" = DyadSupplementary(
+      "21 - Stretched dyads (3 dB roll-off) (Korean)",
+      raw_id = "Rating/korean_dyad_str.csv",
+      video_id = "korean-stretched-dyads.mp4",
+      skip_musicianship = TRUE
+    ),
+    "6(iii): Compressed dyads (Korean)" = DyadSupplementary(
+      "22 - Compressed dyads (3 dB roll-off) (Korean)",
+      raw_id = "Rating/korean_dyad_comp.csv",
+      video_id = "korean-compressed-dyads.mp4",
+      skip_musicianship = TRUE
+    )
+  ),
+  "Study 7" = RawDataOnly(
+    info = paste0(
+      "This study investigated the joint manipulation of timbre and pitch interval with GSP.",
+      " There are no supplementary analyses but you can download the data here:"
+    ),
+    raw_data_path = "input/data-csv/GSP/tmb_int_gsp_mixintm.csv",
+    processed_data_path = "output/plots/080-timbre-and-consonance-gsp-pitch-interval-profiles.csv"
+  )
+)
+
+```
+
+```{r,  echo = FALSE}
+
+tab_contents <- function(contents) {
+  UseMethod("tab_contents")
+}
+
+tab_contents.list <- function(contents) {
+  do.call(
+    tabsetPanel, 
+    imap(contents, ~ tabPanel(.y, tab_contents(.x))) %>% set_names(NULL)
+  )
+}
+
+tab_contents.DyadSupplementary <- function(contents) {
+  tabsetPanel(
+    by_model_tab(contents),
+    by_musicianship_tab(contents),
+    if (!is.null(contents$video_id)) video_tab(contents)
+  )
+}
+
+tab_contents.RawDataOnly <- function(contents) {
+  tags$div(
+    tags$p(contents$info),
+    data_panel(
+      contents$raw_data_path,
+      contents$processed_data_path
+    )
+  )
+}
+
+tab_contents.TriadSupplementary <- function(contents) {
+  path <- file.path(
+    "output/plots/supplementary/triads", 
+    contents$exp_label
+  )
+  
+  tabsetPanel(
+    tabPanel(
+      "Participants",
+      embed_image(file.path(path, "participants.png"))
+    ),
+    tabPanel(
+      "Models",
+      tabsetPanel(
+        tabPanel(
+          "Interference",
+          tabsetPanel(
+            triad_model_panel("interference", "Hutchinson & Knopoff (1978)", path),
+            triad_model_panel("interference", "Sethares (1993)", path),
+            triad_model_panel("interference", "Vassilakis (2001)", path)
+          )
+        ),
+        tabPanel(
+          "Harmonicity",
+          tabsetPanel(
+            triad_model_panel("harmonicity", "Harrison & Pearce (2018)", path),
+            triad_model_panel("harmonicity", "Milne (2013)", path),
+            triad_model_panel("harmonicity", "Praat (F0)", path)
+          )
+        )
+      )
+    )
+  )
+}
+
+# experiment_tab <- function(experiment) {
+# 
+# }
+
+by_musicianship_tab <- function(experiment) {
+  if (experiment$skip_musicianship) {
+    return(tabPanel(
+      "Musicianship",
+      tags$p("Musicianship analyses were not computed for this experiment.")
+    ))
+  }
+  
+  path <- file.path(
+    "output/plots/supplementary/by-musicianship", 
+    experiment$plot_id
+  )
+  
+  paths <- list(
+    plot = paste0(path, ".png"),
+    raw_data = file.path("input/data-csv", experiment$raw_id),
+    processed_data = paste0(path, " - profiles.csv")
+  )
+  
+  for (p in paths) {
+    if (!file.exists(p)) stop("Could not find requested file: ", p)
+  }
+  
+  tabPanel(
+    "Musicianship",
+    tabsetPanel(
+      plot_panel(paths$plot),
+      data_panel(paths$raw_data, paths$processed_data)
+    )
+  )
+}
+
+plot_panel <- function(path) {
+  tabPanel(
+    "Plot",
+    tags$img(src = path, style = "max-width: 700px;")
+  )
+}
+
+data_panel <- function(raw_data_path, processed_data_path) {
+  tabPanel(
+    "Data",
+    tags$ul(
+      tags$li(
+        tags$a(
+          "Download raw data", 
+          href = raw_data_path
+        ),
+      ),
+      tags$li(
+        tags$a(
+          "Download processed data", 
+          href = processed_data_path
+        )
+      )
+    )
+  )
+}
+
+# processed_musicianship_data <- function(experiment) {
+#   path <- file.path(
+#     "output/plots/supplementary/by-musicianship", 
+#     paste0(experiment$plot_id, " - profiles.csv")
+#   )
+#   
+#   tabPanel(
+#     "Processed",
+#     tags$a("Download as CSV", href = path),
+#     DT::datatable(
+#       read_csv(path, col_types = cols()) %>%
+#         select(- rating_boot_mean) %>% 
+#         rename(
+#           "Interval" = interval,
+#           "Rating" = rating,
+#           "Rating (SE)" = rating_boot_se,
+#           "Participant group" = participant_group
+#         ) %>% 
+#         mutate(across(where(is.numeric), ~ sprintf("%.3f", .)))
+#     )
+#   )
+# }
+# 
+# raw_musicianship_data <- function(experiment) {
+#   path <- file.path("input/data-csv", experiment$raw_id)
+#   
+#   tabPanel(
+#     "Raw",
+#     tags$a("Download as CSV", href = path),
+#     DT::datatable(
+#       read_csv(path, col_types = cols()) %>%
+#         rename(
+#           "Participant ID" = participant_id,
+#           "Years of musical experience" = musical_exp,
+#           "Interval" = v1,
+#           "Rating" = rating
+#         ) %>% 
+#         mutate(Interval = sprintf("%.3f", Interval)) %>% 
+#         (function(df) {
+#           names(df) <- plyr::revalue(names(df), c(synth = "Timbre"), warn_missing = FALSE)
+#           df
+#         })
+#     )
+#   )
+# }
+
+by_model_tab <- function(experiment) {
+  UseMethod("by_model_tab")
+}
+
+by_model_tab.DyadSupplementary <- function(experiment) {
+  path <- file.path(
+    "output/plots/supplementary/by-model", 
+    paste0(experiment$plot_id)
+  )
+  plot_path <- paste0(path, ".png")
+  data_path <- paste0(path, ".csv")
+  raw_data_path <- file.path("input/data-csv", experiment$raw_id)
+  
+  tabPanel(
+    "Models",
+    tabsetPanel(
+      plot_panel(plot_path),
+      data_panel(
+        raw_data_path,
+        data_path
+      )
+    )
+  )
+}
+
+triad_model_panel <- function(category, model_label, path) {
+  tabPanel(
+    model_label,
+    embed_image(
+      file.path(path, "models", category, paste0(model_label, ".png"))
+    )
+  )
+}
+
+embed_image <- function(path) {
+  if (!file.exists(path)) stop("Couldn't find requested file: ", path)
+  tags$img(
+    src = path, 
+    style = "max-width: 700px;"
+  )
+}
+
+
+# data_tab <- function(experiment) {
+#   tabPanel(
+#     "Data",
+#     tabsetPanel(
+#       tabPanel(
+#         "Profiles",
+#         DT::datatable(
+#           read_csv("")
+#         )
+#       )
+#     )
+#   )
+# }
+
+video_tab <- function(experiment) {
+  path <- file.path(
+    "output/videos", 
+    experiment$video_id
+  )
+  if(!file.exists(path)) stop("Couldn't find requested file: ", path)
+  tabPanel(
+    "Video",
+    tags$video(
+      controls = "controls",
+      src = path,
+      style = "max-width: 100%"
+    )
+  )
+}
+
+tags$script(src = "supplementary.js")
+tags$script(src = "jquery-url-tld.min.js")
+tab_contents(spec)
+
+```
+
+<style>
+  .nav-tabs {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+</style>

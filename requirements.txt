@@ -1,0 +1,4 @@
+praat-parselmouth
+tqdm
+joblib
+click
