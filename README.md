@@ -1,30 +1,112 @@
 # Installation
 
-## Cloning the repository
+# Table of contents
 
-If you wish to download this repository via Git, you must install 
-`git LFS`, an add-on for Git that supports the usage of large files.
-Please follow the instructions on the [official website](https://git-lfs.github.com/) 
-to accomplish this.
+- Introduction
+- Installation
+- Running
+- Manifest
 
-## Setting up your R environment
+## Introduction
 
-This project uses `renv` for dependency management.
-Begin by opening the project's root directory in RStudio or 
-your equivalent IDE.
-If you haven't got `renv` installed, you may need to install it manually:
+This repository provides raw data and code for the paper 
+"Reshaping musical consonance with timbral manipulations and massive online experiments" 
+by Marjieh, Harrison, Lee, Deligiannaki, & Jacoby (2022).
+
+- To load the software onto your computer, see 'Installation'.
+- To run the software, see 'Running'.
+- To access the raw data, see 'Manifest'.
+- To access the supplementary materials web interface, open `supplementary.html`.
+
+## Installation
+
+There are two ways to load the software onto your computer.
+One is to use *Docker*. Docker is a tool for guaranteeing long-term reproducibility.
+It encapsulates the entire computing environment within a single image, 
+including operating system and all dependencies. 
+The Docker approach is good if you want to rerun analyses but you don't
+want to extend the code significantly yourself.
+Alternatively, you can take the *renv* approach. Renv is more lightweight,
+and only provides a snapshot of the R packages used by the analyses,
+not the operating system or other dependencies. This makes less
+guarantees about reproducibility, but is the easier option if you want to
+extend the code yourself.
+
+### Docker
+
+To install Docker, follow the [official Docker instructions](https://docs.docker.com/get-docker/).
+
+Next you need to acquire the Docker image. This should be a file of the form 
+`timbre-and-consonance-paper.tar`. You should be able to find this in the Supplementary Materials.
+
+Then you load the Docker file:
 
 ```
-install.packages("renv")
+docker load < timbre-and-consonance-paper.tar
 ```
 
-The `renv.lock` file stores all the packages used by this project,
-along with their versions.
-Install these packages with the following command:
+Note: the initial part of this `docker load` stage might take about a minute, 
+without any progress bar or other status indications.
+
+Then you launch a Docker container from it:
 
 ```
-renv::restore()
+docker run --rm -p 127.0.0.1:8787:8787 -e DISABLE_AUTH=true -e ROOT=TRUE timbre-and-consonance-paper
 ```
+
+Note: You will probably see a message in the log that says
+
+```
+Authentication token manipulation error
+chpasswd: (line 1, user rstudio) password not changed
+```
+
+Don't worry, this is normal.
+
+Finally, navigate to http://localhost:8787/ in your web browser.
+This should take you to an RStudio window hosting the analyses.
+
+#### Creating a Docker image from the Git repository
+
+*The following instructions are primarily intended for the papers' authors*.
+You can create a Docker image from the Git repository by following these steps:
+
+1. Log into your Docker repository:
+
+```
+docker login registry.gitlab.com/LAB-NAME/harmony/timbre-and-consonance-paper
+```
+
+2. Pull the image from the repository:
+
+```
+docker pull registry.gitlab.com/LAB-NAME/harmony/timbre-and-consonance-paper
+```
+
+3. Save it to a tar file:
+
+```
+docker save timbre-and-consonance-paper -o ~/Downloads/timbre-and-consonance-paper.tar
+```
+
+Note: this `docker save` stage might take about a minute, without any progress bar 
+or other status indications.
+
+## renv
+
+To install the project via renv, follow these steps:
+
+1. Install R: https://www.r-project.org/
+
+2. Install RStudio: https://www.rstudio.com/products/rstudio/download/
+
+3. Unzip the Supplementary Materials zip file, and open the project by double-clicking on timbre-and-consonance-paper.Rproj.
+
+4. Install `renv`: `install.packages("renv")`
+
+6. Run `renv::restore()` in your RStudio R console (see also 'Troubleshooting R package installation').
+
+7. Follow the instructions in 'Setting up your Python environment'.
 
 ### Troubleshooting R package installation
 
@@ -83,7 +165,7 @@ If it worked, you can try again with the `renv` initialisation:
 renv::restore()
 ```
 
-## Setting up your Python environment
+### Setting up your Python environment
 
 Running the consonance models requires a Python 3 installation,
 as well as a few additional Python packages.
@@ -118,7 +200,43 @@ workon parselmouth
 pip3 install -r requirements.txt
 ```
 
-# Index of the project directory
+### Cloning the repository from Git 
+
+If you wish to download this repository via Git instead of working via the 
+Supplementary Materials, you must install 
+`git LFS`, an add-on for Git that supports the usage of large files.
+Please follow the instructions on the [official website](https://git-lfs.github.com/) 
+to accomplish this.
+
+# Running
+
+The following section assumes that you have RStudio open, launched either via
+Docker or via the renv instructions above.
+
+> How do I rerun all the analyses and recreate all the plots?
+
+Delete the `output` directory and rerun the files in `output/scripts`
+(for example, by opening them in RStudio, and clicking 'Source' for each one)
+in numeric ascending order. Note that `010-run-model-batches.R` may take
+a few hours (~ 6?) depending on the speed of your computer (more cores is better).
+
+> How do I recreate the supplementary materials web page?
+
+Open `supplementary.Rmd` in RStudio then press the 'Knit' button.
+
+> How do I access the main outputs for further data analyses?
+
+Navigate to `output/batches/` and find the RDS file(s) corresponding to your
+data of interest. Load these into R using `readRDS`, and explore the files
+in your R console, hopefully you find what you need there.
+In many cases you will also find analogous `csv` files, which you can 
+read with R or with an alternative program.
+As long as you're happy working with these pregenerated analyses,
+you can get going right away with the files as provided in the 
+Supplementary Materials version of the project,
+without having to run the time-consuming 6-hour analysis script.
+
+# Manifest
 
 `input/` - Contains the input data files.
 
@@ -200,23 +318,3 @@ and stored in this folder.
 
 `supplementary.Rmd` - An RMarkdown file that, when run, generates the supplementary
 materials webpage (`supplementary.html`).
-
-# FAQ
-
-> How do I rerun all the analyses and recreate all the plots?
-
-Delete the `output` directory and rerun the files in `output/scripts`
-(for example, by opening them in RStudio, and clicking 'Source' for each one)
-in numeric ascending order. Note that `010-run-model-batches.R` may take
-a few hours (~ 6?) depending on the speed of your computer (more cores is better).
-
-> How do I access the main outputs for further data analyses?
-
-Navigate to `output/batches/` and find the RDS file(s) corresponding to your
-data of interest. Load these into R using `readRDS`, and explore the files
-in your R console, hopefully you find what you need there.
-In many cases you will also find analogous `csv` files, which you can 
-read with R or with an alternative program.
-As long as you're happy working with these pregenerated analyses,
-you can get going right away with the files as cloned by Git,
-without having to run the time-consuming 6-hour analysis script.
