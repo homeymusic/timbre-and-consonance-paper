@@ -40,10 +40,32 @@ by a future update to RStudio.
 
 To install Docker, follow the [official Docker instructions](https://docs.docker.com/get-docker/).
 
-Next you need to acquire the Docker image. This should be a file of the form 
-`timbre-and-consonance-paper.tar`. You should be able to find this in the Supplementary Materials.
+Next you need to acquire the Docker image. There are two ways to do this:
+from GitLab, or from a downloaded file. The former will generally be easiest,
+but the latter option is useful for reproducibility.
 
-Then you load the Docker file:
+#### Docker from GitLab
+
+1. Pull the image from GitLab:
+
+```
+docker pull registry.gitlab.com/pmcharrison/harmony/timbre-and-consonance-paper
+```
+
+2. Run it: 
+
+```
+docker run --rm -p 127.0.0.1:8787:8787 -e DISABLE_AUTH=true -e ROOT=TRUE registry.gitlab.com/pmcharrison/harmony/timbre-and-consonance-paper
+```
+
+Navigate to http://localhost:8787/ in your web browser.
+This should take you to an RStudio window hosting the analyses.
+
+#### Docker from downloaded file
+
+The starting point is a file of the form `timbre-and-consonance-paper.tar`.
+
+You load the Docker file like this:
 
 ```
 docker load < timbre-and-consonance-paper.tar
@@ -80,19 +102,19 @@ You can create a Docker image from the Git repository by following these steps:
 1. Log into your Docker repository:
 
 ```
-docker login registry.gitlab.com/LAB-NAME/harmony/timbre-and-consonance-paper
+docker login registry.gitlab.com/pmcharrison/harmony/timbre-and-consonance-paper
 ```
 
 2. Pull the image from the repository:
 
 ```
-docker pull registry.gitlab.com/LAB-NAME/harmony/timbre-and-consonance-paper
+docker pull registry.gitlab.com/pmcharrison/harmony/timbre-and-consonance-paper
 ```
 
 3. Tag it:
 
 ```
-docker tag registry.gitlab.com/LAB-NAME/harmony/timbre-and-consonance-paper timbre-and-consonance-paper
+docker tag registry.gitlab.com/pmcharrison/harmony/timbre-and-consonance-paper timbre-and-consonance-paper
 ```
 
 4. Save it to a tar file:
