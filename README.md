@@ -8,7 +8,7 @@
 
 ## Quick links
 
-- [Interactive data explorer](https://computational-audition-lab.gitlab.io/harmony/timbre-and-consonance-paper/supplementary.html)
+- [Interactive data explorer](https://pmcharrison.gitlab.io/timbre-and-consonance-paper/supplementary.html)
 
 ## Introduction
 
