@@ -34,6 +34,10 @@ extend the code yourself.
 
 ### Docker
 
+Note: Unfortunately the Docker approach doesn't support M1 Macs
+on account of their ARM64 architecture. This will hopefully be fixed
+by a future update to RStudio.
+
 To install Docker, follow the [official Docker instructions](https://docs.docker.com/get-docker/).
 
 Next you need to acquire the Docker image. This should be a file of the form 
