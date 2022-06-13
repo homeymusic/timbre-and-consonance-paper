@@ -85,7 +85,13 @@ docker login registry.gitlab.com/LAB-NAME/harmony/timbre-and-consonance-paper
 docker pull registry.gitlab.com/LAB-NAME/harmony/timbre-and-consonance-paper
 ```
 
-3. Save it to a tar file:
+3. Tag it:
+
+```
+docker tag registry.gitlab.com/LAB-NAME/harmony/timbre-and-consonance-paper timbre-and-consonance-paper
+```
+
+4. Save it to a tar file:
 
 ```
 docker save timbre-and-consonance-paper -o ~/Downloads/timbre-and-consonance-paper.tar
