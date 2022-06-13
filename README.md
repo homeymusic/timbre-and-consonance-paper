@@ -52,13 +52,13 @@ but the latter option is useful for reproducibility.
 1. Pull the image from GitLab:
 
 ```
-docker pull registry.gitlab.com/pmcharrison/harmony/timbre-and-consonance-paper
+docker pull registry.gitlab.com/pmcharrison/timbre-and-consonance-paper
 ```
 
 2. Run it: 
 
 ```
-docker run --rm -p 127.0.0.1:8787:8787 -e DISABLE_AUTH=true -e ROOT=TRUE registry.gitlab.com/pmcharrison/harmony/timbre-and-consonance-paper
+docker run --rm -p 127.0.0.1:8787:8787 -e DISABLE_AUTH=true -e ROOT=TRUE registry.gitlab.com/pmcharrison/timbre-and-consonance-paper
 ```
 
 Navigate to http://localhost:8787/ in your web browser.
@@ -105,19 +105,19 @@ You can create a Docker image from the Git repository by following these steps:
 1. Log into your Docker repository:
 
 ```
-docker login registry.gitlab.com/pmcharrison/harmony/timbre-and-consonance-paper
+docker login registry.gitlab.com/pmcharrison/timbre-and-consonance-paper
 ```
 
 2. Pull the image from the repository:
 
 ```
-docker pull registry.gitlab.com/pmcharrison/harmony/timbre-and-consonance-paper
+docker pull registry.gitlab.com/pmcharrison/timbre-and-consonance-paper
 ```
 
 3. Tag it:
 
 ```
-docker tag registry.gitlab.com/pmcharrison/harmony/timbre-and-consonance-paper timbre-and-consonance-paper
+docker tag registry.gitlab.com/pmcharrison/timbre-and-consonance-paper timbre-and-consonance-paper
 ```
 
 4. Save it to a tar file:
