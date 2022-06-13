@@ -1,11 +1,14 @@
-# Installation
-
 # Table of contents
 
+- Quick links
 - Introduction
 - Installation
 - Running
 - Manifest
+
+## Quick links
+
+- [Interactive data explorer](https://computational-audition-lab.gitlab.io/harmony/timbre-and-consonance-paper/supplementary.html)
 
 ## Introduction
 
