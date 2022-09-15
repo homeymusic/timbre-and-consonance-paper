@@ -122,6 +122,7 @@ RevisedHutch78 <- R6Class(
     },
     
     get_roughness_from_sparse_fr_spectrum = function(spectrum) {
+      source("src/custom_hutchinson_knopoff_model.R")
       roughness_hutch_revised(spectrum)
     }
   )
