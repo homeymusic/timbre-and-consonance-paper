@@ -40,6 +40,11 @@ models <- list(
     raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D,
     smooth = FALSE
   )),
+  RevisedHutch78$new(options = list(
+    raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
+    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D,
+    smooth = FALSE
+  )),
   Seth93$new(options = list(
     raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
     raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D,

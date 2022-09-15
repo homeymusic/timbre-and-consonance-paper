@@ -2,6 +2,8 @@ library(R6)
 library(reticulate)
 library(tidyverse)
 
+source("src/custom_hutchinson_knopoff_model.R")
+
 ConsonanceModel <- R6Class(
   "ConsonanceModel",
   public = list(
@@ -104,6 +106,27 @@ Hutch78 <- R6Class(
     
   )
 )
+
+RevisedHutch78 <- R6Class(
+  "RevisedHutch78",
+  inherit = DyadInterferenceModel,
+  public = list(
+    initialize = function(
+    label = "Hutchinson & Knopoff (1978) (revised)",
+    ...
+    ) {
+      super$initialize(
+        label = label,
+        ...
+      )
+    },
+    
+    get_roughness_from_sparse_fr_spectrum = function(spectrum) {
+      roughness_hutch_revised(spectrum)
+    }
+  )
+)
+
 
 Seth93 <- R6Class(
   "Seth93",
