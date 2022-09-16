@@ -23,7 +23,8 @@ EXPERIMENTS <-
 
 MODELS <- c(
   "Interference" = "Hutchinson & Knopoff (1978)",
-  "Harmonicity" = "Harrison & Pearce (2018)"
+  "Harmonicity" = "Harrison & Pearce (2018)",
+  "Interference (revised)" = "Hutchinson & Knopoff (1978) (revised)"
 )
 
 MODELS_ALL <- c(

@@ -43,7 +43,11 @@ models <- list(
   RevisedHutch78$new(options = list(
     raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
     raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D,
-    smooth = FALSE
+    smooth = TRUE,
+    smooth_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
+    smooth_resolution_2d = DEFAULT_RESOLUTION_MODEL_1D,
+    smooth_sigma_macro = BEHAVIOURAL_SMOOTH_BROAD,
+    smooth_sigma_micro = BEHAVIOURAL_SMOOTH_NARROW
   )),
   Seth93$new(options = list(
     raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
@@ -706,6 +710,22 @@ get_model_profile_1d <- function(model, experiment) {
   timbre_1 <- if (is.null(experiment$timbre_bass)) experiment$timbre else experiment$timbre_bass
   timbre_2 <- experiment$timbre
   
+  if (diff(experiment$domain$int_range) < 3) {
+    scale <- "micro"
+    if ("smooth_sigma_micro" %in% names(model$options)) {
+      smooth_sigma <- model$options$smooth_sigma_micro
+    } else {
+      smooth_sigma <- model$options$smooth_sigma
+    }
+  } else {
+    scale <- "macro"
+    if ("smooth_sigma_macro" %in% names(model$options)) {
+      smooth_sigma <- model$options$smooth_sigma_macro
+    } else {
+      smooth_sigma <- model$options$smooth_sigma
+    }
+  }
+  
   DyadModelProfile$new(
     model = model,
     timbre_1 = timbre_1,
@@ -714,7 +734,7 @@ get_model_profile_1d <- function(model, experiment) {
     raw_resolution = model$options$raw_resolution_1d,
     smooth = model$options$smooth,
     smooth_resolution = model$options$smooth_resolution_1d,
-    smooth_sigma = model$options$smooth_sigma
+    smooth_sigma = smooth_sigma
   ) 
 }
 

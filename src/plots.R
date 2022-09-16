@@ -1059,7 +1059,8 @@ minimal_breaks <- function(x) {
 reverse_interference_scales <- function(breaks = scales::extended_breaks(n = 4)) {
   ggh4x::facetted_pos_scales(
     y = list(
-      measure == "Interference" ~ scale_y_continuous(breaks = breaks, labels = function(x) -x)
+      measure == "Interference" ~ scale_y_continuous(breaks = breaks, labels = function(x) -x),
+      measure == "Interference (revised)" ~ scale_y_continuous(breaks = breaks, labels = function(x) -x)
     )
   )
 }
