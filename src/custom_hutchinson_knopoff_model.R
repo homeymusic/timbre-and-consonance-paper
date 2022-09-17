@@ -75,7 +75,7 @@ roughness_hutch_revised.sparse_fr_spectrum <- function(
   n <- length(frequency)
   if (n < 2) 0 else {
     # Compute denominator
-    denominator <- sum(amplitude ^ 2)  # to do - update this?
+    denominator <- (sum(amplitude ^ 2))  # to do - update this?
     # Compute numerator
     df <- expand.grid(j = seq_len(n), i = seq_len(n)) %>%
       (function(df) {
@@ -86,8 +86,8 @@ roughness_hutch_revised.sparse_fr_spectrum <- function(
       amplitude[df$j]
     )
     # df$a_i_a_j <- amplitude[df$i] * amplitude[df$j]
-    # df$dissonance_factor <- revised_dissonance_function(
-    df$dissonance_factor <- dissonance_function(
+    df$dissonance_factor <- revised_dissonance_function(
+    # df$dissonance_factor <- dissonance_function(
       f1 = frequency[df$i],
       f2 = frequency[df$j],
       cbw_cut_off = cbw_cut_off,
@@ -106,21 +106,18 @@ amplitude_factor_original <- function(x, y) {
 amplitude_factor_new <- function(x, y) {
   # amplitude_factor_original(x, y)
   
+  a <- 0.001
+  b <- 0.2
+  m <- 1 + b / a
   
-  1 + amplitude_factor_original(x, y)
+  orig <- amplitude_factor_original(x, y)
+  ifelse(
+    orig <= a,
+    m * orig,
+    b + orig
+  )
   
-  # a <- 0.2
-  # m <- (1 + a) / a
-  # 
-  # orig <- amplitude_factor_original(x, y)
-  # ifelse(
-  #   orig <= a,
-  #   m * orig,
-  #   1 + orig
-  # )
-  
-  # log(1 + amplitude_factor_original(x, y))
-  # log(0.75 + amplitude_factor_original(x, y) ^ 1)
+  # 0.1 + amplitude_factor_original(x, y)
   # log(amplitude_factor_original(x, y))
 }
 
@@ -164,8 +161,6 @@ revised_dissonance_factor = function(cbw) {
   )
 }
 
-x <- seq(from = 0, to = 1, by = 0.001)
-plot(x, revised_dissonance_factor(x), type = "l")
 
 #' Critical bandwidth (Hutchison & Knopoff)
 #'
