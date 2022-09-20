@@ -1,5 +1,20 @@
 library(bootstrap)
 
+if (FALSE) {
+  inputs <- c(
+    "output/batches/Harmonic dyads (5 equal harmonics)/models/Hutchinson & Knopoff (1978) (revised).rds",
+    "output/batches/Harmonic dyads (5 equal harmonics)/models/Hutchinson & Knopoff (1978) (revised).csv",
+    "output/batches/Harmonic dyads (no 3rd harmonic)/models/Hutchinson & Knopoff (1978) (revised).rds",
+    "output/batches/Harmonic dyads (no 3rd harmonic)/models/Hutchinson & Knopoff (1978) (revised).csv",
+    "output/batches/Pure dyads/models/Hutchinson & Knopoff (1978) (revised).rds",
+    "output/batches/Pure dyads/models/Hutchinson & Knopoff (1978) (revised).csv"
+  )
+  
+  for (i in inputs) suppressWarnings(file.remove(i))
+  
+  source("~/git/timbre-and-consonance-paper/scripts/analysis/010-run-model-batches.R")
+}
+
 source("scripts/analysis/015-figure-setup.R")
 source("src/Timbre.R")
 
@@ -23,11 +38,13 @@ REMOVAL_PLOTS$Dyads <- PlotDyadModelsExperiments$new(
   label_experiment = c("spectrum", "consonance"),
   label_dyad = FALSE,
   return_plot_list = TRUE,
-  profile_row_heights = c(2.25, 1, 1, 2.25, 1, 1, 2.25, 1, 1),
+  profile_row_heights = rep(c(2.25, 1, 1, 2.25), times = 3),
   spectrum_plot_direction = "horizontal",
   plot_bootstrap_peaks = TRUE,
   interval_breaks = 0:15
 ) 
+
+REMOVAL_PLOTS$Dyads$plot$profiles
 
 cowplot::plot_grid(
   REMOVAL_PLOTS$Dyads$plot$spectra +

@@ -85,6 +85,7 @@ DyadInterferenceModel <- R6Class(
     }
   )
 )
+    
 
 Hutch78 <- R6Class(
   "Hutch78",
@@ -342,3 +343,37 @@ praat_analyze <- function(midi, spectrum) {
 praat_cache <- "~/Downloads/praat-cache"
 R.utils::mkdirs(praat_cache)
 praat_analyze <- memoise::memoise(praat_analyze, cache = memoise::cache_filesystem(praat_cache))
+
+
+# CombinedConsonanceModel <- R6Class(
+#   "CombinedConsonanceModel",
+#   inherit = ConsonanceModel,
+#   public = list(
+#     allow_parallel = TRUE,
+#     
+#     models = list(
+#       interference = RevisedHutch78$new(),
+#       harmonicity = Har18$new()
+#     ),
+#     
+#     coef = list(
+#       # From https://github.com/pmcharrison/incon/blob/master/R/har-2019.R
+#       -1.62001025973261,
+#       1.77992362857478
+#     ),
+#     
+#     initialize = function(label, theory = "combnied", plot_colour = "purple", ...) {
+#       super$initialize(
+#         label = label,
+#         theory = theory,
+#         plot_colour = plot_colour,
+#         ...
+#       )
+#     },
+#     
+#     get_consonance = function(midi, timbre) {
+#       outputs = map_dbl(self$models, ~ .$get_consonance(midi, timbre))
+#       sum(outputs * self$coef)
+#     },
+#   )
+# )

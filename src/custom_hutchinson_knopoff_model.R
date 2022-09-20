@@ -106,8 +106,9 @@ amplitude_factor_original <- function(x, y) {
 amplitude_factor_new <- function(x, y) {
   # amplitude_factor_original(x, y)
   
-  a <- 0.001
-  b <- 0.2
+  # a <- 0.001
+  a <- 0.01
+  b <- 0.1
   m <- 1 + b / a
   
   orig <- amplitude_factor_original(x, y)
@@ -149,7 +150,7 @@ revised_dissonance_factor = function(cbw) {
   pi <- 3.14159
   classic_diss <- dycon::hutch_g(cbw)
   pleasantness_boundary <- 0.1
-  pleasantness_strength <- 0.4
+  pleasantness_strength <- 1
   
   ifelse(
     cbw > pleasantness_boundary, 

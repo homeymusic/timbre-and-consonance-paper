@@ -19,9 +19,50 @@ import_behaviour <- function(path) {
 }
 
 import_models <- function(path) {
+  params <- yaml::read_yaml(file.path(path, "..", "params.yml"))
   list_models(path) %>% 
     set_names(., .) %>% 
-    map(import_model, dir = path)
+    map(import_model, dir = path) %>% 
+    add_combined_model(params)
+}
+
+rescale_to_range <- function(x) {
+  (x - min(x)) / (max(x) - min(x))
+}
+
+add_combined_model <- function(models, params) {
+  coef = c(
+    # From https://github.com/pmcharrison/incon/blob/master/R/har-2019.R
+    # -1.62001025973261,
+    # 1.77992362857478
+    -1, 0.5
+  )
+  models$combined <- list()
+  models$combined$summary <- 
+    models[c(
+      # "Hutchinson & Knopoff (1978)",
+      "Hutchinson & Knopoff (1978) (revised)",
+      "Harrison & Pearce (2018)"
+    )] %>%
+    map(`$`, "summary") %>%
+    bind_rows() %>%
+    select(starts_with("interval"), output, model_id) %>%
+    pivot_wider(names_from = "model_id", values_from = "output") %>%
+    # mutate(Hutch78 = - Hutch78) %>% # Undo the reversal that we did in the preprocessing
+    mutate(RevisedHutch78 = - RevisedHutch78) %>% # Undo the reversal that we did in the preprocessing
+    mutate(
+      # output = coef[1] * Hutch78 + coef[2] * Har18,
+      output = coef[1] * RevisedHutch78 + coef[2] * Har18,
+      output = if (params$rescale_combined_model_within_experiment) 
+        output - median(output),
+        # rescale_to_range(output) else output,
+      model_id = "combined",
+      model_label = "Combined",
+      model_theory = "Interference + Harmonicity",
+      model_colour = "purple",
+      timbre_label = unique(models[["Hutchinson & Knopoff (1978)"]]$summary$timbre_label)
+    )
+  models
 }
 
 import_model <- function(id, dir) {

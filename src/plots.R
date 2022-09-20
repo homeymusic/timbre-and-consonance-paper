@@ -777,6 +777,7 @@ PlotDyadModelsExperimentsRollOff <- R6Class(
           group_by(timbre, measure) %>%
           self$rescale_all()
       }
+      
       p <- 
         df %>% 
         ggplot(aes(

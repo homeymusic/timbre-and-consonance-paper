@@ -54,13 +54,14 @@ plot_data <- TUNING_EXPRERIMENTS %>%
     y <- PlotDyadModelsExperimentsRollOff$new(
       experiments = x$experiments,
       models = c(
-        # "Interference" = "Hutchinson & Knopoff (1978)",
-        "Interference (revised)" = "Hutchinson & Knopoff (1978) (revised)",
+        "Interference" = "Hutchinson & Knopoff (1978)",
+        # "Interference (revised)" = "Hutchinson & Knopoff (1978) (revised)",
         # "Interference" = "Sethares (1993)",
         # "Interference" = "Vassilakis (2001)",
-        "Harmonicity" = "Harrison & Pearce (2018)"
+        "Harmonicity" = "Harrison & Pearce (2018)",
         # "Harmonicity" = "Milne (2013)"
-        # "Harmonicity" = "Praat (F0)"
+        # "Harmonicity" = "Praat (F0)",
+        "Combined" = "combined"
       ),
       label_spectrum = i == 1,
       label_measure = i == 1,
@@ -87,6 +88,7 @@ plot_data <- TUNING_EXPRERIMENTS %>%
           "Participants" = "Pleasantness",
           "Interference" = "Interference",
           "Harmonicity" = "Harmonicity",
+          "Combined" = "Combined",
         ),
         size = if_else(measure == "Pleasantness", 0.85, 0.3)
       )

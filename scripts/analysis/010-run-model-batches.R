@@ -82,7 +82,8 @@ models <- list(
   ))
 )
 
-Experiment <- function(label, timbre, domain, data, timbre_bass = NULL) {
+Experiment <- function(label, timbre, domain, data, timbre_bass = NULL,
+                       rescale_combined_model_within_experiment = TRUE) {
   x <- as.list(environment())
   class(x) <- c("Experiment", class(x))
   x
@@ -665,7 +666,8 @@ for (roll_off in c(2, 7, 12)) {
       n_dimensions = 1,
       int_range = c(0, 15)
     ),
-    data = .data(roll_off)
+    data = .data(roll_off),
+    rescale_combined_model_within_experiment = FALSE
   )
 }
 
@@ -694,6 +696,11 @@ export_behavioural <- function(dir, experiment) {
   if (export_csv) {
     write_csv(behaviour$profile, paths$csv)
   }
+}
+
+export_params <- function(output_dir, experiment) {
+  experiment["rescale_combined_model_within_experiment"] %>%
+    yaml::write_yaml(file.path(output_dir, "params.yml"))
 }
 
 get_model_profile <- function(model, experiment) {
@@ -836,4 +843,6 @@ for (experiment in EXPERIMENTS) {
     dir = file.path(output_dir, "behaviour"),
     experiment = experiment
   )
+  
+  export_params(output_dir, experiment)
 }

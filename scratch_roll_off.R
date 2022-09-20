@@ -38,7 +38,7 @@ ROLL_OFF <-
     spectrum_plot_direction = "horizontal",
     interval_breaks = 0:15,
     plot_bootstrap_peaks = TRUE,
-    profile_row_heights = c(2.25, 1, 1),
+    profile_row_heights = c(2.25, 1, 1, 2.25),
   )
 
 ROLL_OFF$plot$profiles + 
