@@ -24,7 +24,7 @@ EXPERIMENTS <-
 MODELS <- c(
   "Interference" = "Hutchinson & Knopoff (1978)",
   "Harmonicity" = "Harrison & Pearce (2018)",
-  "Combined" = "combined"
+  "Final" = "combined"
   # "Interference (revised)" = "Hutchinson & Knopoff (1978) (revised)"
 )
 

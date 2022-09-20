@@ -35,6 +35,9 @@ add_combined_model <- function(models, params) {
     # From https://github.com/pmcharrison/incon/blob/master/R/har-2019.R
     # -1.62001025973261,
     # 1.77992362857478
+    # Actually, these original parameters aren't relevant any more due to 
+    # the new adjustments to the Hutchinson-Knopoff model, which change
+    # the scaling.
     -1, 0.5
   )
   models$combined <- list()
