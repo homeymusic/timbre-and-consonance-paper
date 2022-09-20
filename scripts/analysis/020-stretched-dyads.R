@@ -1,3 +1,18 @@
+if (FALSE) {
+  inputs <- c(
+    "output/batches/Stretched dyads (3 dB roll-off)/models/Hutchinson & Knopoff (1978) (revised).csv",
+    "output/batches/Stretched dyads (3 dB roll-off)/models/Hutchinson & Knopoff (1978) (revised).rds",
+    "output/batches/Compressed dyads (3 dB roll-off)/models/Hutchinson & Knopoff (1978) (revised).csv",
+    "output/batches/Compressed dyads (3 dB roll-off)/models/Hutchinson & Knopoff (1978) (revised).rds",
+    "output/batches/Harmonic dyads (3 dB roll-off)/models/Hutchinson & Knopoff (1978) (revised).csv",
+    "output/batches/Harmonic dyads (3 dB roll-off)/models/Hutchinson & Knopoff (1978) (revised).rds"
+  )
+  
+  for (i in inputs) suppressWarnings(file.remove(i))
+  
+  source("~/git/timbre-and-consonance-paper/scripts/analysis/010-run-model-batches.R")
+}
+
 source("scripts/analysis/015-figure-setup.R")
 
 ########################################################################
@@ -20,7 +35,7 @@ DYAD_PLOTS <- PlotDyadModelsExperiments$new(
   dyad_measure_labels = "left",
   consonance_label = "Pleasantness",
   reference_spectrum = 2,
-  profile_row_heights = c(2.5, 1, 1, 2.5, 1, 1, 2.5, 1, 1),
+  profile_row_heights = rep(c(2.5, 1, 1, 2.5), times = 3),
   return_plot_list = TRUE,
   spectrum_plot_direction = "horizontal",
   plot_bootstrap_peaks = TRUE,

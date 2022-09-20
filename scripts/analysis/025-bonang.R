@@ -1,3 +1,14 @@
+if (FALSE) {
+  inputs <- c(
+    "output/batches/Bonang dyads/models/Hutchinson & Knopoff (1978) (revised).rds",
+    "output/batches/Bonang dyads/models/Hutchinson & Knopoff (1978) (revised).csv"
+  )
+  
+  for (i in inputs) suppressWarnings(file.remove(i))
+  
+  source("~/git/timbre-and-consonance-paper/scripts/analysis/010-run-model-batches.R")
+}
+
 source("scripts/analysis/015-figure-setup.R")
 
 ########################################################################

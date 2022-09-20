@@ -54,7 +54,7 @@ add_combined_model <- function(models, params) {
       # output = coef[1] * Hutch78 + coef[2] * Har18,
       output = coef[1] * RevisedHutch78 + coef[2] * Har18,
       output = if (params$rescale_combined_model_within_experiment) 
-        output - median(output),
+        output - median(output) else output,
         # rescale_to_range(output) else output,
       model_id = "combined",
       model_label = "Combined",
