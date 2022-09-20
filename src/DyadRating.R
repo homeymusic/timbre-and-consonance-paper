@@ -100,7 +100,7 @@ DyadRating <- R6Class(
     model = NULL,
     num_participants = NA_integer_,
     profile = NULL,
-    smooth_sigma = NA_real_,
+    smooth_bandwidth = NA_real_,
     # gamma = NA_real_,
     peaks = NULL,
     slope = NULL,
@@ -109,13 +109,13 @@ DyadRating <- R6Class(
       file, 
       int_range, 
       resolution, 
-      smooth_sigma,
+      smooth_bandwidth,
       bootstrap_iter = 0
     ) {
       self$file <- file
       self$int_range <- int_range
       self$resolution <- resolution
-      self$smooth_sigma <- smooth_sigma
+      self$smooth_bandwidth <- smooth_bandwidth
       
       self$load_data()
       self$profile <- self$get_profile(data = self$data)
@@ -163,8 +163,8 @@ DyadRating <- R6Class(
           data_val = data$rating,
           probe_x = interval, 
           probe_y = rep(0, times = length(interval)),
-          sigma_x = self$smooth_sigma,
-          sigma_y = self$smooth_sigma
+          sigma_x = self$smooth_bandwidth,
+          sigma_y = self$smooth_bandwidth
         )
       )
     }

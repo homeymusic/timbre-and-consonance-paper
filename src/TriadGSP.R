@@ -7,7 +7,7 @@ TriadGSP <- R6Class(
   public = list(
     
     file = NA_character_,
-    bandwidth = NA_real_,
+    smooth_bandwidth = NA_real_,
     resolution = NA_integer_,
     int_1_range = NA_real_,
     int_2_range = NA_real_,
@@ -16,9 +16,9 @@ TriadGSP <- R6Class(
     profile = NULL,
     num_participants = NA_integer_,
     
-    initialize = function(file, bandwidth, int_1_range = c(0.5, 7.5), int_2_range = c(0.5, 7.5), resolution = 125) {
+    initialize = function(file, smooth_bandwidth, int_1_range = c(0.5, 7.5), int_2_range = c(0.5, 7.5), resolution = 125) {
       self$file <- file
-      self$bandwidth <- bandwidth
+      self$smooth_bandwidth <- smooth_bandwidth
       self$resolution <- resolution
       self$int_1_range <- int_1_range
       self$int_2_range <- int_2_range
@@ -76,7 +76,7 @@ TriadGSP <- R6Class(
       kde <- MASS::kde2d(
         x = self$data$interval_1,
         y = self$data$interval_2, 
-        h = self$bandwidth,
+        h = self$smooth_bandwidth,
         n = self$resolution,
         lims = c(self$int_1_range, self$int_2_range)
       )

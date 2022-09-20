@@ -37,48 +37,48 @@ if (FALSE) {
 models <- list(
   Hutch78$new(options = list(
     raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
-    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D,
-    smooth = FALSE
+    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
+    # smooth = FALSE
   )),
   RevisedHutch78$new(options = list(
     raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
-    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D,
-    smooth = TRUE,
-    smooth_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
-    smooth_resolution_2d = DEFAULT_RESOLUTION_MODEL_1D,
-    smooth_sigma_macro = BEHAVIOURAL_SMOOTH_BROAD,
-    smooth_sigma_micro = BEHAVIOURAL_SMOOTH_NARROW
+    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
+    # smooth = TRUE,
+    # smooth_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
+    # smooth_resolution_2d = DEFAULT_RESOLUTION_MODEL_1D,
+    # smooth_sigma_macro = BEHAVIOURAL_SMOOTH_BROAD,
+    # smooth_sigma_micro = BEHAVIOURAL_SMOOTH_NARROW
   )),
   Seth93$new(options = list(
     raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
-    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D,
-    smooth = FALSE
+    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
+    # smooth = FALSE
   )),
   Vass01$new(options = list(
     raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
-    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D,
-    smooth = FALSE
+    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
+    # smooth = FALSE
   )),
   PraatF0$new(options = list(
     raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
-    raw_resolution_2d = 100,
-    smooth = FALSE
+    raw_resolution_2d = 100
+    # smooth = FALSE
   )),
   Milne13$new(options = list(
     raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
-    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D,
-    smooth = TRUE,
-    smooth_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
-    smooth_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D,
-    smooth_sigma = 0.03 # motivated by the fact that the model discretizes into cents
+    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
+    # smooth = TRUE,
+    # smooth_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
+    # smooth_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D,
+    # smooth_sigma = 0.03 # motivated by the fact that the model discretizes into cents
   )),
   Har18$new(options = list(
     raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
-    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D,
-    smooth = TRUE,
-    smooth_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
-    smooth_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D,
-    smooth_sigma = 0.03 # motivated by the fact that the model discretizes into cents
+    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
+    # smooth = TRUE,
+    # smooth_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
+    # smooth_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D,
+    # smooth_sigma = 0.03 # motivated by the fact that the model discretizes into cents
   ))
 )
 
@@ -119,9 +119,10 @@ EXPERIMENTS <- list(
       "input/data-csv/rating/rating_dyh3dd.csv",
       int_range = c(0, 15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_BROAD,
+      smooth_bandwidth = experiment$smooth_bandwidth,
       bootstrap_iter = BOOTSTRAP_REPS
-    )
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
   ),
   Experiment(
     "Harmonic dyads (3 dB roll-off) (Korean)",
@@ -140,9 +141,10 @@ EXPERIMENTS <- list(
       "input/data-csv/rating/korean_dyad_harm.csv",
       int_range = c(0, 15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_BROAD,
+      smooth_sigma = experiment$smooth_bandwidth,
       bootstrap_iter = BOOTSTRAP_REPS
-    )
+    ),
+    smooth_sigma = BEHAVIOURAL_SMOOTH_BROAD
   ),
   Experiment(
     "Harmonic triads (3 dB roll-off)",
@@ -160,11 +162,12 @@ EXPERIMENTS <- list(
     ),
     data = ~ TriadGSP$new(
       file = "input/data-csv/GSP/harmonic_GSP_3db_trdh3d.csv",
-      bandwidth = BANDWIDTH_GSP_2D,
+      smooth_bandwidth = experiment$smooth_bandwidth,
       resolution = RESOLUTION_BEHAVIOURAL_2D,
       int_1_range = c(0.5, 8.5),
       int_2_range = c(0.5, 8.5)
-    )
+    ),
+    smooth_bandwidth = BANDWIDTH_GSP_2D,
   ),
   Experiment(
     "Stretched dyads (3 dB roll-off)",
@@ -183,9 +186,10 @@ EXPERIMENTS <- list(
       "input/data-csv/rating/rating_dys3dd.csv",
       int_range = c(0, 15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_BROAD,
+      smooth_bandwidth = experiment$smooth_bandwidth,
       bootstrap_iter = BOOTSTRAP_REPS
-    )
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
   ),
   Experiment(
     "Stretched dyads (3 dB roll-off) (Korean)",
@@ -204,9 +208,10 @@ EXPERIMENTS <- list(
       "input/data-csv/rating/korean_dyad_str.csv",
       int_range = c(0, 15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_BROAD,
+      smooth_bandwidth = experiment$smooth_bandwidth,
       bootstrap_iter = BOOTSTRAP_REPS
-    )
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD,
   ),
   Experiment(
     "Stretched triads (3 dB roll-off)",
@@ -224,11 +229,12 @@ EXPERIMENTS <- list(
     ),
     data = ~ TriadGSP$new(
       file = "input/data-csv/GSP/stretched_GSP_3db_trds3d.csv",
-      bandwidth = BANDWIDTH_GSP_2D,
+      smooth_bandwidth = experiment$smooth_bandwidth,
       resolution = RESOLUTION_BEHAVIOURAL_2D,
       int_1_range = c(0.5, 8.5),
       int_2_range = c(0.5, 8.5)
-    )
+    ),
+    smooth_bandwidth = BANDWIDTH_GSP_2D,
   ),
   Experiment(
     "Compressed dyads (3 dB roll-off)",
@@ -247,9 +253,10 @@ EXPERIMENTS <- list(
       "input/data-csv/rating/rating_dyc3dd.csv",
       int_range = c(0, 15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_BROAD,
+      smooth_bandwidth = experiment$smooth_bandwidth,
       bootstrap_iter = BOOTSTRAP_REPS
-    )
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
   ),
   Experiment(
     "Compressed dyads (3 dB roll-off) (Korean)",
@@ -268,9 +275,10 @@ EXPERIMENTS <- list(
       "input/data-csv/rating/korean_dyad_comp.csv",
       int_range = c(0, 15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_BROAD,
+      smooth_bandwidth = experiment$smooth_bandwidth,
       bootstrap_iter = BOOTSTRAP_REPS
-    )
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
   ),
   Experiment(
     "Compressed triads (3 dB roll-off)",
@@ -288,11 +296,12 @@ EXPERIMENTS <- list(
     ),
     data = ~ TriadGSP$new(
       file = "input/data-csv/GSP/compressed_GSP_3db_trdc3d.csv",
-      bandwidth = BANDWIDTH_GSP_2D,
+      smooth_bandwidth = experiment$smooth_bandwidth,
       resolution = RESOLUTION_BEHAVIOURAL_2D,
       int_1_range = c(0.5, 8.5),
       int_2_range = c(0.5, 8.5)
-    )
+    ),
+    smooth_bandwidth = BANDWIDTH_GSP_2D
   ),
   Experiment(
     "Harmonic dyads (5 equal harmonics)",
@@ -311,8 +320,9 @@ EXPERIMENTS <- list(
       int_range = c(0, 15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
       bootstrap_iter = BOOTSTRAP_REPS,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_BROAD
-    )
+      smooth_bandwidth = experiment$smooth_bandwidth
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
   ),
   Experiment(
     "Harmonic dyads (no 3rd harmonic)",
@@ -331,8 +341,9 @@ EXPERIMENTS <- list(
       int_range = c(0, 15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
       bootstrap_iter = BOOTSTRAP_REPS,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_BROAD
-    )
+      smooth_bandwidth = experiment$smooth_bandwidth
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
   ),
   Experiment(
     "Pure dyads",
@@ -349,8 +360,9 @@ EXPERIMENTS <- list(
       int_range = c(0, 15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
       bootstrap_iter = BOOTSTRAP_REPS,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_BROAD
-    )
+      smooth_bandwidth = experiment$smooth_bandwidth
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
   ),
   Experiment(
     "Flute dyads",
@@ -370,8 +382,9 @@ EXPERIMENTS <- list(
       int_range = c(0, 15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
       bootstrap_iter = BOOTSTRAP_REPS,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_BROAD
-    )
+      smooth_bandwidth = experiment$smooth_bandwidth
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
   ),
   Experiment(
     "Guitar dyads",
@@ -391,8 +404,9 @@ EXPERIMENTS <- list(
       int_range = c(0, 15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
       bootstrap_iter = BOOTSTRAP_REPS,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_BROAD
-    )
+      smooth_bandwidth = experiment$smooth_bandwidth
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
   ),
   Experiment(
     "Piano dyads",
@@ -412,8 +426,9 @@ EXPERIMENTS <- list(
       int_range = c(0, 15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
       bootstrap_iter = BOOTSTRAP_REPS,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_BROAD
-    )
+      smooth_bandwidth = experiment$smooth_bandwidth
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
   ),
   Experiment(
     "Bonang dyads",
@@ -432,8 +447,9 @@ EXPERIMENTS <- list(
       int_range = c(0, 15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
       bootstrap_iter = BOOTSTRAP_REPS,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_BROAD
-    )
+      smooth_bandwidth = experiment$smooth_bandwidth
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
   ),
   Experiment(
     "Major 3rd (3 dB roll-off)",
@@ -452,10 +468,11 @@ EXPERIMENTS <- list(
       "input/data-csv/rating/tuning_4_tun3p9.csv",
       int_range = c(3.65, 4.15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_NARROW,
+      smooth_bandwidth = experiment$smooth_bandwidth,
       bootstrap_iter = BOOTSTRAP_REPS
       # gamma = TUNING_GAM_GAMMA
-    )
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
   ),
   Experiment(
     "Major 3rd (12 dB roll-off)",
@@ -474,10 +491,11 @@ EXPERIMENTS <- list(
       "input/data-csv/rating/tuning_4_t12d3p9_12db.csv",
       int_range = c(3.65, 4.15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_NARROW,
+      smooth_bandwidth = experiment$smooth_bandwidth,
       bootstrap_iter = BOOTSTRAP_REPS
       # gamma = TUNING_GAM_GAMMA
-    )
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
   ),
   Experiment(
     "Major 3rd (pure tones)",
@@ -496,10 +514,11 @@ EXPERIMENTS <- list(
       "input/data-csv/rating/tuning_4_tunp39.csv",
       int_range = c(3.65, 4.15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_NARROW,
+      smooth_bandwidth = experiment$smooth_bandwidth,
       bootstrap_iter = BOOTSTRAP_REPS
       # gamma = TUNING_GAM_GAMMA
-    )
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW
   ),
   Experiment(
     "Major 6th (3 dB roll-off)",
@@ -518,10 +537,11 @@ EXPERIMENTS <- list(
       "input/data-csv/rating/tuning_9_tun8p9.csv",
       int_range = c(8.65, 9.15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_NARROW,
+      smooth_bandwidth = experiment$smooth_bandwidth,
       bootstrap_iter = BOOTSTRAP_REPS
       # gamma = TUNING_GAM_GAMMA
-    )
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
   ),
   Experiment(
     "Major 6th (12 dB roll-off)",
@@ -540,10 +560,11 @@ EXPERIMENTS <- list(
       "input/data-csv/rating/tuning_9_t128p9_12db.csv",
       int_range = c(8.65, 9.15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_NARROW,
+      smooth_bandwidth = experiment$smooth_bandwidth,
       bootstrap_iter = BOOTSTRAP_REPS
       # gamma = TUNING_GAM_GAMMA
-    )
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
   ),
   Experiment(
     "Major 6th (pure tones)",
@@ -562,10 +583,11 @@ EXPERIMENTS <- list(
       "input/data-csv/rating/tuning_9_tunp89.csv",
       int_range = c(8.65, 9.15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_NARROW,
+      smooth_bandwidth = experiment$smooth_bandwidth,
       bootstrap_iter = BOOTSTRAP_REPS
       # TUNING_GAM_GAMMA
-    )
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
   ),
   Experiment(
     "Octave (3 dB roll-off)",
@@ -584,10 +606,11 @@ EXPERIMENTS <- list(
       "input/data-csv/rating/tuning_12_tunoch.csv",
       int_range = c(11.75, 12.25),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_NARROW,
+      smooth_bandwidth = experiment$smooth_bandwidth,
       bootstrap_iter = BOOTSTRAP_REPS
       # TUNING_GAM_GAMMA
-    )
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
   ),
   Experiment(
     "Octave (12 dB roll-off)",
@@ -606,10 +629,11 @@ EXPERIMENTS <- list(
       "input/data-csv/rating/tuning_12_t12och_12db.csv",
       int_range = c(11.75, 12.25),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_NARROW,
+      smooth_bandwidth = experiment$smooth_bandwidth,
       bootstrap_iter = BOOTSTRAP_REPS
       # TUNING_GAM_GAMMA
-    )
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
   ),
   Experiment(
     "Octave (pure tones)",
@@ -628,10 +652,11 @@ EXPERIMENTS <- list(
       "input/data-csv/rating/tuning_12_tunocp.csv",
       int_range = c(11.75, 12.25),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_sigma = BEHAVIOURAL_SMOOTH_NARROW,
+      smooth_bandwidth = experiment$smooth_bandwidth,
       bootstrap_iter = BOOTSTRAP_REPS
       # TUNING_GAM_GAMMA
-    )
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
   )
 )
 
@@ -647,7 +672,7 @@ for (roll_off in c(2, 7, 12)) {
       int_range = c(0, 15),
       roll_off = roll_off,
       roll_off_sigma = ROLL_OFF_SMOOTH,
-      interval_sigma = BEHAVIOURAL_SMOOTH_BROAD,
+      interval_sigma = experiment$smooth_bandwidth,
       resolution = RESOLUTION_BEHAVIOURAL_1D,
       bootstrap_iter = BOOTSTRAP_REPS
     )
@@ -667,6 +692,7 @@ for (roll_off in c(2, 7, 12)) {
       int_range = c(0, 15)
     ),
     data = .data(roll_off),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD,
     rescale_combined_model_within_experiment = FALSE
   )
 }
@@ -685,11 +711,13 @@ export_behavioural <- function(dir, experiment) {
     return()
   }
   
-  behaviour <- if (is_formula(experiment$data)) {
-    f_eval(experiment$data)
-  } else {
-    experiment$data
-  }
+  behaviour <- f_eval(experiment$data, data = list(experiment = experiment))
+  
+  # behaviour <- if (is_formula(experiment$data)) {
+  #   f_eval(experiment$data, data = list(experiment = experiment))
+  # } else {
+  #   experiment$data
+  # }
   
   saveRDS(behaviour, paths$rds)
   
@@ -717,21 +745,21 @@ get_model_profile_1d <- function(model, experiment) {
   timbre_1 <- if (is.null(experiment$timbre_bass)) experiment$timbre else experiment$timbre_bass
   timbre_2 <- experiment$timbre
   
-  if (diff(experiment$domain$int_range) < 3) {
-    scale <- "micro"
-    if ("smooth_sigma_micro" %in% names(model$options)) {
-      smooth_sigma <- model$options$smooth_sigma_micro
-    } else {
-      smooth_sigma <- model$options$smooth_sigma
-    }
-  } else {
-    scale <- "macro"
-    if ("smooth_sigma_macro" %in% names(model$options)) {
-      smooth_sigma <- model$options$smooth_sigma_macro
-    } else {
-      smooth_sigma <- model$options$smooth_sigma
-    }
-  }
+  # if (diff(experiment$domain$int_range) < 3) {
+  #   scale <- "micro"
+  #   if ("smooth_sigma_micro" %in% names(model$options)) {
+  #     smooth_sigma <- model$options$smooth_sigma_micro
+  #   } else {
+  #     smooth_sigma <- model$options$smooth_sigma
+  #   }
+  # } else {
+  #   scale <- "macro"
+  #   if ("smooth_sigma_macro" %in% names(model$options)) {
+  #     smooth_sigma <- model$options$smooth_sigma_macro
+  #   } else {
+  #     smooth_sigma <- model$options$smooth_sigma
+  #   }
+  # }
   
   DyadModelProfile$new(
     model = model,
@@ -739,9 +767,9 @@ get_model_profile_1d <- function(model, experiment) {
     timbre_2 = timbre_2,
     int_range = experiment$domain$int_range,
     raw_resolution = model$options$raw_resolution_1d,
-    smooth = model$options$smooth,
-    smooth_resolution = model$options$smooth_resolution_1d,
-    smooth_sigma = smooth_sigma
+    smooth = TRUE, #model$options$smooth,
+    smooth_resolution = DEFAULT_RESOLUTION_MODEL_1D, #model$options$smooth_resolution_1d,
+    smooth_sigma = experiment$smooth_bandwidth
   ) 
 }
 
@@ -752,9 +780,9 @@ get_model_profile_2d <- function(model, experiment) {
     raw_resolution = model$options$raw_resolution_2d,
     int_1_range = experiment$domain$int_1_range, 
     int_2_range = experiment$domain$int_2_range,
-    smooth = model$options$smooth,
-    smooth_resolution = model$options$smooth_resolution_2d,
-    smooth_sigma = model$options$smooth_sigma
+    smooth = TRUE, #model$options$smooth,
+    smooth_resolution = DEFAULT_RESOLUTION_MODEL_2D, #model$options$smooth_resolution_2d,
+    smooth_sigma = experiment$smooth_bandwidth #model$options$smooth_sigma
   )
 }
 
