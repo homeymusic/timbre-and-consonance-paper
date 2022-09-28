@@ -237,6 +237,11 @@ workon parselmouth
 pip3 install -r requirements.txt
 ```
 
+There is a line in `src/ConsonanceModel.R` which sets `RETICULATE_PYTHON`.
+You need to update this to the location of your Python executable,
+as it depends on the virtual environment system you use and the version of Python 
+you have.
+
 ### Cloning the repository from Git 
 
 If you wish to download this repository via Git instead of working via the 

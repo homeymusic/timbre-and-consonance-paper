@@ -97,16 +97,39 @@ TriadModelProfile <- R6Class(
                          to = self$int_2_range[2],
                          length.out = resolution)
       )
-
-      smoothed$output <- smooth_2d_gaussian(
-        profile$interval_1,
-        profile$interval_2,
-        profile$output,
-        smoothed$interval_1,
-        smoothed$interval_2,
-        sigma_x = sigma,
-        sigma_y = sigma
+      
+      message("... number of points to evaluate: ", nrow(smoothed))
+      
+      smoothed$output <- furrr::future_pmap_dbl(
+        list(
+          probe_x = smoothed$interval_1,
+          probe_y = smoothed$interval_2
+        ),
+        function(probe_x, probe_y) {
+          Rcpp::sourceCpp("src/smooth_2d_gaussian.cpp")
+          smooth_2d_gaussian(
+            profile$interval_1,
+            profile$interval_2,
+            profile$output,
+            probe_x,
+            probe_y,
+            sigma_x = sigma,
+            sigma_y = sigma
+          )
+        },
+        .progress = TRUE,
+        .options = future_options(seed = TRUE)
       )
+
+      # smoothed$output <- smooth_2d_gaussian(
+      #   profile$interval_1,
+      #   profile$interval_2,
+      #   profile$output,
+      #   smoothed$interval_1,
+      #   smoothed$interval_2,
+      #   sigma_x = sigma,
+      #   sigma_y = sigma
+      # )
       
       smoothed
     },

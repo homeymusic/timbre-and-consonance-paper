@@ -40,8 +40,8 @@ add_combined_model <- function(models, params) {
     # the scaling.
     -1, 0.5
   )
-  models$combined <- list()
-  models$combined$summary <- 
+  models$Combined <- list()
+  models$Combined$summary <- 
     models[c(
       # "Hutchinson & Knopoff (1978)",
       "Hutchinson & Knopoff (1978) (revised)",
@@ -59,7 +59,7 @@ add_combined_model <- function(models, params) {
       output = if (params$rescale_combined_model_within_experiment) 
         output - median(output) else output,
         # rescale_to_range(output) else output,
-      model_id = "combined",
+      model_id = "Combined",
       model_label = "Combined",
       model_theory = "Interference + Harmonicity",
       model_colour = "purple",

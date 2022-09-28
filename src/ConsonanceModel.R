@@ -268,7 +268,7 @@ PraatF0 <- R6Class(
     
     load = function() {
       # These shouldn't both be necessary but it seems they are 
-      Sys.setenv("RETICULATE_PYTHON" = "~/.virtualenvs/parselmouth/bin/python3.9")
+      Sys.setenv("RETICULATE_PYTHON" = "~/.virtualenvs/parselmouth/bin/python3.10")
       use_virtualenv("~/.virtualenvs/parselmouth", required = TRUE)
       py_run_string("import parselmouth")
       self$loaded = TRUE

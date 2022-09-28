@@ -383,13 +383,11 @@
     },
     "cli": {
       "Package": "cli",
-      "Version": "3.0.0",
+      "Version": "3.4.0",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "096829b701eec2d2b4538be63de97e75",
-      "Requirements": [
-        "glue"
-      ]
+      "Hash": "78003c09d258968a4d28107e779edb10",
+      "Requirements": []
     },
     "clipr": {
       "Package": "clipr",
@@ -1628,10 +1626,10 @@
     },
     "rlang": {
       "Package": "rlang",
-      "Version": "1.0.3",
+      "Version": "1.0.5",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "9103a8f74b2114a5ed1136b471d8feca",
+      "Hash": "971c3d698fc06dabdac6bc4bcda72dc4",
       "Requirements": []
     },
     "rmarkdown": {

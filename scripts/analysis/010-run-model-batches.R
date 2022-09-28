@@ -82,8 +82,15 @@ models <- list(
   ))
 )
 
-Experiment <- function(label, timbre, domain, data, timbre_bass = NULL,
-                       rescale_combined_model_within_experiment = TRUE) {
+Experiment <- function(
+    label, 
+    timbre, 
+    domain, 
+    data, 
+    smooth_bandwidth,
+    timbre_bass = NULL,
+    rescale_combined_model_within_experiment = TRUE
+  ) {
   x <- as.list(environment())
   class(x) <- c("Experiment", class(x))
   x
@@ -141,10 +148,10 @@ EXPERIMENTS <- list(
       "input/data-csv/rating/korean_dyad_harm.csv",
       int_range = c(0, 15),
       resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_sigma = experiment$smooth_bandwidth,
+      smooth_bandwidth = experiment$smooth_bandwidth,
       bootstrap_iter = BOOTSTRAP_REPS
     ),
-    smooth_sigma = BEHAVIOURAL_SMOOTH_BROAD
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
   ),
   Experiment(
     "Harmonic triads (3 dB roll-off)",
