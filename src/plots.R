@@ -8,7 +8,8 @@ theme_set(theme_pubr())
 viridis_themes = c(
   "inferno",
   "viridis", 
-  "mako"
+  "mako",
+  "rocket"
 ) %>% set_names(., .)
 
 viridis_palettes <- map(viridis_themes, ~ viridisLite::viridis(n = 1001, option = .))
@@ -888,7 +889,8 @@ PlotTriadModelsExperiments <- R6Class(
             palette = list(
               Participants = "viridis",
               Interference = "inferno",
-              Harmonicity = "mako"
+              Harmonicity = "mako", 
+              "Final model" = "rocket"
             )[[unique(measure)]]
           )
         )

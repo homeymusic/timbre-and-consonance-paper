@@ -52,9 +52,10 @@ plot_data <- TUNING_EXPRERIMENTS %>%
         # "Interference (revised)" = "Hutchinson & Knopoff (revised)",
         # "Interference" = "Sethares (1993)",
         # "Interference" = "Vassilakis (2001)",
-        "Harmonicity" = "Harrison & Pearce (2018)"
+        "Harmonicity" = "Harrison & Pearce (2018)",
         # "Harmonicity" = "Milne (2013)"
-        # "Harmonicity" = "Praat (F0)"
+        # "Harmonicity" = "Praat (F0)",
+        "Final model" = "Combined"
       ),
       label_spectrum = i == 1,
       label_measure = i == 1,

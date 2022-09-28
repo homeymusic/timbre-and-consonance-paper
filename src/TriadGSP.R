@@ -76,7 +76,7 @@ TriadGSP <- R6Class(
       kde <- MASS::kde2d(
         x = self$data$interval_1,
         y = self$data$interval_2, 
-        h = self$smooth_bandwidth,
+        h = self$smooth_bandwidth * 4, # MASS::kde2d is weird and divides the bandwidth by 4 internally, so we have to reverse that
         n = self$resolution,
         lims = c(self$int_1_range, self$int_2_range)
       )
