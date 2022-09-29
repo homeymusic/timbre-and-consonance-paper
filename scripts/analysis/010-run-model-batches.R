@@ -789,7 +789,7 @@ get_model_profile_2d <- function(model, experiment) {
     int_2_range = experiment$domain$int_2_range,
     smooth = TRUE, #model$options$smooth,
     smooth_resolution = DEFAULT_RESOLUTION_MODEL_2D, #model$options$smooth_resolution_2d,
-    smooth_sigma = experiment$smooth_bandwidth #model$options$smooth_sigma
+    smooth_sigma = BANDWIDTH_MODEL_2D # experiment$smooth_bandwidth * TRIAD_MODEL_SMOOTH_SIGMA_FACTOR #model$options$smooth_sigma
   )
 }
 

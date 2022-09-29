@@ -1,3 +1,28 @@
+if (FALSE) {
+  folders <- c(
+    "output/batches/Stretched triads (3 dB roll-off)/models",
+    "output/batches/Harmonic triads (3 dB roll-off)/models",
+    "output/batches/Compressed triads (3 dB roll-off)/models"
+  )
+  
+  for (folder in folders) {
+    for (model in c(
+      "Hutchinson & Knopoff (1978)",
+      "Hutchinson & Knopoff (1978) (revised)",
+      "Harrison & Pearce (2018)"
+    )) {
+      for (extension in c(".rds", ".csv")) {
+        path <- file.path(folder, model) |> paste0(extension)
+        suppressWarnings(file.remove(path))
+      }
+    }
+  }
+  
+  # for (i in inputs) suppressWarnings(unlink(i, recursive = TRUE))
+  
+  source("~/git/timbre-and-consonance-paper/scripts/analysis/010-run-model-batches.R")
+}
+
 source("scripts/analysis/015-figure-setup.R")
 
 TRIAD_EXPERIMENTS <- list(
@@ -27,6 +52,7 @@ cowplot::plot_grid(
       plot_viridis_legend("viridis"),
       plot_viridis_legend("inferno", reverse = TRUE),
       plot_viridis_legend("mako"),
+      plot_viridis_legend("rocket"),
       nrow = 1
     ),
     NULL,
