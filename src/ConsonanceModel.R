@@ -174,7 +174,7 @@ PCTemplateModel <- R6Class(
     
     allow_parallel = TRUE,
     
-    initialize = function(label, theory = "harmonicity", plot_colour = "#11A3FF", ...) {
+    initialize = function(label, theory = "harmonicity", plot_colour = "#11A3FF" ...) {
       super$initialize(
         label = label,
         theory = theory,
@@ -198,7 +198,7 @@ PCTemplateModel <- R6Class(
       template <- hrep::smooth_pc_spectrum( # <--- 4 ms
         hrep::pi_chord(60),
         array_dim = array_dim,
-        coherent = COHERENT_WAVES
+        coherent = COHERENT_WAVES, 
       )
       res <- har18::sweep_template(x, template) # <--- 8 ms
       hrep::.smooth_pc_spectrum(res)

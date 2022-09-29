@@ -150,7 +150,8 @@ revised_dissonance_factor = function(cbw) {
   pi <- 3.14159
   classic_diss <- dycon::hutch_g(cbw)
   pleasantness_boundary <- 0.1
-  pleasantness_strength <- 1
+  # pleasantness_strength <- 0
+  pleasantness_strength <- 1.5
   
   ifelse(
     cbw > pleasantness_boundary, 

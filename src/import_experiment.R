@@ -38,7 +38,7 @@ add_combined_model <- function(models, params) {
     # Actually, these original parameters aren't relevant any more due to 
     # the new adjustments to the Hutchinson-Knopoff model, which change
     # the scaling.
-    -1, 0.5
+    -1, 0.75
   )
   models$Combined <- list()
   models$Combined$summary <- 
