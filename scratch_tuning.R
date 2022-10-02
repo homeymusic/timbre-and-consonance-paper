@@ -1,16 +1,16 @@
 inputs <- c(
-  "output/batches/Major 3rd (3 dB roll-off)/models/Hutchinson & Knopoff (1978) (revised).csv",
-  "output/batches/Major 3rd (3 dB roll-off)/models/Hutchinson & Knopoff (1978) (revised).rds",
-  "output/batches/Major 3rd (pure tones)/models/Hutchinson & Knopoff (1978) (revised).csv",
-  "output/batches/Major 3rd (pure tones)/models/Hutchinson & Knopoff (1978) (revised).rds",
-  "output/batches/Major 6th (3 dB roll-off)/models/Hutchinson & Knopoff (1978) (revised).csv",
-  "output/batches/Major 6th (3 dB roll-off)/models/Hutchinson & Knopoff (1978) (revised).rds",
-  "output/batches/Major 6th (pure tones)/models/Hutchinson & Knopoff (1978) (revised).csv",
-  "output/batches/Major 6th (pure tones)/models/Hutchinson & Knopoff (1978) (revised).rds",
-  "output/batches/Octave (3 dB roll-off)/models/Hutchinson & Knopoff (1978) (revised).csv",
-  "output/batches/Octave (3 dB roll-off)/models/Hutchinson & Knopoff (1978) (revised).rds",
-  "output/batches/Octave (pure tones)/models/Hutchinson & Knopoff (1978) (revised).csv",
-  "output/batches/Octave (pure tones)/models/Hutchinson & Knopoff (1978) (revised).rds"
+  "output/batches/Major 3rd (3 dB roll-off)/models/Harrison & Pearce (2018) (revised).csv",
+  "output/batches/Major 3rd (3 dB roll-off)/models/Harrison & Pearce (2018) (revised).rds",
+  "output/batches/Major 3rd (pure tones)/models/Harrison & Pearce (2018) (revised).csv",
+  "output/batches/Major 3rd (pure tones)/models/Harrison & Pearce (2018) (revised).rds",
+  "output/batches/Major 6th (3 dB roll-off)/models/Harrison & Pearce (2018) (revised).csv",
+  "output/batches/Major 6th (3 dB roll-off)/models/Harrison & Pearce (2018) (revised).rds",
+  "output/batches/Major 6th (pure tones)/models/Harrison & Pearce (2018) (revised).csv",
+  "output/batches/Major 6th (pure tones)/models/Harrison & Pearce (2018) (revised).rds",
+  "output/batches/Octave (3 dB roll-off)/models/Harrison & Pearce (2018) (revised).csv",
+  "output/batches/Octave (3 dB roll-off)/models/Harrison & Pearce (2018) (revised).rds",
+  "output/batches/Octave (pure tones)/models/Harrison & Pearce (2018) (revised).csv",
+  "output/batches/Octave (pure tones)/models/Harrison & Pearce (2018) (revised).rds"
 )
 
 for (i in inputs) suppressWarnings(file.remove(i))
@@ -58,7 +58,7 @@ plot_data <- TUNING_EXPRERIMENTS %>%
         # "Interference (revised)" = "Hutchinson & Knopoff (1978) (revised)",
         # "Interference" = "Sethares (1993)",
         # "Interference" = "Vassilakis (2001)",
-        "Harmonicity" = "Harrison & Pearce (2018)",
+        "Harmonicity" = "Harrison & Pearce (2018) (revised)",
         # "Harmonicity" = "Milne (2013)"
         # "Harmonicity" = "Praat (F0)",
         "Combined" = "combined"

@@ -2,12 +2,12 @@ library(bootstrap)
 
 if (FALSE) {
   inputs <- c(
-    "output/batches/Harmonic dyads (5 equal harmonics)/models/Hutchinson & Knopoff (1978) (revised).rds",
-    "output/batches/Harmonic dyads (5 equal harmonics)/models/Hutchinson & Knopoff (1978) (revised).csv",
-    "output/batches/Harmonic dyads (no 3rd harmonic)/models/Hutchinson & Knopoff (1978) (revised).rds",
-    "output/batches/Harmonic dyads (no 3rd harmonic)/models/Hutchinson & Knopoff (1978) (revised).csv",
-    "output/batches/Pure dyads/models/Hutchinson & Knopoff (1978) (revised).rds",
-    "output/batches/Pure dyads/models/Hutchinson & Knopoff (1978) (revised).csv"
+    "output/batches/Harmonic dyads (5 equal harmonics)/models/Harrison & Pearce (2018) (revised).rds",
+    "output/batches/Harmonic dyads (5 equal harmonics)/models/Harrison & Pearce (2018) (revised).csv",
+    "output/batches/Harmonic dyads (no 3rd harmonic)/models/Harrison & Pearce (2018) (revised).rds",
+    "output/batches/Harmonic dyads (no 3rd harmonic)/models/Harrison & Pearce (2018) (revised).csv",
+    "output/batches/Pure dyads/models/Harrison & Pearce (2018) (revised).rds",
+    "output/batches/Pure dyads/models/Harrison & Pearce (2018) (revised).csv"
   )
   
   for (i in inputs) suppressWarnings(file.remove(i))

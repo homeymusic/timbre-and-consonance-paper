@@ -46,6 +46,7 @@ add_combined_model <- function(models, params) {
       # "Hutchinson & Knopoff (1978)",
       "Hutchinson & Knopoff (1978) (revised)",
       "Harrison & Pearce (2018)"
+      # "Harrison & Pearce (2018) (revised)"
     )] %>%
     map(`$`, "summary") %>%
     bind_rows() %>%

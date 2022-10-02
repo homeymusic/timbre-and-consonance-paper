@@ -173,8 +173,9 @@ PCTemplateModel <- R6Class(
   public = list(
     
     allow_parallel = TRUE,
+    template_sigma = 6.83,
     
-    initialize = function(label, theory = "harmonicity", plot_colour = "#11A3FF" ...) {
+    initialize = function(label, theory = "harmonicity", plot_colour = "#11A3FF", ...) {
       super$initialize(
         label = label,
         theory = theory,
@@ -199,6 +200,7 @@ PCTemplateModel <- R6Class(
         hrep::pi_chord(60),
         array_dim = array_dim,
         coherent = COHERENT_WAVES, 
+        sigma = self$template_sigma
       )
       res <- har18::sweep_template(x, template) # <--- 8 ms
       hrep::.smooth_pc_spectrum(res)
@@ -250,6 +252,18 @@ Har18 <- R6Class(
       )
     }
   )
+)
+
+RevisedHar18 <- R6Class(
+  "RevisedHar18",
+  inherit = Har18,
+  public = list(
+    template_sigma = 15,
+    
+    initialize = function(label = "Harrison & Pearce (2018) (revised)", ...) {
+      super$initialize(label = label, ...)
+    }
+  ),
 )
 
 PraatF0 <- R6Class(

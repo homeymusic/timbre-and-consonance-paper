@@ -79,6 +79,10 @@ models <- list(
     # smooth_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
     # smooth_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D,
     # smooth_sigma = 0.03 # motivated by the fact that the model discretizes into cents
+  )),
+  RevisedHar18$new(options = list(
+    raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
+    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
   ))
 )
 

@@ -48,8 +48,8 @@ plot_data <- TUNING_EXPRERIMENTS %>%
     y <- PlotDyadModelsExperimentsRollOff$new(
       experiments = x$experiments,
       models = c(
-        "Interference" = "Hutchinson & Knopoff (1978)",
-        # "Interference (revised)" = "Hutchinson & Knopoff (revised)",
+        # "Interference" = "Hutchinson & Knopoff (1978)",
+        "Interference" = "Hutchinson & Knopoff (1978) (revised)",
         # "Interference" = "Sethares (1993)",
         # "Interference" = "Vassilakis (2001)",
         "Harmonicity" = "Harrison & Pearce (2018)",

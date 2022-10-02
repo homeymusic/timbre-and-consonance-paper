@@ -1,10 +1,10 @@
 inputs <- c(
-  "output/batches/2 dB roll-off (harmonic dyads)/models/Hutchinson & Knopoff (1978) (revised).csv",
-  "output/batches/2 dB roll-off (harmonic dyads)/models/Hutchinson & Knopoff (1978) (revised).rds",
-  "output/batches/7 dB roll-off (harmonic dyads)/models/Hutchinson & Knopoff (1978) (revised).csv",
-  "output/batches/7 dB roll-off (harmonic dyads)/models/Hutchinson & Knopoff (1978) (revised).rds",
-  "output/batches/12 dB roll-off (harmonic dyads)/models/Hutchinson & Knopoff (1978) (revised).csv",
-  "output/batches/12 dB roll-off (harmonic dyads)/models/Hutchinson & Knopoff (1978) (revised).rds"
+  "output/batches/2 dB roll-off (harmonic dyads)/models/Harrison & Pearce (2018) (revised).csv",
+  "output/batches/2 dB roll-off (harmonic dyads)/models/Harrison & Pearce (2018) (revised).rds",
+  "output/batches/7 dB roll-off (harmonic dyads)/models/Harrison & Pearce (2018) (revised).csv",
+  "output/batches/7 dB roll-off (harmonic dyads)/models/Harrison & Pearce (2018) (revised).rds",
+  "output/batches/12 dB roll-off (harmonic dyads)/models/Harrison & Pearce (2018) (revised).csv",
+  "output/batches/12 dB roll-off (harmonic dyads)/models/Harrison & Pearce (2018) (revised).rds"
 )
 
 for (i in inputs) suppressWarnings(file.remove(i))
