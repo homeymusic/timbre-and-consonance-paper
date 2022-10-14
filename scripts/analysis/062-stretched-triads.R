@@ -57,7 +57,7 @@ cowplot::plot_grid(
     ),
     NULL,
     nrow = 1,
-    rel_widths = c(0.85, 4, 0.45)
+    rel_widths = c(0.3, 4, 0.1)
   ),
   TRIAD_PLOTTING$plot[[1]] +
     theme(
