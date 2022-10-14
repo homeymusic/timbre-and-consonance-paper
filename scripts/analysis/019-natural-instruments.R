@@ -17,7 +17,7 @@ NATURAL_INSTRUMENTS <-
     rel_widths = c(4, 4),
     return_plot_list = TRUE,
     debug = FALSE,
-    profile_row_heights = c(3, 1, 1, 3, 1, 1, 3, 1, 1, 3, 1, 1),
+    profile_row_heights = rep(c(3, 1, 1, 3), times = 3),
     spectrum_plot_direction = "horizontal",
     plot_bootstrap_peaks = TRUE,
     interval_breaks = 0:15
@@ -36,7 +36,13 @@ cowplot::plot_grid(
       plot.margin = unit(c(6, 20, 6, 20), "pt")
     ),
   NATURAL_INSTRUMENTS$plot$profiles + 
-    reverse_interference_scales() +
+    # reverse_interference_scales() +
+    ggh4x::facetted_pos_scales(
+      y = list(
+        measure == "Interference model" ~ scale_y_continuous(breaks = c(-0.1, -0.4), labels = function(x) -x),
+        measure == "Harmonicity model" ~ scale_y_continuous(breaks = scales::extended_breaks(n = 3))
+      )
+    ) +
     theme(
       panel.grid.major.x = element_line(colour = "grey95"),
     ),
