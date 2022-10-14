@@ -56,10 +56,16 @@ cowplot::plot_grid(
       plot.margin = unit(c(2, 2, 12, 2), "pt")
     ),
   ROLL_OFF$plot[[2]] +
-    reverse_interference_scales(breaks = waiver()) + 
+    # reverse_interference_scales(breaks = waiver()) + 
+    ggh4x::facetted_pos_scales(
+      y = list(
+        measure == "Interference model" ~ scale_y_continuous(breaks = c(-0.1, -0.3, -0.5), labels = function(x) -x)
+        # measure == "Harmonicity model" ~ scale_y_continuous(breaks = scales::extended_breaks(n = 3))
+      )
+    ) +
     theme(plot.margin = unit(c(2, 2, 12, 2), "pt")),
   ncol = 1,
-  rel_heights = c(2.5, 6),
+  rel_heights = c(2, 7),
   labels = c("A", "B")
   # scale = 0.9
 )
