@@ -53,7 +53,13 @@ BONANG$plot$profiles <-
   geom_vline(xintercept = 2.4 * 4, alpha = 0.6, linetype = "dotted") +
   geom_vline(xintercept = 2.4 * 5, alpha = 0.6, linetype = "dotted") +
   geom_vline(xintercept = 2.4 * 6, alpha = 0.6, linetype = "dotted") +
-  reverse_interference_scales() +
+  # reverse_interference_scales() +
+  ggh4x::facetted_pos_scales(
+    y = list(
+      measure == "Interference model" ~ scale_y_continuous(breaks = c(-0.1, -0.2, -0.3, -0.4), labels = function(x) -x),
+      measure == "Harmonicity model" ~ scale_y_continuous(breaks = scales::extended_breaks(n = 3))
+    )
+  ) +
   theme(
     strip.placement = "outside"
   )
