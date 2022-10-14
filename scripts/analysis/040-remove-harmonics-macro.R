@@ -46,17 +46,34 @@ REMOVAL_PLOTS$Dyads <- PlotDyadModelsExperiments$new(
 
 REMOVAL_PLOTS$Dyads$plot$profiles
 
+hack_scales <- function(f) {
+  function(x) {
+    orig <- f(x)
+    new <- c(orig[1], orig[length(orig)])
+    print(new)
+    # Dirty hack to fix scales that don't display properly
+    if (abs(new[1] - 1.6) < 0.05) new[1] <- 1.7
+    new
+  }
+}
+
 cowplot::plot_grid(
   REMOVAL_PLOTS$Dyads$plot$spectra +
     theme(plot.margin = unit(c(6, 20, 6, 20), "pt")),
   REMOVAL_PLOTS$Dyads$plot$profiles +
+    ggh4x::facetted_pos_scales(
+      y = list(
+        measure == "Interference model" ~ scale_y_continuous(breaks = c(-0.1, -0.4), labels = function(x) -x),
+        measure == "Harmonicity model" ~ scale_y_continuous(breaks = hack_scales(scales::extended_breaks(n = 2)))
+      )
+    ) +
     theme(
       plot.margin = unit(c(6, 50, 6, 50), "pt"),
       panel.grid.major.x = element_line(colour = "grey95")
     ),
   labels = "AUTO",
   ncol = 1,
-  rel_heights = c(1, 4.5),
+  rel_heights = c(1, 5.2),
   scale = 0.975
 )
 
