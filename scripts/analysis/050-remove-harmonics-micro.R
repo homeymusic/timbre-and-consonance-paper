@@ -55,7 +55,7 @@ plot_data <- TUNING_EXPRERIMENTS %>%
         "Harmonicity" = "Harrison & Pearce (2018)",
         # "Harmonicity" = "Milne (2013)"
         # "Harmonicity" = "Praat (F0)",
-        "Final model" = "Combined"
+        "Composite model" = "Combined"
       ),
       label_spectrum = i == 1,
       label_measure = i == 1,

@@ -48,17 +48,18 @@ cowplot::plot_grid(
   DYAD_PLOTS$profiles +
     ggh4x::facetted_pos_scales(
       y = list(
-        measure == "Interference" ~ scale_y_continuous(breaks = scales::extended_breaks(n = 3), labels = function(x) -x),
-        measure == "Harmonicity" ~ scale_y_continuous(breaks = scales::extended_breaks(n = 3))
+        measure == "Interference model" ~ scale_y_continuous(breaks = c(-0.1, -0.4), labels = function(x) -x),
+        measure == "Harmonicity model" ~ scale_y_continuous(breaks = scales::extended_breaks(n = 3))
       )
     ) +
     theme(
       panel.grid.major.x = element_line(colour = "grey95")
+      # axis.text.y = element_text(size = 5)
     ),
   labels = "AUTO",
   ncol = 1,
-  rel_heights = c(1, 4.5),
-  scale = 0.975
+  rel_heights = c(1, 5)
+  # scale = 0.975
 )
 
 ggsave("output/plots/020-stretching-dyads.pdf", width = 14, height = 14, scale = 0.6) 
