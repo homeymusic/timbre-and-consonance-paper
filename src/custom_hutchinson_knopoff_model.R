@@ -112,11 +112,12 @@ amplitude_factor_new <- function(x, y) {
   m <- 1 + b / a
   
   orig <- amplitude_factor_original(x, y)
-  ifelse(
-    orig <= a,
-    m * orig,
-    b + orig
-  )
+  # ifelse(
+  #   orig <= a,
+  #   m * orig,
+  #   b + orig
+  # )
+  sqrt(orig)
   
   # 0.1 + amplitude_factor_original(x, y)
   # log(amplitude_factor_original(x, y))
