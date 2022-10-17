@@ -53,8 +53,8 @@ cowplot::plot_grid(
       )
     ) +
     theme(
-      panel.grid.major.x = element_line(colour = "grey95")
-      # axis.text.y = element_text(size = 5)
+      panel.grid.major.x = element_line(colour = "grey95"),
+      axis.text.y = element_text(size = 7)
     ),
   labels = "AUTO",
   ncol = 1,
@@ -62,7 +62,7 @@ cowplot::plot_grid(
   # scale = 0.975
 )
 
-ggsave("output/plots/020-stretching-dyads.pdf", width = 14, height = 14, scale = 0.6) 
+ggsave("output/plots/020-stretching-dyads.pdf", width = 14, height = 15, scale = 0.6) 
 
 
 ########################################################################

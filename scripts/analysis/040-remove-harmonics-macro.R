@@ -50,7 +50,6 @@ hack_scales <- function(f) {
   function(x) {
     orig <- f(x)
     new <- c(orig[1], orig[length(orig)])
-    print(new)
     # Dirty hack to fix scales that don't display properly
     if (abs(new[1] - 1.6) < 0.05) new[1] <- 1.7
     new
@@ -68,7 +67,7 @@ cowplot::plot_grid(
       )
     ) +
     theme(
-      plot.margin = unit(c(6, 50, 6, 50), "pt"),
+      # plot.margin = unit(c(6, 50, 6, 50), "pt"),
       panel.grid.major.x = element_line(colour = "grey95")
     ),
   labels = "AUTO",
@@ -77,7 +76,7 @@ cowplot::plot_grid(
   scale = 0.975
 )
 
-ggsave("output/plots/040-remove-harmonics-macro.pdf", width = 14, height = 14, scale = 0.6) 
+ggsave("output/plots/040-remove-harmonics-macro.pdf", width = 14, height = 15, scale = 0.6) 
 
 
 ########################################################################
