@@ -75,7 +75,8 @@ roughness_hutch_revised.sparse_fr_spectrum <- function(
   n <- length(frequency)
   if (n < 2) 0 else {
     # Compute denominator
-    denominator <- (sum(amplitude ^ 2))  # to do - update this?
+    # denominator <- (sum(amplitude ^ 2))  # to do - update this?
+    denominator <- sum(amplitude)
     # Compute numerator
     df <- expand.grid(j = seq_len(n), i = seq_len(n)) %>%
       (function(df) {

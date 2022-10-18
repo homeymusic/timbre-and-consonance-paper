@@ -25,7 +25,7 @@ MODELS <- c(
   "Interference model" = "Hutchinson & Knopoff (1978)",
   "Harmonicity model" = "Harrison & Pearce (2018)",
   # "Harmonicity" = "Harrison & Pearce (2018) (revised)",
-  "Composite model" = "Combined",
+  "Composite model" = "Combined"
   # "Interference (revised)" = "Hutchinson & Knopoff (1978) (revised)"
 )
 
