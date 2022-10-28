@@ -62,7 +62,7 @@ add_combined_model <- function(models, params) {
         # rescale_to_range(output) else output,
       model_id = "Combined",
       model_label = "Combined",
-      model_theory = "Interference + Harmonicity",
+      model_theory = "Composite",
       model_colour = "purple",
       timbre_label = unique(models[["Hutchinson & Knopoff (1978)"]]$summary$timbre_label)
     )
