@@ -112,6 +112,10 @@ DyadRating <- R6Class(
       smooth_bandwidth,
       bootstrap_iter = 0
     ) {
+      stopifnot(
+        !is.null(smooth_bandwidth)
+      )
+      
       self$file <- file
       self$int_range <- int_range
       self$resolution <- resolution
@@ -150,6 +154,11 @@ DyadRating <- R6Class(
       if (int_range[2] > max(data$interval) + 0.25) 
         warning("beware of extrapolation, the upper bound is ", int_range[2], 
                 " whereas the maximum tested interval was ", max(data$interval))
+      
+      stopifnot(
+        !is.null(data$interval),
+        !is.null(data$rating)
+      )
     
       tibble(
         interval = seq(

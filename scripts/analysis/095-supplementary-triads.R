@@ -39,15 +39,16 @@ for (i in seq_along(TRIAD_EXPERIMENTS)) {
   R.utils::mkdirs(file.path(root_dir, exp_label, "models"))
   
   for (model in exp$models) {
-    is_interference_model <- model$full$model$theory == "interference"
+    model_type <- unique(model$summary$model_theory)
+    model_label <- unique(model$summary$model_label)
+    is_interference_model <- model_type == "interference"
     reverse <- is_interference_model
-    model_type <- model$full$model$theory
     
-    model$full$profile %>% 
+    model$summary %>% 
       ggplot(aes(interval_1, interval_2, fill = if (is_interference_model) - output else output)) + 
       scale_x_continuous("Interval 1", breaks = 0:9) + 
       scale_y_continuous("Interval 2", breaks = 0:9) +
-      geom_raster() +
+      geom_raster(interpolate = TRUE) +
       scale_fill_viridis_c(
         Hmisc::capitalize(model_type),
         option = "inferno", 
@@ -63,7 +64,7 @@ for (i in seq_along(TRIAD_EXPERIMENTS)) {
     
     for (ext in c(".png", ".pdf", ".svg"))
       ggsave(
-        file.path(root_dir, exp_label, "models", model_type, paste0(model$full$model$label, ext)),
+        file.path(root_dir, exp_label, "models", model_type, paste0(model_label, ext)),
         width = 6, 
         height = 5,
         dpi = 200

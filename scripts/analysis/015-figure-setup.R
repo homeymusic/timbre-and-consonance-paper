@@ -31,11 +31,13 @@ MODELS <- c(
 
 MODELS_ALL <- c(
   "Hutchinson & Knopoff (1978)",
+  "Interference (revised)" = "Hutchinson & Knopoff (1978) (revised)",
   "Sethares (1993)",
   "Vassilakis (2001)",
   "Harrison & Pearce (2018)",
   "Milne (2013)",
-  "Praat (F0)"
+  "Praat (F0)",
+  "Composite model" = "Combined"
 ) %>% set_names(., .)
 
 PLOT_DIR = "output/plots"

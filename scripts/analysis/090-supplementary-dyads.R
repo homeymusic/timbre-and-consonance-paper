@@ -135,7 +135,7 @@ for (i in seq_along(SUPPLEMENTARY_EXPS)) {
           int_range = experiment$behaviour$full$int_range,
           resolution = experiment$behaviour$full$resolution,
           bootstrap_iter = BOOTSTRAP_REPS,
-          smooth_sigma = experiment$behaviour$full$smooth_sigma
+          smooth_bandwidth = experiment$behaviour$full$smooth_bandwidth
         )
       })$profile %>%
         mutate(
