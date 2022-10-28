@@ -6,6 +6,7 @@ ROLL_OFF_EXPERIMENTS <- list(
   "2 dB/octave roll-off" = EXPERIMENTS$`2 dB roll-off (harmonic dyads)`
 )
 
+
 ########################################################################
 # Plots
 ########################################################################
@@ -28,9 +29,11 @@ ROLL_OFF <-
     profile_row_heights = c(2.25, 1, 1),
   )
 
+
 ROLL_OFF$plot$spectra <-
   ROLL_OFF$plot$spectra +
   scale_y_continuous("Amplitude")
+
 
 ggsave(
   "output/plots/presentation/roll-off-spectra.pdf", 
@@ -70,7 +73,7 @@ cowplot::plot_grid(
   # scale = 0.9
 )
 
-ggsave("030-roll-off-profiles.pdf", path = PLOT_DIR, width = 14, height = 12, scale = 0.55)
+ggsave("030-roll-off-profiles.pdf", path = PLOT_DIR, width = 14, height = 15, scale = 0.55)
 
 
 ########################################################################

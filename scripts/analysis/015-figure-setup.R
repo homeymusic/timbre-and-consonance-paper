@@ -21,6 +21,27 @@ EXPERIMENTS <-
   list_experiments() %>% 
   map(import_experiment)
 
+ROLL_OFF_EXPS  <- c(
+  "12 dB roll-off (harmonic dyads)",
+  "7 dB roll-off (harmonic dyads)",
+  "2 dB roll-off (harmonic dyads)"
+)
+
+# Median of composite model output over all the roll-off experiments
+ROLL_OFF_COMBINED_MEDIAN <-
+  EXPERIMENTS[ROLL_OFF_EXPS] %>%
+  map_dfr(function(exp) {
+    exp$models$Combined$summary %>% select(output)
+  }) %>%
+  pull(output) %>%
+  median()
+
+# Median-normalise all the roll-off experiments to the same baseline
+for (label in ROLL_OFF_EXPS) {
+  EXPERIMENTS[[label]]$models$Combined$summary$output <- 
+    EXPERIMENTS[[label]]$models$Combined$summary$output - ROLL_OFF_COMBINED_MEDIAN
+}
+
 MODELS <- c(
   "Interference model" = "Hutchinson & Knopoff (1978)",
   "Harmonicity model" = "Harrison & Pearce (2018)",
