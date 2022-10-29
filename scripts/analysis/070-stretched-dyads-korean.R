@@ -184,8 +184,8 @@ for (timbre in c("Stretched", "Harmonic", "Compressed")) {
     path = .dyad_video_path,
     fps = 30,
     dpi = 300,
-    width = 7,
-    height = 4,
+    width = 8,
+    height = 5,
     audio_components = c(
       static_basic_harmonic_complex_tone(
         midi = 60,

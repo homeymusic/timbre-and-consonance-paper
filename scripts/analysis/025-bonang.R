@@ -85,6 +85,8 @@ sweep_v_line_over_plot(
   x_end = 15, 
   duration = 75, 
   path = "output/videos/bonang-dyads.mp4", 
+  width = 8, 
+  height = 5.5,
   fps = 30,
   dpi = 300,
   audio_components = c(

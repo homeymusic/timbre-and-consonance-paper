@@ -170,7 +170,7 @@ for (i in seq_along(.experiments)) {
     fps = 30,
     dpi = 300,
     width = 7,
-    height = 4,
+    height = 5,
     audio_components = c(
       static_complex_tone(
         midi_root = 60,

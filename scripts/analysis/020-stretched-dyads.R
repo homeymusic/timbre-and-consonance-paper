@@ -96,7 +96,7 @@ for (timbre in c("Stretched", "Harmonic", "Compressed")) {
     dyad_measure_labels = "left",
     consonance_label = "Pleasantness",
     reference_spectrum = 1,
-    profile_row_heights = c(3, 1, 1),
+    profile_row_heights = c(3, 1, 1, 3),
     return_plot_list = TRUE,
     spectrum_plot_direction = "horizontal",
     plot_bootstrap_peaks = TRUE,
@@ -115,6 +115,7 @@ for (timbre in c("Stretched", "Harmonic", "Compressed")) {
         # Be careful with this code, as it relies on the order of the three 
         # panels (top = participants, middle = interference, bottom = harmonicity)
         scale_y_continuous(breaks = scales::extended_breaks(n = 4), labels = function(x) -x),
+        NULL,
         NULL
       )
     ) +
@@ -125,7 +126,7 @@ for (timbre in c("Stretched", "Harmonic", "Compressed")) {
     filename = paste0(timbre, " dyads (3 dB roll-off).png"),
     path = "output/plots/presentation/stretching",
     dpi = 250,
-    width = 6, 
+    width = 8, 
     height = 6
   )
   
@@ -141,8 +142,8 @@ for (timbre in c("Stretched", "Harmonic", "Compressed")) {
     path = .dyad_video_path,
     fps = 30,
     dpi = 300,
-    width = 7,
-    height = 4,
+    width = 8,
+    height = 5,
     audio_components = c(
       static_basic_harmonic_complex_tone(
         midi = 60,

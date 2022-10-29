@@ -299,7 +299,7 @@ export_tuning_video <- function(plot, roll_off, file_label) {
     fps = 30,
     dpi = 300,
     width = 6,
-    height = 4,
+    height = 5,
     audio_components = c(
       static_basic_harmonic_complex_tone(
         midi = 60,
