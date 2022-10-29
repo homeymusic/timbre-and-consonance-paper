@@ -278,6 +278,12 @@ tab_contents.TriadSupplementary <- function(contents) {
             triad_model_panel("harmonicity", "Milne (2013)", path),
             triad_model_panel("harmonicity", "Praat (F0)", path)
           )
+        ),
+        tabPanel(
+          "Composite",
+          tabsetPanel(
+            tabPanel("Composite", triad_model_panel("composite", "Combined", path))
+          )
         )
       )
     )
