@@ -428,7 +428,7 @@ triad_model_panel <- function(category, model_label, path) {
   tabPanel(
     model_label,
     embed_image(
-      file.path(path, "models", category, paste0(model_label, ".png"))
+      file.path(path, "models", category, paste0(model_label, ".svg"))
     )
   )
 }
