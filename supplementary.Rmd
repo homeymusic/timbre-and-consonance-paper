@@ -92,7 +92,27 @@ spec <- list(
         video_id = "compressed-dyads.mp4"
       )
     ),
-    "2B: Bonang dyads" = DyadSupplementary(
+    "2B: Stretched/compressed dyads (Korean)" = list(
+      "2B(i): Harmonic dyads" = DyadSupplementary(
+        "20 - Harmonic dyads (3 dB roll-off) (Korean)",
+        raw_id = "Rating/korean_dyad_harm.csv",
+        video_id = "korean-harmonic-dyads.mp4",
+        skip_musicianship = TRUE
+      ),
+      "2B(ii): Stretched dyads (Korean)" = DyadSupplementary(
+        "21 - Stretched dyads (3 dB roll-off) (Korean)",
+        raw_id = "Rating/korean_dyad_str.csv",
+        video_id = "korean-stretched-dyads.mp4",
+        skip_musicianship = TRUE
+      ),
+      "2B(iii): Compressed dyads (Korean)" = DyadSupplementary(
+        "22 - Compressed dyads (3 dB roll-off) (Korean)",
+        raw_id = "Rating/korean_dyad_comp.csv",
+        video_id = "korean-compressed-dyads.mp4",
+        skip_musicianship = TRUE
+      )
+    ),
+    "2C: Bonang dyads" = DyadSupplementary(
       "4 - Bonang dyads",
       raw_id = "Rating/gamelan_dyad_gamdyrt.csv",
       video_id = "bonang-dyads.mp4"
@@ -185,34 +205,6 @@ spec <- list(
       "Compressed triads",
       raw_data_id = "compressed_GSP_3db_trdc3d.csv"
     )
-  ),
-  "Study 6" = list(
-    "6(i): Harmonic dyads" = DyadSupplementary(
-      "20 - Harmonic dyads (3 dB roll-off) (Korean)",
-      raw_id = "Rating/korean_dyad_harm.csv",
-      video_id = "korean-harmonic-dyads.mp4",
-      skip_musicianship = TRUE
-    ),
-    "6(ii): Stretched dyads (Korean)" = DyadSupplementary(
-      "21 - Stretched dyads (3 dB roll-off) (Korean)",
-      raw_id = "Rating/korean_dyad_str.csv",
-      video_id = "korean-stretched-dyads.mp4",
-      skip_musicianship = TRUE
-    ),
-    "6(iii): Compressed dyads (Korean)" = DyadSupplementary(
-      "22 - Compressed dyads (3 dB roll-off) (Korean)",
-      raw_id = "Rating/korean_dyad_comp.csv",
-      video_id = "korean-compressed-dyads.mp4",
-      skip_musicianship = TRUE
-    )
-  ),
-  "Study 7" = RawDataOnly(
-    info = paste0(
-      "This study investigated the joint manipulation of timbre and pitch interval with GSP.",
-      " There are no supplementary analyses but you can download the data here:"
-    ),
-    raw_data_path = "input/data-csv/GSP/tmb_int_gsp_mixintm.csv",
-    processed_data_path = "output/plots/080-timbre-and-consonance-gsp-pitch-interval-profiles.csv"
   )
 )
 
