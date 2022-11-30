@@ -7,7 +7,7 @@ output:
     self_contained: false
 ---
 
-This webpage provides a collection of supplementary plots and datasets for the article 'Reshaping musical consonance with timbral manipulations and massive online experiments' by Raja Marjieh, Peter M. C. Harrison, Harin Lee, Fotini Deligiannaki, and Nori Jacoby. Click on the different tabs to navigate through the different plots and datasets.
+This webpage provides a collection of supplementary plots and datasets for the article 'Timbral effects on consonance illuminate psychoacoustics of music evolution' by Raja Marjieh, Peter M. C. Harrison, Harin Lee, Fotini Deligiannaki, and Nori Jacoby. Click on the different tabs to navigate through the different plots and datasets.
 
 ```{r, include = FALSE}
 library(shiny)
