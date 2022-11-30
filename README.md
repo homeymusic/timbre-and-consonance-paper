@@ -13,7 +13,7 @@
 ## Introduction
 
 This repository provides raw data and code for the paper 
-"Reshaping musical consonance with timbral manipulations and massive online experiments" 
+"Timbral effects on consonance illuminate psychoacoustics of music evolution" 
 by Marjieh, Harrison, Lee, Deligiannaki, & Jacoby (2022).
 
 - To load the software onto your computer, see 'Installation'.
