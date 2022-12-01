@@ -1,4 +1,4 @@
-FROM rocker/rstudio:4.1.0
+FROM rocker/rstudio:4.2.1
 
 ENV PROJECT_NAME=consonance-simulations
 ENV RENV_VERSION 0.12.0
