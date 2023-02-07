@@ -28,11 +28,11 @@ ConsonanceModel <- R6Class(
     },
     
     get_consonance = function(midi, timbre) {
-      stop("not implemented")
+      stop(paste("get_consonance not implemented for",self$name))
     },
     
     get_consonance_list = function(midi_list, timbre) {
-      stop("not implemented")
+      stop("get_consonance_list not implemented for",self$name)
     },
     
     get_consonance_list_batched = function(midi_list, timbre, batch_size = 500L) {
@@ -391,3 +391,37 @@ praat_analyze <- memoise::memoise(praat_analyze, cache = memoise::cache_filesyst
 #     },
 #   )
 # )
+
+MaMi.CoDi <- R6Class(
+  'MaMi.CoDi',
+  inherit = ConsonanceModel,
+  public = list(
+    
+    allow_parallel = TRUE,
+    
+    initialize = function(label='mami.codi.R', 
+                          theory = 'harmonicity', 
+                          plot_colour = '#FF5500', ...) {
+      super$initialize(
+        label = label,
+        theory = theory,
+        plot_colour = plot_colour,
+        ...
+      )
+    },
+    
+    get_consonance = function(midi, timbre) {
+      tonic.hertz = hrep::midi_to_freq(midi[1])
+      tonic.timbre.hertz = self$get_sparse_fr_spectrum(midi[1],
+                                                       timbre[1],
+                                                       COHERENT_WAVES)$x
+      chord.timbre.hertz = self$get_sparse_fr_spectrum(midi,
+                                                       timbre,
+                                                       COHERENT_WAVES)$x
+      
+      mami.codi.R::mami.codi(tonic.hertz,
+                             tonic.timbre.hertz,
+                             chord.timbre.hertz)$consonance_dissonance
+    }
+  )
+)
