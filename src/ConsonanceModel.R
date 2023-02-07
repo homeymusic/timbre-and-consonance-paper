@@ -433,7 +433,7 @@ MaMi.CoDi.Highest.As.Tonic <- R6Class(
   inherit = ConsonanceModel,
   public = list(
     
-    allow_parallel = FALSE,
+    allow_parallel = TRUE,
     
     initialize = function(label='mami.codi.R.highest.as.tonic', 
                           theory = 'periodicity', 
@@ -469,7 +469,7 @@ MaMi.CoDi.All.As.Tonic <- R6Class(
   inherit = ConsonanceModel,
   public = list(
     
-    allow_parallel = FALSE,
+    allow_parallel = TRUE,
     
     initialize = function(label='mami.codi.R.all.as.tonic', 
                           theory = 'periodicity', 
@@ -507,7 +507,7 @@ MaMi.CoDi.Max.As.Tonic <- R6Class(
   inherit = ConsonanceModel,
   public = list(
     
-    allow_parallel = FALSE,
+    allow_parallel = TRUE,
     
     initialize = function(label='mami.codi.R.max.as.tonic', 
                           theory = 'periodicity', 
@@ -545,7 +545,7 @@ MaMi.CoDi.Major.As.Tonic <- R6Class(
   inherit = ConsonanceModel,
   public = list(
     
-    allow_parallel = FALSE,
+    allow_parallel = TRUE,
     
     initialize = function(label='mami.codi.R.major.as.tonic', 
                           theory = 'periodicity', 
@@ -584,7 +584,7 @@ MaMi.CoDi.Minor.As.Tonic <- R6Class(
   inherit = ConsonanceModel,
   public = list(
     
-    allow_parallel = FALSE,
+    allow_parallel = TRUE,
     
     initialize = function(label='mami.codi.R.minor.as.tonic', 
                           theory = 'periodicity', 
@@ -623,7 +623,7 @@ MaMi.CoDi.Major.D.0.01.As.Tonic <- R6Class(
   inherit = ConsonanceModel,
   public = list(
     
-    allow_parallel = FALSE,
+    allow_parallel = TRUE,
     
     initialize = function(label='mami.codi.R.major.d.0.01.as.tonic', 
                           theory = 'periodicity', 
