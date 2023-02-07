@@ -84,7 +84,31 @@ models <- list(
   #   raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
   #   raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
   # ))
-  MaMi.CoDi$new(options = list(
+  MaMi.CoDi.Lowest.As.Tonic$new(options = list(
+    raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
+    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
+  )),
+  MaMi.CoDi.Highest.As.Tonic$new(options = list(
+    raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
+    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
+  )),
+  MaMi.CoDi.All.As.Tonic$new(options = list(
+    raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
+    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
+  )),
+  MaMi.CoDi.Max.As.Tonic$new(options = list(
+    raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
+    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
+  )),
+  MaMi.CoDi.Major.As.Tonic$new(options = list(
+    raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
+    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
+  )),
+  MaMi.CoDi.Minor.As.Tonic$new(options = list(
+    raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
+    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
+  )),
+  MaMi.CoDi.Major.D.0.01.As.Tonic$new(options = list(
     raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
     raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
   ))
@@ -139,51 +163,51 @@ EXPERIMENTS <- list(
     ),
     smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
   ),
-  Experiment(
-    "Harmonic dyads (3 dB roll-off) (Korean)",
-    timbre = BasicHarmonicTone$new(
-      label = "Harmonic",
-      n_harmonics = 10,
-      decay_dB_per_octave = 3,
-      octave_definition = 2.0
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(0, 15)
-    ),
-    data = ~ DyadRating$new(
-      "input/data-csv/rating/korean_dyad_harm.csv",
-      int_range = c(0, 15),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_bandwidth = experiment$smooth_bandwidth,
-      bootstrap_iter = BOOTSTRAP_REPS
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
-  ),
-  Experiment(
-    "Harmonic triads (3 dB roll-off)",
-    timbre = BasicHarmonicTone$new(
-      label = "Harmonic",
-      n_harmonics = 10,
-      decay_dB_per_octave = 3,
-      octave_definition = 2.0
-    ),
-    domain = Domain(
-      label = "Triads",
-      n_dimensions = 2,
-      int_1_range = c(0.5, 8.5),
-      int_2_range = c(0.5, 8.5)
-    ),
-    data = ~ TriadGSP$new(
-      file = "input/data-csv/GSP/harmonic_GSP_3db_trdh3d.csv",
-      smooth_bandwidth = experiment$smooth_bandwidth,
-      resolution = RESOLUTION_BEHAVIOURAL_2D,
-      int_1_range = c(0.5, 8.5),
-      int_2_range = c(0.5, 8.5)
-    ),
-    smooth_bandwidth = BANDWIDTH_GSP_2D,
-  ),
+  # Experiment(
+  #   "Harmonic dyads (3 dB roll-off) (Korean)",
+  #   timbre = BasicHarmonicTone$new(
+  #     label = "Harmonic",
+  #     n_harmonics = 10,
+  #     decay_dB_per_octave = 3,
+  #     octave_definition = 2.0
+  #   ),
+  #   domain = Domain(
+  #     label = "Dyads",
+  #     n_dimensions = 1,
+  #     int_range = c(0, 15)
+  #   ),
+  #   data = ~ DyadRating$new(
+  #     "input/data-csv/rating/korean_dyad_harm.csv",
+  #     int_range = c(0, 15),
+  #     resolution = RESOLUTION_BEHAVIOURAL_1D,
+  #     smooth_bandwidth = experiment$smooth_bandwidth,
+  #     bootstrap_iter = BOOTSTRAP_REPS
+  #   ),
+  #   smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
+  # ),
+  # Experiment(
+  #   "Harmonic triads (3 dB roll-off)",
+  #   timbre = BasicHarmonicTone$new(
+  #     label = "Harmonic",
+  #     n_harmonics = 10,
+  #     decay_dB_per_octave = 3,
+  #     octave_definition = 2.0
+  #   ),
+  #   domain = Domain(
+  #     label = "Triads",
+  #     n_dimensions = 2,
+  #     int_1_range = c(0.5, 8.5),
+  #     int_2_range = c(0.5, 8.5)
+  #   ),
+  #   data = ~ TriadGSP$new(
+  #     file = "input/data-csv/GSP/harmonic_GSP_3db_trdh3d.csv",
+  #     smooth_bandwidth = experiment$smooth_bandwidth,
+  #     resolution = RESOLUTION_BEHAVIOURAL_2D,
+  #     int_1_range = c(0.5, 8.5),
+  #     int_2_range = c(0.5, 8.5)
+  #   ),
+  #   smooth_bandwidth = BANDWIDTH_GSP_2D,
+  # ),
   Experiment(
     "Stretched dyads (3 dB roll-off)",
     timbre = BasicHarmonicTone$new(
@@ -206,51 +230,51 @@ EXPERIMENTS <- list(
     ),
     smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
   ),
-  Experiment(
-    "Stretched dyads (3 dB roll-off) (Korean)",
-    timbre = BasicHarmonicTone$new(
-      n_harmonics = 10,
-      decay_dB_per_octave = 3,
-      octave_definition = 2.1,
-      label = "Stretched"
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(0, 15),
-    ),
-    data = ~ DyadRating$new(
-      "input/data-csv/rating/korean_dyad_str.csv",
-      int_range = c(0, 15),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_bandwidth = experiment$smooth_bandwidth,
-      bootstrap_iter = BOOTSTRAP_REPS
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD,
-  ),
-  Experiment(
-    "Stretched triads (3 dB roll-off)",
-    timbre = BasicHarmonicTone$new(
-      label = "Stretched",
-      n_harmonics = 10,
-      decay_dB_per_octave = 3,
-      octave_definition = 2.1
-    ),
-    domain = Domain(
-      label = "Triads",
-      n_dimensions = 2,
-      int_1_range = c(0.5, 8.5),
-      int_2_range = c(0.5, 8.5)
-    ),
-    data = ~ TriadGSP$new(
-      file = "input/data-csv/GSP/stretched_GSP_3db_trds3d.csv",
-      smooth_bandwidth = experiment$smooth_bandwidth,
-      resolution = RESOLUTION_BEHAVIOURAL_2D,
-      int_1_range = c(0.5, 8.5),
-      int_2_range = c(0.5, 8.5)
-    ),
-    smooth_bandwidth = BANDWIDTH_GSP_2D,
-  ),
+#   Experiment(
+#     "Stretched dyads (3 dB roll-off) (Korean)",
+#     timbre = BasicHarmonicTone$new(
+#       n_harmonics = 10,
+#       decay_dB_per_octave = 3,
+#       octave_definition = 2.1,
+#       label = "Stretched"
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(0, 15),
+#     ),
+#     data = ~ DyadRating$new(
+#       "input/data-csv/rating/korean_dyad_str.csv",
+#       int_range = c(0, 15),
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       smooth_bandwidth = experiment$smooth_bandwidth,
+#       bootstrap_iter = BOOTSTRAP_REPS
+#     ),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD,
+#   ),
+#   Experiment(
+#     "Stretched triads (3 dB roll-off)",
+#     timbre = BasicHarmonicTone$new(
+#       label = "Stretched",
+#       n_harmonics = 10,
+#       decay_dB_per_octave = 3,
+#       octave_definition = 2.1
+#     ),
+#     domain = Domain(
+#       label = "Triads",
+#       n_dimensions = 2,
+#       int_1_range = c(0.5, 8.5),
+#       int_2_range = c(0.5, 8.5)
+#     ),
+#     data = ~ TriadGSP$new(
+#       file = "input/data-csv/GSP/stretched_GSP_3db_trds3d.csv",
+#       smooth_bandwidth = experiment$smooth_bandwidth,
+#       resolution = RESOLUTION_BEHAVIOURAL_2D,
+#       int_1_range = c(0.5, 8.5),
+#       int_2_range = c(0.5, 8.5)
+#     ),
+#     smooth_bandwidth = BANDWIDTH_GSP_2D,
+#   ),
   Experiment(
     "Compressed dyads (3 dB roll-off)",
     timbre = BasicHarmonicTone$new(
@@ -272,445 +296,445 @@ EXPERIMENTS <- list(
       bootstrap_iter = BOOTSTRAP_REPS
     ),
     smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
-  ),
-  Experiment(
-    "Compressed dyads (3 dB roll-off) (Korean)",
-    timbre = BasicHarmonicTone$new(
-      label = "Compressed",
-      n_harmonics = 10,
-      decay_dB_per_octave = 3,
-      octave_definition = 1.9
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(0, 15)
-    ),
-    data = ~ DyadRating$new(
-      "input/data-csv/rating/korean_dyad_comp.csv",
-      int_range = c(0, 15),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_bandwidth = experiment$smooth_bandwidth,
-      bootstrap_iter = BOOTSTRAP_REPS
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
-  ),
-  Experiment(
-    "Compressed triads (3 dB roll-off)",
-    timbre = BasicHarmonicTone$new(
-      label = "Compressed",
-      n_harmonics = 10,
-      decay_dB_per_octave = 3,
-      octave_definition = 1.9
-    ),
-    domain = Domain(
-      label = "Triads",
-      n_dimensions = 2,
-      int_1_range = c(0.5, 8.5),
-      int_2_range = c(0.5, 8.5)
-    ),
-    data = ~ TriadGSP$new(
-      file = "input/data-csv/GSP/compressed_GSP_3db_trdc3d.csv",
-      smooth_bandwidth = experiment$smooth_bandwidth,
-      resolution = RESOLUTION_BEHAVIOURAL_2D,
-      int_1_range = c(0.5, 8.5),
-      int_2_range = c(0.5, 8.5)
-    ),
-    smooth_bandwidth = BANDWIDTH_GSP_2D
-  ),
-  Experiment(
-    "Harmonic dyads (5 equal harmonics)",
-    timbre = HarmonicTone$new(
-      label = "5 equal harmonics",
-      harmonic_amplitudes = c(1, 1, 1, 1, 1),
-      octave_definition = 2.0
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(0, 15)
-    ),
-    data = ~ DyadRating$new(
-      "input/data-csv/rating/rating_w3rdd.csv",
-      int_range = c(0, 15),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      bootstrap_iter = BOOTSTRAP_REPS,
-      smooth_bandwidth = experiment$smooth_bandwidth
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
-  ),
-  Experiment(
-    "Harmonic dyads (no 3rd harmonic)",
-    timbre = HarmonicTone$new(
-      label = "No 3rd harmonic",
-      harmonic_amplitudes = c(1, 1, 0, 1, 1),
-      octave_definition = 2.0
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(0, 15)
-    ),
-    data = ~ DyadRating$new(
-      "input/data-csv/rating/rating_wo3rdd.csv",
-      int_range = c(0, 15),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      bootstrap_iter = BOOTSTRAP_REPS,
-      smooth_bandwidth = experiment$smooth_bandwidth
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
-  ),
-  Experiment(
-    "Pure dyads",
-    timbre = PureTone$new(
-      label = "Pure"
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(0, 15)
-    ),
-    data = ~ DyadRating$new(
-      "input/data-csv/rating/pure_dyad_purdyrt.csv",
-      int_range = c(0, 15),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      bootstrap_iter = BOOTSTRAP_REPS,
-      smooth_bandwidth = experiment$smooth_bandwidth
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
-  ),
-  Experiment(
-    "Flute dyads",
-    timbre = HarmonicTone$new(
-      label = "Flute",
-      harmonic_amplitudes = get_instrument_amplitudes("flute", num_harmonics = 10),
-      octave_definition = 2.0
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(0, 15)
-    ),
-    data = ~ DyadRating$new(
-      read_csv("input/data-csv/Rating/rating_flute_harmonic_harflt.csv", col_types = cols()) %>%
-        filter(synth == "flute"),
-      int_range = c(0, 15),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      bootstrap_iter = BOOTSTRAP_REPS,
-      smooth_bandwidth = experiment$smooth_bandwidth
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
-  ),
-  Experiment(
-    "Guitar dyads",
-    timbre = HarmonicTone$new(
-      harmonic_amplitudes = get_instrument_amplitudes("guitar", num_harmonics = 10),
-      octave_definition = 2.0,
-      label = "Guitar"
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(0, 15)
-    ),
-    data = ~ DyadRating$new(
-      read_csv("input/data-csv/Rating/rating_guitar_harmonic_hargtr.csv", col_types = cols()) %>%
-        filter(synth == "guitar"),
-      int_range = c(0, 15),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      bootstrap_iter = BOOTSTRAP_REPS,
-      smooth_bandwidth = experiment$smooth_bandwidth
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
-  ),
-  Experiment(
-    "Piano dyads",
-    timbre = HarmonicTone$new(
-      harmonic_amplitudes = get_instrument_amplitudes("piano", num_harmonics = 10),
-      octave_definition = 2.0,
-      label = "Piano"
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(0, 15)
-    ),
-    data = ~ DyadRating$new(
-      read_csv("input/data-csv/Rating/rating_piano_harmonic_harpno.csv", col_types = cols()) %>%
-        filter(synth == "piano"),
-      int_range = c(0, 15),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      bootstrap_iter = BOOTSTRAP_REPS,
-      smooth_bandwidth = experiment$smooth_bandwidth
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
-  ),
-  Experiment(
-    "Bonang dyads",
-    timbre = GamelanTone$new(),
-    timbre_bass = BasicHarmonicTone$new(
-      n_harmonics = 4,
-      decay_dB_per_octave = 0
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(0, 15)
-    ),
-    data = ~ DyadRating$new(
-      "input/data-csv/Rating/gamelan_dyad_gamdyrt.csv",
-      int_range = c(0, 15),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      bootstrap_iter = BOOTSTRAP_REPS,
-      smooth_bandwidth = experiment$smooth_bandwidth
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
-  ),
-  Experiment(
-    "Major 3rd (3 dB roll-off)",
-    timbre = BasicHarmonicTone$new(
-      label = "3 dB roll-off",
-      n_harmonics = 10, 
-      decay_dB_per_octave = 3, 
-      octave_definition = 2.0
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(3.65, 4.15)
-    ),
-    data = ~ DyadRating$new(
-      "input/data-csv/rating/tuning_4_tun3p9.csv",
-      int_range = c(3.65, 4.15),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_bandwidth = experiment$smooth_bandwidth,
-      bootstrap_iter = BOOTSTRAP_REPS
-      # gamma = TUNING_GAM_GAMMA
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
-  ),
-  Experiment(
-    "Major 3rd (12 dB roll-off)",
-    timbre = BasicHarmonicTone$new(
-      label = "12 dB roll-off",
-      n_harmonics = 10, 
-      decay_dB_per_octave = 12, 
-      octave_definition = 2.0
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(3.65, 4.15)
-    ),
-    data = ~ DyadRating$new(
-      "input/data-csv/rating/tuning_4_t12d3p9_12db.csv",
-      int_range = c(3.65, 4.15),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_bandwidth = experiment$smooth_bandwidth,
-      bootstrap_iter = BOOTSTRAP_REPS
-      # gamma = TUNING_GAM_GAMMA
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
-  ),
-  Experiment(
-    "Major 3rd (pure tones)",
-    timbre = BasicHarmonicTone$new(
-      label = "Pure tones",
-      n_harmonics = 1, 
-      decay_dB_per_octave = 12, 
-      octave_definition = 2.0
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(3.65, 4.15)
-    ),
-    data = ~ DyadRating$new(
-      "input/data-csv/rating/tuning_4_tunp39.csv",
-      int_range = c(3.65, 4.15),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_bandwidth = experiment$smooth_bandwidth,
-      bootstrap_iter = BOOTSTRAP_REPS
-      # gamma = TUNING_GAM_GAMMA
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW
-  ),
-  Experiment(
-    "Major 6th (3 dB roll-off)",
-    timbre = BasicHarmonicTone$new(
-      label = "3 dB roll-off",
-      n_harmonics = 10, 
-      decay_dB_per_octave = 3, 
-      octave_definition = 2.0
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(8.65, 9.15)
-    ),
-    data = ~ DyadRating$new(
-      "input/data-csv/rating/tuning_9_tun8p9.csv",
-      int_range = c(8.65, 9.15),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_bandwidth = experiment$smooth_bandwidth,
-      bootstrap_iter = BOOTSTRAP_REPS
-      # gamma = TUNING_GAM_GAMMA
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
-  ),
-  Experiment(
-    "Major 6th (12 dB roll-off)",
-    timbre = BasicHarmonicTone$new(
-      label = "12 dB roll-off",
-      n_harmonics = 10, 
-      decay_dB_per_octave = 12, 
-      octave_definition = 2.0
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(8.65, 9.15)
-    ),
-    data = ~ DyadRating$new(
-      "input/data-csv/rating/tuning_9_t128p9_12db.csv",
-      int_range = c(8.65, 9.15),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_bandwidth = experiment$smooth_bandwidth,
-      bootstrap_iter = BOOTSTRAP_REPS
-      # gamma = TUNING_GAM_GAMMA
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
-  ),
-  Experiment(
-    "Major 6th (pure tones)",
-    timbre = BasicHarmonicTone$new(
-      label = "Pure tones",
-      n_harmonics = 1, 
-      decay_dB_per_octave = 12, 
-      octave_definition = 2.0
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(8.65, 9.15)
-    ),
-    data = ~ DyadRating$new(
-      "input/data-csv/rating/tuning_9_tunp89.csv",
-      int_range = c(8.65, 9.15),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_bandwidth = experiment$smooth_bandwidth,
-      bootstrap_iter = BOOTSTRAP_REPS
-      # TUNING_GAM_GAMMA
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
-  ),
-  Experiment(
-    "Octave (3 dB roll-off)",
-    timbre = BasicHarmonicTone$new(
-      label = "3 dB roll-off",
-      n_harmonics = 10, 
-      decay_dB_per_octave = 3, 
-      octave_definition = 2.0
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(11.75, 12.25)
-    ),
-    data = ~ DyadRating$new(
-      "input/data-csv/rating/tuning_12_tunoch.csv",
-      int_range = c(11.75, 12.25),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_bandwidth = experiment$smooth_bandwidth,
-      bootstrap_iter = BOOTSTRAP_REPS
-      # TUNING_GAM_GAMMA
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
-  ),
-  Experiment(
-    "Octave (12 dB roll-off)",
-    timbre = BasicHarmonicTone$new(
-      label = "12 dB roll-off",
-      n_harmonics = 10, 
-      decay_dB_per_octave = 12, 
-      octave_definition = 2.0
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(11.75, 12.25)
-    ),
-    data = ~ DyadRating$new(
-      "input/data-csv/rating/tuning_12_t12och_12db.csv",
-      int_range = c(11.75, 12.25),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_bandwidth = experiment$smooth_bandwidth,
-      bootstrap_iter = BOOTSTRAP_REPS
-      # TUNING_GAM_GAMMA
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
-  ),
-  Experiment(
-    "Octave (pure tones)",
-    timbre = BasicHarmonicTone$new(
-      label = "Pure tones",
-      n_harmonics = 1, 
-      decay_dB_per_octave = 12, 
-      octave_definition = 2.0
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(11.75, 12.25)
-    ),
-    data = ~ DyadRating$new(
-      "input/data-csv/rating/tuning_12_tunocp.csv",
-      int_range = c(11.75, 12.25),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_bandwidth = experiment$smooth_bandwidth,
-      bootstrap_iter = BOOTSTRAP_REPS
-      # TUNING_GAM_GAMMA
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
   )
+#   Experiment(
+#     "Compressed dyads (3 dB roll-off) (Korean)",
+#     timbre = BasicHarmonicTone$new(
+#       label = "Compressed",
+#       n_harmonics = 10,
+#       decay_dB_per_octave = 3,
+#       octave_definition = 1.9
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(0, 15)
+#     ),
+#     data = ~ DyadRating$new(
+#       "input/data-csv/rating/korean_dyad_comp.csv",
+#       int_range = c(0, 15),
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       smooth_bandwidth = experiment$smooth_bandwidth,
+#       bootstrap_iter = BOOTSTRAP_REPS
+#     ),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
+#   ),
+#   Experiment(
+#     "Compressed triads (3 dB roll-off)",
+#     timbre = BasicHarmonicTone$new(
+#       label = "Compressed",
+#       n_harmonics = 10,
+#       decay_dB_per_octave = 3,
+#       octave_definition = 1.9
+#     ),
+#     domain = Domain(
+#       label = "Triads",
+#       n_dimensions = 2,
+#       int_1_range = c(0.5, 8.5),
+#       int_2_range = c(0.5, 8.5)
+#     ),
+#     data = ~ TriadGSP$new(
+#       file = "input/data-csv/GSP/compressed_GSP_3db_trdc3d.csv",
+#       smooth_bandwidth = experiment$smooth_bandwidth,
+#       resolution = RESOLUTION_BEHAVIOURAL_2D,
+#       int_1_range = c(0.5, 8.5),
+#       int_2_range = c(0.5, 8.5)
+#     ),
+#     smooth_bandwidth = BANDWIDTH_GSP_2D
+#   ),
+#   Experiment(
+#     "Harmonic dyads (5 equal harmonics)",
+#     timbre = HarmonicTone$new(
+#       label = "5 equal harmonics",
+#       harmonic_amplitudes = c(1, 1, 1, 1, 1),
+#       octave_definition = 2.0
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(0, 15)
+#     ),
+#     data = ~ DyadRating$new(
+#       "input/data-csv/rating/rating_w3rdd.csv",
+#       int_range = c(0, 15),
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       bootstrap_iter = BOOTSTRAP_REPS,
+#       smooth_bandwidth = experiment$smooth_bandwidth
+#     ),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
+#   ),
+#   Experiment(
+#     "Harmonic dyads (no 3rd harmonic)",
+#     timbre = HarmonicTone$new(
+#       label = "No 3rd harmonic",
+#       harmonic_amplitudes = c(1, 1, 0, 1, 1),
+#       octave_definition = 2.0
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(0, 15)
+#     ),
+#     data = ~ DyadRating$new(
+#       "input/data-csv/rating/rating_wo3rdd.csv",
+#       int_range = c(0, 15),
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       bootstrap_iter = BOOTSTRAP_REPS,
+#       smooth_bandwidth = experiment$smooth_bandwidth
+#     ),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
+#   ),
+#   Experiment(
+#     "Pure dyads",
+#     timbre = PureTone$new(
+#       label = "Pure"
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(0, 15)
+#     ),
+#     data = ~ DyadRating$new(
+#       "input/data-csv/rating/pure_dyad_purdyrt.csv",
+#       int_range = c(0, 15),
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       bootstrap_iter = BOOTSTRAP_REPS,
+#       smooth_bandwidth = experiment$smooth_bandwidth
+#     ),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
+#   ),
+#   Experiment(
+#     "Flute dyads",
+#     timbre = HarmonicTone$new(
+#       label = "Flute",
+#       harmonic_amplitudes = get_instrument_amplitudes("flute", num_harmonics = 10),
+#       octave_definition = 2.0
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(0, 15)
+#     ),
+#     data = ~ DyadRating$new(
+#       read_csv("input/data-csv/Rating/rating_flute_harmonic_harflt.csv", col_types = cols()) %>%
+#         filter(synth == "flute"),
+#       int_range = c(0, 15),
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       bootstrap_iter = BOOTSTRAP_REPS,
+#       smooth_bandwidth = experiment$smooth_bandwidth
+#     ),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
+#   ),
+#   Experiment(
+#     "Guitar dyads",
+#     timbre = HarmonicTone$new(
+#       harmonic_amplitudes = get_instrument_amplitudes("guitar", num_harmonics = 10),
+#       octave_definition = 2.0,
+#       label = "Guitar"
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(0, 15)
+#     ),
+#     data = ~ DyadRating$new(
+#       read_csv("input/data-csv/Rating/rating_guitar_harmonic_hargtr.csv", col_types = cols()) %>%
+#         filter(synth == "guitar"),
+#       int_range = c(0, 15),
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       bootstrap_iter = BOOTSTRAP_REPS,
+#       smooth_bandwidth = experiment$smooth_bandwidth
+#     ),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
+#   ),
+#   Experiment(
+#     "Piano dyads",
+#     timbre = HarmonicTone$new(
+#       harmonic_amplitudes = get_instrument_amplitudes("piano", num_harmonics = 10),
+#       octave_definition = 2.0,
+#       label = "Piano"
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(0, 15)
+#     ),
+#     data = ~ DyadRating$new(
+#       read_csv("input/data-csv/Rating/rating_piano_harmonic_harpno.csv", col_types = cols()) %>%
+#         filter(synth == "piano"),
+#       int_range = c(0, 15),
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       bootstrap_iter = BOOTSTRAP_REPS,
+#       smooth_bandwidth = experiment$smooth_bandwidth
+#     ),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
+#   ),
+#   Experiment(
+#     "Bonang dyads",
+#     timbre = GamelanTone$new(),
+#     timbre_bass = BasicHarmonicTone$new(
+#       n_harmonics = 4,
+#       decay_dB_per_octave = 0
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(0, 15)
+#     ),
+#     data = ~ DyadRating$new(
+#       "input/data-csv/Rating/gamelan_dyad_gamdyrt.csv",
+#       int_range = c(0, 15),
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       bootstrap_iter = BOOTSTRAP_REPS,
+#       smooth_bandwidth = experiment$smooth_bandwidth
+#     ),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
+#   ),
+#   Experiment(
+#     "Major 3rd (3 dB roll-off)",
+#     timbre = BasicHarmonicTone$new(
+#       label = "3 dB roll-off",
+#       n_harmonics = 10, 
+#       decay_dB_per_octave = 3, 
+#       octave_definition = 2.0
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(3.65, 4.15)
+#     ),
+#     data = ~ DyadRating$new(
+#       "input/data-csv/rating/tuning_4_tun3p9.csv",
+#       int_range = c(3.65, 4.15),
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       smooth_bandwidth = experiment$smooth_bandwidth,
+#       bootstrap_iter = BOOTSTRAP_REPS
+#       # gamma = TUNING_GAM_GAMMA
+#     ),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
+#   ),
+#   Experiment(
+#     "Major 3rd (12 dB roll-off)",
+#     timbre = BasicHarmonicTone$new(
+#       label = "12 dB roll-off",
+#       n_harmonics = 10, 
+#       decay_dB_per_octave = 12, 
+#       octave_definition = 2.0
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(3.65, 4.15)
+#     ),
+#     data = ~ DyadRating$new(
+#       "input/data-csv/rating/tuning_4_t12d3p9_12db.csv",
+#       int_range = c(3.65, 4.15),
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       smooth_bandwidth = experiment$smooth_bandwidth,
+#       bootstrap_iter = BOOTSTRAP_REPS
+#       # gamma = TUNING_GAM_GAMMA
+#     ),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
+#   ),
+#   Experiment(
+#     "Major 3rd (pure tones)",
+#     timbre = BasicHarmonicTone$new(
+#       label = "Pure tones",
+#       n_harmonics = 1, 
+#       decay_dB_per_octave = 12, 
+#       octave_definition = 2.0
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(3.65, 4.15)
+#     ),
+#     data = ~ DyadRating$new(
+#       "input/data-csv/rating/tuning_4_tunp39.csv",
+#       int_range = c(3.65, 4.15),
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       smooth_bandwidth = experiment$smooth_bandwidth,
+#       bootstrap_iter = BOOTSTRAP_REPS
+#       # gamma = TUNING_GAM_GAMMA
+#     ),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW
+#   ),
+#   Experiment(
+#     "Major 6th (3 dB roll-off)",
+#     timbre = BasicHarmonicTone$new(
+#       label = "3 dB roll-off",
+#       n_harmonics = 10, 
+#       decay_dB_per_octave = 3, 
+#       octave_definition = 2.0
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(8.65, 9.15)
+#     ),
+#     data = ~ DyadRating$new(
+#       "input/data-csv/rating/tuning_9_tun8p9.csv",
+#       int_range = c(8.65, 9.15),
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       smooth_bandwidth = experiment$smooth_bandwidth,
+#       bootstrap_iter = BOOTSTRAP_REPS
+#       # gamma = TUNING_GAM_GAMMA
+#     ),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
+#   ),
+#   Experiment(
+#     "Major 6th (12 dB roll-off)",
+#     timbre = BasicHarmonicTone$new(
+#       label = "12 dB roll-off",
+#       n_harmonics = 10, 
+#       decay_dB_per_octave = 12, 
+#       octave_definition = 2.0
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(8.65, 9.15)
+#     ),
+#     data = ~ DyadRating$new(
+#       "input/data-csv/rating/tuning_9_t128p9_12db.csv",
+#       int_range = c(8.65, 9.15),
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       smooth_bandwidth = experiment$smooth_bandwidth,
+#       bootstrap_iter = BOOTSTRAP_REPS
+#       # gamma = TUNING_GAM_GAMMA
+#     ),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
+#   ),
+#   Experiment(
+#     "Major 6th (pure tones)",
+#     timbre = BasicHarmonicTone$new(
+#       label = "Pure tones",
+#       n_harmonics = 1, 
+#       decay_dB_per_octave = 12, 
+#       octave_definition = 2.0
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(8.65, 9.15)
+#     ),
+#     data = ~ DyadRating$new(
+#       "input/data-csv/rating/tuning_9_tunp89.csv",
+#       int_range = c(8.65, 9.15),
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       smooth_bandwidth = experiment$smooth_bandwidth,
+#       bootstrap_iter = BOOTSTRAP_REPS
+#       # TUNING_GAM_GAMMA
+#     ),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
+#   ),
+#   Experiment(
+#     "Octave (3 dB roll-off)",
+#     timbre = BasicHarmonicTone$new(
+#       label = "3 dB roll-off",
+#       n_harmonics = 10, 
+#       decay_dB_per_octave = 3, 
+#       octave_definition = 2.0
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(11.75, 12.25)
+#     ),
+#     data = ~ DyadRating$new(
+#       "input/data-csv/rating/tuning_12_tunoch.csv",
+#       int_range = c(11.75, 12.25),
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       smooth_bandwidth = experiment$smooth_bandwidth,
+#       bootstrap_iter = BOOTSTRAP_REPS
+#       # TUNING_GAM_GAMMA
+#     ),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
+#   ),
+#   Experiment(
+#     "Octave (12 dB roll-off)",
+#     timbre = BasicHarmonicTone$new(
+#       label = "12 dB roll-off",
+#       n_harmonics = 10, 
+#       decay_dB_per_octave = 12, 
+#       octave_definition = 2.0
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(11.75, 12.25)
+#     ),
+#     data = ~ DyadRating$new(
+#       "input/data-csv/rating/tuning_12_t12och_12db.csv",
+#       int_range = c(11.75, 12.25),
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       smooth_bandwidth = experiment$smooth_bandwidth,
+#       bootstrap_iter = BOOTSTRAP_REPS
+#       # TUNING_GAM_GAMMA
+#     ),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
+#   ),
+#   Experiment(
+#     "Octave (pure tones)",
+#     timbre = BasicHarmonicTone$new(
+#       label = "Pure tones",
+#       n_harmonics = 1, 
+#       decay_dB_per_octave = 12, 
+#       octave_definition = 2.0
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(11.75, 12.25)
+#     ),
+#     data = ~ DyadRating$new(
+#       "input/data-csv/rating/tuning_12_tunocp.csv",
+#       int_range = c(11.75, 12.25),
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       smooth_bandwidth = experiment$smooth_bandwidth,
+#       bootstrap_iter = BOOTSTRAP_REPS
+#       # TUNING_GAM_GAMMA
+#     ),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_NARROW,
+#   )
 )
-
-for (roll_off in c(2, 7, 12)) {
-  .data <- function(roll_off) {
-    force(roll_off)
-    ~ DyadRatingByRollOffSlice$new(
-      read_csv(
-        "input/data-csv/Rating/rolloff_dyad_rodyrt.csv",
-        col_types = cols()
-      ) %>%
-        rename(interval = intervals, roll_off = rolloff),
-      int_range = c(0, 15),
-      roll_off = roll_off,
-      roll_off_sigma = ROLL_OFF_SMOOTH,
-      interval_sigma = experiment$smooth_bandwidth,
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      bootstrap_iter = BOOTSTRAP_REPS
-    )
-  }
-  
-  EXPERIMENTS[[1 + length(EXPERIMENTS)]] <- Experiment(
-    "%s dB roll-off (harmonic dyads)" %>% sprintf(roll_off),
-    timbre = BasicHarmonicTone$new(
-      label = paste0(roll_off, " dB/octave\nroll-off"),
-      n_harmonics = 10,
-      decay_dB_per_octave = roll_off,
-      octave_definition = 2.0
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(0, 15)
-    ),
-    data = .data(roll_off),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD,
-    rescale_combined_model_within_experiment = FALSE
-  )
-}
+# 
+# for (roll_off in c(2, 7, 12)) {
+#   .data <- function(roll_off) {
+#     force(roll_off)
+#     ~ DyadRatingByRollOffSlice$new(
+#       read_csv(
+#         "input/data-csv/Rating/rolloff_dyad_rodyrt.csv",
+#         col_types = cols()
+#       ) %>%
+#         rename(interval = intervals, roll_off = rolloff),
+#       int_range = c(0, 15),
+#       roll_off = roll_off,
+#       roll_off_sigma = ROLL_OFF_SMOOTH,
+#       interval_sigma = experiment$smooth_bandwidth,
+#       resolution = RESOLUTION_BEHAVIOURAL_1D,
+#       bootstrap_iter = BOOTSTRAP_REPS
+#     )
+#   }
+#   
+#   EXPERIMENTS[[1 + length(EXPERIMENTS)]] <- Experiment(
+#     "%s dB roll-off (harmonic dyads)" %>% sprintf(roll_off),
+#     timbre = BasicHarmonicTone$new(
+#       label = paste0(roll_off, " dB/octave\nroll-off"),
+#       n_harmonics = 10,
+#       decay_dB_per_octave = roll_off,
+#       octave_definition = 2.0
+#     ),
+#     domain = Domain(
+#       label = "Dyads",
+#       n_dimensions = 1,
+#       int_range = c(0, 15)
+#     ),
+#     data = .data(roll_off),
+#     smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD,
+#     rescale_combined_model_within_experiment = FALSE
+#   )
+# }
 
 export_behavioural <- function(dir, experiment) {
   message(sprintf(". Exporting behavioural data for %s...", experiment$label))

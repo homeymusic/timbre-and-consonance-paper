@@ -1,3 +1,2001 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:61965dce97a298a194ef09146920e772c93baa6ea12a6e9a001860201d1fd377
-size 98739
+interval,output,model_id,model_label,model_theory,model_colour,timbre_label
+0,131.12601992036102,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.015015015015015015,131.08920228359926,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.03003003003003003,131.04178287182197,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.04504504504504504,130.98170845652282,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.06006006006006006,130.90660207137145,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.07507507507507508,130.81372648355662,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.09009009009009009,130.6999470770254,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.10510510510510511,130.56169516574445,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.12012012012012012,130.39493302350195,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.13513513513513514,130.19512219994238,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.15015015015015015,129.9571969777728,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.16516516516516516,129.67554509655704,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.18018018018018017,129.3439981031591,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.19519519519519518,128.95583386306276,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.21021021021021022,128.50379385315807,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.22522522522522523,127.98011782692237,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.24024024024024024,127.3765982702636,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.2552552552552553,126.68465672768608,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.2702702702702703,125.89544355807277,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.2852852852852853,124.99996197162316,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.3003003003003003,123.98921631174173,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.3153153153153153,122.85438350031026,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.3303303303303303,121.5870054000788,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.34534534534534533,120.17919861738818,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.36036036036036034,118.62387703856739,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.37537537537537535,116.91498123960623,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.39039039039039036,115.04770791026762,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.40540540540540543,113.01873166725927,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.42042042042042044,110.8264111639456,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.43543543543543545,108.47097128866352,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.45045045045045046,105.95465351222956,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.46546546546546547,103.28182710651758,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.4804804804804805,100.45905499430319,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.4954954954954955,97.49510936642783,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.5105105105105106,94.40093385538815,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.5255255255255256,91.18955090771667,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.5405405405405406,87.87591496281335,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.5555555555555556,84.47671402951526,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.5705705705705706,81.01012416019924,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.5855855855855856,77.49552306754842,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.6006006006006006,73.95317063308742,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.6156156156156156,70.40386525439132,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.6306306306306306,66.86858582057668,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.6456456456456456,63.3681295619515,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.6606606606606606,59.92275607644305,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.6756756756756757,56.55184749780562,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.6906906906906907,53.27359406122949,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.7057057057057057,50.10471327935533,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.7207207207207207,47.060209618183094,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.7357357357357357,44.15318002136243,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.7507507507507507,41.39466894415582,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.7657657657657657,38.793574800552896,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.7807807807807807,36.35660797472956,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.7957957957957957,34.088298874197804,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.8108108108108109,31.99105297277551,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.8258258258258259,30.06524846327457,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.8408408408408409,28.309371056632585,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.8558558558558559,26.72017965620394,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.8708708708708709,25.29289611838881,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.8858858858858859,24.021412084315497,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.9009009009009009,22.898505918712864,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.9159159159159159,21.916063096102164,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.9309309309309309,21.065293895848484,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.9459459459459459,20.336942964095986,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.960960960960961,19.7214861255312,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.975975975975976,19.209310733204973,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.990990990990991,18.79087678348646,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.006006006006006,18.45685695241996,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.021021021021021,18.198254591588285,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.0360360360360361,18.00649952518161,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.0510510510510511,17.87352219208415,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.0660660660660661,17.791807262061603,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.0810810810810811,17.75442831584099,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.0960960960960962,17.755065514281863,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.1111111111111112,17.78800839721977,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.1261261261261262,17.848146058024735,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.1411411411411412,17.930946949108712,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.1561561561561562,18.032430502442736,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.1711711711711712,18.149132614544193,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.1861861861861862,18.278066864274983,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.2012012012012012,18.416683120128486,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.2162162162162162,18.562824965859683,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.2312312312312312,18.714687141650483,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.2462462462462462,18.87077397251482,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.2612612612612613,19.02985954398193,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.2762762762762763,19.190950192609805,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.2912912912912913,19.353249708861522,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.3063063063063063,19.516127503820137,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.3213213213213213,19.67908986916251,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.3363363363363363,19.841754360677356,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.3513513513513513,20.003827257538802,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.3663663663663663,20.1650839901691,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.3813813813813813,20.32535238625499,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.3963963963963963,20.4844985546772,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.4114114114114114,20.642415208248316,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.4264264264264264,20.799012215909144,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.4414414414414414,20.95420917135982,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.4564564564564564,21.107929766259083,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.4714714714714714,21.26009776066826,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.4864864864864864,21.4106343502199,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.5015015015015014,21.55945673769992,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.5165165165165164,21.70647772576135,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.5315315315315314,21.851606156994993,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.5465465465465464,21.99474803742958,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.5615615615615615,22.13580818976755,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.5765765765765765,22.2746922934663,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.5915915915915915,22.411309180418225,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.6066066066066067,22.54557326777237,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.6216216216216217,22.67740702363817,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.6366366366366367,22.80674337717347,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.6516516516516517,22.93352800185951,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.6666666666666667,23.057721419332296,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.6816816816816818,23.179300890414112,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.6966966966966968,23.29826207910749,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.7117117117117118,23.414620493134493,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.7267267267267268,23.528412719755256,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.7417417417417418,23.639697486619827,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.7567567567567568,23.748556582851826,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.7717717717717718,23.855095674228824,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.7867867867867868,23.959445037414728,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.8018018018018018,24.06176022153364,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.8168168168168168,24.16222262154043,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.8318318318318318,24.261039918314808,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.8468468468468469,24.35844630756024,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.8618618618618619,24.454702406652178,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.8768768768768769,24.55009469943644,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.8918918918918919,24.64493435789887,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.906906906906907,24.73955527087661,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.921921921921922,24.834311117380498,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.936936936936937,24.92957134853053,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.951951951951952,25.025715989059083,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.966966966966967,25.123129236494474,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.981981981981982,25.222191921111495,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.996996996996997,25.323272987946055,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.012012012012012,25.42672026695417,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.027027027027027,25.532850900318667,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.042042042042042,25.641941887317365,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.057057057057057,25.75422127693719,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.0720720720720722,25.869860576842235,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.0870870870870872,25.988968946061263,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.1021021021021022,26.111589691900452,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.1171171171171173,26.237699496368265,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.1321321321321323,26.367210654995358,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.1471471471471473,26.49997642676349,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.1621621621621623,26.635799377689786,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.1771771771771773,26.77444236614747,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.1921921921921923,26.915641582171748,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.2072072072072073,27.05912083482978,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.2222222222222223,27.204606100957054,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.2372372372372373,27.3518392240099,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.2522522522522523,27.500589599720715,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.2672672672672673,27.650662717765197,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.2822822822822824,27.80190455232244,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.2972972972972974,27.954201009218206,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.3123123123123124,28.10747193614939,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.3273273273273274,28.261659571008522,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.3423423423423424,28.4167117206757,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.3573573573573574,28.57256040246588,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.3723723723723724,28.7290971125175,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.3873873873873874,28.886146277748157,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.4024024024024024,29.04343876902212,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.4174174174174174,29.20058757412032,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.4324324324324325,29.357067826311262,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.4474474474474475,29.51220334121277,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.4624624624624625,29.665161623267426,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.4774774774774775,29.814958965207268,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.4924924924924925,29.96047679099398,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.5075075075075075,30.10048980610952,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.5225225225225225,30.23370584848578,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.5375375375375375,30.358816615417236,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.5525525525525525,30.474557717779145,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.5675675675675675,30.57977582621101,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.5825825825825826,30.673500067471785,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.5975975975975976,30.75501434249195,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.6126126126126126,30.823926904491703,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.6276276276276276,30.880233381677925,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.6426426426426426,30.9243694706156,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.6576576576576576,30.95724976884002,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.6726726726726726,30.980289652977373,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.6876876876876876,30.995407725105018,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.7027027027027026,31.005007118921228,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.7177177177177176,31.011934843686387,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.7327327327327327,31.01941930651531,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.7477477477477477,31.030987146862387,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.7627627627627627,31.05036149354684,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.7777777777777777,31.081344667659923,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.7927927927927927,31.127689160429654,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.8078078078078077,31.19296137496435,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.8228228228228227,31.280403103059154,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.8378378378378377,31.392795989530494,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.8528528528528527,31.53233430269044,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.8678678678678677,31.700511176134988,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.8828828828828827,31.898023119243078,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.8978978978978978,32.12469702617429,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.9129129129129128,32.37944316866068,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.9279279279279278,32.660236766733746,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.942942942942943,32.96412972979896,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.957957957957958,33.28729308850217,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.972972972972973,33.62508953846028,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.987987987987988,33.9721744337167,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.003003003003003,34.32262254321013,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.018018018018018,34.67007695732236,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.033033033033033,35.00791573903846,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.048048048048048,35.329431284989774,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.063063063063063,35.62801691831195,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.078078078078078,35.8973549926831,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.093093093093093,36.131600751582916,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.108108108108108,36.3255563566088,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.123123123123123,36.47482986304552,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.138138138138138,36.57597446133266,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.153153153153153,36.62660399411665,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.168168168168168,36.62548156891975,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.183183183183183,36.57257898054046,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.198198198198198,36.46910559700437,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.2132132132132134,36.31750630944519,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.2282282282282284,36.12142906218895,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.2432432432432434,35.88566333013227,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.2582582582582584,35.616051666613636,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.2732732732732734,35.31937708292057,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.2882882882882885,35.00322952410495,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.3033033033033035,34.675855066423736,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.3183183183183185,34.345991678905385,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.3333333333333335,34.02269547216743,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.3483483483483485,33.715161315213535,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.3633633633633635,33.43254155438389,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.3783783783783785,33.18376634053416,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.3933933933933935,32.97736878540531,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.4084084084084085,32.82131785059306,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.4234234234234235,32.722861545333664,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.4384384384384385,32.68838269189068,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.4534534534534536,32.72326922438815,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.4684684684684686,32.83180072766339,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.4834834834834836,33.017052700356246,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.4984984984984986,33.28081983844205,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.5135135135135136,33.623559473990014,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.5285285285285286,34.04435615715282,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.5435435435435436,34.54090822254884,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.5585585585585586,35.109537018371284,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.5735735735735736,35.74521928231601,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.5885885885885886,36.441642909423635,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.6036036036036037,37.191286063385995,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.6186186186186187,37.985519229633404,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.6336336336336337,38.81472939587862,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.6486486486486487,39.66846507976178,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.6636636636636637,40.53560041543483,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.6786786786786787,41.40451597801248,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.6936936936936937,42.2632934876044,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.7087087087087087,43.09992101683855,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.7237237237237237,43.902504852645166,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.7387387387387387,44.659483759848754,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.7537537537537538,45.35984108466204,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.7687687687687688,45.99330994151774,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.7837837837837838,46.55056666386776,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.798798798798799,47.02340778076363,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.813813813813814,47.40490601276145,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.828828828828829,47.6895411635544,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.843843843843844,47.8733023122518,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.858858858858859,47.95375837399625,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.873873873873874,47.93009487673356,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.888888888888889,47.80311567754443,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.903903903903904,47.575209286964125,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.918918918918919,47.250280454747916,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.933933933933934,46.833648663853985,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.948948948948949,46.33191614796491,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.963963963963964,45.75280895844602,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.978978978978979,45.104995426985326,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.993993993993994,44.397887070169304,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.009009009009009,43.641427535058725,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.024024024024024,42.845875567960896,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.039039039039039,42.021588184895734,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.054054054054054,41.178810220769876,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.069069069069069,40.32747623091348,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.084084084084084,39.47703031654582,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.099099099099099,38.63626885549456,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.114114114114114,37.813210358879495,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.129129129129129,37.01499576801175,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.1441441441441444,36.24782148388017,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.1591591591591595,35.516906319536496,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.1741741741741745,34.82649242211956,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.1891891891891895,34.179879066746054,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.2042042042042045,33.57948711984618,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.2192192192192195,33.026950944104975,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.2342342342342345,32.523233607312285,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.2492492492492495,32.06876049494879,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.2642642642642645,31.663565837347445,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.2792792792792795,31.307446266208448,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.2942942942942945,31.000115324266385,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.3093093093093096,30.741352870618318,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.324324324324325,30.531143549718813,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.33933933933934,30.369798914299075,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.354354354354355,30.25805839491905,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.36936936936937,30.197165069269218,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.384384384384385,30.18891307575429,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.3993993993994,30.23566450769162,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.414414414414415,30.34033468347033,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.42942942942943,30.506345779563258,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.444444444444445,30.737549902227602,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.45945945945946,31.038123725444464,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.474474474474475,31.41243780390949,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.48948948948949,31.86490454973751,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.504504504504505,32.39980961205389,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.51951951951952,33.02113199569109,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.534534534534535,33.73235867915787,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.54954954954955,34.536299728450224,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.564564564564565,35.434909943456866,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.57957957957958,36.429122915310145,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.594594594594595,37.518703020380414,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.60960960960961,38.70212034092216,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.624624624624625,39.976452801749794,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.63963963963964,41.33731897136021,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.654654654654655,42.77884402512803,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.66966966966967,44.29366034294656,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.684684684684685,45.87294315286138,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.6996996996997,47.506480576616646,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.714714714714715,49.18277642333994,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.72972972972973,50.889183152547375,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.744744744744745,52.61206162186673,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.75975975975976,54.33696357698834,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.774774774774775,56.04883235236148,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.78978978978979,57.73221694319703,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.804804804804805,59.371494485005066,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.81981981981982,60.95109622910349,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.834834834834835,62.45573231510761,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.84984984984985,63.87061099023011,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.864864864864865,65.18164837998988,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.87987987987988,66.37566544136973,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.894894894894895,67.44056929178828,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.90990990990991,68.36551667079546,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.924924924924925,69.14105782506795,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.93993993993994,69.75925958579754,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.954954954954955,70.21380681312394,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.96996996996997,70.50008170568962,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.984984984984985,70.61522071439911,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5,70.5581489663459,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.015015015015015,70.3295922132921,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.03003003003003,69.93206639034123,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.045045045045045,69.3698449291866,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.06006006006006,68.64890404196309,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.075075075075075,67.7768462998659,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.09009009009009,66.76280299452664,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.105105105105105,65.6173160024368,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.12012012012012,64.3522001782221,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.135135135135135,62.98038767721372,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.15015015015015,61.515756038556844,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.165165165165165,59.97294232592093,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.18018018018018,58.36714609601988,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.195195195195195,56.713924413409764,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.21021021021021,55.028982519355466,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.225225225225225,53.32796405989548,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.24024024024024,51.626244954340535,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.255255255255255,49.93873501758126,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.27027027027027,48.27969132358106,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.285285285285285,46.66254700928733,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.3003003003003,45.09975877473611,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.315315315315315,43.60267575393035,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.33033033033033,42.18143173949581,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.345345345345345,40.84486197753637,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.36036036036036,39.600444948523275,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.375375375375375,38.454268759237664,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.39039039039039,37.41102103315246,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.405405405405405,36.47400054217478,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.42042042042042,35.64514830499784,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.435435435435435,34.925095511350065,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.45045045045045,34.31322543156425,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.465465465465465,33.80774644002325,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.48048048048048,33.40577341043648,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.495495495495495,33.10341501091932,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.51051051051051,32.895864808469526,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.525525525525525,32.77749454946834,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.54054054054054,32.74194847467176,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.555555555555555,32.782238011780144,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.57057057057057,32.89083662581837,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.585585585585585,33.0597749616569,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.6006006006006,33.280736655825976,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.615615615615615,33.54515530746235,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.63063063063063,33.8443130726636,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.645645645645645,34.16944118588178,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.66066066066066,34.51182243046076,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.675675675675675,34.8628952021565,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.6906906906906904,35.21435836675935,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.7057057057057055,35.55827564382286,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.7207207207207205,35.887177794012196,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.7357357357357355,36.19416048870455,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.7507507507507505,36.472975435153685,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.7657657657657655,36.71811215090991,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.7807807807807805,36.924867751220475,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.7957957957957955,37.08940224681156,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.8108108108108105,37.20877714970057,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.8258258258258255,37.28097564304782,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.8408408408408405,37.304903168150474,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.8558558558558556,37.28036798840738,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.870870870870871,37.20804206948186,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.885885885885886,37.08940342451188,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.900900900900901,36.92666186785679,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.915915915915916,36.72267085543369,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.930930930930931,36.48082872205863,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.945945945945946,36.204973119788576,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.960960960960961,35.899272787254766,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.975975975975976,35.568120918970074,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.990990990990991,35.216034346595706,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.006006006006006,34.84756249289142,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.021021021021021,34.467209625630986,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.036036036036036,34.07937334454686,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.051051051051051,33.68830150856537,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.066066066066066,33.29806898819062,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.081081081081081,32.91257474748694,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.096096096096096,32.53555886157083,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.111111111111111,32.17063819783162,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.126126126126126,31.82135866833797,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.141141141141141,31.49126122865653,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.156156156156156,31.183958180546327,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.171171171171171,30.903215852315025,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.186186186186186,30.65303939412836,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.201201201201201,30.437755243094315,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.216216216216216,30.262086785685906,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.231231231231231,30.1312188694187,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.246246246246246,30.050847084241617,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.261261261261261,30.027208136565413,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.276276276276276,30.0670881629799,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.291291291291291,30.177806462869295,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.306306306306306,30.367172854700307,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.321321321321321,30.64341766417765,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.336336336336336,31.01509421708249,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.351351351351351,31.490954617286995,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.366366366366366,32.079800521062594,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.381381381381381,32.790311549834946,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.396396396396396,33.63085488971643,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.411411411411412,34.6092804794166,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.426426426426427,35.73270695799694,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.441441441441442,37.00730419820803,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.456456456456457,38.43807875713883,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.471471471471472,40.02866890209408,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.486486486486487,41.78115598753166,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.501501501501502,43.695898845347685,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.516516516516517,45.77139749001602,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.531531531531532,48.00419182575601,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.546546546546547,50.388800179796434,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.561561561561562,52.91770139094137,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.576576576576577,55.581362885638555,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.591591591591592,58.3683157164526,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.606606606606607,61.26527597304963,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.621621621621622,64.2573103651817,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.636636636636637,67.328042188427915,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.651651651651652,70.459892386966,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.666666666666667,73.63434909264143,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.681681681681682,76.83225791029938,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.696696696696697,80.03412439123434,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.711711711711712,83.22041963313616,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.726726726726727,86.37187979480082,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.741741741741742,89.46979052933474,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.756756756756757,92.496247915432,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.771771771771772,95.43438838015378,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.786786786786787,98.26858132008718,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.801801801801802,100.98457958840714,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.816816816816817,103.56962465976758,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.831831831831832,106.01250504186547,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.846846846846847,108.30356829674786,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.861861861861862,110.43468879094715,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.876876876876877,112.39919493915893,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.891891891891892,114.19176117580673,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.906906906906907,115.80827112605435,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.921921921921922,117.24565940752763,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.936936936936937,118.50174014369195,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.951951951951952,119.57503059026533,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.966966966966967,120.46457826131218,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.981981981981982,121.16979959856539,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.996996996996997,121.69033757466576,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.012012012012012,122.02594468747927,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.027027027027027,122.17639662653795,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.042042042042042,122.14144051945695,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.057057057057057,121.92078014719269,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.072072072072072,121.51409890771633,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.087087087087087,120.9211196661606,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.102102102102102,120.14169901493358,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.117117117117117,119.17595193831468,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.132132132132132,118.02440148925358,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.147147147147147,116.68814689430747,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.162162162162162,115.16904255329959,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.177177177177177,113.46987973358513,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.192192192192192,111.59456240608367,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.207207207207207,109.54826865224,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.222222222222222,107.33758939655222,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.237237237237237,104.97063688386382,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.252252252252252,102.45711630609173,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.267267267267267,99.80835525732974,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.282282282282282,97.03728721393372,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.297297297297297,94.15838693977305,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.312312312312312,91.18755753886951,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.327327327327327,88.1419707433736,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.342342342342342,85.03986385549405,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.357357357357357,81.900298478574,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.372372372372372,78.74288769957607,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.387387387387387,75.5874996549252,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.402402402402402,72.45394636719907,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.4174174174174174,69.36166733898932,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.4324324324324325,66.32941760637969,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.4474474474474475,63.37496977987739,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.4624624624624625,60.51483904568826,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.4774774774774775,57.764039193146374,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.4924924924924925,55.13587651929873,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.5075075075075075,52.64178699717256,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.5225225225225225,50.29122044867214,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.5375375375375375,48.091573711622814,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.5525525525525525,46.04817301122891,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.5675675675675675,44.164304015927904,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.5825825825825826,42.44128644810535,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.597597597597598,40.87858869494797,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.612612612612613,39.47397667645217,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.627627627627628,38.22369031602683,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.642642642642643,37.122640349958935,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.657657657657658,36.164617916595525,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.672672672672673,35.342509381761985,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.687687687687688,34.64850916801309,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.702702702702703,34.07432393461023,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.717717717717718,33.61136226587015,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.732732732732733,33.25090502347916,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.747747747747748,32.98425265405358,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.762762762762763,32.80284696420648,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.777777777777778,32.69836612840203,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.792792792792793,32.66279292789398,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.807807807807808,32.688457383037935,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.822822822822823,32.768055991863314,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.837837837837838,32.894650686651254,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.852852852852853,33.06165133623792,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.867867867867868,33.26278613181327,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.882882882882883,33.49206448384568,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.897897897897898,33.74373712235639,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.912912912912913,34.0122579362885,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.927927927927928,34.292251723447066,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.942942942942943,34.578491472229075,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.957957957957958,34.86588808954522,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.972972972972973,35.149494661768806,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.987987987987988,35.424526427833975,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.003003003003004,35.68639669931507,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.018018018018019,35.9307680259141,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.033033033033034,36.15361701949803,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.048048048048049,36.35131045551349,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.063063063063064,36.52068960177146,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.078078078078079,36.65915920868273,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.093093093093094,36.76477725111577,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.108108108108109,36.83634135003158,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.123123123123124,36.87346782238243,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.138138138138139,36.87665950176292,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.153153153153154,36.84735882308081,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.168168168168169,36.78798314831743,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.183183183183184,36.70193989848078,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.198198198198199,36.593619717299,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.213213213213214,36.46836659238684,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.228228228228229,36.3324245680806,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.243243243243244,36.19286137248963,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.258258258258259,36.05746992572918,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.273273273273274,35.93464927852299,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.288288288288289,35.833267038202216,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.303303303303304,35.76250576637534,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.318318318318319,35.731696178404476,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.333333333333334,35.75014024291325,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.348348348348349,35.82692747656287,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.363363363363364,35.97074786358776,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.378378378378379,36.18970490952023,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.393393393393394,36.49113237143007,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.408408408408409,36.88141819788987,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.423423423423424,37.36583916293659,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.438438438438439,37.94840958864249,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.453453453453454,38.63174741685708,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.468468468468469,39.41696070644879,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.483483483483484,40.30355739108746,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.498498498498499,41.28938082756205,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.513513513513514,42.37057329058892,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.528528528528529,43.541569124542626,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.543543543543544,44.79511874678642,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.558558558558559,46.12234411701493,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.573573573573574,47.51282565268727,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.588588588588589,48.95471989722507,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.603603603603604,50.434906554096244,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.618618618618619,51.93916280802583,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.633633633633634,53.45236218777565,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.64864864864865,54.95869460674319,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.663663663663664,56.44190367015095,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.67867867867868,57.88553688017981,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.693693693693694,59.27320401844716,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.70870870870871,60.58883874945382,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.723723723723724,61.81695837465838,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.73873873873874,62.94291667527441,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.753753753753754,63.953144908764536,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.76876876876877,64.8353762615403,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.783783783783784,65.57884939799538,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.7987987987988,66.17448717140353,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.813813813813814,66.6150470624258,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.82882882882883,66.89524047324792,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.843843843843844,67.01181861780118,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.85885885885886,66.9636234003362,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.873873873873874,66.75160235618677,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.88888888888889,66.3787874309719,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.903903903903904,65.85023808901391,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.91891891891892,65.17294995906532,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.933933933933934,64.3557309348644,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.94894894894895,63.409047336876085,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.963963963963964,62.344843394753,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.97897897897898,61.176337909970066,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.993993993993994,59.917802485093105,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.00900900900901,58.584326139197,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.024024024024024,57.191571446908625,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.03903903903904,55.75552752163063,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.054054054054054,54.29226519502351,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.06906906906907,52.817699612966486,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.084084084084084,51.34736516767387,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.0990990990991,49.8962072189402,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.114114114114114,48.47839443588199,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.12912912912913,47.10715483429919,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.144144144144144,45.79463772279077,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.15915915915916,44.55180283948771,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.174174174174174,43.38833700299741,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.18918918918919,42.31259766170986,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.204204204204204,41.33158185164937,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.21921921921922,40.45091830908437,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.234234234234235,39.674879869605896,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.24924924924925,39.00641285197443,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.264264264264265,38.44717989422937,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.27927927927928,37.997612690993726,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.294294294294295,37.65697127144418,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.30930930930931,37.42340684097513,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.324324324324325,37.29402575795238,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.33933933933934,37.264952891355215,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.354354354354355,37.33139335856311,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.36936936936937,37.48769242278505,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.384384384384385,37.727394082397396,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.3993993993994,38.04329955698958,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.414414414414415,38.42752741934329,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.42942942942943,38.87157749901222,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.444444444444445,39.366400862335766,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.45945945945946,39.90247813882579,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.474474474474475,40.46990821175099,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.48948948948949,41.05850883213371,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.504504504504505,41.65793007426241,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.51951951951952,42.257780763049446,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.534534534534535,42.84776711465736,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.54954954954955,43.41784189429133,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.564564564564565,43.958361465295035,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.57957957957958,44.46024723864511,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.594594594594595,44.91514728585806,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.60960960960961,45.31559329962074,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.624624624624625,45.65514771503871,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.63963963963964,45.92853566944085,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.654654654654655,46.13175659708633,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.66966966966967,46.26217063062407,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.684684684684685,46.31855560419111,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.6996996996997,46.30113130125843,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.714714714714715,46.2115486298389,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.72972972972973,46.052842594734436,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.744744744744745,45.82934921977879,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.75975975975976,45.546587896136295,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.774774774774775,45.211111936882105,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.78978978978979,44.83033134502235,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.804804804804805,44.41231289666325,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.81981981981982,43.96556355373483,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.834834834834835,43.498803909949416,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.84984984984985,43.02073880768824,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.864864864864865,42.53983242153994,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.87987987987988,42.06409497752841,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.894894894894895,41.60088786928614,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.90990990990991,41.156753259327246,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.924924924924925,40.737273342400634,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.93993993993994,40.34696333617797,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.954954954954955,39.989200998433766,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.96996996996997,39.66619410223167,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.984984984984985,39.37898588865265,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10,39.12749711935663,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.015015015015015,38.9106020271246,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.03003003003003,38.72623426653756,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.045045045045045,38.571517948388305,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.06006006006006,38.44291804156029,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.075075075075075,38.33640387627534,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.09009009009009,38.24761920274983,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.105105105105105,38.1720522569779,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.12012012012012,38.105199555411346,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.135135135135135,38.04271766504013,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.15015015015015,37.98055794544036,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.165165165165165,37.9150801951824,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.18018018018018,37.843142208781515,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.195195195195195,37.762163408544346,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.21021021021021,37.670161901604665,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.225225225225225,37.56576546945969,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.24024024024024,37.44819807160338,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.255255255255255,37.31724438828776,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.27027027027027,37.17319570008254,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.285285285285285,37.01678097399262,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.3003003003003,36.84908737928074,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.315315315315315,36.67147458498352,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.33033033033033,36.48548710185932,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.345345345345345,36.29276864214911,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.36036036036036,36.09498200913104,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.375375375375375,35.89373743112146,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.39039039039039,35.69053156300286,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.405405405405405,35.48669863703435,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.42042042042042,35.28337449809365,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.435435435435435,35.08147354832706,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.45045045045045,34.881677988974324,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.465465465465465,34.68443821226034,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.48048048048048,34.48998278451167,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.495495495495495,34.29833618455473,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.51051051051051,34.109342321106425,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.525525525525525,33.922691842578864,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.54054054054054,33.737951358162285,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.555555555555555,33.554592889838716,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.57057057057057,33.37202214663652,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.585585585585585,33.1896045284217,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.6006006006006,33.00668810032352,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.615615615615615,32.822623105884446,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.63063063063063,32.63677788605419,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.645645645645645,32.44855132573219,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.66066066066066,32.25738214857748,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.675675675675675,32.062755518758685,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.69069069069069,31.864207485123117,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.705705705705705,31.66132782363187,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.72072072072072,31.453761806435512,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.735735735735735,31.241211361992523,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.75075075075075,31.023436003028365,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.765765765765765,30.800253801071985,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.78078078078078,30.57154259015281,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.795795795795796,30.337241498627257,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.81081081081081,30.097352845232493,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.825825825825826,29.85194439867539,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.84084084084084,29.60115199168455,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.855855855855856,29.345182499852644,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.87087087087087,29.084317239512014,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.885885885885886,28.818915901834426,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.9009009009009,28.54942121520364,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.915915915915916,28.276364606481177,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.93093093093093,28.000373205429646,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.945945945945946,27.722178596713093,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.96096096096096,27.442627762577697,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.975975975975976,27.16269666952724,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.99099099099099,26.883506928318628,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.006006006006006,26.60634589422171,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.02102102102102,26.3326904711912,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.036036036036036,26.064234738681016,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.05105105105105,25.802921334454744,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.066066066066066,25.55097630404461,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.08108108108108,25.310946872600603,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.096096096096096,25.085741314920586,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.11111111111111,24.87866980366652,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.126126126126126,24.693484815371548,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.14114114114114,24.534419381941177,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.156156156156156,24.406221206748537,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.17117117117117,24.31418043527158,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.186186186186186,24.264148697512937,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.2012012012012,24.26254694038274,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.216216216216216,24.31635955937199,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.23123123123123,24.433112435166073,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.246246246246246,24.62083269461766,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.26126126126126,24.887988355154228,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.276276276276276,25.243406480713737,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.29129129129129,25.696169073155357,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.306306306306306,26.255486636425776,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.32132132132132,26.930550164836365,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.336336336336336,27.730363197350098,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.35135135135135,28.663556515271644,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.366366366366366,29.738189003220967,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.381381381381381,30.96153909968107,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.396396396396396,32.339892087393324,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.411411411411411,33.87832916806852,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.426426426426426,35.580524784526304,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.441441441441441,37.44855895511044,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.456456456456456,39.48275143590653,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.471471471471471,41.68152430163457,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.486486486486486,44.04129902395128,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.501501501501501,46.55643332795821,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.516516516516516,49.21920204046445,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.531531531531531,52.01982483839986,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.546546546546546,54.946542308245874,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.561561561561561,57.98574009534886,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.576576576576576,61.1221192232005,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.591591591591591,64.33890897135659,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.606606606606606,67.61811709336,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.621621621621621,70.94081070798964,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.636636636636636,74.28741997775091,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.651651651651651,77.63805575740447,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.666666666666666,80.97283179899242,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.681681681681681,84.2721818689298,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.696696696696696,87.51716228040378,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.711711711711711,90.6897308654246,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.726726726726726,93.77299428247484,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.741741741741741,96.75141673848934,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.756756756756756,99.61098464462385,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.771771771771771,102.33932335984869,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.786786786786786,104.92576393360628,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.801801801801801,107.36135956409595,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.816816816816816,109.63885326834563,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.831831831831831,111.75259994444923,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.846846846846846,113.69844753291633,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.861861861861861,115.47358330049595,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.876876876876876,117.07635233505174,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.891891891891891,118.50605612538592,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.906906906906906,119.76273958904974,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.921921921921921,120.84697509968561,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.936936936936936,121.75965195958494,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.951951951951951,122.50177937836351,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.966966966966966,123.07431037787374,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.981981981981981,123.47799317539398,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.996996996996996,123.71325553460444,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.012012012012011,123.78012635252529,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.027027027027026,123.6781974079067,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.042042042042041,123.40662677092702,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.057057057057056,122.96418390460443,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.072072072072071,122.34933501445778,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.087087087087086,121.56036576443529,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.102102102102101,120.59553711381928,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.117117117117116,119.45326878151604,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.132132132132131,118.13234374995177,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.147147147147146,116.63212631847558,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.162162162162161,114.9527855407864,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.177177177177176,113.09551546347708,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.192192192192191,111.06274344851728,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.207207207207206,108.8583180288706,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.222222222222221,106.48766822145838,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.237237237237236,103.95792700219667,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.252252252252251,101.27801271834731,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.267267267267266,98.4586635454735,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.282282282282281,95.51242164846842,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.297297297297296,92.45356542502849,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.312312312312311,89.297990031858,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.327327327327327,86.06303824733455,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.342342342342342,82.76728553330732,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.357357357357357,79.43028484632377,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.372372372372372,76.0722782412267,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.387387387387387,72.71388354140794,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.402402402402402,69.37576526469246,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.417417417417417,66.0782995508646,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.432432432432432,62.84124301197882,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.447447447447447,59.68341521389268,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.462462462462462,56.622403909706414,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.477477477477477,53.674301213821614,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.492492492492492,50.853477676229005,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.507507507507507,48.172399750990415,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.522522522522522,45.64149452127714,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.537537537537537,43.26906382227423,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.552552552552552,41.06124817089171,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.567567567567567,39.0220392430383,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.582582582582582,37.15333810410493,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.597597597597597,35.45505505519672,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.612612612612612,33.92524585285003,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.627627627627627,32.560278225426565,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.642642642642642,31.355022061922664,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.657657657657657,30.30305639040164,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.672672672672672,29.396886281563066,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.687687687687687,28.62816308382274,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.702702702702702,27.987901885583508,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.717717717717717,27.466690766884895,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.732732732732732,27.054887200823643,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.747747747747747,26.742797848105937,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.762762762762762,26.520838910080112,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.777777777777777,26.379675124314677,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.792792792792792,26.31033636518795,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.807807807807807,26.30431161952049,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.822822822822824,26.353620820753786,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.837837837837839,26.450865628770394,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.852852852852854,26.58926072760744,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.867867867867869,26.76264757808174,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.882882882882884,26.965492810434288,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.897897897897899,27.192873581807874,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.912912912912914,27.440452266351986,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.927927927927929,27.704442805838763,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.942942942942944,27.981570940777797,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.957957957957959,28.26903038111311,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.972972972972974,28.564436775954412,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.987987987987989,28.86578111639846,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.003003003003004,29.171383965615732,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.018018018018019,29.479851665406933,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.033033033033034,29.79003542587367,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.048048048048049,30.1009939704457,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.063063063063064,30.411960186489917,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.078078078078079,30.722312025130456,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.093093093093094,31.03154770491928,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.108108108108109,31.339265104298377,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.123123123123124,31.645145078871124,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.138138138138139,31.948938312883655,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.153153153153154,32.25045521171527,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.168168168168169,32.549558265532795,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.183183183183184,32.84615626567579,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.198198198198199,33.140199736867366,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.213213213213214,33.43167696175881,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.228228228228229,33.72061002071121,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.243243243243244,34.00705034914225,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.258258258258259,34.291073425819484,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.273273273273274,34.57277234495476,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.288288288288289,34.85225018758456,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.303303303303304,35.12961128605924,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.318318318318319,35.40495165994188,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.333333333333334,35.678349080815465,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.348348348348349,35.94985338462226,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.363363363363364,36.219477779769306,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.378378378378379,36.48719198410575,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.393393393393394,36.752918052059606,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.408408408408409,37.016529715114515,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.423423423423424,37.277855948261504,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.438438438438439,37.5366892903264,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.453453453453454,37.79279919056685,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.468468468468469,38.04595033666338,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.483483483483484,38.29592555487309,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.498498498498499,38.54255248161706,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.513513513513514,38.785732811523744,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.528528528528529,39.025472557486054,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.543543543543544,39.26191144263987,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.558558558558559,39.495349310894085,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.573573573573574,39.72626731769367,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.588588588588589,39.9553416673405,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.603603603603604,40.18344781197344,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.618618618618619,40.41165332644617,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.633633633633634,40.64119811955478,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.64864864864865,40.87346122197586,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.663663663663664,41.109914081564746,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.67867867867868,41.352061064856166,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.693693693693694,41.60136866966114,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.70870870870871,41.859185752066466,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.723723723723724,42.126657813665496,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.73873873873874,42.40463903343236,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.753753753753754,42.693606218604295,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.76876876876877,42.99357915192603,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.783783783783784,43.304051899403625,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.7987987987988,43.6239394953947,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.813813813813814,43.951544035363135,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.82882882882883,44.28454358947768,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.843843843843844,44.62000652446143,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.85885885885886,44.954432821202936,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.873873873873874,45.28382284683682,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.88888888888889,45.603772835701506,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.903903903903904,45.9095951123817,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.91891891891892,46.19645991235081,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.933933933933934,46.45955458032781,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.94894894894895,46.694255007126195,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.963963963963964,46.89630344829836,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.97897897897898,47.06198638757589,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.993993993993994,47.188305888022676,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.00900900900901,47.27313792370346,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.024024024024024,47.31537150079893,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.03903903903904,47.31502294288084,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.054054054054054,47.27332050240784,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.06906906906907,47.19275543182421,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.084084084084084,47.077096758289834,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.0990990990991,46.93136820709156,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.114114114114114,46.76178695974742,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.12912912912913,46.57566516453757,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.144144144144144,46.38127629419264,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.15915915915916,46.18768952796971,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.174174174174174,46.004576290785856,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.18918918918919,45.84199388597822,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.204204204204204,45.71015179450334,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.21921921921922,45.61916667392325,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.234234234234235,45.578812374522585,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.24924924924925,45.59827140257196,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.264264264264265,45.68589421182564,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.27927927927928,45.84897250648827,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.294294294294295,46.09353240612829,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.30930930930931,46.42415286932547,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.324324324324325,46.843814211063254,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.33933933933934,47.35378089001253,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.354354354354355,47.95352199487414,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.36936936936937,48.64067203109216,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.384384384384385,49.4110337068235,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.3993993993994,50.25862344670014,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.414414414414415,51.17575933219801,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.42942942942943,52.153190090575116,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.444444444444445,53.18026264797414,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.45945945945946,54.245124650830626,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.474474474474475,55.33495727522392,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.48948948948949,56.4362326259167,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.504504504504505,57.534989121704385,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.51951951951952,58.61711752174035,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.534534534534535,59.66864971984859,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.54954954954955,60.676042167922596,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.564564564564565,61.62644582396936,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.57957957957958,62.50795487991736,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.594594594594595,63.30982721523063,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.60960960960961,64.02267052929682,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.624624624624625,64.63858939020847,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.63963963963964,65.15128993985273,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.654654654654655,65.55614063684885,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.66966966966967,65.85018910905261,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.684684684684685,66.03213683033788,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.6996996996997,66.10227483963224,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.714714714714715,66.06238500245868,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.72972972972973,65.91561231327668,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.744744744744745,65.66631441031721,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.75975975975976,65.31989480803837,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.774774774774775,64.88262635514718,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.78978978978979,64.3614711295565,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.804804804804805,63.76390243406952,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.81981981981982,63.09773381772864,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.834834834834835,62.3709591824936,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.84984984984985,61.5916071074206,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.864864864864865,60.76761159143384,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.87987987987988,59.90670053065365,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.894894894894895,59.01630244534348,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.90990990990991,58.10347128115504,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.924924924924925,57.17482854418695,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.93993993993994,56.23652159385204,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.954954954954955,55.29419660766735,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.96996996996997,54.35298453751432,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.984984984984985,53.417498283131664,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+15,52.49183929877324,PraatF0,Praat (F0),harmonicity,#11A3FF,"7 dB/octave
+roll-off"

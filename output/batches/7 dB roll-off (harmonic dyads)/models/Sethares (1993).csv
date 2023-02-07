@@ -1,3 +1,2001 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d5de45dee9b654483ae7bd0bd665b5082cd97910e58a21d1d2d4a691de1a5881
-size 106071
+interval,output,model_id,model_label,model_theory,model_colour,timbre_label
+0,-0.2101436744798853,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.015015015015015015,-0.21502049266714485,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.03003003003003003,-0.2200402057190497,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.04504504504504504,-0.22520240354789955,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.06006006006006006,-0.2305059131014254,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.07507507507507508,-0.2359487201691738,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.09009009009009009,-0.2415278930957152,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.10510510510510511,-0.24723951046732656,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.12012012012012012,-0.25307859511011105,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.13513513513513514,-0.2590390569688052,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.15015015015015015,-0.2651136476045712,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.16516516516516516,-0.2712939291329591,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.18018018018018017,-0.2775702603959873,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.19519519519519518,-0.2839318030027086,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.21021021021021022,-0.2903665495628955,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.22522522522522523,-0.29686137596753015,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.24024024024024024,-0.30340211893624297,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.2552552552552553,-0.3099736792660328,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.2702702702702703,-0.3165601503012907,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.2852852852852853,-0.32314497013997745,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.3003003003003003,-0.3297110950452828,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.3153153153153153,-0.33624119050716583,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.3303303303303303,-0.34271783546105666,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.34534534534534533,-0.3491237343896326,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.36036036036036034,-0.35544193147054975,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.37537537537537535,-0.3616560206388368,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.39039039039039036,-0.3677503454403078,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.40540540540540543,-0.37371018287268626,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.42042042042042044,-0.37952190603114766,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.43543543543543545,-0.3851731212578537,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.45045045045045046,-0.3906527765835379,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.46546546546546547,-0.39595123947072947,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.4804804804804805,-0.4010603431419351,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.4954954954954955,-0.4059734020203481,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.5105105105105106,-0.4106851979506158,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.5255255255255256,-0.4151919398406533,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.5405405405405406,-0.41949120012780494,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.5555555555555556,-0.4235818319985514,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.5705705705705706,-0.4274638715748869,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.5855855855855856,-0.4311384293346087,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.6006006006006006,-0.43460757488356816,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.6156156156156156,-0.4378742188821495,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.6306306306306306,-0.44094199548812835,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.6456456456456456,-0.44381514815733963,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.6606606606606606,-0.4464984210837097,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.6756756756756757,-0.44899695799762696,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.6906906906906907,-0.451316209506244,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.7057057057057057,-0.45346184967328224,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.7207207207207207,-0.45543970211412704,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.7357357357357357,-0.4572556755322403,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.7507507507507507,-0.45891570834713286,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.7657657657657657,-0.46042572185960656,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.7807807807807807,-0.4617915812605492,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.7957957957957957,-0.46301906370696155,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.8108108108108109,-0.4641138326537007,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.8258258258258259,-0.46508141763197625,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.8408408408408409,-0.46592719869673044,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.8558558558558559,-0.46665639481627846,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.8708708708708709,-0.4672740555417482,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.8858858858858859,-0.4677850553649663,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.9009009009009009,-0.4681940902467619,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.9159159159159159,-0.4685056758696754,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.9309309309309309,-0.4687241472372185,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.9459459459459459,-0.4688536593046364,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.960960960960961,-0.4688981883825876,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.975975975975976,-0.468861534105077,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+0.990990990990991,-0.46874732179638234,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.006006006006006,-0.4685590051090797,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.021021021021021,-0.4682998688371247,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.0360360360360361,-0.46797303183499855,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.0510510510510511,-0.46758144999689744,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.0660660660660661,-0.46712791926949115,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.0810810810810811,-0.4666150786885872,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.0960960960960962,-0.4660454134446292,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.1111111111111112,-0.4654212579948218,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.1261261261261262,-0.4647447992511622,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.1411411411411412,-0.46401807988403504,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.1561561561561562,-0.4632430017904101,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.1711711711711712,-0.4624213297841469,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.1861861861861862,-0.4615546955733565,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.2012012012012012,-0.4606446020960495,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.2162162162162162,-0.459692428290172,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.2312312312312312,-0.45869943437722926,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.2462462462462462,-0.4576667677397216,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.2612612612612613,-0.4565954694710294,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.2762762762762763,-0.4554864816718666,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.2912912912912913,-0.4543406555594919,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.3063063063063063,-0.45315876044416564,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.3213213213213213,-0.45194149361160096,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.3363363363363363,-0.4506894911302177,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.3513513513513513,-0.4494033395778621,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.3663663663663663,-0.44808358865447745,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.3813813813813813,-0.44673076461547373,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.3963963963963963,-0.4453453844258115,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.4114114114114114,-0.44392797049804955,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.4264264264264264,-0.44247906583996355,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.4414414414414414,-0.44099924940008167,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.4564564564564564,-0.43948915136429556,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.4714714714714714,-0.43794946812514146,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.4864864864864864,-0.4363809766191968,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.5015015015015014,-0.43478454770900415,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.5165165165165164,-0.4331611582755802,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.5315315315315314,-0.43151190168726716,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.5465465465465464,-0.42983799632152636,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.5615615615615615,-0.42814079183884274,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.5765765765765765,-0.42642177294247385,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.5915915915915915,-0.42468256040392305,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.6066066066066067,-0.4229249091909,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.6216216216216217,-0.4211507036007093,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.6366366366366367,-0.41936194937551624,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.6516516516516517,-0.4175607628544511,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.6666666666666667,-0.4157493572982581,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.6816816816816818,-0.4139300266022744,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.6966966966966968,-0.41210512668993055,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.7117117117117118,-0.4102770549486821,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.7267267267267268,-0.4084482281306738,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.7417417417417418,-0.4066210591890004,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.7567567567567568,-0.404797933555288,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.7717717717717718,-0.4029811853840479,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.7867867867867868,-0.4011730742930505,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.8018018018018018,-0.39937576311666445,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.8168168168168168,-0.3975912971611395,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.8318318318318318,-0.39582158540815526,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.8468468468468469,-0.3940683840572006,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.8618618618618619,-0.39233328273033025,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.8768768768768769,-0.39061769358695636,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.8918918918918919,-0.3889228435139752,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.906906906906907,-0.38724976947047834,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.921921921921922,-0.3855993169791781,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.936936936936937,-0.38397214167134275,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.951951951951952,-0.3823687137109935,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.966966966966967,-0.3807893248500958,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.981981981981982,-0.37923409780164624,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+1.996996996996997,-0.3777029975642602,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.012012012012012,-0.3761958442918581,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.027027027027027,-0.37471232727693043,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.042042042042042,-0.3732520196067467,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.057057057057057,-0.37181439305943736,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.0720720720720722,-0.37039883283112257,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.0870870870870872,-0.3690046517256796,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.1021021021021022,-0.3676311034939251,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.1171171171171173,-0.3662773950769323,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.1321321321321323,-0.3649426975859935,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.1471471471471473,-0.36362615593586733,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.1621621621621623,-0.3623268971341795,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.1771771771771773,-0.36104403731360446,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.1921921921921923,-0.3597766876698068,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.2072072072072073,-0.35852395953240473,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.2222222222222223,-0.35728496884379596,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.2372372372372373,-0.35605884034800156,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.2522522522522523,-0.354844711795803,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.2672672672672673,-0.3536417384520239,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.2822822822822824,-0.35244909814575576,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.2972972972972974,-0.35126599703636735,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.3123123123123124,-0.3500916761805325,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.3273273273273274,-0.3489254188831361,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.3423423423423424,-0.34776655870406503,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.3573573573573574,-0.3466144878807047,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.3723723723723724,-0.345468665820488,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.3873873873873874,-0.34432862722692553,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.4024024024024024,-0.34319398935385936,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.4174174174174174,-0.3420644578428243,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.4324324324324325,-0.3409398305925055,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.4474474474474475,-0.3398199991405904,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.4624624624624625,-0.3387049471079376,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.4774774774774775,-0.33759474536139983,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.4924924924924925,-0.3364895436911896,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.5075075075075075,-0.33538955896505773,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.5225225225225225,-0.3342950599067257,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.5375375375375375,-0.33320634884011874,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.5525525525525525,-0.33212374093318936,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.5675675675675675,-0.3310475416542384,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.5825825825825826,-0.3299780233086164,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.5975975975975976,-0.32891540164440713,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.6126126126126126,-0.32785981359357136,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.6276276276276276,-0.3268112972435769,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.6426426426426426,-0.32576977510972066,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.6576576576576576,-0.3247350416988924,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.6726726726726726,-0.3237067562231033,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.6876876876876876,-0.32268444114010386,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.7027027027027026,-0.3216674869759733,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.7177177177177176,-0.320655163629971,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.7327327327327327,-0.3196466380863675,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.7477477477477477,-0.3186409981737706,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.7627627627627627,-0.3176372817325988,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.7777777777777777,-0.31663451028877754,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.7927927927927927,-0.3156317260986995,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.8078078078078077,-0.31462803123805266,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.8228228228228227,-0.31362262726453005,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.8378378378378377,-0.31261485389880256,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.8528528528528527,-0.3116042251440902,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.8678678678678677,-0.3105904613041985,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.8828828828828827,-0.30957351546222023,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.8978978978978978,-0.3085535931438593,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.9129129129129128,-0.307531164104616,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.9279279279279278,-0.30650696544077477,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.942942942942943,-0.30548199552025057,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.957957957957958,-0.3044574985495537,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.972972972972973,-0.303434939924936,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+2.987987987987988,-0.3024159728465353,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.003003003003003,-0.3014023969911234,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.018018018018018,-0.30039611032993074,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.033033033033033,-0.2993990554317922,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.048048048048048,-0.29841316179907373,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.063063063063063,-0.2974402859369213,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.078078078078078,-0.2964821509499454,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.093093093093093,-0.295540287491599,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.108108108108108,-0.2946159778598879,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.123123123123123,-0.2937102049408232,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.138138138138138,-0.2928236075528114,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.153153153153153,-0.29195644354779393,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.168168168168168,-0.2911085617870282,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.183183183183183,-0.2902793838410644,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.198198198198198,-0.28946789597571526,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.2132132132132134,-0.2886726516900557,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.2282282282282284,-0.28789178477996913,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.2432432432432434,-0.2871230326219671,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.2582582582582584,-0.2863637691162928,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.2732732732732734,-0.28561104650330793,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.2882882882882885,-0.28486164507856543,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.3033033033033035,-0.2841121296833602,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.3183183183183185,-0.283358911740158,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.3333333333333335,-0.28259831553537473,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.3483483483483485,-0.28182664742258245,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.3633633633633635,-0.2810402666229858,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.3783783783783785,-0.28023565633118896,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.3933933933933935,-0.2794094938864726,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.4084084084084085,-0.27855871883635497,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.4234234234234235,-0.277680597793837,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.4384384384384385,-0.27677278506684366,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.4534534534534536,-0.2758333781137114,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.4684684684684686,-0.27486096694933065,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.4834834834834836,-0.27385467669167657,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.4984984984984986,-0.27281420249866567,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.5135135135135136,-0.27173983620297004,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.5285285285285286,-0.27063248401142154,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.5435435435435436,-0.26949367470087654,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.5585585585585586,-0.26832555781941925,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.5735735735735736,-0.26713089149612895,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.5885885885885886,-0.26591301957943614,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.6036036036036037,-0.2646758379673313,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.6186186186186187,-0.2634237501647781,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.6336336336336337,-0.26216161230495755,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.6486486486486487,-0.2608946680994841,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.6636636636636637,-0.259628474433955,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.6786786786786787,-0.2583688185921703,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.6936936936936937,-0.25712162836583063,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.7087087087087087,-0.2558928765753202,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.7237237237237237,-0.2546884817787738,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.7387387387387387,-0.25351420716780243,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.7537537537537538,-0.2523755598258369,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.7687687687687688,-0.25127769264678307,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.7837837837837838,-0.25022531126694575,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.798798798798799,-0.24922258834381994,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.813813813813814,-0.2482730874162209,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.828828828828829,-0.2473796983997733,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.843843843843844,-0.24654458651219135,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.858858858858859,-0.2457691560901866,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.873873873873874,-0.24505403036405804,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.888888888888889,-0.24439904781024105,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.903903903903904,-0.24380327522222744,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.918918918918919,-0.24326503714435294,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.933933933933934,-0.24278196082006606,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.948948948948949,-0.24235103533584862,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.963963963963964,-0.24196868321258502,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.978978978978979,-0.24163084232489787,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+3.993993993993994,-0.2413330557303659,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.009009009009009,-0.2410705667760701,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.024024024024024,-0.24083841672741033,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.039039039039039,-0.24063154213752477,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.054054054054054,-0.24044486924479513,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.069069069069069,-0.24027340284679122,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.084084084084084,-0.24011230734393407,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.099099099099099,-0.2399569779642445,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.114114114114114,-0.2398031005583705,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.129129129129129,-0.23964669877622843,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.1441441441441444,-0.2394841678865055,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.1591591591591595,-0.23931229496092324,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.1741741741741745,-0.239128265599796,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.1891891891891895,-0.23892965780827446,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.2042042042042045,-0.23871442402941187,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.2192192192192195,-0.238480862688628,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.2342342342342345,-0.23822758089435572,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.2492492492492495,-0.2379534501643994,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.2642642642642645,-0.2376575572022978,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.2792792792792795,-0.23733915183101414,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.2942942942942945,-0.23699759420343355,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.3093093093093096,-0.23663230335375804,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.324324324324325,-0.23624270903633438,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.33933933933934,-0.23582820862599801,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.354354354354355,-0.23538813063514116,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.36936936936937,-0.23492170614693553,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.384384384384385,-0.23442804918137006,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.3993993993994,-0.23390614671096474,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.414414414414415,-0.23335485873580553,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.42942942942943,-0.23277292852177475,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.444444444444445,-0.23215900280943463,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.45945945945946,-0.23151166152063388,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.474474474474475,-0.23082945623094323,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.48948948948949,-0.23011095644256005,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.504504504504505,-0.2293548024871475,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.51951951951952,-0.22855976371291206,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.534534534534535,-0.22772480046590315,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.54954954954955,-0.22684912826218614,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.564564564564565,-0.22593228246508812,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.57957957957958,-0.22497418172980665,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.594594594594595,-0.22397518845627815,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.60960960960961,-0.22293616450046394,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.624624624624625,-0.22185852043483542,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.63963963963964,-0.2207442567218209,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.654654654654655,-0.21959599527075618,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.66966966966967,-0.21841699999092035,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.684684684684685,-0.21721118513191903,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.6996996996997,-0.21598311041879648,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.714714714714715,-0.21473796224276498,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.72972972972973,-0.213481520457934,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.744744744744745,-0.21222011065689947,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.75975975975976,-0.21096054214854798,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.774774774774775,-0.20971003223288606,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.78978978978979,-0.20847611775098984,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.804804804804805,-0.20726655527213317,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.81981981981982,-0.20608921165203078,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.834834834834835,-0.20495194704196135,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.84984984984985,-0.20386249273385673,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.864864864864865,-0.20282832647692728,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.87987987987988,-0.20185654808381587,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.894894894894895,-0.20095375824718734,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.90990990990991,-0.200125943502293,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.924924924924925,-0.1993783701919551,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.93993993993994,-0.19871549011598894,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.954954954954955,-0.19814086027993041,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.96996996996997,-0.19765707880495428,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+4.984984984984985,-0.19726573863308547,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5,-0.19696740017400272,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.015015015015015,-0.1967615835097575,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.03003003003003,-0.19664678022171975,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.045045045045045,-0.1966204843513918,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.06006006006006,-0.19667924147499397,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.075075075075075,-0.1968187143815694,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.09009009009009,-0.19703376341452697,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.105105105105105,-0.19731853918279718,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.12012012012012,-0.19766658508230217,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.135135135135135,-0.19807094689913107,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.15015015015015,-0.19852428669605204,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.165165165165165,-0.19901899821259805,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.18018018018018,-0.19954732113037948,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.195195195195195,-0.20010145175996122,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.21021021021021,-0.20067364798085116,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.225225225225225,-0.20125632659648107,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.24024024024024,-0.20184215163462646,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.255255255255255,-0.20242411251278758,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.27027027027027,-0.20299559138018813,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.285285285285285,-0.20355041932677295,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.3003003003003,-0.2040829215002705,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.315315315315315,-0.2045879514826735,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.33033033033033,-0.20506091553793443,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.345345345345345,-0.20549778754674808,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.36036036036036,-0.2058951155887581,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.375375375375375,-0.2062500212170622,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.39039039039039,-0.20656019249715643,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.405405405405405,-0.20682387185751544,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.42042042042042,-0.2070398397290998,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.435435435435435,-0.20720739484495423,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.45045045045045,-0.20732633193862357,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.465465465465465,-0.20739691743172764,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.48048048048048,-0.20741986354713524,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.495495495495495,-0.20739630113468857,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.51051051051051,-0.2073277513603782,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.525525525525525,-0.2072160962949756,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.54054054054054,-0.2070635483505352,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.555555555555555,-0.20687261845713656,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.57057057057057,-0.2066460828501154,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.585585585585585,-0.20638694835004018,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.6006006006006,-0.2060984160621388,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.615615615615615,-0.20578384349509468,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.63063063063063,-0.205446705195809,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.645645645645645,-0.20509055211008276,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.66066066066066,-0.20471897000145206,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.675675675675675,-0.2043355373830772,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.6906906906906904,-0.2039437835320357,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.7057057057057055,-0.20354714725318557,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.7207207207207205,-0.20314893713327303,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.7357357357357355,-0.2027522940687848,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.7507507507507505,-0.20236015685828188,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.7657657657657655,-0.20197523161871,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.7807807807807805,-0.20159996571473726,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.7957957957957955,-0.20123652678196133,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.8108108108108105,-0.20088678728270126,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.8258258258258255,-0.20055231486284236,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.8408408408408405,-0.2002343685875787,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.8558558558558556,-0.19993390093197527,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.870870870870871,-0.19965156519913463,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.885885885885886,-0.19938772784478473,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.900900900900901,-0.1991424850125094,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.915915915915916,-0.19891568243793667,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.930930930930931,-0.19870693777095033,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.945945945945946,-0.19851566429840115,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.960960960960961,-0.19834109502969105,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.975975975975976,-0.19818230613522828,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+5.990990990990991,-0.19803823880176155,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.006006006006006,-0.19790771868516335,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.021021021021021,-0.1977894722941253,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.036036036036036,-0.19768213981935248,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.051051051051051,-0.1975842841226221,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.066066066066066,-0.1974943958080328,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.081081081081081,-0.19741089450319207,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.096096096096096,-0.19733212667062394,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.111111111111111,-0.19725636043995148,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.126126126126126,-0.19718177809150628,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.141141141141141,-0.19710646692603068,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.156156156156156,-0.19702840931928775,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.171171171171171,-0.196945472783371,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.186186186186186,-0.19685540083928346,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.201201201201201,-0.19675580545126514,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.216216216216216,-0.1966441616875402,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.231231231231231,-0.19651780516148643,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.246246246246246,-0.1963739326795419,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.261261261261261,-0.19620960638596502,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.276276276276276,-0.19602176155831472,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.291291291291291,-0.19580721807926715,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.306306306306306,-0.19556269549714506,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.321321321321321,-0.19528483149500706,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.336336336336336,-0.19497020352033043,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.351351351351351,-0.19461535328633486,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.366366366366366,-0.1942168138420343,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.381381381381381,-0.19377113891941566,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.396396396396396,-0.19327493429916276,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.411411411411412,-0.192724890986014,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.426426426426427,-0.1921178200447977,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.441441441441442,-0.1914506890112558,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.456456456456457,-0.19072065985030817,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.471471471471472,-0.18992512848077303,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.486486486486487,-0.18906176591260554,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.501501501501502,-0.18812856104410738,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.516516516516517,-0.18712386513731016,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.531531531531532,-0.18604643792647962,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.546546546546547,-0.18489549521596446,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.561561561561562,-0.18367075769018043,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.576576576576577,-0.18237250049334033,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.591591591591592,-0.18100160294498843,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.606606606606607,-0.17955959754701573,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.621621621621622,-0.17804871721829793,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.636636636636637,-0.17647193947585002,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.651651651651652,-0.17483302607918141,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.666666666666667,-0.17313655648104445,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.681681681681682,-0.17138795329677234,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.696696696696697,-0.169593497929301,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.711711711711712,-0.1677603344798165,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.726726726726727,-0.16589646014486112,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.741741741741742,-0.1640107004569619,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.756756756756757,-0.16211266797123225,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.771771771771772,-0.16021270333476273,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.786786786786787,-0.15832179809427924,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.801801801801802,-0.15645149909124778,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.816816816816817,-0.1546137948484101,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.831831831831832,-0.152820984949453,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.846846846846847,-0.15108553403218714,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.861861861861862,-0.14941991263042492,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.876876876876877,-0.147836427684007,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.891891891891892,-0.14634704606298105,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.906906906906907,-0.1449632148943401,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.921921921921922,-0.14369568281394132,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.936936936936937,-0.14255432647176303,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.951951951951952,-0.1415479866800768,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.966966966966967,-0.14068431850187477,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.981981981981982,-0.1399696593283306,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+6.996996996996997,-0.13940891859358348,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.012012012012012,-0.1390054922344112,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.027027027027027,-0.138761204339817,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.042042042042042,-0.13867627767566995,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.057057057057057,-0.13874933394163524,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.072072072072072,-0.13897742375446373,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.087087087087087,-0.13935608548781653,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.102102102102102,-0.13987943126874045,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.117117117117117,-0.14054025766752523,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.132132132132132,-0.14133017795041336,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.147147147147147,-0.1422397722181483,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.162162162162162,-0.1432587513463243,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.177177177177177,-0.144376130387866,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.192192192192192,-0.1455804069985333,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.207207207207207,-0.1468597405007718,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.222222222222222,-0.14820212740047572,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.237237237237237,-0.14959556950029862,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.252252252252252,-0.15102823119213188,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.267267267267267,-0.15248858303671892,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.282282282282282,-0.15396552932426827,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.297297297297297,-0.15544851792974554,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.312312312312312,-0.15692763140408633,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.327327327327327,-0.15839365885355466,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.342342342342342,-0.159838148732267,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.357357357357357,-0.1612534431895331,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.372372372372372,-0.16263269506028444,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.387387387387387,-0.16396986895398213,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.402402402402402,-0.16525972817995044,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.4174174174174174,-0.1664978094441111,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.4324324324324325,-0.16768038736637672,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.4474474474474475,-0.16880443090538091,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.4624624624624625,-0.16986755374612886,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.4774774774774775,-0.17086796061658252,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.4924924924924925,-0.17180439136219813,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.5075075075075075,-0.17267606443436911,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.5225225225225225,-0.17348262125063138,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.5375375375375375,-0.1742240726716472,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.5525525525525525,-0.17490074862147437,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.5675675675675675,-0.17551325166113818,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.5825825825825826,-0.17606241511713136,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.597597597597598,-0.17654926617076008,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.612612612612613,-0.17697499413421272,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.627627627627628,-0.1773409239766076,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.642642642642643,-0.1776484950186393,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.657657657657658,-0.1778992445874989,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.672672672672673,-0.17809479631366176,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.687687687687688,-0.17823685265665581,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.702702702702703,-0.17832719116682136,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.717717717717718,-0.17836766392313463,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.732732732732733,-0.17836019953256357,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.747747747747748,-0.17830680703367086,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.762762762762763,-0.17820958101625142,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.777777777777778,-0.17807070725016813,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.792792792792793,-0.17789246811098663,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.807807807807808,-0.17767724709871358,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.822822822822823,-0.17742753177006193,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.837837837837838,-0.17714591444548713,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.852852852852853,-0.17683509011068682,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.867867867867868,-0.17649785100889012,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.882882882882883,-0.1761370775150256,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.897897897897898,-0.1757557249949269,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.912912912912913,-0.17535680648039867,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.927927927927928,-0.1749433711316506,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.942942942942943,-0.17451847860872305,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.957957957957958,-0.1740851696287393,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.972972972972973,-0.1736464331409953,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+7.987987987987988,-0.17320517070145486,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.003003003003004,-0.17276415876629472,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.018018018018019,-0.1723260097449239,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.033033033033034,-0.1718931327509262,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.048048048048049,-0.17146769505986453,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.063063063063064,-0.17105158532201317,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.078078078078079,-0.17064637958329043,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.093093093093094,-0.1702533111377612,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.108108108108109,-0.16987324517048352,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.123123123123124,-0.16950665905209716,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.138138138138139,-0.16915362901991476,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.153153153153154,-0.16881382382910698,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.168168168168169,-0.16848650578784904,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.183183183183184,-0.16817053940862756,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.198198198198199,-0.16786440772143135,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.213213213213214,-0.1675662361103057,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.228228228228229,-0.16727382335945584,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.243243243243244,-0.16698467943463818,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.258258258258259,-0.16669606938477993,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.273273273273274,-0.16640506263110427,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.288288288288289,-0.1661085868184467,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.303303303303304,-0.1658034853363571,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.318318318318319,-0.16548657757492743,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.333333333333334,-0.1651547209596515,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.348348348348349,-0.16480487380759642,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.363363363363364,-0.16443415805957912,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.378378378378379,-0.16403992096541126,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.393393393393394,-0.1636197948272293,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.408408408408409,-0.16317175393558173,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.423423423423424,-0.1626941678612791,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.438438438438439,-0.16218585029118626,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.453453453453454,-0.16164610261769502,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.468468468468469,-0.16107475151053327,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.483483483483484,-0.16047217971833055,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.498498498498499,-0.1598393493696715,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.513513513513514,-0.15917781707399387,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.528528528528529,-0.15848974016701034,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.543543543543544,-0.1577778735088893,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.558558558558559,-0.15704555633144116,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.573573573573574,-0.1562966887473453,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.588588588588589,-0.15553569768298128,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.603603603603604,-0.1547674921777965,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.618618618618619,-0.15399740820634975,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.633633633633634,-0.15323114342072644,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.64864864864865,-0.15247468247509519,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.663663663663664,-0.15173421387252153,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.67867867867868,-0.15101603955651977,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.693693693693694,-0.15032647874432545,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.70870870870871,-0.14967176775263852,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.723723723723724,-0.14905795778641454,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.73873873873874,-0.14849081283445076,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.753753753753754,-0.147975709930561,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.76876876876877,-0.1475175440865887,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.783783783783784,-0.1471206401766488,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.7987987987988,-0.1467886739472811,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.813813813813814,-0.14652460414574528,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.82882882882883,-0.1463306175023762,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.843843843843844,-0.14620808798030052,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.85885885885886,-0.14615755132793928,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.873873873873874,-0.1461786955505093,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.88888888888889,-0.1462703674723921,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.903903903903904,-0.14643059511040218,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.91891891891892,-0.14665662513679628,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.933933933933934,-0.14694497429803052,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.94894894894895,-0.14729149328717364,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.963963963963964,-0.14769144125864664,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.97897897897898,-0.14813956893487662,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+8.993993993993994,-0.14863020809330507,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.00900900900901,-0.14915736514305158,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.024024024024024,-0.1497148165035619,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.03903903903904,-0.15029620357916637,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.054054054054054,-0.1508951252765967,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.06906906906907,-0.15150522622712476,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.084084084084084,-0.15212027913875947,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.0990990990991,-0.15273426000288856,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.114114114114114,-0.15334141519911104,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.12912912912913,-0.15393631986691278,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.144144144144144,-0.15451392722913815,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.15915915915916,-0.15506960884707643,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.174174174174174,-0.1555991860494488,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.18918918918919,-0.15609895299902152,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.204204204204204,-0.15656569203482545,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.21921921921922,-0.15699668205164136,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.234234234234235,-0.15738970075073141,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.24924924924925,-0.1577430216184798,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.264264264264265,-0.1580554064666964,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.27927927927928,-0.15832609430573796,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.294294294294295,-0.15855478722680647,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.30930930930931,-0.15874163385134482,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.324324324324325,-0.15888721077255577,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.33933933933934,-0.15899250227611483,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.354354354354355,-0.15905887849324876,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.36936936936937,-0.15908807201796143,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.384384384384385,-0.15908215291878058,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.3993993993994,-0.15904350200006864,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.414414414414415,-0.15897478212326252,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.42942942942943,-0.15887890738718263,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.444444444444445,-0.15875900998973752,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.45945945945946,-0.15861840465003763,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.474474474474475,-0.15846055055735092,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.48948948948949,-0.15828901092702982,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.504504504504505,-0.15810741037753032,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.51951951951952,-0.15791939048972364,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.534534534534535,-0.15772856406171434,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.54954954954955,-0.1575384687206706,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.564564564564565,-0.1573525206889691,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.57957957957958,-0.15717396961674404,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.594594594594595,-0.15700585547900944,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.60960960960961,-0.15685096858631248,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.624624624624625,-0.1567118137682639,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.63963963963964,-0.15659057975606203,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.654654654654655,-0.1564891147119936,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.66966966966967,-0.15640890873177124,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.684684684684685,-0.15635108398245218,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.6996996996997,-0.1563163929397067,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.714714714714715,-0.15630522496021088,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.72972972972973,-0.15631762117646697,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.744744744744745,-0.15635329744195664,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.75975975975976,-0.1564116747946138,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.774774774774775,-0.15649191665670162,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.78978978978979,-0.15659297175967415,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.804804804804805,-0.1567136215831197,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.81981981981982,-0.15685253093584975,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.834834834834835,-0.1570083001916213,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.84984984984985,-0.15717951762687607,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.864864864864865,-0.15736481029635618,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.87987987987988,-0.15756289192534337,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.894894894894895,-0.1577726063932917,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.90990990990991,-0.1579929655293098,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.924924924924925,-0.1582231801299942,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.93993993993994,-0.15846268333734728,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.954954954954955,-0.15871114577055875,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.96996996996997,-0.1589684820806727,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+9.984984984984985,-0.15923484888149386,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10,-0.15951063429303355,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.015015015015015,-0.15979643960513218,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.03003003003003,-0.16009305381887354,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.045045045045045,-0.16040142204327887,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.06006006006006,-0.16072260890695947,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.075075075075075,-0.16105775828294777,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.09009009009009,-0.1614080507155183,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.105105105105105,-0.1617746599781047,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.12012012012012,-0.16215871018098504,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.135135135135135,-0.16256123478780152,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.15015015015015,-0.1629831387945908,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.165165165165165,-0.16342516517898498,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.18018018018018,-0.16388786654714363,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.195195195195195,-0.16437158269958885,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.21021021021021,-0.1648764246130594,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.225225225225225,-0.16540226510277894,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.24024024024024,-0.16594873619731682,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.255255255255255,-0.16651523303526192,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.27027027027027,-0.16710092388729925,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.285285285285285,-0.16770476572603266,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.3003003003003,-0.16832552461475003,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.315315315315315,-0.16896180006946507,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.33033033033033,-0.1696120524686097,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.345345345345345,-0.17027463254251454,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.36036036036036,-0.1709478119695984,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.375375375375375,-0.17162981413569903,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.39039039039039,-0.17231884417362292,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.405405405405405,-0.17301311748713888,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.42042042042042,-0.1737108860717978,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.435435435435435,-0.17441046206826236,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.45045045045045,-0.1751102381161467,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.465465465465465,-0.17580870421176703,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.48048048048048,-0.17650446090618124,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.495495495495495,-0.17719622880545016,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.51051051051051,-0.17788285444917107,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.525525525525525,-0.17856331274273102,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.54054054054054,-0.1792367062012268,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.555555555555555,-0.17990226132731088,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.57057057057057,-0.18055932249104653,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.585585585585585,-0.1812073437076545,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.6006006006006,-0.18184587872002433,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.615615615615615,-0.1824745697888346,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.63063063063063,-0.18309313557619017,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.645645645645645,-0.18370135848131702,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.66066066066066,-0.18429907175154286,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.675675675675675,-0.184886146651012,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.69069069069069,-0.185462479925715,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.705705705705705,-0.18602798175852128,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.72072072072072,-0.18658256436384157,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.735735735735735,-0.18712613132978298,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.75075075075075,-0.18765856777734255,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.765765765765765,-0.18817973137211771,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.78078078078078,-0.18868944419468564,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.795795795795796,-0.18918748545141498,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.81081081081081,-0.18967358498799794,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.825825825825826,-0.19014741755319908,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.84084084084084,-0.1906085977498286,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.855855855855856,-0.1910566756033005,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.87087087087087,-0.19149113267480877,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.885885885885886,-0.19191137864556732,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.9009009009009,-0.19231674830021725,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.915915915915916,-0.1927064988408703,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.93093093093093,-0.19307980746787773,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.945945945945946,-0.1934357691689393,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.96096096096096,-0.19377339466420238,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.975975975975976,-0.1940916084614093,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+10.99099099099099,-0.19438924698163276,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.006006006006006,-0.19466505672272783,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.02102102102102,-0.19491769243417423,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.036036036036036,-0.19514571528361718,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.05105105105105,-0.19534759100215782,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.066066066066066,-0.19552168800249425,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.08108108108108,-0.1956662754715471,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.096096096096096,-0.19577952144748825,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.11111111111111,-0.19585949090039528,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.126126126126126,-0.19590414384644503,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.14114114114114,-0.1959113335379727,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.156156156156156,-0.19587880478625977,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.17117117117117,-0.19580419249097228,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.186186186186186,-0.19568502047012315,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.2012012012012,-0.19551870070767022,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.216216216216216,-0.1953025331626364,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.23123123123123,-0.19503370631419792,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.246246246246246,-0.19470929865155426,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.26126126126126,-0.19432628135546343,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.276276276276276,-0.19388152245970597,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.29129129129129,-0.1933717928247493,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.306306306306306,-0.19279377430147404,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.32132132132132,-0.19214407050848584,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.336336336336336,-0.19141922069035985,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.35135135135135,-0.19061571716360493,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.366366366366366,-0.18973002688926158,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.381381381381381,-0.1887586177322938,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.396396396396396,-0.18769798997433507,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.411411411411411,-0.18654471363357142,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.426426426426426,-0.1852954721089866,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.441441441441441,-0.18394711260130708,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.456456456456456,-0.1824967036653513,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.471471471471471,-0.18094160011432742,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.486486486486486,-0.1792795153229635,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.501501501501501,-0.17750860076151145,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.516516516516516,-0.17562753233662484,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.531531531531531,-0.17363560281987936,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.546546546546546,-0.1715328193146402,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.561561561561561,-0.16932000435415714,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.576576576576576,-0.16699889884796867,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.591591591591591,-0.16457226471261988,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.606606606606606,-0.16204398465167152,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.621621621621621,-0.15941915620669925,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.636636636636636,-0.1567041769049159,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.651651651651651,-0.15390681710077697,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.666666666666666,-0.15103627696905111,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.681681681681681,-0.14810322407498475,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.696696696696696,-0.1451198080408352,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.711711711711711,-0.14209964906096909,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.726726726726726,-0.13905779739918908,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.741741741741741,-0.13601066153507327,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.756756756756756,-0.13297590330732387,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.771771771771771,-0.12997229922023867,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.786786786786786,-0.1270195680154893,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.801801801801801,-0.12413816563877253,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.816816816816816,-0.12134904981588854,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.831831831831831,-0.11867341755569001,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.846846846846846,-0.11613241997402529,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.861861861861861,-0.11374685983658706,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.876876876876876,-0.1115368781026454,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.891891891891891,-0.10952163647125408,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.906906906906906,-0.10771900344673199,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.921921921921921,-0.10614525171812329,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.936936936936936,-0.10481477466427036,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.951951951951951,-0.10373982953935275,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.966966966966966,-0.10293031436263775,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.981981981981981,-0.10239358474273404,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+11.996996996996996,-0.1021343158353071,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.012012012012011,-0.10215441340000858,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.027027027027026,-0.10245297653326975,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.042042042042041,-0.10302631316241917,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.057057057057056,-0.10386800785223689,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.072072072072071,-0.10496903995868821,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.087087087087086,-0.10631794872639522,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.102102102102101,-0.10790104062266795,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.117117117117116,-0.10970263308109635,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.132132132132131,-0.11170532793215664,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.147147147147146,-0.11389030715635394,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.162162162162161,-0.11623764322429891,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.177177177177176,-0.11872661619234218,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.192192192192191,-0.12133602989413353,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.207207207207206,-0.12404451998838635,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.222222222222221,-0.12683084726191618,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.237237237237236,-0.12967417040737478,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.252252252252251,-0.13255429345399883,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.267267267267266,-0.13545188408090938,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.282282282282281,-0.13834866013903127,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.297297297297296,-0.14122754280419655,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.312312312312311,-0.14407277583872266,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.327327327327327,-0.14687001141545758,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.342342342342342,-0.14960636382728826,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.357357357357357,-0.15227043314431804,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.372372372372372,-0.15485230147593493,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.387387387387387,-0.15734350493917823,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.402402402402402,-0.159736984728634,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.417417417417417,-0.16202702083335502,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.432432432432432,-0.16420915196507607,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.447447447447447,-0.16628008516533943,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.462462462462462,-0.1682375983658986,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.477477477477477,-0.1700804389072681,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.492492492492492,-0.17180822069516133,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.507507507507507,-0.17342132231383098,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.522522522522522,-0.1749207880374458,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.537537537537537,-0.1763082333019329,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.552552552552552,-0.17758575583398198,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.567567567567567,-0.1787558532921102,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.582582582582582,-0.17982134796499097,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.597597597597597,-0.18078531880012091,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.612612612612612,-0.18165104080424604,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.627627627627627,-0.18242193166660733,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.642642642642642,-0.18310150530593758,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.657657657657657,-0.18369333192978607,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.672672672672672,-0.18420100411669632,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.687687687687687,-0.18462810838380847,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.702702702702702,-0.18497820168013523,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.717717717717717,-0.18525479224443314,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.732732732732732,-0.18546132428184137,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.747747747747747,-0.18560116594115728,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.762762762762762,-0.18567760011101858,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.777777777777777,-0.185693817595218,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.792792792792792,-0.1856529122721235,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.807807807807807,-0.18555787788861047,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.822822822822824,-0.18541160618332042,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.837837837837839,-0.18521688607620862,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.852852852852854,-0.18497640370040772,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.867867867867869,-0.18469274308789746,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.882882882882884,-0.18436838735206054,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.897897897897899,-0.18400572023794573,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.912912912912914,-0.1836070279349907,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.927927927927929,-0.1831745010673996,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.942942942942944,-0.1827102367945446,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.957957957957959,-0.18221624096806294,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.972972972972974,-0.18169443030407875,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+12.987987987987989,-0.18114663453854427,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.003003003003004,-0.18057459854141525,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.018018018018019,-0.17997998437152654,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.033033033033034,-0.17936437325893934,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.048048048048049,-0.17872926750538046,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.063063063063064,-0.17807609229646082,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.078078078078079,-0.17740619742177532,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.093093093093094,-0.17672085890095973,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.108108108108109,-0.1760212805154123,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.123123123123124,-0.1753085952468222,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.138138138138139,-0.1745838666249813,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.153153153153154,-0.17384808998868442,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.168168168168169,-0.1731021936649228,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.183183183183184,-0.1723470400731548,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.198198198198199,-0.17158342676321003,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.213213213213214,-0.1708120873974936,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.228228228228229,-0.17003369269058424,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.243243243243244,-0.1692488513221869,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.258258258258259,-0.16845811084270862,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.273273273273274,-0.16766195859451397,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.288288288288289,-0.16686082267620692,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.303303303303304,-0.16605507298205155,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.318318318318319,-0.16524502235384073,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.333333333333334,-0.16443092788807664,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.348348348348349,-0.16361299244709585,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.363363363363364,-0.16279136642857864,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.378378378378379,-0.16196614985348867,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.393393393393394,-0.16113739483758202,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.408408408408409,-0.160305108515832,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.423423423423424,-0.15946925649202504,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.438438438438439,-0.1586297668868634,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.453453453453454,-0.15778653505667684,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.468468468468469,-0.15693942905069624,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.483483483483484,-0.15608829586723602,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.498498498498499,-0.15523296855753713,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.513513513513514,-0.15437327420995864,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.528528528528529,-0.15350904282633518,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.543543543543544,-0.15264011707643493,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.558558558558559,-0.1517663628855477,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.573573573573574,-0.15088768077459697,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.588588588588589,-0.15000401783230005,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.603603603603604,-0.1491153801557127,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.618618618618619,-0.14822184555014906,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.633633633633634,-0.14732357623355977,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.64864864864865,-0.14642083124580652,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.663663663663664,-0.14551397822207357,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.67867867867868,-0.14460350415424833,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.693693693693694,-0.14369002473696668,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.70870870870871,-0.14277429187864027,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.723723723723724,-0.14185719895450946,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.73873873873874,-0.14093978339067284,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.753753753753754,-0.1400232261967706,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.76876876876877,-0.13910884811160945,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.783783783783784,-0.13819810209085734,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.7987987987988,-0.13729256194851855,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.813813813813814,-0.1363939070628717,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.82882882882883,-0.1355039031705799,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.843843843843844,-0.13462437939658325,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.85885885885886,-0.13375720179810266,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.873873873873874,-0.1329042438338978,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.88888888888889,-0.13206735429959765,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.903903903903904,-0.131248323390937,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.91891891891892,-0.1304488476635767,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.933933933933934,-0.12967049474560952,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.94894894894895,-0.1289146687221859,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.963963963963964,-0.12818257714708506,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.97897897897898,-0.12747520064074166,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+13.993993993993994,-0.12679326600670898,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.00900900900901,-0.1261372237386529,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.024024024024024,-0.12550723069901054,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.03903903903904,-0.12490313863108421,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.054054054054054,-0.12432448902248378,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.06906906906907,-0.12377051467447155,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.084084084084084,-0.12324014815469643,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.0990990990991,-0.12273203712633292,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.114114114114114,-0.12224456636122744,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.12912912912913,-0.1217758860646422,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.144144144144144,-0.1213239459704075,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.15915915915916,-0.12088653451288532,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.174174174174174,-0.12046132225024504,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.18918918918919,-0.12004590860526396,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.204204204204204,-0.11963787090707766,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.21921921921922,-0.11923481466084884,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.234234234234235,-0.1188344239419617,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.24924924924925,-0.11843451080602725,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.264264264264265,-0.11803306262402159,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.27927927927928,-0.11762828629123018,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.294294294294295,-0.11721864831720705,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.30930930930931,-0.11680290987967536,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.324324324324325,-0.11638015601658834,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.33933933933934,-0.11594981823626198,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.354354354354355,-0.11551168994499475,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.36936936936937,-0.11506593422474337,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.384384384384385,-0.11461308364041148,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.3993993993994,-0.1141540319173235,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.414414414414415,-0.11369001750438532,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.42942942942943,-0.11322259922641544,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.444444444444445,-0.11275362442815458,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.45945945945946,-0.11228519021893778,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.474474474474475,-0.11181959863556235,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.48948948948949,-0.11135930674414926,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.504504504504505,-0.11090687289066434,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.51951951951952,-0.11046490047367927,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.534534534534535,-0.11003598074066208,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.54954954954955,-0.10962263618953855,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.564564564564565,-0.10922726618073861,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.57957957957958,-0.10885209632421508,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.594594594594595,-0.10849913309737655,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.60960960960961,-0.10817012497433441,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.624624624624625,-0.10786653111007934,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.63963963963964,-0.10758949833578081,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.654654654654655,-0.10733984689826503,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.66966966966967,-0.10711806503596849,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.684684684684685,-0.10692431214508899,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.6996996996997,-0.10675842997298689,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.714714714714715,-0.10661996099909098,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.72972972972973,-0.10650817294118076,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.744744744744745,-0.10642208816703323,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.75975975975976,-0.10636051670290224,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.774774774774775,-0.10632209151078374,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.78978978978979,-0.10630530475075285,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.804804804804805,-0.10630854384376086,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.81981981981982,-0.10633012629237415,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.834834834834835,-0.10636833238876603,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.84984984984985,-0.10642143512743941,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.864864864864865,-0.10648772683211727,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.87987987987988,-0.10656554219119546,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.894894894894895,-0.10665327756553446,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.90990990990991,-0.10674940658007633,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.924924924924925,-0.10685249213316615,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.93993993993994,-0.1069611950530907,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.954954954954955,-0.10707427970064766,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.96996996996997,-0.10719061686137306,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+14.984984984984985,-0.10730918429421318,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"
+15,-0.10742906530834131,Seth93,Sethares (1993),interference,#B50000,"7 dB/octave
+roll-off"

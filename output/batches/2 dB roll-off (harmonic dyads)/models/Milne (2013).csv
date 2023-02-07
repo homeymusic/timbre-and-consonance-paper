@@ -1,3 +1,2001 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6e0bbc7079eeb5a6ee323bbec097378d3e7c89c6e83869a72e4f099d24611c19
-size 101318
+interval,output,model_id,model_label,model_theory,model_colour,timbre_label
+0,0.8591410039461067,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.015015015015015015,0.8541921793931461,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.03003003003003003,0.8491037311134653,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.04504504504504504,0.8438821318944802,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.06006006006006006,0.8385352447427181,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.07507507507507508,0.8330723845416247,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.09009009009009009,0.8275043628576203,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.10510510510510511,0.8218435120352576,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.12012012012012012,0.8161036846853086,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.13513513513513514,0.8103002247957964,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.15015015015015015,0.8044499070177235,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.16516516516516516,0.7985708412218484,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.18018018018018017,0.7926823402088252,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.19519519519519518,0.7868047494883955,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.21021021021021022,0.7809592393130406,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.22522522522522523,0.7751675606270128,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.24024024024024024,0.769451768220072,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.2552552552552553,0.7638339160816829,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.2702702702702703,0.7583357316406514,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.2852852852852853,0.7529782771368384,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.3003003003003003,0.7477816076872257,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.3153153153153153,0.7427644365618618,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.3303303303303303,0.7379438186728379,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.34534534534534533,0.7333348632230077,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.36036036036036034,0.7289504858176025,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.37537537537537535,0.7248012091112386,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.39039039039039036,0.7208950192919414,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.40540540540540543,0.7172372834855566,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.42042042042042044,0.7138307306304368,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.43543543543543545,0.7106754956844237,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.45045045045045046,0.7077692243588395,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.46546546546546547,0.7051072331001049,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.4804804804804805,0.7026827169137282,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.4954954954954955,0.7004869959707354,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.5105105105105106,0.698509790835177,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.5255255255255256,0.6967395156383963,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.5405405405405406,0.6951635785908571,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.5555555555555556,0.6937686798134287,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.5705705705705706,0.6925410975022881,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.5855855855855856,0.6914669548082125,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.6006006006006006,0.6905324613941358,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.6156156156156156,0.689724125317145,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.6306306306306306,0.6890289325544797,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.6456456456456456,0.6884344930657915,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.6606606606606606,0.6879291536847969,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.6756756756756757,0.687502079313655,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.6906906906906907,0.6871433048257934,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.7057057057057057,0.6868437607604316,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.7207207207207207,0.6865952763234845,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.7357357357357357,0.6863905634168824,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.7507507507507507,0.6862231854316448,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.7657657657657657,0.6860875143945269,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.7807807807807807,0.6859786797904986,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.7957957957957957,0.6858925120294833,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.8108108108108109,0.6858254831186571,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.8258258258258259,0.6857746466699598,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.8408408408408409,0.6857375789402742,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.8558558558558559,0.6857123221878475,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.8708708708708709,0.6856973312471242,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.8858858858858859,0.685691423884597,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.9009009009009009,0.6856937352064556,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.9159159159159159,0.685703676147089,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.9309309309309309,0.6857208958758866,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.9459459459459459,0.6857452478163383,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.960960960960961,0.6857767588729413,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.975975975975976,0.6858156014037428,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+0.990990990990991,0.6858620674549947,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.006006006006006,0.6859165447845802,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.021021021021021,0.6859794942378065,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.0360360360360361,0.686051428098322,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.0510510510510511,0.6861328891135487,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.0660660660660661,0.6862244299840979,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.0810810810810811,0.6863265932055439,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.0960960960960962,0.6864398912548743,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.1111111111111112,0.686564787218546,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.1261261261261262,0.6867016760605857,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.1411411411411412,0.6868508668234338,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.1561561561561562,0.6870125661375829,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.1711711711711712,0.6871868634847298,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.1861861861861862,0.6873737187098338,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.2012012012012012,0.6875729523071562,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.2162162162162162,0.6877842390115071,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.2312312312312312,0.6880071052067263,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.2462462462462462,0.6882409306177641,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.2612612612612613,0.6884849546802922,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.2762762762762763,0.6887382878832123,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.2912912912912913,0.6889999282564973,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.3063063063063063,0.6892687830319062,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.3213213213213213,0.6895436953410545,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.3363363363363363,0.6898234756384206,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.3513513513513513,0.690106937351573,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.3663663663663663,0.6903929360731178,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.3813813813813813,0.6906804114251527,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.3963963963963963,0.690968430554339,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.4114114114114114,0.6912562320610541,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.4264264264264264,0.6915432690366352,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.4414414414414414,0.6918292497852043,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.4564564564564564,0.6921141747473905,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.4714714714714714,0.6923983681279834,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.4864864864864864,0.6926825027630563,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.5015015015015014,0.6929676168476036,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.5165165165165164,0.6932551212845245,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.5315315315315314,0.6935467966101043,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.5465465465465464,0.6938447786983092,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.5615615615615615,0.6941515327426652,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.5765765765765765,0.6944698153540521,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.5915915915915915,0.6948026249870919,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.6066066066066067,0.6951531413061904,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.6216216216216217,0.6955246545117073,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.6366366366366367,0.695920486052274,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.6516516516516517,0.6963439025344689,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.6666666666666667,0.6967980249885614,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.6816816816816818,0.6972857359411607,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.6966966966966968,0.6978095869654695,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.7117117117117118,0.698371709512109,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.7267267267267268,0.6989737318554542,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.7417417417417418,0.6996167049130316,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.7567567567567568,0.7003010395043582,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.7717717717717718,0.7010264573112739,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.7867867867867868,0.7017919573911445,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.8018018018018018,0.702595799589664,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.8168168168168168,0.7034355056200279,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.8318318318318318,0.7043078779435724,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.8468468468468469,0.7052090359318867,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.8618618618618619,0.7061344681428743,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.8768768768768769,0.7070790989360913,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.8918918918918919,0.7080373671178265,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.906906906906907,0.7090033138736702,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.921921921921922,0.7099706769408535,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.936936936936937,0.7109329878135306,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.951951951951952,0.7118836687725807,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.966966966966967,0.7128161266897047,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.981981981981982,0.7137238408665336,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+1.996996996996997,0.7146004426165024,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.012012012012012,0.7154397848550907,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.027027027027027,0.7162360006000782,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.042042042042042,0.716983549959215,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.057057057057057,0.717677255857055,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.0720720720720722,0.7183123293833065,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.0870870870870872,0.7188843861924543,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.1021021021021022,0.7193894558136249,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.1171171171171173,0.7198239860134142,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.1321321321321323,0.7201848444746711,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.1471471471471473,0.7204693200038333,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.1621621621621623,0.7206751252626218,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.1771771771771773,0.7208004026522488,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.1921921921921923,0.7208437344858033,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.2072072072072073,0.7208041580016624,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.2222222222222223,0.7206811851387992,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.2372372372372373,0.7204748263582438,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.2522522522522523,0.7201856171988676,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.2672672672672673,0.7198146457428045,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.2822822822822824,0.7193635787730376,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.2972972972972974,0.7188346841622748,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.3123123123123124,0.7182308469568288,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.3273273273273274,0.7175555767196611,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.3423423423423424,0.716813003968687,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.3573573573573574,0.7160078639742254,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.3723723723723724,0.7151454667371339,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.3873873873873874,0.7142316526221104,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.4024024024024024,0.7132727338283817,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.4174174174174174,0.7122754225985038,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.4324324324324325,0.7112467477511626,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.4474474474474475,0.7101939617338159,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.4624624624624625,0.709124440889406,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.4774774774774775,0.7080455819892592,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.4924924924924925,0.7069646982817958,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.5075075075075075,0.7058889183344329,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.5225225225225225,0.7048250908050507,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.5375375375375375,0.7037796979808894,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.5525525525525525,0.7027587804872093,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.5675675675675675,0.7017678750234594,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.5825825825825826,0.7008119663646928,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.5975975975975976,0.6998954542074419,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.6126126126126126,0.6990221347800317,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.6276276276276276,0.6981951965137557,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.6426426426426426,0.6974172285163269,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.6576576576576576,0.6966902401299472,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.6726726726726726,0.696015689514101,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.6876876876876876,0.6953945189805811,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.7027027027027026,0.6948271947306989,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.7177177177177176,0.6943137486989789,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.7327327327327327,0.6938538203839321,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.7477477477477477,0.6934466968281459,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.7627627627627627,0.6930913492754801,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.7777777777777777,0.6927864654574512,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.7927927927927927,0.6925304769170411,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.8078078078078077,0.692321581238796,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.8228228228228227,0.6921577594931455,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.8378378378378377,0.6920367895969426,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.8528528528528527,0.6919562566213746,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.8678678678678677,0.6919135613276155,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.8828828828828827,0.6919059283696456,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.8978978978978978,0.691930415667937,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.9129129129129128,0.6919839264276727,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.9279279279279278,0.6920632251564207,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.942942942942943,0.6921649588385799,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.957957957957958,0.6922856841609198,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.972972972972973,0.6924219013712835,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+2.987987987987988,0.6925700950087831,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.003003003003003,0.6927267813869766,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.018018018018018,0.692888562359549,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.033033033033033,0.6930521845674248,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.048048048048048,0.6932146030715653,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.063063063063063,0.6933730480282787,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.078078078078078,0.6935250928720832,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.093093093093093,0.6936687223394479,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.108108108108108,0.693802398596211,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.123123123123123,0.6939251237195216,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.138138138138138,0.6940364968264495,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.153153153153153,0.6941367642278555,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.168168168168168,0.6942268611081458,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.183183183183183,0.6943084433787301,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.198198198198198,0.6943839085146929,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.2132132132132134,0.6944564043511362,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.2282282282282284,0.6945298249798443,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.2432432432432434,0.6946087930432039,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.2582582582582584,0.6946986278681793,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.2732732732732734,0.6948052990194551,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.2882882882882885,0.6949353649815756,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.3033033033033035,0.6950958968118862,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.3183183183183185,0.6952943867486012,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.3333333333333335,0.6955386419219807,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.3483483483483485,0.6958366635126237,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.3633633633633635,0.6961965119397212,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.3783783783783785,0.6966261589520576,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.3933933933933935,0.6971333278410224,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.4084084084084085,0.6977253233985152,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.4234234234234235,0.6984088536992699,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.4384384384384385,0.6991898462863552,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.4534534534534536,0.7000732618643676,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.4684684684684686,0.7010629091349659,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.4834834834834836,0.7021612649167128,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.4984984984984986,0.7033693041445562,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.5135135135135136,0.7046863447099392,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.5285285285285286,0.706109912346417,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.5435435435435436,0.7076356308549887,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.5585585585585586,0.709257142869499,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.5735735735735736,0.7109660660626341,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.5885885885885886,0.7127519891726843,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.6036036036036037,0.7146025114858019,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.6186186186186187,0.716503328444332,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.6336336336336337,0.7184383648874765,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.6486486486486487,0.7203899560962593,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.6636636636636637,0.7223390753522826,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.6786786786786787,0.7242656051803839,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.6936936936936937,0.7261486478886094,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.7087087087087087,0.7279668695094061,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.7237237237237237,0.7296988698504246,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.7387387387387387,0.7313235701475584,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.7537537537537538,0.7328206088376651,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.7687687687687688,0.7341707352870597,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.7837837837837838,0.7353561909661405,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.798798798798799,0.7363610675789717,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.813813813813814,0.7371716320520842,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.828828828828829,0.7377766090553955,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.843843843843844,0.7381674128494384,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.858858858858859,0.7383383216898745,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.873873873873874,0.7382865897209462,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.888888888888889,0.7380124931898152,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.903903903903904,0.737519309839914,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.918918918918919,0.7368132324138419,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.933933933933934,0.7359032192330938,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.948948948948949,0.7348007867429321,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.963963963963964,0.7335197506416078,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.978978978978979,0.7320759236883654,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+3.993993993993994,0.7304867794511614,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.009009009009009,0.7287710920736692,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.024024024024024,0.7269485625890879,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.039039039039039,0.725039442379044,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.054054054054054,0.7230641640793007,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.069069069069069,0.7210429895954733,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.084084084084084,0.7189956839498931,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.099099099099099,0.716941222485111,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.114114114114114,0.7148975375579586,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.129129129129129,0.7128813093334037,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.1441441441441444,0.710907803694081,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.1591591591591595,0.7089907586821673,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.1741741741741745,0.7071423193437503,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.1891891891891895,0.7053730194035305,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.2042042042042045,0.7036918069023281,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.2192192192192195,0.7021061098142221,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.2342342342342345,0.7006219367460386,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.2492492492492495,0.6992440071207127,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.2642642642642645,0.6979759047590159,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.2792792792792795,0.6968202484936601,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.2942942942942945,0.6957788733610981,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.3093093093093096,0.6948530159992624,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.324324324324325,0.6940434981103846,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.33933933933934,0.6933509022022394,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.354354354354355,0.6927757342739819,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.36936936936937,0.6923185686421394,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.384384384384385,0.6919801706889841,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.3993993993994,0.6917615939446562,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.414414414414415,0.6916642485752141,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.42942942942943,0.6916899390349671,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.444444444444445,0.6918408693500093,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.45945945945946,0.6921196152308032,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.474474474474475,0.6925290629658701,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.48948948948949,0.693072315827567,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.504504504504505,0.6937525695239464,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.51951951951952,0.6945729590546169,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.534534534534535,0.6955363801659991,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.54954954954955,0.6966452894399604,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.564564564564565,0.6979014878717187,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.57957957957958,0.6993058935747585,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.594594594594595,0.7008583099641664,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.60960960960961,0.7025571963827016,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.624624624624625,0.7043994486116367,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.63963963963964,0.706380197015147,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.654654654654655,0.7084926301692328,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.66966966966967,0.7107278516935198,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.684684684684685,0.7130747776133128,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.6996996996997,0.7155200809145232,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.714714714714715,0.718048189010967,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.72972972972973,0.7206413386291276,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.744744744744745,0.7232796911500126,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.75975975975976,0.7259415097646501,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.774774774774775,0.7286033979451707,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.78978978978979,0.7312405967651566,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.804804804804805,0.7338273365884841,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.81981981981982,0.7363372366596508,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.834834834834835,0.7387437442492117,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.84984984984985,0.741020603314197,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.864864864864865,0.7431423412009357,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.87987987987988,0.7450847608149437,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.894894894894895,0.7468254249673756,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.90990990990991,0.748344119323906,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.924924924924925,0.7496232805574693,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.93993993993994,0.7506483769501922,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.954954954954955,0.751408229792338,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.96996996996997,0.7518952654575546,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+4.984984984984985,0.7521056899465938,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5,0.7520395799212221,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.015015015015015,0.7517008867178357,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.03003003003003,0.7510973524468402,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.045045045045045,0.7502403399530418,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.06006006006006,0.7491445810350956,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.075075075075075,0.7478278498012635,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.09009009009009,0.7463105702829128,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.105105105105105,0.7446153693548043,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.12012012012012,0.7427665875539259,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.135135135135135,0.7407897614941424,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.15015015015015,0.7387110922080772,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.165165165165165,0.7365569138951782,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.18018018018018,0.7343531772203117,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.195195195195195,0.7321249605133223,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.21021021021021,0.7298960210072182,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.225225225225225,0.7276883966761758,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.24024024024024,0.7255220673620499,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.255255255255255,0.7234146817860913,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.27027027027027,0.7213813548132112,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.285285285285285,0.7194345370535387,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.3003003003003,0.7175839566326251,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.315315315315315,0.715836630815408,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.33033033033033,0.7141969431998978,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.345345345345345,0.712666780464704,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.36036036036036,0.7112457212082048,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.375375375375375,0.709931268291383,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.39039039039039,0.7087191153127106,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.405405405405405,0.7076034374095063,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.42042042042042,0.7065771964904853,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.435435435435435,0.7056324512411251,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.45045045045045,0.7047606627785652,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.465465465465465,0.7039529876286819,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.48048048048048,0.7032005507103353,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.495495495495495,0.7024946921914885,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.51051051051051,0.7018271833765996,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.525525525525525,0.7011904081422066,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.54054054054054,0.700577507806218,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.555555555555555,0.6999824886482519,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.57057057057057,0.6994002925497784,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.585585585585585,0.6988268323563346,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.6006006006006,0.6982589945492065,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.615615615615615,0.6976946126276573,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.63063063063063,0.6971324152300212,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.645645645645645,0.696571953455633,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.66066066066066,0.6960135120901884,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.675675675675675,0.6954580094921524,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.6906906906906904,0.6949068907812603,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.7057057057057055,0.6943620187008273,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.7207207207207205,0.6938255661268434,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.7357357357357355,0.6932999136946446,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.7507507507507505,0.6927875554359307,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.7657657657657655,0.6922910146933117,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.7807807807807805,0.6918127719334857,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.7957957957957955,0.6913552054393924,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.8108108108108105,0.6909205452490478,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.8258258258258255,0.6905108401440433,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.8408408408408405,0.6901279369898841,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.8558558558558556,0.6897734713055099,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.870870870870871,0.689448867598613,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.885885885885886,0.6891553477511857,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.900900900900901,0.688893945576815,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.915915915915916,0.6886655255955805,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.930930930930931,0.6884708040792151,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.945945945945946,0.6883103705017755,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.960960960960961,0.6881847076812688,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.975975975975976,0.6880942091062461,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+5.990990990990991,0.6880391921986048,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.006006006006006,0.6880199065595504,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.021021021021021,0.6880365365697892,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.036036036036036,0.688089198057425,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.051051051051051,0.6881779290977732,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.066066066066066,0.6883026753583766,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.081081081081081,0.6884632707402212,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.096096096096096,0.6886594143824891,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.111111111111111,0.688890645383458,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.126126126126126,0.6891563168343511,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.141141141141141,0.689455570956641,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.156156156156156,0.6897873172669974,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.171171171171171,0.6901502157592853,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.186186186186186,0.6905426670821148,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.201201201201201,0.6909628115974795,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.216216216216216,0.691408539026786,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.231231231231231,0.6918775101237514,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.246246246246246,0.6923671914604378,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.261261261261261,0.6928749039780621,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.276276276276276,0.693397885446445,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.291291291291291,0.6939333664072773,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.306306306306306,0.6944786585627446,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.321321321321321,0.6950312539316656,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.336336336336336,0.6955889324528318,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.351351351351351,0.6961498750943765,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.366366366366366,0.6967127789552484,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.381381381381381,0.6972769703474703,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.396396396396396,0.6978425114523267,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.411411411411412,0.6984102958751979,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.426426426426427,0.6989821283047947,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.441441441441442,0.6995607835314012,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.456456456456457,0.7001500403089442,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.471471471471472,0.700754685964813,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.486486486486487,0.7013804882701048,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.501501501501502,0.7020341318750788,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.516516516516517,0.7027231175759525,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.531531531531532,0.7034556237883667,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.546546546546547,0.7042403308308903,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.561561561561562,0.7050862099332987,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.576576576576577,0.7060022802375749,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.591591591591592,0.7069973384083762,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.606606606606607,0.7080796667647721,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.621621621621622,0.7092567270351696,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.636636636636637,0.7105348478717487,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.651651651651652,0.7119189150908418,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.666666666666667,0.7134120741871308,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.681681681681682,0.715015454964363,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.696696696696697,0.7167279281037305,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.711711711711712,0.7185459031334966,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.726726726726727,0.7204631765616324,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.741741741741742,0.7224708378916629,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.756756756756757,0.7245572398783507,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.771771771771772,0.726708037725439,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.786786786786787,0.7289063000266348,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.801801801801802,0.7311326921596001,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.816816816816817,0.7333657306274185,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.831831831831832,0.7355821045776584,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.846846846846847,0.7377570584960668,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.861861861861862,0.7398648279528028,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.876876876876877,0.7418791183558114,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.891891891891892,0.7437736150157567,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.906906906906907,0.7455225115194618,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.921921921921922,0.7471010425022303,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.936936936936937,0.748486006448058,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.951951951951952,0.7496562641583975,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.966966966966967,0.7505931990244111,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.981981981981982,0.7512811262053705,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+6.996996996996997,0.751707639228478,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.012012012012012,0.7518638843363777,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.027027027027027,0.7517447550549198,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.042042042042042,0.7513490018580535,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.057057057057057,0.7506792543813304,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.072072072072072,0.7497419562852993,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.087087087087087,0.7485472154972569,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.102102102102102,0.7471085750677284,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.117117117117117,0.745442712175843,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.132132132132132,0.7435690748236817,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.147147147147147,0.741509467405335,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.162162162162162,0.7392875975689577,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.177177177177177,0.736928597574496,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.192192192192192,0.7344585336701697,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.207207207207207,0.7319039168702308,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.222222222222222,0.7292912279368079,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.237237237237237,0.7266464683884146,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.252252252252252,0.7239947480300235,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.267267267267267,0.7213599178894481,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.282282282282282,0.7187642556250384,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.297297297297297,0.7162282085178463,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.312312312312312,0.7137701971558755,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.327327327327327,0.7114064809341267,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.342342342342342,0.7091510846014117,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.357357357357357,0.7070157833440451,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.372372372372372,0.7050101423572055,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.387387387387387,0.7031416055545695,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.402402402402402,0.7014156270301345,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.4174174174174174,0.6998358381246252,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.4324324324324325,0.6984042424618162,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.4474474474474475,0.6971214310960785,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.4624624624624625,0.6959868099310648,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.4774774774774775,0.694998831803152,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.4924924924924925,0.6941552260403443,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.5075075075075075,0.6934532188734287,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.5225225225225225,0.6928897387571191,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.5375375375375375,0.6924616014223702,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.5525525525525525,0.6921656702978933,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.5675675675675675,0.6919989887848469,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.5825825825825826,0.691958881724213,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.597597597597598,0.6920430242473833,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.612612612612613,0.6922494770376648,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.627627627627628,0.6925766878483846,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.642642642642643,0.6930234599197751,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.657657657657658,0.6935888887110547,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.672672672672673,0.6942722691155545,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.687687687687688,0.6950729760537758,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.702702702702703,0.6959903220376716,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.717717717717718,0.6970233959619182,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.732732732732733,0.6981708879930554,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.747747747747748,0.6994309059796852,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.762762762762763,0.7008007892770995,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.777777777777778,0.7022769262454365,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.792792792792793,0.703854581917557,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.807807807807808,0.7055277424166482,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.822822822822823,0.707288982611148,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.837837837837838,0.7091293632062887,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.852852852852853,0.7110383629732642,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.867867867867868,0.7130038511019219,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.882882882882883,0.7150121037328737,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.897897897897898,0.7170478675922112,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.912912912912913,0.7190944723391156,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.927927927927928,0.7211339917770854,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.942942942942943,0.7231474525165353,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.957957957957958,0.7251150870623368,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.972972972972973,0.7270166266934693,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+7.987987987987988,0.7288316279663846,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.003003003003004,0.7305398252738674,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.018018018018019,0.7321215006898389,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.033033033033034,0.7335578613855419,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.048048048048049,0.734831414263596,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.063063063063064,0.7359263271618549,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.078078078078079,0.7368287660538011,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.093093093093094,0.7375271981258964,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.108108108108109,0.7380126514380436,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.123123123123124,0.7382789230475645,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.138138138138139,0.7383227289605807,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.153153153153154,0.7381437910136196,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.168168168168169,0.7377448577168046,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.183183183183184,0.7371316581334991,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.198198198198199,0.7363127899491393,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.213213213213214,0.7352995449125272,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.228228228228229,0.7341056767359582,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.243243243243244,0.732747118242801,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.258258258258259,0.7312416559882502,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.273273273273274,0.7296085716994191,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.288288288288289,0.7278682606479683,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.303303303303304,0.7260418374616322,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.318318318318319,0.7241507398968093,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.333333333333334,0.7222163407459247,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.348348348348349,0.7202595773691437,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.363363363363364,0.7183006073623668,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.378378378378379,0.7163584976554025,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.393393393393394,0.7144509529368531,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.408408408408409,0.7125940877911703,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.423423423423424,0.7108022453753634,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.438438438438439,0.7090878639225113,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.453453453453454,0.7074613908958269,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.468468468468469,0.7059312432821014,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.483483483483484,0.7045038113483948,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.498498498498499,0.7031835022212386,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.513513513513514,0.7019728189018188,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.528528528528529,0.7008724698102178,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.543543543543544,0.6998815036521605,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.558558558558559,0.6989974643085769,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.573573573573574,0.6982165605387894,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.588588588588589,0.6975338455337838,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.603603603603604,0.6969434017240581,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.618618618618619,0.6964385267027542,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.633633633633634,0.6960119166353942,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.64864864864865,0.6956558440611856,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.663663663663664,0.6953623275200509,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.67867867867868,0.6951232909419517,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.693693693693694,0.6949307111941417,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.70870870870871,0.694776752587231,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.723723723723724,0.6946538874875758,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.73873873873874,0.6945550024724783,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.753753753753754,0.6944734897007355,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.76876876876877,0.6944033233629162,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.783783783783784,0.6943391212338798,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.7987987987988,0.694276191485718,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.813813813813814,0.6942105650439212,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.82882882882883,0.6941390138924839,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.843843843843844,0.6940590558625416,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.85885885885886,0.6939689465784489,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.873873873873874,0.6938676593863121,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.88888888888889,0.6937548542510561,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.903903903903904,0.6936308367741728,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.91891891891892,0.6934965086479257,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.933933933933934,0.6933533110135144,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.94894894894895,0.693203162320132,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.963963963963964,0.6930483923781245,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.97897897897898,0.692891674352608,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+8.993993993993994,0.6927359564453468,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.00900900900901,0.6925843949562976,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.024024024024024,0.6924402902985939,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.03903903903904,0.6923070273621161,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.054054054054054,0.692188021384841,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.06906906906907,0.6920866702051716,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.084084084084084,0.6920063134433743,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.0990990990991,0.6919501988096575,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.114114114114114,0.6919214553766023,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.12912912912913,0.6919230733022301,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.144144144144144,0.6919578891652669,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.15915915915916,0.6920285757942107,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.174174174174174,0.6921376352531348,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.18918918918919,0.6922873935038331,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.204204204204204,0.6924799952069615,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.21921921921922,0.69271739716053915,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.234234234234235,0.6930013590047077,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.24924924924925,0.6933334300433893,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.264264264264265,0.6937149313380416,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.27927927927928,0.6941469326021023,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.294294294294295,0.6946302238487495,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.30930930930931,0.695165282196854,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.324324324324325,0.6957522346954678,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.33933933933934,0.6963908184592722,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.354354354354355,0.6970803397893793,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.36936936936937,0.697819634260662,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.384384384384385,0.6986070299662007,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.3993993993994,0.6994403162041727,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.414414414414415,0.7003167198606942,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.42942942942943,0.7012328915793834,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.444444444444445,0.7021849035173979,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.45945945945946,0.7031682600792062,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.474474474474475,0.7041779225116569,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.48948948948949,0.7052083476619198,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.504504504504505,0.7062535405742545,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.51951951951952,0.7073071199667506,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.534534534534535,0.7083623950214988,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.54954954954955,0.709412451377147,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.564564564564565,0.7104502437647986,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.57957957957958,0.7114686924052528,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.594594594594595,0.7124607801091457,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.60960960960961,0.7134196470047915,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.624624624624625,0.7143386799646925,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.63963963963964,0.7152115941041399,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.654654654654655,0.716032504167071,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.66966966966967,0.7167959841696478,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.684684684684685,0.7174971143070474,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.6996996996997,0.7181315148046176,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.714714714714715,0.7186953670686023,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.72972972972973,0.7191854231214,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.744744744744745,0.7195990048519587,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.75975975975976,0.7199339950387252,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.774774774774775,0.7201888223836613,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.78978978978979,0.7203624429140681,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.804804804804805,0.7204543200580331,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.81981981981982,0.7204644054844082,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.834834834834835,0.7203931224357517,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.84984984984985,0.7202413527990883,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.864864864864865,0.7200104285893769,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.87987987987988,0.7197021279050455,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.894894894894895,0.7193186747975694,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.90990990990991,0.7188627419218371,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.924924924924925,0.7183374543419769,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.93993993993994,0.7177463924937048,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.954954954954955,0.7170935920762094,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.96996996996997,0.7163835385815487,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+9.984984984984985,0.7156211542735925,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10,0.7148117756968126,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.015015015015015,0.7139611202116845,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.03003003003003,0.71307524059271,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.045045045045045,0.7121604673536921,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.06006006006006,0.7112233391441066,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.075075075075075,0.710270522248661,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.09009009009009,0.70930872087763,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.105105105105105,0.7083445805192615,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.12012012012012,0.7073845871034329,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.135135135135135,0.7064349650706192,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.15015015015015,0.7055015776336578,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.165165165165165,0.7045898325523237,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.18018018018018,0.7037045966126529,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.195195195195195,0.7028501217235122,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.21021021021021,0.7020299851294854,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.225225225225225,0.7012470457158333,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.24024024024024,0.7005034177770352,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.255255255255255,0.6998004629672565,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.27027027027027,0.699138800481813,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.285285285285285,0.6985183348655328,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.3003003003003,0.6979383002359205,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.315315315315315,0.6973973191717664,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.33033033033033,0.6968934740712969,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.345345345345345,0.6964243884425955,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.36036036036036,0.6959873153612746,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.375375375375375,0.6955792302185153,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.39039039039039,0.695196924883694,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.405405405405405,0.6948371005118821,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.42042042042042,0.6944964564256778,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.435435435435435,0.6941717727783444,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.45045045045045,0.6938599850442014,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.465465465465465,0.6935582487649422,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.48048048048048,0.6932639933891943,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.495495495495495,0.6929749644600682,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.51051051051051,0.6926892538159406,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.525525525525525,0.6924053178594027,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.54054054054054,0.6921219843063902,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.555555555555555,0.6918384481427851,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.57057057057057,0.6915542577821654,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.585585585585585,0.6912692926314398,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.6006006006006,0.6909837334285294,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.615615615615615,0.6906980268178801,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.63063063063063,0.6904128456769045,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.645645645645645,0.6901290467029312,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.66066066066066,0.6898476267202451,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.675675675675675,0.6895696790760797,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.69069069069069,0.689296351369411,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.705705705705705,0.6890288056041074,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.72072072072072,0.6887681816856367,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.735735735735735,0.6885155649956521,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.75075075075075,0.6882719585883845,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.765765765765765,0.6880382603638492,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.78078078078078,0.6878152453916245,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.795795795795796,0.6876035533910774,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.81081081081081,0.6874036812239398,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.825825825825826,0.6872159801271075,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.84084084084084,0.6870406573100228,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.855855855855856,0.686877781463976,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.87087087087087,0.6867272916807401,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.885885885885886,0.6865890092550921,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.9009009009009,0.6864626518488224,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.915915915915916,0.6863478495211515,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.93093093093093,0.6862441621794,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.945945945945946,0.6861510980716994,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.96096096096096,0.6860681330268539,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.975975975975976,0.6859947302419029,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+10.99099099099099,0.6859303605216183,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.006006006006006,0.6858745229824331,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.02102102102102,0.6858267663422282,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.036036036036036,0.6857867110232496,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.05105105105105,0.6857540723942228,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.066066066066066,0.6857286855656095,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.08108108108108,0.6857105322247485,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.096096096096096,0.6856997700512126,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.11111111111111,0.6856967652825929,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.126126126126126,0.6857021290025667,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.14114114114114,0.6857167576917276,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.156156156156156,0.6857418785125191,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.17117117117117,0.685779099688068,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.186186186186186,0.6858304661766398,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.2012012012012,0.6858985206352037,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.216216216216216,0.6859863694050793,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.23123123123123,0.6860977529390487,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.246246246246246,0.6862371197241779,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.26126126126126,0.6864097023421479,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.276276276276276,0.6866215938564181,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.29129129129129,0.6868798222341556,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.306306306306306,0.687192420015409,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.32132132132132,0.6875684859515581,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.336336336336336,0.6880182348724716,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.35135135135135,0.6885530316336379,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.366366366366366,0.6891854046700502,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.381381381381381,0.6899290344740662,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.396396396396396,0.6907987122513691,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.411411411411411,0.6918102641230314,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.426426426426426,0.6929804365597491,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.441441441441441,0.6943267392788343,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.456456456456456,0.6958672426203047,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.471471471471471,0.6976203274510203,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.486486486486486,0.6996043869197899,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.501501501501501,0.7018374808836244,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.516516516516516,0.7043369455145829,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.531531531531531,0.7071189624329193,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.546546546546546,0.7101980936376627,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.561561561561561,0.7135867904508408,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.576576576576576,0.717294886577548,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.591591591591591,0.7213290871258575,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.606606606606606,0.7256924669405538,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.621621621621621,0.7303839927969636,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.636636636636636,0.7353980847958643,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.651651651651651,0.7407242326287106,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.666666666666666,0.7463466821901222,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.681681681681681,0.7522442072666073,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.696696696696696,0.7583899797135282,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.711711711711711,0.7647515496565999,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.726726726726726,0.771290944854773,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.741741741741741,0.7779648954970134,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.756756756756756,0.7847251874575492,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.771771771771771,0.7915191435029748,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.786786786786786,0.798290228246063,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.801801801801801,0.8049787689013526,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.816816816816816,0.8115227802478043,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.831831831831831,0.817858878774812,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.846846846846846,0.8239232679041625,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.861861861861861,0.829652773555541,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.876876876876876,0.8349859072545358,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.891891891891891,0.8398639325478308,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.906906906906906,0.8442319097464543,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.921921921921921,0.8480396939965767,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.936936936936936,0.8512428623859964,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.951951951951951,0.8538035472163806,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.966966966966966,0.8556911546668203,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.981981981981981,0.8568829507822165,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+11.996996996996996,0.8573644999607861,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.012012012012011,0.8571299447927431,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.027027027027026,0.8561821201086205,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.042042042042041,0.854532498312725,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.057057057057056,0.8522009673810809,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.072072072072071,0.8492154471673962,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.087087087087086,0.845611353759795,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.102102102102101,0.8414309254444926,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.117117117117116,0.836722427247496,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.132132132132131,0.8315392539406058,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.147147147147146,0.8259389537269363,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.162162162162161,0.8199821964953505,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.177177177177176,0.8137317115042363,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.192192192192191,0.8072512195974725,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.207207207207206,0.8006043845676989,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.222222222222221,0.793853807087205,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.237237237237236,0.787060082772647,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.252252252252251,0.7802809435069074,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.267267267267266,0.7735704982013017,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.282282282282281,0.7669785858526227,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.297297297297296,0.7605502501539957,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.312312312312311,0.7543253411859983,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.327327327327327,0.7483382459772466,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.342342342342342,0.7426177461109664,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.357357357357357,0.7371869971863262,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.372372372372372,0.7320636219275354,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.387387387387387,0.7272599061583005,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.402402402402402,0.7227830847916658,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.417417417417417,0.718635703468754,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.432432432432432,0.7148160405335957,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.447447447447447,0.7113185736494796,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.462462462462462,0.7081344755171084,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.477477477477477,0.7052521237981204,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.492492492492492,0.7026576114146806,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.507507507507507,0.7003352448099691,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.522522522522522,0.6982680194308389,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.537537537537537,0.6964380635448179,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.552552552552552,0.6948270434423781,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.567567567567567,0.6934165250203345,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.582582582582582,0.6921882886203338,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.597597597597597,0.6911245957453314,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.612612612612612,0.690208407847246,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.627627627627627,0.6894235587345227,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.642642642642642,0.6887548832665903,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.657657657657657,0.6881883058736045,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.672672672672672,0.6877108930663518,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.687687687687687,0.6873108744948194,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.702702702702702,0.686977637294663,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.717717717717717,0.6867016984544915,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.732732732732732,0.6864746597731709,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.747747747747747,0.6862891496867781,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.762762762762762,0.6861387558608462,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.777777777777777,0.6860179519953415,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.792792792792792,0.6859220218049573,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.807807807807807,0.6858469826400003,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.822822822822824,0.6857895107237627,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.837837837837839,0.6857468695171398,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.852852852852854,0.6857168422926694,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.867867867867869,0.685697669616705,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.882882882882884,0.6856879921053537,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.897897897897899,0.6856867985394334,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.912912912912914,0.6856933791960756,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.927927927927929,0.6857072840779724,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.942942942942944,0.685728285592537,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.957957957957959,0.6857563451484983,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.972972972972974,0.6857915830921936,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+12.987987987987989,0.6858342513954435,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.003003003003004,0.6858847085266616,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.018018018018019,0.6859433959821782,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.033033033033034,0.6860108160212741,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.048048048048049,0.6860875102318048,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.063063063063064,0.6861740386495925,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.078078078078079,0.6862709592598348,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.093093093093094,0.6863788078189081,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.108108108108109,0.6864980780461253,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.123123123123124,0.6866292023434749,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.138138138138139,0.6867725333031292,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.153153153153154,0.6869283263540452,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.168168168168169,0.6870967239762548,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.183183183183184,0.6872777419712988,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.198198198198199,0.6874712583163892,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.213213213213214,0.6876770051455895,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.228228228228229,0.6878945643916297,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.243243243243244,0.6881233675853224,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.258258258258259,0.6883627002455576,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.273273273273274,0.6886117112018026,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.288288288288289,0.6888694270742709,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.303303303303304,0.6891347719969285,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.318318318318319,0.6894065925085849,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.333333333333334,0.6896836873617607,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.348348348348349,0.6899648418132933,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.363363363363364,0.6902488657703342,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.378378378378379,0.6905346349774624,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.393393393393394,0.6908211342517502,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.408408408408409,0.6911075016102105,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.423423423423424,0.6913930719952563,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.438438438438439,0.6916774191956081,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.453453453453454,0.6919603944891856,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.468468468468469,0.6922421605066503,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.483483483483484,0.6925232188344663,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.498498498498499,0.6928044299483066,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.513513513513514,0.6930870241937346,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.528528528528529,0.6933726027117607,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.543543543543544,0.6936631274410544,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.558558558558559,0.6939608996125803,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.573573573573574,0.6942685264807779,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.588588588588589,0.694588876399833,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.603603603603604,0.6949250227439963,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.618618618618619,0.6952801775744565,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.633633633633634,0.6956576163577213,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.64864864864865,0.6960605954255217,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.663663663663664,0.6964922642171374,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.67867867867868,0.6969555746442669,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.693693693693694,0.6974531901495479,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.70870870870871,0.6979873971772211,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.723723723723724,0.6985600218255744,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.73873873873874,0.6991723543962081,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.753753753753754,0.6998250843899974,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.76876876876877,0.7005182482237904,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.783783783783784,0.7012511915611793,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.7987987987988,0.7020225476764366,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.813813813813814,0.7028302327202824,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.82882882882883,0.7036714581517689,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.843843843843844,0.7045427599691882,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.85885885885886,0.7054400437442732,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.873873873873874,0.7063586438696657,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.88888888888889,0.707293394900796,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.903903903903904,0.7082387124392662,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.91891891891892,0.7091886806905023,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.933933933933934,0.7101371436531716,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.94894894894895,0.7110777968735993,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.963963963963964,0.7120042768285233,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.97897897897898,0.7129102452783892,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+13.993993993993994,0.713789466346107,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.00900900900901,0.7146358745994948,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.024024024024024,0.7154436330185803,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.03903903903904,0.7162071803752263,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.054054054054054,0.716921268202243,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.06906906906907,0.7175809881414935,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.084084084084084,0.7181817909965363,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.0990990990991,0.7187194992404162,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.114114114114114,0.7191903150156668,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.12912912912913,0.7195908257924747,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.144144144144144,0.7199180098137089,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.15915915915916,0.7201692432545702,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.174174174174174,0.7203423106735075,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.18918918918919,0.7204354198534194,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.204204204204204,0.7204472215607255,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.21921921921922,0.7203768341236123,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.234234234234235,0.7202238720930448,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.24924924924925,0.7199884776451727,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.264264264264265,0.7196713528541789,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.27927927927928,0.7192737905482125,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.294294294294295,0.7187977011883859,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.30930930930931,0.7182456331034194,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.324324324324325,0.7176207834810506,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.33933933933934,0.7169269977615061,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.354354354354355,0.716168755486415,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.36936936936937,0.7153511412067433,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.384384384384385,0.7144797997146491,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.3993993993994,0.7135608755989732,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.414414414414415,0.7126009378899152,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.42942942942943,0.7116068913110325,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.444444444444445,0.7105858763522948,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.45945945945946,0.7095451609760156,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.474474474474475,0.708492027233216,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.48948948948949,0.7074336563740465,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.504504504504505,0.7063770161643189,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.51951951951952,0.7053287540634154,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.534534534534535,0.7042950996801715,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.54954954954955,0.7032817795170413,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.564564564564565,0.7022939464632224,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.57957957957958,0.701336125837414,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.594594594594595,0.7004121790499418,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.60960960960961,0.6995252851954598,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.624624624624625,0.6986779401454456,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.63963963963964,0.6978719720261466,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.654654654654655,0.6971085713789127,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.66966966966967,0.6963883338345954,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.684684684684685,0.6957113128105651,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.6996996996997,0.6950770795658762,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.714714714714715,0.6944847879242693,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.72972972972973,0.693933241083462,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.744744744744745,0.6934209581518347,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.75975975975976,0.692946238363999,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.774774774774775,0.6925072212957447,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.78978978978979,0.692101941797189,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.804804804804805,0.6917283787633792,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.81981981981982,0.6913844972409766,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.834834834834835,0.6910682837098399,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.84984984984985,0.6907777746670299,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.864864864864865,0.6905110788712036,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.87987987987988,0.6902663937759018,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.894894894894895,0.6900420167934137,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.90990990990991,0.6898363520923294,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.924924924924925,0.689647913649304,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.93993993993994,0.6894753252576268,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.954954954954955,0.6893173181507806,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.96996996996997,0.6891727268366717,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+14.984984984984985,0.6890404836649985,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"
+15,0.688919612572527,Milne13,Milne (2013),harmonicity,#11A3FF,"2 dB/octave
+roll-off"

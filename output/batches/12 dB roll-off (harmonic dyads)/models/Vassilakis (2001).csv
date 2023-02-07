@@ -1,3 +1,2001 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3bee8986be0d120b72a872acfe5fc72d429cb0211dd9a2951fbced5d92c27346
-size 108961
+interval,output,model_id,model_label,model_theory,model_colour,timbre_label
+0,-0.5754562846770814,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.015015015015015015,-0.5878228057168167,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.03003003003003003,-0.6004966425588184,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.04504504504504504,-0.6134717411467228,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.06006006006006006,-0.6267398789385658,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.07507507507507508,-0.6402904867638948,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.09009009009009009,-0.6541104818120953,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.10510510510510511,-0.6681841174791172,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.12012012012012012,-0.682492856369466,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.13513513513513514,-0.6970152731772642,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.15015015015015015,-0.711726994396562,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.16516516516516516,-0.7266006817775601,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.18018018018018017,-0.7416060660953159,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.19519519519519518,-0.7567100370826828,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.21021021021021022,-0.7718767942661735,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.22522522522522523,-0.7870680619201527,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.24024024024024024,-0.8022433694367661,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.2552552552552553,-0.8173603961444065,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.2702702702702703,-0.8323753770793334,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.2852852852852853,-0.8472435635407656,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.3003003003003003,-0.8619197295865614,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.3153153153153153,-0.876358713122944,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.3303303303303303,-0.8905159780844525,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.34534534534534533,-0.9043481825597638,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.36036036036036034,-0.9178137367416578,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.37537537537537535,-0.9308733343720247,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.39039039039039036,-0.9434904419692499,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.40540540540540543,-0.9556317315573588,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.42042042042042044,-0.9672674447920727,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.43543543543543545,-0.9783716791671007,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.45045045045045046,-0.9889225902050395,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.46546546546546547,-0.998902506980533,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.4804804804804805,-1.008297961766232,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.4954954954954955,-1.0170996378212773,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.5105105105105106,-1.0253022421716242,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.5255255255255256,-1.0329043125180863,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.5405405405405406,-1.0399079690597253,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.5555555555555556,-1.0463186229998054,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.5705705705705706,-1.0521446538239316,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.5855855855855856,-1.0573970671642008,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.6006006006006006,-1.062089144282462,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.6156156156156156,-1.0662360930339432,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.6306306306306306,-1.06985470873279,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.6456456456456456,-1.0729630517540862,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.6606606606606606,-1.0755801470822546,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.6756756756756757,-1.0777257094454469,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.6906906906906907,-1.079419896231157,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.7057057057057057,-1.0806830891092767,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.7207207207207207,-1.0815357042241733,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.7357357357357357,-1.0819980299677254,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.7507507507507507,-1.082090090706639,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.7657657657657657,-1.081831534394301,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.7807807807807807,-1.0812415417274799,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.7957957957957957,-1.0803387543841638,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.8108108108108109,-1.0791412198725998,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.8258258258258259,-1.077666350605429,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.8408408408408409,-1.0759308949612187,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.8558558558558559,-1.073950918286492,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.8708708708708709,-1.0717417920058716,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.8858858858858859,-1.0693181892313075,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.9009009009009009,-1.0666940854823197,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.9159159159159159,-1.0638827633396502,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.9309309309309309,-1.0608968200494757,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.9459459459459459,-1.0577481772713948,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.960960960960961,-1.054448092319579,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.975975975975976,-1.0510071703830506,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+0.990990990990991,-1.0474353773289906,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.006006006006006,-1.043742052794287,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.021021021021021,-1.0399359233570467,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.0360360360360361,-1.0360251156539297,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.0510510510510511,-1.0320171693730829,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.0660660660660661,-1.0279190501081126,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.0810810810810811,-1.0237371621078757,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.0960960960960962,-1.0194773610013257,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.1111111111111112,-1.0151449666174506,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.1261261261261262,-1.0107447760582824,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.1411411411411412,-1.0062810772185973,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.1561561561561562,-1.0017576629792002,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.1711711711711712,-0.997177846331504,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.1861861861861862,-0.9925444767186552,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.2012012012012012,-0.9878599579018486,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.2162162162162162,-0.9831262676783387,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.2312312312312312,-0.9783449797884953,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.2462462462462462,-0.9735172883511373,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.2612612612612613,-0.9686440351576174,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.2762762762762763,-0.9637257401335734,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.2912912912912913,-0.9587626352412111,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.3063063063063063,-0.9537547020427887,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.3213213213213213,-0.9487017130764086,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.3363363363363363,-0.9436032771076442,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.3513513513513513,-0.9384588882149498,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.3663663663663663,-0.933267978544073,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.3813813813813813,-0.9280299744286994,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.3963963963963963,-0.9227443554241178,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.4114114114114114,-0.9174107156418609,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.4264264264264264,-0.9120288266109472,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.4414414414414414,-0.906598700731626,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.4564564564564564,-0.9011206542371061,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.4714714714714714,-0.8955953684450115,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.4864864864864864,-0.8900239479707464,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.5015015015015014,-0.8844079744971374,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.5165165165165164,-0.8787495546554025,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.5315315315315314,-0.8730513605777839,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.5465465465465464,-0.8673166617364046,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.5615615615615615,-0.8615493467890994,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.5765765765765765,-0.8557539343114736,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.5915915915915915,-0.8499355715038933,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.6066066066066067,-0.8441000202180771,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.6216216216216217,-0.8382536299441784,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.6366366366366367,-0.8324032977266783,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.6516516516516517,-0.826556415325443,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.6666666666666667,-0.8207208042945848,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.6816816816816818,-0.814904640003217,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.6966966966966968,-0.809116365955045,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.7117117117117118,-0.803364600065076,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.7267267267267268,-0.7976580348091217,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.7417417417417418,-0.7920053333647765,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.7567567567567568,-0.7864150240027503,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.7717717717717718,-0.7808953950589196,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.7867867867867868,-0.7754543928172686,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.8018018018018018,-0.7700995245618659,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.8168168168168168,-0.764837768914938,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.8318318318318318,-0.7596754953733611,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.8468468468468469,-0.7546183946951901,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.8618618618618619,-0.7496714214808091,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.8768768768768769,-0.7448387499508644,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.8918918918918919,-0.7401237435572418,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.906906906906907,-0.7355289386861829,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.921921921921922,-0.7310560423364514,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.936936936936937,-0.7267059432919442,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.951951951951952,-0.7224787359683447,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.966966966966967,-0.7183737558072274,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.981981981981982,-0.7143896248273215,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+1.996996996996997,-0.7105243057288859,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.012012012012012,-0.7067751627892664,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.027027027027027,-0.7031390276903439,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.042042042042042,-0.6996122683844311,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.057057057057057,-0.6961908591352812,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.0720720720720722,-0.692870449964278,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.0870870870870872,-0.6896464338854477,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.1021021021021022,-0.6865140105213705,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.1171171171171173,-0.6834682449476722,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.1321321321321323,-0.6805041209064538,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.1471471471471473,-0.6776165878468223,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.1621621621621623,-0.6748006015792707,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.1771771771771773,-0.6720511586549057,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.1921921921921923,-0.6693633248840315,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.2072072072072073,-0.6667322586754612,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.2222222222222223,-0.6641532300929351,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.2372372372372373,-0.661621636675201,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.2522522522522523,-0.6591330171414276,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.2672672672672673,-0.6566830640975757,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.2822822822822824,-0.6542676367703848,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.2972972972972974,-0.651882774627195,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.3123123123123124,-0.6495247125006631,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.3273273273273274,-0.6471898975409983,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.3423423423423424,-0.644875007983118,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.3573573573573574,-0.6425769733634827,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.3723723723723724,-0.6402929954755254,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.3873873873873874,-0.6380205690384344,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.4024024024024024,-0.6357575007953395,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.4174174174174174,-0.6335019255757252,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.4324324324324325,-0.631252317770289,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.4474474474474475,-0.6290074966869768,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.4624624624624625,-0.6267666243900647,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.4774774774774775,-0.6245291948686099,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.4924924924924925,-0.6222950137276726,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.5075075075075075,-0.6200641680295745,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.5225225225225225,-0.6178369864113031,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.5375375375375375,-0.6156139901408011,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.5525525525525525,-0.613395836318939,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.5675675675675675,-0.6111832549531818,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.5825825825825826,-0.6089769820915426,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.5975975975975976,-0.6067776915816706,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.6126126126126126,-0.6045859282843553,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.6276276276276276,-0.6024020457035127,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.6426426426426426,-0.6002261509828445,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.6576576576576576,-0.5980580600577972,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.6726726726726726,-0.5958972654430209,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.6876876876876876,-0.5937429186913137,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.7027027027027026,-0.5915938289983058,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.7177177177177176,-0.5894484787727554,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.7327327327327327,-0.5873050562750457,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.7477477477477477,-0.5851615046796877,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.7627627627627627,-0.5830155861762031,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.7777777777777777,-0.5808649590217015,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.7927927927927927,-0.5787072648306719,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.8078078078078077,-0.5765402228625651,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.8228228228228227,-0.5743617276703826,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.8378378378378377,-0.5721699462223236,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.8528528528528527,-0.5699634105157583,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.8678678678678677,-0.567741101773153,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.8828828828828827,-0.5655025225408546,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.8978978978978978,-0.5632477533944962,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.9129129129129128,-0.5609774914736668,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.9279279279279278,-0.5586930687020345,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.942942942942943,-0.5563964482716527,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.957957957957958,-0.554090198752499,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.972972972972973,-0.5517774459991921,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+2.987987987987988,-0.5494618038342809,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.003003003003003,-0.5471472852601529,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.018018018018018,-0.5448381966598485,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.033033033033033,-0.5425390180643748,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.048048048048048,-0.5402542730680205,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.063063063063063,-0.5379883923460445,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.078078078078078,-0.535745574958964,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.093093093093093,-0.5335296517083798,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.108108108108108,-0.531343954740836,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.123123123123123,-0.5291911973847075,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.138138138138138,-0.5270733678621015,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.153153153153153,-0.5249916400599104,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.168168168168168,-0.5229463039923093,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.183183183183183,-0.5209367179650656,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.198198198198198,-0.5189612837859429,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.2132132132132134,-0.5170174456818741,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.2282282282282284,-0.5151017129085309,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.2432432432432434,-0.5132097053956721,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.2582582582582584,-0.511336221183663,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.2732732732732734,-0.5094753238903035,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.2882882882882885,-0.5076204480156705,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.3033033033033035,-0.5057645195540654,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.3183183183183185,-0.503900089139358,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.3333333333333335,-0.502019474801015,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.3483483483483485,-0.5001149113464808,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.3633633633633635,-0.49817870340109804,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.3783783783783785,-0.49620337921651525,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.3933933933933935,-0.49418184248768254,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.4084084084084085,-0.49210751958196836,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.4234234234234235,-0.48997449976687324,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.4384384384384385,-0.487777666212416,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.4534534534534536,-0.4855128157301778,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.4684684684684686,-0.48317676538622606,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.4834834834834836,-0.48076744428655493,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.4984984984984986,-0.4782839689819393,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.5135135135135136,-0.47572670107870246,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.5285285285285286,-0.47309728578046706,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.5435435435435436,-0.47039867023367216,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.5585585585585586,-0.46763510071810627,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.5735735735735736,-0.46481209792479167,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.5885885885885886,-0.4619364098082918,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.6036036036036037,-0.45901594179770117,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.6186186186186187,-0.45605966450573093,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.6336336336336337,-0.4530774994897257,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.6486486486486487,-0.4500801840885776,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.6636636636636637,-0.44707911687635354,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.6786786786786787,-0.44408618582303583,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.6936936936936937,-0.44111358181601074,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.7087087087087087,-0.43817360074987816,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.7237237237237237,-0.435278437910754,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.7387387387387387,-0.43243997883699,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.7537537537537538,-0.4296695912036951,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.7687687687687688,-0.42697792252779687,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.7837837837837838,-0.42437470860147325,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.798798798798799,-0.421868597517208,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.813813813813814,-0.41946699393665965,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.828828828828829,-0.41717592787437713,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.843843843843844,-0.4149999517205627,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.858858858858859,-0.41294206852715093,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.873873873873874,-0.4110036937488153,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.888888888888889,-0.40918465169261137,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.903903903903904,-0.4074832069201066,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.918918918918919,-0.4058961298017507,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.933933933933934,-0.404418794385054,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.948948948948949,-0.4030453057466991,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.963963963963964,-0.4017686530933564,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.978978978978979,-0.40058088409275394,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+3.993993993993994,-0.3994732952865622,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.009009009009009,-0.3984366329843074,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.024024024024024,-0.3974612987799292,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.039039039039039,-0.39653755377838384,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.054054054054054,-0.39565571576912145,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.069069069069069,-0.39480634392828323,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.084084084084084,-0.3939804061560961,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.099099099099099,-0.393169424837592,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.114114114114114,-0.3923655976249816,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.129129129129129,-0.39156189074614184,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.1441441441441444,-0.3907521033103579,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.1591591591591595,-0.38993090207311054,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.1741741741741745,-0.3890938271001531,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.1891891891891895,-0.3882372697029405,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.2042042042042045,-0.38735842487140904,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.2192192192192195,-0.3864552211790195,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.2342342342342345,-0.3855262317567701,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.2492492492492495,-0.3845705704111243,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.2642642642642645,-0.38358777728507104,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.2792792792792795,-0.38257769862736607,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.2942942942942945,-0.38154036524407464,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.3093093093093096,-0.3804758740658344,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.324324324324325,-0.3793842769859611,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.33933933933934,-0.37826548072487226,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.354354354354355,-0.3771191609750006,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.36936936936937,-0.3759446934994524,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.384384384384385,-0.37474110422056617,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.3993993993994,-0.37350703966501814,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.414414414414415,-0.3722407584533835,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.42942942942943,-0.37094014385576196,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.444444444444445,-0.3696027368006263,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.45945945945946,-0.3682257881380466,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.474474474474475,-0.3668063284341536,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.48948948948949,-0.36534125312103055,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.504504504504505,-0.36382742045148625,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.51951951951952,-0.36226175941454697,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.534534534534535,-0.36064138455512107,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.54954954954955,-0.3589637145080392,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.564564564564565,-0.35722659099840265,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.57957957957958,-0.35542839507183505,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.594594594594595,-0.3535681573939196,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.60960960960961,-0.35164565959221805,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.624624624624625,-0.3496615238014125,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.63963963963964,-0.3476172878077871,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.654654654654655,-0.345515463469865,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.66966966966967,-0.34335957641459813,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.684684684684685,-0.3411541853709262,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.6996996996997,-0.33890487990267365,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.714714714714715,-0.3366182557383256,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.72972972972973,-0.33430186736306405,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.744744744744745,-0.3319641580340023,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.75975975975976,-0.3296143678964024,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.774774774774775,-0.32726242140823486,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.78978978978979,-0.3249187958116444,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.804804804804805,-0.32259437290946347,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.81981981981982,-0.32030027689736346,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.834834834834835,-0.3180477014506573,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.84984984984985,-0.31584772965140845,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.864864864864865,-0.31371115064873023,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.87987987987988,-0.3116482771566074,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.894894894894895,-0.30966876799506615,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.90990990990991,-0.30778145986129773,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.924924924924925,-0.3059942123709156,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.93993993993994,-0.3043137701344487,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.954954954954955,-0.3027456452345678,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.96996996996997,-0.301294022955179,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+4.984984984984985,-0.29996169299977005,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5,-0.2987500077436044,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.015015015015015,-0.2976588683170461,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.03003003003003,-0.2966867385430866,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.045045045045045,-0.2958306859802467,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.06006006006006,-0.2950864485820461,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.075075075075075,-0.29444852480438827,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.09009009009009,-0.29391028439805217,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.105105105105105,-0.2934640966366078,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.12012012012012,-0.29310147236691964,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.135135135135135,-0.29281321604067734,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.15015015015015,-0.2925895837954658,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.165165165165165,-0.2924204437008715,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.18018018018018,-0.292295434461031,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.195195195195195,-0.29220411915645544,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.21021021021021,-0.29213613099699143,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.225225225225225,-0.2920813085228924,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.24024024024024,-0.29202981820857915,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.255255255255255,-0.29197226296903966,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.27027027027027,-0.2918997756176642,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.285285285285285,-0.2918040968537125,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.3003003003003,-0.29167763784718953,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.315315315315315,-0.29151352792157675,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.33033033033033,-0.2913056481974573,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.345345345345345,-0.2910486523436809,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.36036036036036,-0.29073797578282834,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.375375375375375,-0.2903698348140991,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.39039039039039,-0.28994121715312177,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.405405405405405,-0.2894498653517951,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.42042042042042,-0.28889425446226563,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.435435435435435,-0.28827356515990277,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.45045045045045,-0.2875876533544768,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.465465465465465,-0.2868370171112917,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.48048048048048,-0.28602276148930167,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.495495495495495,-0.2851465616952031,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.51051051051051,-0.2842106247636717,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.525525525525525,-0.28321764981509406,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.54054054054054,-0.2821707868217854,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.555555555555555,-0.28107359373766766,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.57057057057057,-0.2799299918177786,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.585585585585585,-0.27874421897301066,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.6006006006006,-0.27752078106942923,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.615615615615615,-0.276264401185147,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.63063063063063,-0.274979966973245,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.645645645645645,-0.2736724764370224,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.66066066066066,-0.2723469825926843,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.675675675675675,-0.27100853766248917,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.6906906906906904,-0.2696621375960085,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.7057057057057055,-0.2683126678467766,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.7207207207207205,-0.2669648514254604,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.7357357357357355,-0.26562320029995196,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.7507507507507505,-0.2642919712108647,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.7657657657657655,-0.2629751269141599,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.7807807807807805,-0.26167630375042467,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.7957957957957955,-0.26039878627540297,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.8108108108108105,-0.2591454894747417,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.8258258258258255,-0.2579189488365084,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.8408408408408405,-0.25672131827947886,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.8558558558558556,-0.2555543756470334,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.870870870870871,-0.25441953519058336,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.885885885885886,-0.2533178661979912,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.900900900900901,-0.2522501166861991,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.915915915915916,-0.2512167408866177,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.930930930930931,-0.25021792911788293,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.945945945945946,-0.2492536385716404,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.960960960960961,-0.24832362353778134,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.975975975975976,-0.24742746366703258,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+5.990990990990991,-0.2465645890080003,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.006006006006006,-0.24573430075591335,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.021021021021021,-0.24493578690124887,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.036036036036036,-0.2441681322550675,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.051051051051051,-0.24343032263915954,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.066066066066066,-0.24272124334664535,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.081081081081081,-0.24203967228596707,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.096096096096096,-0.24138426850242806,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.111111111111111,-0.2407535570124062,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.126126126126126,-0.2401459110744412,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.141141141141141,-0.23955953314994627,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.156156156156156,-0.23899243586931565,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.171171171171171,-0.23844242431542553,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.186186186186186,-0.2379070808684051,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.201201201201201,-0.23738375372910533,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.216216216216216,-0.23686955006287713,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.231231231231231,-0.23636133449155836,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.246246246246246,-0.23585573342301078,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.261261261261261,-0.23534914545805974,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.276276276276276,-0.23483775786818173,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.291291291291291,-0.23431756890678876,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.306306306306306,-0.23378441551398327,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.321321321321321,-0.2332340058085067,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.336336336336336,-0.23266195563798228,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.351351351351351,-0.23206382838319695,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.366366366366366,-0.23143517718490525,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.381381381381381,-0.23077158878024073,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.396396396396396,-0.23006872819550508,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.411411411411412,-0.22932238363567278,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.426426426426427,-0.2285285110294726,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.441441441441442,-0.22768327782217612,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.456456456456457,-0.22678310574542823,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.471471471471472,-0.22582471242378396,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.486486486486487,-0.22480515179086957,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.501501501501502,-0.22372185337525263,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.516516516516517,-0.22257266056978575,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.531531531531532,-0.22135586801310292,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.546546546546547,-0.22007025818511444,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.561561561561562,-0.2187151372493575,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.576576576576577,-0.21729037006612117,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.591591591591592,-0.21579641415617543,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.606606606606607,-0.2142343522228563,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.621621621621622,-0.21260592264963055,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.636636636636637,-0.21091354719216246,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.651651651651652,-0.2091603548908613,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.666666666666667,-0.20735020105511687,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.681681681681682,-0.20548768002733425,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.696696696696697,-0.20357813033630726,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.711711711711712,-0.2016276308071093,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.726726726726727,-0.1996429862182279,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.741741741741742,-0.197631701193335,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.756756756756757,-0.19560194118890092,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.771771771771772,-0.19356247969023016,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.786786786786787,-0.19152263105392822,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.801801801801802,-0.189492168826707,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.816816816816817,-0.1874812298171766,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.831831831831832,-0.18550020468355471,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.846846846846847,-0.18355961630746315,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.861861861861862,-0.18166998773118806,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.876876876876877,-0.17984170192031837,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.891891891891892,-0.1780848560525269,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.906906906906907,-0.17640911340400622,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.921921921921922,-0.17482355618729378,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.936936936936937,-0.17333654287050557,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.951951951951952,-0.17195557356516838,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.966966966966967,-0.17068716699969358,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.981981981981982,-0.16953675239555951,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+6.996996996996997,-0.1685085792370146,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.012012012012012,-0.16760564748206985,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.027027027027027,-0.1668296602179974,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.042042042042042,-0.16618100013874276,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.057057057057057,-0.16565873053893362,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.072072072072072,-0.16526062080676937,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.087087087087087,-0.16498319568470482,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.102102102102102,-0.1648218068812374,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.117117117117117,-0.16477072498661507,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.132132132132132,-0.16482324909435978,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.147147147147147,-0.16497183107971333,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.162162162162162,-0.16520821115092538,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.177177177177177,-0.16552356107970048,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.192192192192192,-0.16590863143704798,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.207207207207207,-0.1663538992082839,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.222222222222222,-0.16684971232849352,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.237237237237237,-0.16738642795487918,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.252252252252252,-0.1679545416585067,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.267267267267267,-0.1685448051554575,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.282282282282282,-0.16914833068479976,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.297297297297297,-0.16975668065596744,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.312312312312312,-0.1703619417093696,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.327327327327327,-0.1709567828410884,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.342342342342342,-0.17153449771748347,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.357357357357357,-0.1720890317334866,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.372372372372372,-0.1726149947378576,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.387387387387387,-0.1731076606519192,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.402402402402402,-0.1735629554410882,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.4174174174174174,-0.17397743506016491,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.4324324324324325,-0.17434825508622365,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.4474474474474475,-0.17467313378197966,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.4624624624624625,-0.1749503103047065,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.4774774774774775,-0.17517849969950297,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.4924924924924925,-0.17535684620019368,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.5075075075075075,-0.17548487621579398,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.5225225225225225,-0.1755624522144856,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.5375375375375375,-0.1755897285389379,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.5525525525525525,-0.17556711000406075,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.5675675675675675,-0.17549521394724277,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.5825825825825826,-0.1753748362268026,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.597597597597598,-0.17520692150048844,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.612612612612613,-0.174992537964825,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.627627627627628,-0.17473285659933588,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.642642642642643,-0.17442913483754058,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.657657657657658,-0.17408270447893243,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.672672672672673,-0.17369496356209915,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.687687687687688,-0.1732673718378204,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.702702702702703,-0.17280144941129907,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.717717717717718,-0.17229877806381366,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.732732732732733,-0.1717610047153852,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.747747747747748,-0.1711898464513043,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.762762762762763,-0.1705870965067236,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.777777777777778,-0.1699546305855411,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.792792792792793,-0.16929441288339186,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.807807807807808,-0.16860850119084075,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.822822822822823,-0.16789905047309778,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.837837837837838,-0.16716831435789395,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.852852852852853,-0.16641864401455206,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.867867867867868,-0.16565248397526536,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.882882882882883,-0.1648723645341472,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.897897897897898,-0.1640808904599876,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.912912912912913,-0.16328072587333356,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.927927927927928,-0.1624745752650631,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.942942942942943,-0.16166516076886497,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.957957957957958,-0.16085519593990527,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.972972972972973,-0.16004735643181692,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+7.987987987987988,-0.15924424809884816,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.003003003003004,-0.15844837317417967,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.018018018018019,-0.1576620952837444,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.033033033033034,-0.15688760414234998,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.048048048048049,-0.15612688084111864,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.063063063063064,-0.15538166466873085,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.078078078078079,-0.15465342241130914,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.093093093093094,-0.15394332104594888,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.108108108108109,-0.15325220468123893,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.123123123123124,-0.15258057650644305,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.138138138138139,-0.15192858639249776,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.153153153153154,-0.15129602464711397,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.168168168168169,-0.1506823222685024,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.183183183183184,-0.15008655787381406,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.198198198198199,-0.14950747130593145,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.213213213213214,-0.1489434837524396,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.228228228228229,-0.14839272404978754,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.243243243243244,-0.14785306069952597,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.258258258258259,-0.14732213899674565,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.273273273273274,-0.14679742256696324,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.288288288288289,-0.14627623852881813,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.303303303303304,-0.145755825446755,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.318318318318319,-0.1452333832096688,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.333333333333334,-0.1447061239663076,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.348348348348349,-0.14417132326305107,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.363363363363364,-0.14362637056066818,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.378378378378379,-0.14306881834958887,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.393393393393394,-0.14249642913371516,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.408408408408409,-0.14190721960677108,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.423423423423424,-0.1412995013991259,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.438438438438439,-0.14067191782424865,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.453453453453454,-0.14002347610088525,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.468468468468469,-0.1393535745692263,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.483483483483484,-0.1386620244575441,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.498498498498499,-0.13794906579184826,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.513513513513514,-0.1372153770778749,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.528528528528529,-0.13646207842560287,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.543543543543544,-0.13569072783531977,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.558558558558559,-0.134903310424783,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.573573573573574,-0.1341022204525962,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.588588588588589,-0.13329023608608603,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.603603603603604,-0.13247048697413547,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.618618618618619,-0.13164641481658235,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.633633633633634,-0.13082172727036048,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.64864864864865,-0.13000034569526947,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.663663663663664,-0.12918634741424045,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.67867867867868,-0.12838390333793037,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.693693693693694,-0.12759721197392354,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.70870870870871,-0.12683043099854352,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.723723723723724,-0.1260876077057177,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.73873873873874,-0.12537260975418835,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.753753753753754,-0.124689057704056,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.76876876876877,-0.12404026085988003,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.783783783783784,-0.12342915791580217,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.7987987987988,-0.12285826382593566,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.813813813813814,-0.12232962420051588,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.82882882882883,-0.12184477835743894,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.843843843843844,-0.12140473194468684,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.85885885885886,-0.1210099397989107,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.873873873873874,-0.12066029942821928,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.88888888888889,-0.12035515521360673,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.903903903903904,-0.12009331312504425,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.91891891891892,-0.11987306545700005,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.933933933933934,-0.11969222481570177,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.94894894894895,-0.11954816634763948,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.963963963963964,-0.1194378769949468,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.97897897897898,-0.11935801040586365,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+8.993993993993994,-0.11930494602262853,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.00900900900901,-0.11927485081757948,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.024024024024024,-0.11926374215106685,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.03903903903904,-0.11926755027966068,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.054054054054054,-0.1192821791454083,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.06906906906907,-0.1193035642199749,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.084084084084084,-0.11932772635323964,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.0990990990991,-0.11935082077512747,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.114114114114114,-0.11936918061238719,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.12912912912913,-0.11937935449890559,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.144144144144144,-0.1193781380696638,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.15915915915916,-0.11936259932613803,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.174174174174174,-0.11933009803763332,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.18918918918919,-0.11927829949300246,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.204204204204204,-0.11920518303641993,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.21921921921922,-0.11910904590705543,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.234234234234235,-0.11898850295507936,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.24924924924925,-0.11884248282649487,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.264264264264265,-0.11867022119935915,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.27927927927928,-0.11847125161779432,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.294294294294295,-0.11824539441252552,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.30930930930931,-0.11799274412294342,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.324324324324325,-0.11771365575166241,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.33933933933934,-0.11740873009416347,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.354354354354355,-0.11707879829907122,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.36936936936937,-0.11672490573425263,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.384384384384385,-0.11634829516487336,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.3993993993994,-0.11595038919565678,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.414414414414415,-0.11553277189372073,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.42942942942943,-0.11509716949231184,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.444444444444445,-0.11464543008021615,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.45945945945946,-0.11417950220611543,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.474474474474475,-0.11370141237019979,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.48948948948949,-0.11321324143432955,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.504504504504505,-0.11271710005358472,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.51951951951952,-0.11221510331197107,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.534534534534535,-0.11170934482867886,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.54954954954955,-0.11120187068364305,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.564564564564565,-0.11069465358715531,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.57957957957958,-0.11018956778305619,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.594594594594595,-0.10968836522413682,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.60960960960961,-0.10919265358799059,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.624624624624625,-0.10870387670874535,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.63963963963964,-0.1082232979829431,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.654654654654655,-0.10775198726554194,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.66966966966967,-0.10729081170502017,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.684684684684685,-0.1068404308765106,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.6996996996997,-0.10640129646157868,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.714714714714715,-0.10597365659651439,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.72972972972973,-0.10555756487258233,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.744744744744745,-0.10515289382690499,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.75975975975976,-0.10475935261739613,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.774774774774775,-0.10437650843532277,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.78978978978979,-0.10400381108051637,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.804804804804805,-0.1036406200124148,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.81981981981982,-0.10328623309979233,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.834834834834835,-0.10293991622720412,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.84984984984985,-0.10260093287974517,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.864864864864865,-0.10226857282151164,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.87987987987988,-0.10194217900770419,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.894894894894895,-0.10162117192497469,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.90990990990991,-0.10130507063752038,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.924924924924925,-0.10099350992459592,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.93993993993994,-0.10068625302459218,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.954954954954955,-0.10038319964684923,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.96996996996997,-0.10008438906954213,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+9.984984984984985,-0.09978999830452975,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10,-0.09950033547202135,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.015015015015015,-0.0992158286834341,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.03003003003003,-0.09893701087425635,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.045045045045045,-0.09866450115505442,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.06006006006006,-0.0983989833535253,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.075075075075075,-0.09814118250022781,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.09009009009009,-0.09789184006274046,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.105105105105105,-0.09765168875609374,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.12012012012012,-0.09742142775105592,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.135135135135135,-0.0972016990670685,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.15015015015015,-0.09699306587523872,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.165165165165165,-0.09679599335170719,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.18018018018018,-0.09661083261675388,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.195195195195195,-0.09643780817463359,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.21021021021021,-0.09627700913838078,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.225225225225225,-0.0961283843879517,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.24024024024024,-0.0959917416744214,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.255255255255255,-0.09586675055266589,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.27027027027027,-0.09575294890477482,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.285285285285285,-0.09564975271051586,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.3003003003003,-0.0955564686328696,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.315315315315315,-0.09547230891846949,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.33033033033033,-0.09539640806625209,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.345345345345345,-0.09532784069326362,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.36036036036036,-0.09526564002397259,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.375375375375375,-0.0952088164472644,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.39039039039039,-0.09515637562144894,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.405405405405405,-0.09510733565934257,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.42042042042042,-0.0950607429896033,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.435435435435435,-0.09501568656348591,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.45045045045045,-0.0949713101544842,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.465465465465465,-0.0949268225784056,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.48048048048048,-0.09488150574002051,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.495495495495495,-0.09483472048663844,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.51051051051051,-0.0947859103163476,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.525525525525525,-0.0947346030473378,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.54054054054054,-0.09468041060337944,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.555555555555555,-0.09462302710841645,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.57057057057057,-0.09456222551016627,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.585585585585585,-0.09449785296887846,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.6006006006006,-0.09442982525372862,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.615615615615615,-0.09435812038673626,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.63063063063063,-0.09428277176390472,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.645645645645645,-0.09420386096690225,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.66066066066066,-0.09412151045754483,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.675675675675675,-0.09403587632306006,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.69069069069069,-0.0939471412140187,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.705705705705705,-0.09385550759013284,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.72072072072072,-0.0937611913629538,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.735735735735735,-0.09366441599970418,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.75075075075075,-0.09356540712974326,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.765765765765765,-0.09346438767496419,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.78078078078078,-0.0933615735080355,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.795795795795796,-0.09325716962795878,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.81081081081081,-0.09315136683088611,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.825825825825826,-0.09304433884539881,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.84084084084084,-0.09293623989525555,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.855855855855856,-0.09282720264870978,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.87087087087087,-0.09271733651153483,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.885885885885886,-0.09260672622057427,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.9009009009009,-0.09249543069560577,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.915915915915916,-0.09238348210929258,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.93093093093093,-0.09227088513768353,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.945945945945946,-0.09215761635691722,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.96096096096096,-0.0920436237552376,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.975975975975976,-0.09192882633301303,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+10.99099099099099,-0.09181311376702905,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.006006006006006,-0.09169634611881095,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.02102102102102,-0.09157835357008998,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.036036036036036,-0.09145893617171227,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.05105105105105,-0.09133786359533393,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.066066066066066,-0.09121487488015856,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.08108108108108,-0.09108967816981658,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.096096096096096,-0.09096195043731414,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.11111111111111,-0.09083133719888119,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.126126126126126,-0.09069745222060724,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.14114114114114,-0.09055987722506846,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.156156156156156,-0.09041816160882322,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.17117117117117,-0.090271822185796,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.186186186186186,-0.09012034297626993,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.2012012012012,-0.08996317506657847,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.216216216216216,-0.089799736570686,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.23123123123123,-0.08962941273175472,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.246246246246246,-0.08945155620951399,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.26126126126126,-0.08926548760777774,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.276276276276276,-0.08907049630571542,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.29129129129129,-0.08886584166632601,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.306306306306306,-0.08865075470578414,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.32132132132132,-0.08842444031758248,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.336336336336336,-0.08818608015529093,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.35135135135135,-0.0879348362867185,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.366366366366366,-0.08766985573968072,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.381381381381381,-0.08739027606464717,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.396396396396396,-0.08709523204141263,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.411411411411411,-0.08678386365465218,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.426426426426426,-0.08645532545576742,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.441441441441441,-0.08610879741480852,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.456456456456456,-0.08574349734549638,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.471471471471471,-0.08535869495761535,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.486486486486486,-0.08495372755365255,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.501501501501501,-0.08452801734012279,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.516516516516516,-0.08408109026852324,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.531531531531531,-0.0836125962567209,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.546546546546546,-0.08312233056972011,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.561561561561561,-0.08261025606070266,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.576576576576576,-0.08207652589109346,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.591591591591591,-0.08152150626494285,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.606606606606606,-0.0809457986314361,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.621621621621621,-0.08035026073372058,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.636636636636636,-0.07973602581669695,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.651651651651651,-0.07910451925545604,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.666666666666666,-0.07845747183415613,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.681681681681681,-0.07779692889661889,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.696696696696696,-0.07712525460860768,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.711711711711711,-0.07644513062068761,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.726726726726726,-0.07575954850178535,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.741741741741741,-0.07507179542780598,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.756756756756756,-0.07438543275619106,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.771771771771771,-0.07370426729371315,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.786786786786786,-0.0730323152670286,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.801801801801801,-0.07237375922778577,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.816816816816816,-0.07173289835910945,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.831831831831831,-0.07111409288944304,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.846846846846846,-0.07052170355344405,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.861861861861861,-0.0699600272577612,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.876876876876876,-0.06943323030187364,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.891891891891891,-0.06894528066102427,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.906906906906906,-0.0684998809509187,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.921921921921921,-0.06810040375512348,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.936936936936936,-0.06774983100081004,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.951951951951951,-0.0674506990138647,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.966966966966966,-0.06720505077026195,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.981981981981981,-0.06701439668956166,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+11.996996996996996,-0.06687968509373526,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.012012012012011,-0.06680128318806747,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.027027027027026,-0.06677896912058776,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.042042042042041,-0.06681193535405112,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.057057057057056,-0.06689880325269837,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.072072072072071,-0.06703764845816493,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.087087087087086,-0.06722603631804253,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.102102102102101,-0.0674610663489424,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.117117117117116,-0.06773942447420032,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.132132132132131,-0.06805744158334907,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.147147147147146,-0.068411156822515,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.162162162162161,-0.06879638394568391,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.177177177177176,-0.06920877903728444,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.192192192192191,-0.0696439079550173,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.207207207207206,-0.07009731193408511,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.222222222222221,-0.0705645699335529,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.237237237237236,-0.0710413564843568,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.252252252252251,-0.0715234940071143,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.267267267267266,-0.0720069987963081,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.282282282282281,-0.07248812010540374,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.297297297297296,-0.07296337200515758,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.312312312312311,-0.07342955791573132,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.327327327327327,-0.07388378792438098,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.342342342342342,-0.07432348918802474,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.357357357357357,-0.07474640987914369,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.372372372372372,-0.0751506172611471,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.387387387387387,-0.07553449057414148,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.402402402402402,-0.07589670947412946,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.417417417417417,-0.07623623879955936,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.432432432432432,-0.07655231044151117,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.447447447447447,-0.07684440307117263,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.462462462462462,-0.07711222043476228,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.477477477477477,-0.07735566886613879,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.492492492492492,-0.07757483459550481,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.507507507507507,-0.07776996135323594,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.522522522522522,-0.07794142868495403,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.537537537537537,-0.0780897313110734,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.552552552552552,-0.07821545978416097,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.567567567567567,-0.07831928262295278,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.582582582582582,-0.07840193003450373,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.597597597597597,-0.07846417927688917,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.612612612612612,-0.07850684166474918,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.627627627627627,-0.07853075117889673,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.642642642642642,-0.07853675460898119,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.657657657657657,-0.07852570313422336,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.672672672672672,-0.07849844523076208,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.687687687687687,-0.07845582078423761,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.702702702702702,-0.07839865628189746,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.717717717717717,-0.07832776095871832,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.732732732732732,-0.07824392377584485,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.747747747747747,-0.07814791111611197,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.762762762762762,-0.07804046508975886,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.777777777777777,-0.07792230235294194,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.792792792792792,-0.0777941133517321,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.807807807807807,-0.07765656191445834,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.822822822822824,-0.07751028512518578,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.837837837837839,-0.07735589342050611,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.852852852852854,-0.07719397086050947,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.867867867867869,-0.0770250755326793,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.882882882882884,-0.07684974005445899,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.897897897897899,-0.07666847214637722,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.912912912912914,-0.0764817552529178,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.927927927927929,-0.07629004919282893,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.942942942942944,-0.07609379082436088,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.957957957957959,-0.07589339471406827,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.972972972972974,-0.07568925380040199,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+12.987987987987989,-0.07548174004541715,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.003003003003004,-0.07527120506961227,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.018018018018019,-0.07505798076626444,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.033033033033034,-0.07484237989268973,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.048048048048049,-0.07462469663669705,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.063063063063064,-0.07440520715716427,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.078078078078079,-0.07418417009818186,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.093093093093094,-0.07396182707663113,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.108108108108109,-0.07373840314340378,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.123123123123124,-0.07351410721876996,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.138138138138139,-0.0732891325026733,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.153153153153154,-0.073063656861002,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.168168168168169,-0.07283784318916948,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.183183183183184,-0.07261183975465273,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.198198198198199,-0.07238578052049799,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.213213213213214,-0.07215978545222677,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.228228228228229,-0.07193396081106876,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.243243243243244,-0.07170839943702761,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.258258258258259,-0.07148318102596021,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.273273273273274,-0.07125837240562001,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.288288288288289,-0.07103402781649149,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.303303303303304,-0.07081018920421395,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.318318318318319,-0.07058688653145831,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.333333333333334,-0.07036413811825404,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.348348348348349,-0.0701419510209481,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.363363363363364,-0.06992032146116568,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.378378378378379,-0.06969923531729404,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.393393393393394,-0.06947866869205623,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.408408408408409,-0.0692585885706071,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.423423423423424,-0.06903895358418355,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.438438438438439,-0.06881971489456598,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.453453453453454,-0.06860081721436248,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.468468468468469,-0.06838219997727774,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.483483483483484,-0.06816379867097921,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.498498498498499,-0.06794554634279683,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.513513513513514,-0.0677273752852073,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.528528528528529,-0.06750921890377755,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.543543543543544,-0.06729101376493653,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.558558558558559,-0.06707270181461396,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.573573573573574,-0.0668542327514707,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.588588588588589,-0.06663556653027328,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.603603603603604,-0.06641667596209966,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.618618618618619,-0.06619754936875596,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.633633633633634,-0.06597819323935761,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.64864864864865,-0.06575863482785338,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.663663663663664,-0.06553892462179758,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.67867867867868,-0.06531913860538655,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.693693693693694,-0.06509938023417045,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.70870870870871,-0.06487978203544756,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.723723723723724,-0.06466050674762165,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.73873873873874,-0.06444174791418011,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.753753753753754,-0.06422372985376222,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.76876876876877,-0.06400670693725752,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.783783783783784,-0.06379096211606176,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.7987987987988,-0.06357680466243451,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.813813813813814,-0.06336456710305094,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.82882882882883,-0.063154601349859,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.843843843843844,-0.06294727405756795,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.85885885885886,-0.06274296126368607,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.873873873873874,-0.06254204239401501,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.88888888888889,-0.0623448937428213,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.903903903903904,-0.0621518815614132,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.91891891891892,-0.06196335491041798,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.933933933933934,-0.06177963844861284,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.94894894894895,-0.0616010253437511,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.963963963963964,-0.06142777049767153,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.97897897897898,-0.061260084278519034,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+13.993993993993994,-0.06109812694685154,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.00900900900901,-0.06094200394975008,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.024024024024024,-0.060791762238074684,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.03903903903904,-0.06064738773729992,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.054054054054054,-0.06050880407275594,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.06906906906907,-0.060375872616659026,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.084084084084084,-0.06024839388827401,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.0990990990991,-0.06012611030124837,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.114114114114114,-0.06000871021496284,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.12912912912913,-0.05989583321100867,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.144144144144144,-0.05978707648285067,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.15915915915916,-0.059682002197458624,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.174174174174174,-0.059580145663043337,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.18918918918919,-0.05948102411765204,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.204204204204204,-0.05938414593962227,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.21921921921922,-0.05928902007287261,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.234234234234235,-0.059195165457595546,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.24924924924925,-0.05910212025976665,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.264264264264265,-0.05900945070050293,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.27927927927928,-0.05891675929807305,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.294294294294295,-0.05882369235062921,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.30930930930931,-0.05872994650583179,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.324324324324325,-0.05863527428387365,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.33933933933934,-0.05853948844247196,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.354354354354355,-0.05844246509579269,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.36936936936937,-0.0583441455237436,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.384384384384385,-0.058244536633473405,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.3993993993994,-0.05814371006118432,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.414414414414415,-0.05804179992947855,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.42942942942943,-0.05793899930337365,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.444444444444445,-0.057835555416685884,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.45945945945946,-0.05773176376940193,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.474474474474475,-0.0576279612254065,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.48948948948949,-0.05752451826773182,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.504504504504505,-0.05742183059430938,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.51951951951952,-0.05732031025975779,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.534534534534535,-0.05722037658662346,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.54954954954955,-0.05712244708123046,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.564564564564565,-0.057026928593542685,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.57957957957958,-0.05693420895610678,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.594594594594595,-0.05684464932357158,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.60960960960961,-0.05675857741137862,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.624624624624625,-0.056676281800552224,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.63963963963964,-0.05659800743632835,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.654654654654655,-0.05652395240351739,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.66966966966967,-0.056454266013359476,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.684684684684685,-0.0563890481878841,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.6996996996997,-0.056328350081175704,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.714714714714715,-0.056272175835067544,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.72972972972973,-0.05622048533183108,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.744744744744745,-0.056173197780023124,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.75975975975976,-0.05613019595273691,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.774774774774775,-0.056091330890288366,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.78978978978979,-0.05605642688138793,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.804804804804805,-0.05602528654704127,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.81981981981982,-0.0559976958683055,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.834834834834835,-0.05597342902084608,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.84984984984985,-0.05595225290415588,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.864864864864865,-0.05593393127953966,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.87987987987988,-0.05591822845695458,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.894894894894895,-0.055904912495229886,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.90990990990991,-0.055893757902088795,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.924924924924925,-0.05588454783911683,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.93993993993994,-0.05587707585203551,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.954954954954955,-0.055871147158278664,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.96996996996997,-0.0558665795320941,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+14.984984984984985,-0.05586320383250865,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"
+15,-0.055860864221921464,Vass01,Vassilakis (2001),interference,#B50000,"12 dB/octave
+roll-off"

@@ -1,3 +1,2001 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:24db38002bc3a09b86e7783e5aa794fa8fa2ac497ed4c63ff93fd1a0638cca0a
-size 120680
+interval,output,model_id,model_label,model_theory,model_colour,timbre_label
+0,-0.0751602524711603,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.015015015015015015,-0.07895467016795167,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.03003003003003003,-0.08294993703817419,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.04504504504504504,-0.08715366297589813,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.06006006006006006,-0.09157314756819193,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.07507507507507508,-0.09621527050680033,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.09009009009009009,-0.1010863721573789,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.10510510510510511,-0.10619212529799747,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.12012012012012012,-0.11153739951255137,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.13513513513513514,-0.11712612023971158,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.15015015015015015,-0.12296112501617049,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.16516516516516516,-0.129044019990062,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.18018018018018017,-0.1353750402862596,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.19519519519519518,-0.14195291824429607,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.21021021021021022,-0.1487747638828698,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.22522522522522523,-0.15583596213218232,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.24024024024024024,-0.16313009137882245,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.2552552552552553,-0.17064886765580536,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.2702702702702703,-0.17838211836114895,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.2852852852852853,-0.1863177886947819,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.3003003003003003,-0.1944419830758028,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.3153153153153153,-0.20273904266980527,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.3303303303303303,-0.21119165886838742,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.34534534534534533,-0.21978102118684958,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.36036036036036034,-0.22848699666170685,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.37537537537537535,-0.237288336524267,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.39039039039039036,-0.24616290478713929,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.40540540540540543,-0.2550879224853379,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.42042042042042044,-0.2640402207245791,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.43543543543543545,-0.2729964954456501,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.45045045045045046,-0.2819335569280048,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.46546546546546547,-0.29082856751300323,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.4804804804804805,-0.2996592617865735,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.4954954954954955,-0.30840414446069747,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.5105105105105106,-0.3170426623564521,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.5255255255255256,-0.3255553481353448,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.5405405405405406,-0.33392393466826453,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.5555555555555556,-0.34213144009881313,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.5705705705705706,-0.35016222468971575,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.5855855855855856,-0.35800202139435994,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.6006006006006006,-0.36563794274526074,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.6156156156156156,-0.3730584670902469,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.6306306306306306,-0.3802534074435447,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.6456456456456456,-0.3872138662731401,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.6606606606606606,-0.3939321794465486,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.6756756756756757,-0.40040185233785863,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.6906906906906907,-0.4066174907941123,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.7057057057057057,-0.4125747293017764,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.7207207207207207,-0.41827015831337533,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.7357357357357357,-0.4237012523147116,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.7507507507507507,-0.4288662998531718,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.7657657657657657,-0.4337643364207516,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.7807807807807807,-0.4383950807997565,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.7957957957957957,-0.4427588752384517,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.8108108108108109,-0.44685662962861816,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.8258258258258259,-0.45068976970464114,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.8408408408408409,-0.4542601891703519,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.8558558558558559,-0.4575702055802582,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.8708708708708709,-0.460622519750453,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.8858858858858859,-0.4634201784458818,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.9009009009009009,-0.46596654007955357,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.9159159159159159,-0.46826524316119417,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.9309309309309309,-0.47032017724371605,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.9459459459459459,-0.472135456132597,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.960960960960961,-0.47371539314318467,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.975975975975976,-0.47506447821225983,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+0.990990990990991,-0.47618735669135975,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.006006006006006,-0.47708880966964556,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.021021021021021,-0.47777373569267717,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.0360360360360361,-0.47824713376025946,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.0510510510510511,-0.4785140875012361,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.0660660660660661,-0.47857975043590767,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.0810810810810811,-0.4784493322476717,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.0960960960960962,-0.4781280859947362,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.1111111111111112,-0.47762129620052685,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.1261261261261262,-0.47693426776791004,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.1411411411411412,-0.47607231566774644,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.1561561561561562,-0.47504075535678547,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.1711711711711712,-0.47384489388366396,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.1861861861861862,-0.47249002164488557,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.2012012012012012,-0.4709814047552778,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.2162162162162162,-0.4693242779996527,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.2312312312312312,-0.46752383833428113,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.2462462462462462,-0.46558523890843057,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.2612612612612613,-0.4635135835776562,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.2762762762762763,-0.4613139218818033,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.2912912912912913,-0.45899124446183653,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.3063063063063063,-0.456550478890694,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.3213213213213213,-0.4539964858943394,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.3363363363363363,-0.4513340559401702,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.3513513513513513,-0.44856790617085407,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.3663663663663663,-0.4457026776626034,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.3813813813813813,-0.44274293298779627,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.3963963963963963,-0.4396931540627882,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.4114114114114114,-0.4365577402626945,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.4264264264264264,-0.43334100678586185,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.4414414414414414,-0.4300471832517054,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.4564564564564564,-0.42668041251656097,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.4714714714714714,-0.4232447496931582,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.4864864864864864,-0.4197441613602807,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.5015015015015014,-0.41618252495012764,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.5165165165165164,-0.41256362830179655,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.5315315315315314,-0.40889116937017417,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.5465465465465464,-0.40516875608035513,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.5615615615615615,-0.40139990631843697,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.5765765765765765,-0.39758804805024883,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.5915915915915915,-0.39373651956013694,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.6066066066066067,-0.3898485698024559,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.6216216216216217,-0.3859273588588449,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.6366366366366367,-0.38197595849467886,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.6516516516516517,-0.3779973528083662,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.6666666666666667,-0.37399443896735,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.6816816816816818,-0.36997002802477486,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.6966966966966968,-0.36592684581090057,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.7117117117117118,-0.36186753389338927,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.7267267267267268,-0.3577946506006394,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.7417417417417418,-0.35371067210240176,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.7567567567567568,-0.349617993541995,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.7717717717717718,-0.3455189302145383,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.7867867867867868,-0.3414157187857851,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.8018018018018018,-0.3373105185463252,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.8168168168168168,-0.3332054126961942,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.8318318318318318,-0.32910240965520265,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.8468468468468469,-0.32500344439465106,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.8618618618618619,-0.3209103797864585,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.8768768768768769,-0.31682500796611324,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.8918918918918919,-0.31274905170626,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.906906906906907,-0.30868416579811714,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.921921921921922,-0.3046319384382865,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.936936936936937,-0.30059389261886543,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.951951951951952,-0.2965714875190621,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.966966966966967,-0.29256611989677905,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.981981981981982,-0.288579125478846,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+1.996996996996997,-0.28461178034874374,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.012012012012012,-0.28066530233079207,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.027027027027027,-0.27674085236986956,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.042042042042042,-0.2728395359057928,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.057057057057057,-0.26896240424153334,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.0720720720720722,-0.26511045590448556,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.0870870870870872,-0.2612846380000262,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.1021021021021022,-0.25748584755664244,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.1171171171171173,-0.2537149328619371,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.1321321321321323,-0.24997269478885892,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.1471471471471473,-0.24625988811154523,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.1621621621621623,-0.24257722281018476,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.1771771771771773,-0.23892536536434697,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.1921921921921923,-0.2353049400341968,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.2072072072072073,-0.23171653012899346,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.2222222222222223,-0.22816067926219924,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.2372372372372373,-0.22463789259240244,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.2522522522522523,-0.22114863804911236,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.2672672672672673,-0.2176933475422735,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.2822822822822824,-0.2142724181541258,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.2972972972972974,-0.21088621331178445,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.3123123123123124,-0.2075350639386548,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.3273273273273274,-0.2042192695825714,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.3423423423423424,-0.2009390995183528,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.3573573573573574,-0.19769479382234972,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.3723723723723724,-0.1944865644165279,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.3873873873873874,-0.19131459607972484,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.4024024024024024,-0.18817904742394315,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.4174174174174174,-0.18508005183391404,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.4324324324324325,-0.18201771836869554,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.4474474474474475,-0.17899213262474187,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.4624624624624625,-0.17600335756068247,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.4774774774774775,-0.17305143428497527,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.4924924924924925,-0.17013638280856994,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.5075075075075075,-0.16725820276575187,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.5225225225225225,-0.1644168741073225,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.5375375375375375,-0.16161235777120922,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.5525525525525525,-0.15884459633638476,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.5675675675675675,-0.1561135146665978,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.5825825825825826,-0.15341902055078868,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.5975975975975976,-0.15076100534717468,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.6126126126126126,-0.14813934463778372,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.6276276276276276,-0.14555389889967887,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.6426426426426426,-0.14300451419826005,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.6576576576576576,-0.14049102290684495,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.6726726726726726,-0.13801324445524754,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.6876876876876876,-0.13557098610835402,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.7027027027027026,-0.13316404377377078,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.7177177177177176,-0.1307922028355815,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.7327327327327327,-0.1284552390091627,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.7477477477477477,-0.12615291920997102,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.7627627627627627,-0.12388500242730816,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.7777777777777777,-0.12165124059238418,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.7927927927927927,-0.11945137942862051,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.8078078078078077,-0.1172851592711296,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.8228228228228227,-0.1151523158417468,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.8378378378378377,-0.11305258096590254,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.8528528528528527,-0.11098568321806086,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.8678678678678677,-0.10895134848338325,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.8828828828828827,-0.10694930042473672,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.8978978978978978,-0.10497926084606793,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.9129129129129128,-0.1030409499455028,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.9279279279279278,-0.10113408645419529,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.942942942942943,-0.09925838765987777,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.957957957957958,-0.09741356931714863,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.972972972972973,-0.09559934544967304,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+2.987987987987988,-0.09381542805255907,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.003003003003003,-0.0920615267061036,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.018018018018018,-0.09033734811477472,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.033033033033033,-0.08864259558763743,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.048048048048048,-0.08697696847834115,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.063063063063063,-0.08534016160423713,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.078078078078078,-0.08373186466512328,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.093093093093093,-0.08215176168252204,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.108108108108108,-0.08059953048025972,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.123123123123123,-0.07907484222648255,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.138138138138138,-0.07757736105611085,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.153153153153153,-0.07610674379118501,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.168168168168168,-0.07466263977461228,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.183183183183183,-0.07324469083057723,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.198198198198198,-0.0718525313623777,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.2132132132132134,-0.07048578859576121,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.2282282282282284,-0.06914408297303341,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.2432432432432434,-0.06782702870033852,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.2582582582582584,-0.0665342344476318,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.2732732732732734,-0.06526530419800959,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.2882882882882885,-0.06401983824028121,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.3033033033033035,-0.0627974342959752,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.3183183183183185,-0.06159768876940786,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.3333333333333335,-0.0604201981070082,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.3483483483483485,-0.05926456024982342,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.3633633633633635,-0.05813037616102154,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.3783783783783785,-0.05701725140828861,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.3933933933933935,-0.05592479777930088,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.4084084084084085,-0.054852634906950776,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.4234234234234235,-0.05380039187974477,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.4384384384384385,-0.05276770881179639,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.4534534534534536,-0.051754238346127066,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.4684684684684686,-0.050759647064597756,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.4834834834834836,-0.049783616777754565,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.4984984984984986,-0.048825845668206025,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.5135135135135136,-0.04788604926190602,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.5285285285285286,-0.04696396120290908,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.5435435435435436,-0.046059333808836665,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.5585585585585586,-0.045171938386468165,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.5735735735735736,-0.04430156528956421,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.5885885885885886,-0.043448023704265815,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.6036036036036037,-0.04261114115118687,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.6186186186186187,-0.04179076269762347,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.6336336336336337,-0.040986749878113245,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.6486486486486487,-0.04019897932684427,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.6636636636636637,-0.039427341131069785,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.6786786786786787,-0.03867173692062828,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.6936936936936937,-0.03793207771479226,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.7087087087087087,-0.03720828155380724,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.7237237237237237,-0.036500270948481926,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.7387387387387387,-0.035807970186848094,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.7537537537537538,-0.035131302542023804,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.7687687687687688,-0.03447018742977439,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.7837837837837838,-0.033824537567663494,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.798798798798799,-0.033194256189928335,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.813813813813814,-0.032579234373128936,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.828828828828829,-0.031979348527081064,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.843843843843844,-0.03139445810349896,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.858858858858859,-0.030824403571120807,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.873873873873874,-0.03026900470089689,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.888888888888889,-0.02972805919818349,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.903903903903904,-0.02920134171096958,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.918918918918919,-0.028688603234183853,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.933933933933934,-0.02818957092036122,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.948948948948949,-0.027703948296705052,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.963963963963964,-0.02723141587820137,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.978978978978979,-0.026771632156277335,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+3.993993993993994,-0.026324234932897993,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.009009009009009,-0.025888842961282445,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.024024024024024,-0.02546505784689199,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.039039039039039,-0.025052466156231704,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.054054054054054,-0.024650641676506307,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.069069069069069,-0.024259147766393884,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.084084084084084,-0.023877539737207267,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.099099099099099,-0.023505367204494622,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.114114114114114,-0.023142176352616523,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.129129129129129,-0.022787512058920857,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.1441441441441444,-0.022440919829658193,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.1591591591591595,-0.022101947506568232,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.1741741741741745,-0.021770146710926367,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.1891891891891895,-0.02144507400058185,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.2042042042042045,-0.02112629172495684,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.2192192192192195,-0.020813368572942803,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.2342342342342345,-0.02050587981897271,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.2492492492492495,-0.020203407283130862,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.2642642642642645,-0.019905539031858863,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.2792792792792795,-0.019611868856504424,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.2942942942942945,-0.01932199557750618,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.3093093093093096,-0.019035522232253625,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.324324324324325,-0.018752055214413466,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.33933933933934,-0.01847120344152218,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.354354354354355,-0.018192577635607474,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.36936936936937,-0.017915789808138658,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.384384384384385,-0.017640453045284485,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.3993993993994,-0.0173661816917815,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.414414414414415,-0.01709259203115322,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.42942942942943,-0.016819303556033623,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.444444444444445,-0.016545940914418418,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.45945945945946,-0.01627213660534964,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.474474474474475,-0.015997534480506188,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.48948948948949,-0.01572179408626213,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.504504504504505,-0.015444595854047708,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.51951951951952,-0.015165647115623602,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.534534534534535,-0.014884688884772661,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.54954954954955,-0.014601503308858425,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.564564564564565,-0.01431592165394052,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.57957957957958,-0.014027832647214498,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.594594594594595,-0.013737190962249202,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.60960960960961,-0.013444025597798726,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.624624624624625,-0.013148447871930782,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.63963963963964,-0.012850658731882831,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.654654654654655,-0.012550955068332554,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.66966966966967,-0.0122497347222839,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.684684684684685,-0.011947499884757906,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.6996996996997,-0.011644858614665328,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.714714714714715,-0.011342524238743747,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.72972972972973,-0.011041312448715085,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.744744744744745,-0.010742135973612142,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.75975975975976,-0.010445996777601404,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.774774774774775,-0.010153975813034606,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.78978978978979,-0.009867220441807847,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.804804804804805,-0.009586929721923711,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.81981981981982,-0.00931433783675541,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.834834834834835,-0.009050696018199212,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.84984984984985,-0.008797253378158332,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.864864864864865,-0.008555237112498025,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.87987987987988,-0.008325832575195662,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.894894894894895,-0.008110163736052398,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.90990990990991,-0.007909274532052913,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.924924924924925,-0.007724111600180765,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.93993993993994,-0.007555508839065795,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.954954954954955,-0.007404174189979834,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.96996996996997,-0.007270678956912962,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+4.984984984984985,-0.007155449903901149,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5,-0.007058764279046693,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.015015015015015,-0.006980747822646411,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.03003003003003,-0.006921375725440683,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.045045045045045,-0.006880476415981195,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.06006006006006,-0.006857737976896671,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.075075075075075,-0.006852716921311134,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.09009009009009,-0.0068648490050910805,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.105105105105105,-0.006893461709495899,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.12012012012012,-0.0069377880029477,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.135135135135135,-0.006996980980037392,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.15015015015015,-0.0070701289798582225,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.165165165165165,-0.007156270803007323,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.18018018018018,-0.007254410675324356,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.195195195195195,-0.007363532644484061,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.21021021021021,-0.007482614140545747,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.225225225225225,-0.007610638481026839,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.24024024024024,-0.007746606152601808,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.255255255255255,-0.00788954475289077,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.27027027027027,-0.008038517525014848,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.285285285285285,-0.008192630463007155,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.3003003003003,-0.00835103800650011,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.315315315315315,-0.008512947377470641,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.33033033033033,-0.008677621639704966,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.345345345345345,-0.00884438158288806,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.36036036036036,-0.009012606547988479,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.375375375375375,-0.009181734319313807,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.39039039039039,-0.009351260211874348,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.405405405405405,-0.009520735481273804,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.42042042042042,-0.009689765178085941,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.435435435435435,-0.009858005560448224,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.45045045045045,-0.010025161168259387,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.465465465465465,-0.010190981650707432,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.48048048048048,-0.010355258426595121,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.495495495495495,-0.010517821244682054,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.51051051051051,-0.010678534699531823,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.525525525525525,-0.010837294747521558,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.54054054054054,-0.010994025258013245,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.555555555555555,-0.011148674626368812,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.57057057057057,-0.011301212468588465,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.585585585585585,-0.011451626411855226,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.6006006006006,-0.011599918991107901,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.615615615615615,-0.011746104658814517,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.63063063063063,-0.011890206913218484,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.645645645645645,-0.012032255549297318,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.66066066066066,-0.012172284036313064,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.675675675675675,-0.012310327025949034,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.6906906906906904,-0.012446417995432413,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.7057057057057055,-0.012580587030564293,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.7207207207207205,-0.012712858754068124,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.7357357357357355,-0.012843250405000641,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.7507507507507505,-0.01297177007505003,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.7657657657657655,-0.013098415107309691,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.7807807807807805,-0.013223170662528216,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.7957957957957955,-0.013346008456891042,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.8108108108108105,-0.01346688567410961,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.8258258258258255,-0.013585744053025196,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.8408408408408405,-0.013702509150143522,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.8558558558558556,-0.0138170897745835,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.870870870870871,-0.01392937759094137,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.885885885885886,-0.014039246883635056,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.900900900900901,-0.014146554474499405,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.915915915915916,-0.014251139783838856,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.930930930930931,-0.014352825023890063,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.945945945945946,-0.014451415512766417,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.960960960960961,-0.014546700096496078,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.975975975975976,-0.014638451666751873,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+5.990990990990991,-0.01472642776231225,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.006006006006006,-0.014810371243173066,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.021021021021021,-0.014890011027518578,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.036036036036036,-0.014965062883407444,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.051051051051051,-0.01503523026897225,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.066066066066066,-0.015100205217098147,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.081081081081081,-0.015159669262856466,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.096096096096096,-0.015213294414344122,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.111111111111111,-0.015260744169937073,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.126126126126126,-0.015301674587233272,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.141141141141141,-0.015335735411069707,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.156156156156156,-0.015362571269890926,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.171171171171171,-0.015381822951377565,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.186186186186186,-0.015393128769575434,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.201201201201201,-0.015396126036775901,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.216216216216216,-0.015390452654067232,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.231231231231231,-0.015375748834800503,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.246246246246246,-0.015351658975184763,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.261261261261261,-0.015317833685846494,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.276276276276276,-0.015273931997456759,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.291291291291291,-0.015219623752439543,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.306306306306306,-0.015154592193322219,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.321321321321321,-0.015078536756454194,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.336336336336336,-0.014991176077584307,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.351351351351351,-0.014892251213117729,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.366366366366366,-0.01478152907773743,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.381381381381381,-0.014658806095426859,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.396396396396396,-0.014523912056734372,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.411411411411412,-0.014376714170330181,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.426426426426427,-0.014217121291494139,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.441441441441442,-0.014045088304117395,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.456456456456457,-0.013860620626101485,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.471471471471472,-0.013663778800720002,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.486486486486487,-0.013454683128626401,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.501501501501502,-0.013233518286841078,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.516516516516517,-0.013000537872366243,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.531531531531532,-0.012756068799242926,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.546546546546547,-0.012500515469109255,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.561561561561562,-0.012234363626923631,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.576576576576577,-0.011958183805804398,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.591591591591592,-0.011672634258274,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.606606606606607,-0.011378463265978018,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.621621621621622,-0.011076510716591203,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.636636636636637,-0.01076770883554779,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.651651651651652,-0.010453081961845053,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.666666666666667,-0.010133745261844756,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.681681681681682,-0.00981090228305109,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.696696696696697,-0.009485841261516768,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.711711711711712,-0.009159930111959442,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.726726726726727,-0.008834610048872836,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.741741741741742,-0.008511387809769818,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.756756756756757,-0.008191826477919897,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.771771771771772,-0.007877534931105308,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.786786786786787,-0.007570155974419089,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.801801801801802,-0.007271353248213494,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.816816816816817,-0.006982797036085931,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.831831831831832,-0.006706149131257205,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.846846846846847,-0.006443046951763896,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.861861861861862,-0.006195087124420819,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.876876876876877,-0.005963808783379132,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.891891891891892,-0.005750676850228338,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.906906906906907,-0.005557065577983174,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.921921921921922,-0.005384242650123697,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.936936936936937,-0.00523335412747715,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.951951951951952,-0.005105410529732246,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.966966966966967,-0.005001274324609272,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.981981981981982,-0.0049216490763041125,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+6.996996996996997,-0.00486707047619203,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.012012012012012,-0.004837899443612447,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.027027027027027,-0.00483431744380524,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.042042042042042,-0.004856324124904403,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.057057057057057,-0.004903737327665125,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.072072072072072,-0.004976195471776873,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.087087087087087,-0.00507316227273341,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.102102102102102,-0.005193933694822422,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.117117117117117,-0.005337647000330354,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.132132132132132,-0.005503291713870783,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.147147147147147,-0.0056897222849971035,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.162162162162162,-0.005895672202883952,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.177177177177177,-0.006119769294531697,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.192192192192192,-0.006360551923057941,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.207207207207207,-0.0066164857952991235,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.222222222222222,-0.006885981087986389,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.237237237237237,-0.007167409608757524,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.252252252252252,-0.007459121721573855,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.267267267267267,-0.00775946278489552,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.282282282282282,-0.00806678887426769,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.297297297297297,-0.008379481587737589,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.312312312312312,-0.00869596176168461,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.327327327327327,-0.009014701955152788,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.342342342342342,-0.009334237591644284,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.357357357357357,-0.009653176677692204,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.372372372372372,-0.0099702080466436,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.387387387387387,-0.010284108103372396,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.402402402402402,-0.010593746070694502,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.4174174174174174,-0.010898087760827043,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.4324324324324325,-0.011196197915223739,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.4474474474474475,-0.011487241173568146,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.4624624624624625,-0.011770481747753617,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.4774774774774775,-0.012045281889537936,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.4924924924924925,-0.012311099251479782,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.5075075075075075,-0.01256748324999571,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.5225225225225225,-0.012814070547145062,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.5375375375375375,-0.013050579774222344,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.5525525525525525,-0.013276805625508271,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.5675675675675675,-0.01349261245460899,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.5825825825825826,-0.013697927508620445,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.597597597597598,-0.013892733936732671,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.612612612612613,-0.014077063709618148,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.627627627627628,-0.014250990583770102,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.642642642642643,-0.014414623240604158,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.657657657657658,-0.014568098723371429,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.672672672672673,-0.01471157628557128,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.687687687687688,-0.014845231752510903,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.702702702702703,-0.014969252482968895,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.717717717717718,-0.01508383300075404,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.732732732732733,-0.015189171346628593,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.747747747747748,-0.015285466180062794,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.762762762762763,-0.015372914638208529,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.777777777777778,-0.015451710937051038,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.792792792792793,-0.01552204567771854,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.807807807807808,-0.015584105800242633,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.822822822822823,-0.01563807510850182,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.837837837837838,-0.01568413527442036,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.852852852852853,-0.015722467217409927,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.867867867867868,-0.015753252747055822,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.882882882882883,-0.015776676353507758,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.897897897897898,-0.0157929270310748,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.912912912912913,-0.01580220002606883,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.927927927927928,-0.015804698409692883,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.942942942942943,-0.015800634390240365,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.957957957957958,-0.015790230295386166,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.972972972972973,-0.01577371917411126,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+7.987987987987988,-0.01575134498791315,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.003003003003004,-0.015723362381481587,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.018018018018019,-0.015690036043039146,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.033033033033034,-0.015651639683195755,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.048048048048049,-0.015608454677681608,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.063063063063064,-0.015560768433085228,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.078078078078079,-0.015508872545269682,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.093093093093094,-0.015453060827194467,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.108108108108109,-0.015393627286333422,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.123123123123124,-0.01533086413183056,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.138138138138139,-0.015265059888208853,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.153153153153154,-0.015196497686213752,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.168168168168169,-0.01512545379270269,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.183183183183184,-0.01505219643092504,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.198198198198199,-0.014976984930649093,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.213213213213214,-0.01490006923495781,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.228228228228229,-0.014821689777702653,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.243243243243244,-0.014742077733067772,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.258258258258259,-0.014661455626878647,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.273273273273274,-0.014580038288529773,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.288288288288289,-0.014498034112955582,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.303303303303304,-0.014415646594088222,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.318318318318319,-0.014333076084818054,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.333333333333334,-0.014250521733601374,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.348348348348349,-0.014168183544497103,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.363363363363364,-0.014086264505461485,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.378378378378379,-0.014004972729064797,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.393393393393394,-0.013924523550276124,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.408408408408409,-0.013845141527450923,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.423423423423424,-0.013767062295018827,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.438438438438439,-0.013690534219490989,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.453453453453454,-0.013615819814189394,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.468468468468469,-0.013543196872473112,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.483483483483484,-0.013472959284143651,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.498498498498499,-0.013405417505117005,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.513513513513514,-0.01334089865632631,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.528528528528529,-0.01327974623414438,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.543543543543544,-0.013222319421363602,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.558558558558559,-0.013168991994903475,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.573573573573574,-0.013120150833880139,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.588588588588589,-0.013076194039389928,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.603603603603604,-0.01303752868522796,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.618618618618619,-0.013004568226652321,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.633633633633634,-0.012977729602059465,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.64864864864865,-0.012957430069877018,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.663663663663664,-0.01294408382991092,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.67867867867868,-0.012938098484596455,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.693693693693694,-0.012939871400890417,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.70870870870871,-0.012949786037702367,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.723723723723724,-0.012968208306616604,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.73873873873874,-0.01299548303504788,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.753753753753754,-0.01303193060078855,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.76876876876877,-0.013077843805071435,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.783783783783784,-0.013133485047774857,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.7987987987988,-0.013199083863269899,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.813813813813814,-0.013274834868752954,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.82882882882883,-0.013360896168867042,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.843843843843844,-0.01345738825120126,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.85885885885886,-0.013564393397113749,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.873873873873874,-0.013681955621539437,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.88888888888889,-0.013810081144328612,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.903903903903904,-0.013948739384542401,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.91891891891892,-0.014097864458333415,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.933933933933934,-0.014257357150875102,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.94894894894895,-0.014427087323563613,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.963963963963964,-0.01460689670965079,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.97897897897898,-0.014796602044784876,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+8.993993993993994,-0.014995998473787363,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.00900900900901,-0.015204863171478565,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.024024024024024,-0.01542295911351211,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.03903903903904,-0.015650038932966754,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.054054054054054,-0.01588584879979273,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.06906906906907,-0.016130132262983977,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.084084084084084,-0.0163826339993777,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.0990990990991,-0.01664310341805576,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.114114114114114,-0.01691129807521248,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.12912912912913,-0.01718698686081336,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.144144144144144,-0.01746995292515775,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.15915915915916,-0.01775999632033701,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.174174174174174,-0.0180569363383328,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.18918918918919,-0.018360613533932715,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.204204204204204,-0.0186708914265946,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.21921921921922,-0.018987657880737294,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.234234234234235,-0.019310826168591835,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.24924924924925,-0.01964033572365882,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.264264264264265,-0.019976152595977677,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.27927927927928,-0.020318269622840644,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.294294294294295,-0.020666706330330423,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.30930930930931,-0.021021508582204883,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.324324324324325,-0.02138274799328492,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.33933933933934,-0.02175052112473499,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.354354354354355,-0.02212494847856871,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.36936936936937,-0.022506173308478768,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.384384384384385,-0.022894360263786828,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.3993993993994,-0.02328969388302731,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.414414414414415,-0.02369237695349882,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.42942942942943,-0.024102628753095188,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.444444444444445,-0.024520683190900144,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.45945945945946,-0.024946786863407056,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.474474474474475,-0.025381197043797897,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.48948948948949,-0.025824179622449484,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.504504504504505,-0.02627600701767317,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.51951951951952,-0.026736956076568702,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.534534534534535,-0.02720730598669941,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.54954954954955,-0.0276873362199789,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.564564564564565,-0.028177324530610028,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.57957957957958,-0.02867754502903905,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.594594594594595,-0.029188266353602103,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.60960960960961,-0.029709749960777063,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.624624624624625,-0.030242248553661845,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.63963963963964,-0.03078600466645674,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.654654654654655,-0.031341249420323104,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.66966966966967,-0.031908201463060115,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.684684684684685,-0.03248706610162748,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.6996996996997,-0.03307803463272983,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.714714714714715,-0.03368128387256631,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.72972972972973,-0.03429697588255819,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.744744744744745,-0.03492525788353393,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.75975975975976,-0.035566262346617694,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.774774774774775,-0.03622010724508007,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.78978978978979,-0.03688689644781011,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.804804804804805,-0.037566720231984624,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.81981981981982,-0.03825965589005648,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.834834834834835,-0.03896576840444794,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.84984984984985,-0.03968511116238068,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.864864864864865,-0.040417726683128506,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.87987987987988,-0.04116364733064865,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.894894894894895,-0.04192289598599152,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.90990990990991,-0.04269548665604766,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.924924924924925,-0.04348142499797392,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.93993993993994,-0.044280708741922886,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.954954954954955,-0.045093327998359245,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.96996996996997,-0.045919265440123425,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+9.984984984984985,-0.046758496353350235,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10,-0.04761098855521634,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.015015015015015,-0.0484767021801286,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.03003003003003,-0.04935558933924698,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.045045045045045,-0.0502475936610579,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.06006006006006,-0.05115264972298501,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.075075075075075,-0.052070682385697176,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.09009009009009,-0.05300160604281898,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.105105105105105,-0.053945323799178255,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.12012012012012,-0.054901726590571624,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.135135135135135,-0.055870692257353874,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.15015015015015,-0.056852084583051514,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.165165165165165,-0.05784575230775897,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.18018018018018,-0.05885152812441744,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.195195195195195,-0.05986922766431225,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.21021021021021,-0.06089864847637301,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.225225225225225,-0.06193956900321987,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.24024024024024,-0.06299174755546762,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.255255255255255,-0.06405492128463276,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.27027027027027,-0.06512880515415007,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.285285285285285,-0.06621309090749858,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.3003003003003,-0.06730744603227541,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.315315315315315,-0.06841151271920107,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.33033033033033,-0.06952490681545452,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.345345345345345,-0.07064721677235014,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.36036036036036,-0.07177800258811969,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.375375375375375,-0.07291679474736336,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.39039039039039,-0.07406309315951591,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.405405405405405,-0.0752163660993661,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.42042042042042,-0.07637604915320953,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.435435435435435,-0.0775415441745718,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.45045045045045,-0.0787122182535741,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.465465465465465,-0.0798874027039367,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.48048048048048,-0.08106639207132348,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.495495495495495,-0.08224844316627004,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.51051051051051,-0.08343277412433323,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.525525525525525,-0.08461856349542644,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.54054054054054,-0.08580494936360474,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.555555555555555,-0.08699102849790613,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.57057057057057,-0.08817585553430629,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.585585585585585,-0.08935844218843692,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.6006006006006,-0.09053775649851457,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.615615615615615,-0.09171272209795067,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.63063063063063,-0.09288221751736728,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.645645645645645,-0.09404507551625998,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.66066066066066,-0.09520008244528574,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.675675675675675,-0.09634597764111232,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.69069069069069,-0.09748145285690533,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.705705705705705,-0.0986051517328124,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.72072072072072,-0.09971566931219437,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.735735735735735,-0.10081155161080678,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.75075075075075,-0.10189129524760858,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.765765765765765,-0.10295334714734213,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.78078078078078,-0.1039961043264508,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.795795795795796,-0.10501791377525777,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.81081081081081,-0.10601707245061794,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.825825825825826,-0.10699182739444815,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.84084084084084,-0.10794037599466845,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.855855855855856,-0.10886086640612432,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.87087087087087,-0.10975139815005715,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.885885885885886,-0.1106100229116366,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.9009009009009,-0.11143474555599928,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.915915915915916,-0.1122235253841845,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.93093093093093,-0.11297427765131418,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.945945945945946,-0.11368487537039619,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.96096096096096,-0.11435315142621214,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.975975975975976,-0.11497690102493345,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+10.99099099099099,-0.11555388450639133,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.006006006006006,-0.11608183054731684,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.02102102102102,-0.11655843978537354,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.036036036036036,-0.11698138889542654,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.05105105105105,-0.11734833515121636,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.066066066066066,-0.1176569215074284,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.08108108108108,-0.11790478223904198,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.096096096096096,-0.11808954917677793,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.11111111111111,-0.1182088585794135,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.126126126126126,-0.11826035868563266,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.14114114114114,-0.11824171798988073,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.156156156156156,-0.11815063428831171,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.17117117117117,-0.11798484454226364,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.186186186186186,-0.11774213560764903,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.2012012012012,-0.11742035587908789,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.216216216216216,-0.117017427897344,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.23123123123123,-0.11653136196749887,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.246246246246246,-0.11596027083306239,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.26126126126126,-0.11530238544763596,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.276276276276276,-0.11455607188054409,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.29129129129129,-0.11371984938569582,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.306306306306306,-0.112792409653534,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.32132132132132,-0.1117726372538964,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.336336336336336,-0.11065963126260406,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.35135135135135,-0.10945272804626821,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.366366366366366,-0.10815152515779873,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.381381381381381,-0.10675590626916366,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.396396396396396,-0.1052660670378184,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.411411411411411,-0.1036825417687858,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.426426426426426,-0.10200623069560932,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.441441441441441,-0.10023842766044504,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.456456456456456,-0.09838084792674975,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.471471471471471,-0.09643565580788914,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.486486486486486,-0.09440549174232131,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.501501501501501,-0.09229349839186615,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.516516516516516,-0.09010334528528077,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.531531531531531,-0.08783925147655014,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.546546546546546,-0.08550600563787357,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.561561561561561,-0.0831089829634304,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.576576576576576,-0.08065415822401517,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.591591591591591,-0.07814811428704924,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.606606606606606,-0.07559804540389435,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.621621621621621,-0.07301175456936794,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.636636636636636,-0.070397644279298,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.651651651651651,-0.067764700053005,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.666666666666666,-0.06512246615048087,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.681681681681681,-0.062481012999943915,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.696696696696696,-0.05985089596088204,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.711711711711711,-0.0572431051803578,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.726726726726726,-0.05466900645504701,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.741741741741741,-0.0521402731860469,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.756756756756756,-0.04966880970476947,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.771771771771771,-0.047266666452078825,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.786786786786786,-0.044945947704186105,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.801801801801801,-0.04271871275180569,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.816816816816816,-0.040596871647214094,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.831831831831831,-0.03859207683019924,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.846846846846846,-0.036715612121360666,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.861861861861861,-0.03497828072283996,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.876876876876876,-0.03339029398576824,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.891891891891891,-0.03196116278469168,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.906906906906906,-0.030699593377164505,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.921921921921921,-0.029613389618066335,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.936936936936936,-0.028709363340990415,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.951951951951951,-0.027993254612917313,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.966966966966966,-0.027469663414744497,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.981981981981981,-0.02714199410226033,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+11.996996996996996,-0.02701241376470789,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.012012012012011,-0.027081825327592235,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.027027027027026,-0.02734985595057013,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.042042042042041,-0.027814860958870775,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.057057057057056,-0.028473943227143885,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.072072072072071,-0.02932298761761868,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.087087087087086,-0.030356709769589367,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.102102102102101,-0.031568718253609754,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.117117117117116,-0.03295158884963327,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.132132132132131,-0.03449694949072203,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.147147147147146,-0.03619557423849087,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.162162162162161,-0.038037484527129344,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.177177177177176,-0.040012055831897625,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.192192192192191,-0.04210812788589451,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.207207207207206,-0.04431411658440467,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.222222222222221,-0.0466181257764212,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.237237237237236,-0.04900805724378878,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.252252252252251,-0.051471717304458216,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.267267267267266,-0.053996918641353496,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.282282282282281,-0.056571576145535395,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.297297297297296,-0.059183795764658806,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.312312312312311,-0.061821955558145125,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.327327327327327,-0.06447477837233366,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.342342342342342,-0.06713139575597137,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.357357357357357,-0.06978140293331912,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.372372372372372,-0.07241490483432622,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.387387387387387,-0.07502255334515374,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.402402402402402,-0.07759557608518462,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.417417417417417,-0.0801257971369187,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.432432432432432,-0.08260565025210036,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.447447447447447,-0.08502818513122255,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.462462462462462,-0.08738706742504483,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.477477477477477,-0.08967657313746906,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.492492492492492,-0.0918915781209594,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.507507507507507,-0.09402754335097913,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.522522522522522,-0.09608049664711443,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.537537537537537,-0.09804701147824557,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.552552552552552,-0.09992418344982466,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.567567567567567,-0.10170960502545776,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.582582582582582,-0.10340133898479673,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.597597597597597,-0.1049978910672086,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.612612612612612,-0.10649818219754366,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.627627627627627,-0.10790152063799696,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.642642642642642,-0.10920757435971455,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.657657657657657,-0.11041634388031185,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.672672672672672,-0.11152813576946649,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.687687687687687,-0.1125435369846387,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.702702702702702,-0.1134633901629402,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.717717717717717,-0.1142887699632782,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.732732732732732,-0.11502096052504442,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.747747747747747,-0.11566143408561584,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.762762762762762,-0.11621183077853754,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.777777777777777,-0.11667393961715564,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.792792792792792,-0.11704968065435073,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.807807807807807,-0.1173410882975558,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.822822822822824,-0.1175502957491148,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.837837837837839,-0.11767952053493846,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.852852852852854,-0.11773105107907549,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.867867867867869,-0.11770723427798248,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.882882882882884,-0.11761046402571938,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.897897897897899,-0.11744317063983144,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.912912912912914,-0.11720781113711298,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.927927927927929,-0.11690686030865804,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.942942942942944,-0.11654280254442356,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.957957957957959,-0.11611812435888473,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.972972972972974,-0.11563530757109729,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+12.987987987987989,-0.11509682309455871,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.003003003003004,-0.11450512529455524,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.018018018018019,-0.11386264687312866,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.033033033033034,-0.1131717942443457,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.048048048048049,-0.11243494336511421,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.063063063063064,-0.11165443598933046,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.078078078078079,-0.11083257631560688,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.093093093093094,-0.10997162800117888,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.108108108108109,-0.10907381151679696,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.123123123123124,-0.1081413018194581,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.138138138138139,-0.1071762263216874,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.153153153153154,-0.10618066313776986,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.168168168168169,-0.10515663958882508,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.183183183183184,-0.10410613094994664,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.198198198198199,-0.10303105942378811,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.213213213213214,-0.10193329332599896,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.228228228228229,-0.10081464646880756,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.243243243243244,-0.09967687772983404,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.258258258258259,-0.09852169079392181,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.273273273273274,-0.09735073405641266,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.288288288288289,-0.09616560067687037,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.303303303303304,-0.0949678287728098,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.318318318318319,-0.09375890174350053,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.333333333333334,-0.0925402487144085,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.348348348348349,-0.09131324509331294,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.363363363363364,-0.09007921322957738,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.378378378378379,-0.0888394231684824,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.393393393393394,-0.08759509349290988,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.408408408408409,-0.08634739224501234,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.423423423423424,-0.08509743792080385,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.438438438438439,-0.0838463005308342,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.453453453453454,-0.08259500272029072,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.468468468468469,-0.08134452094195813,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.483483483483484,-0.08009578667549941,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.498498498498499,-0.07884968768645746,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.513513513513514,-0.07760706931825616,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.528528528528529,-0.07636873581027541,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.543543543543544,-0.07513545163482786,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.558558558558559,-0.07390794284556046,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.573573573573574,-0.07268689842948588,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.588588588588589,-0.07147297165451869,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.603603603603604,-0.0702667814040893,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.618618618618619,-0.06906891349015028,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.633633633633634,-0.0678799219357187,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.64864864864865,-0.066700330218031,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.663663663663664,-0.06553063246346555,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.67867867867868,-0.0643712945856402,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.693693693693694,-0.06322275535853765,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.70870870870871,-0.06208542741718181,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.723723723723724,-0.06095969817929744,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.73873873873874,-0.059845930682537005,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.753753753753754,-0.05874446433326209,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.76876876876877,-0.05765561556450759,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.783783783783784,-0.05657967840261473,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.7987987987988,-0.05551692494406925,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.813813813813814,-0.05446760574627005,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.82882882882883,-0.05343195013824676,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.843843843843844,-0.052410166459661386,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.85885885885886,-0.05140244223871761,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.873873873873874,-0.05040894432177498,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.88888888888889,-0.04942981896945893,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.903903903903904,-0.04846519193578485,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.91891891891892,-0.04751516854821264,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.933933933933934,-0.0465798338075487,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.94894894894895,-0.0456592525271598,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.963963963963964,-0.044753469531018296,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.97897897897898,-0.04386250992963928,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+13.993993993993994,-0.04298637949197726,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.00900900900901,-0.04212506512984735,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.024024024024024,-0.041278535509440065,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.03903903903904,-0.04044674180205678,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.054054054054054,-0.039629618583369164,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.06906906906907,-0.03882708488736262,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.084084084084084,-0.0380390454177487,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.0990990990991,-0.037265391916104326,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.114114114114114,-0.03650600468240122,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.12912912912913,-0.03576075424000632,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.144144144144144,-0.03502950313373044,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.15915915915916,-0.03431210784613894,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.174174174174174,-0.033608420814147694,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.18918918918919,-0.032918292524940204,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.204204204204204,-0.03224157366745488,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.21921921921922,-0.0315781173131007,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.234234234234235,-0.030927781096934573,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.24924924924925,-0.030290429368251076,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.264264264264265,-0.029665935277362773,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.27927927927928,-0.029054182763276575,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.294294294294295,-0.028455068404999884,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.30930930930931,-0.027868503097388846,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.324324324324325,-0.027294413510864538,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.33933933933934,-0.026732743293114664,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.354354354354355,-0.026183453970273406,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.36936936936937,-0.025646525505290885,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.384384384384385,-0.02512195647257954,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.3993993993994,-0.024609763810905214,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.414414414414415,-0.024109982121227863,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.42942942942943,-0.02362266248311386,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.444444444444445,-0.023147870772686686,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.45945945945946,-0.022685685476975574,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.474474474474475,-0.022236195013908975,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.48948948948949,-0.021799494583806617,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.504504504504505,-0.02137568259652646,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.51951951951952,-0.020964856737638714,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.534534534534535,-0.020567109756107257,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.54954954954955,-0.020182525073752174,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.564564564564565,-0.019811172331933795,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.57957957957958,-0.019453103002135062,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.594594594594595,-0.019108346193257606,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.60960960960961,-0.018776904788585718,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.624624624624625,-0.01845875203899367,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.63963963963964,-0.018153828726030195,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.654654654654655,-0.01786204098947375,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.66966966966967,-0.017583258889776937,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.684684684684685,-0.01731731574789943,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.6996996996997,-0.01706400827506731,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.714714714714715,-0.016823097474846983,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.72972972972973,-0.016594310271424165,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.744744744744745,-0.01637734179278943,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.75975975975976,-0.016171858216990884,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.774774774774775,-0.015977500074639307,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.78978978978979,-0.015793885891896304,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.804804804804805,-0.015620616055229889,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.81981981981982,-0.015457276781861403,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.834834834834835,-0.015303444087295382,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.84984984984985,-0.015158687652638485,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.864864864864865,-0.01502257450847243,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.87987987987988,-0.014894672467734684,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.894894894894895,-0.014774553256336623,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.90990990990991,-0.014661795306205328,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.924924924924925,-0.014555986190344379,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.93993993993994,-0.01445672469283681,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.954954954954955,-0.014363622518118417,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.96996996996997,-0.014276305653165839,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+14.984984984984985,-0.01419441540345321,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"
+15,-0.0141176091287319,Hutch78,Hutchinson & Knopoff (1978),interference,#B50000,"12 dB/octave
+roll-off"

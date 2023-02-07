@@ -46,8 +46,9 @@ MODELS <- c(
   "Interference model" = "Hutchinson & Knopoff (1978)",
   "Harmonicity model" = "Harrison & Pearce (2018)",
   # "Harmonicity" = "Harrison & Pearce (2018) (revised)",
-  "Composite model" = "Combined"
+  "Composite model" = "Combined",
   # "Interference (revised)" = "Hutchinson & Knopoff (1978) (revised)"
+  'Periodicity model' = 'mami.codi.R'
 )
 
 MODELS_ALL <- c(
@@ -58,7 +59,8 @@ MODELS_ALL <- c(
   "Harrison & Pearce (2018)",
   "Milne (2013)",
   "Praat (F0)",
-  "Composite model" = "Combined"
+  "Composite model" = "Combined",
+  'mami.codi.R'
 ) %>% set_names(., .)
 
 PLOT_DIR = "output/plots"

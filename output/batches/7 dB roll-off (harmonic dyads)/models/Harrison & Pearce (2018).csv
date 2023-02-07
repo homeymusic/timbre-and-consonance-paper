@@ -1,3 +1,2001 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:896e0bb86edfc2165b1a15b1010e116f83172e8cf8013e6096008fb0e09fcdbe
-size 111203
+interval,output,model_id,model_label,model_theory,model_colour,timbre_label
+0,1.8132188820488153,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.015015015015015015,1.8014523231695485,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.03003003003003003,1.7893226926180987,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.04504504504504504,1.776836380521124,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.06006006006006006,1.7640025301731277,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.07507507507507508,1.7508332702261915,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.09009009009009009,1.737343930217317,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.10510510510510511,1.723553231288369,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.12012012012012012,1.709483443173328,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.13513513513513514,1.6951604979649961,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.15015015015015015,1.6806140509136822,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.16516516516516516,1.6658774786403536,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.18018018018018017,1.6509878057492926,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.19519519519519518,1.6359855519684519,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.21021021021021022,1.6209144936768207,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.22522522522522523,1.6058213360099887,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.24024024024024024,1.5907552946400745,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.2552552552552553,1.5757675897267165,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.2702702702702703,1.5609108583020244,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.2852852852852853,1.5462384953032164,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.3003003003003003,1.531803937376338,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.3153153153153153,1.5176599071870034,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.3303303303303303,1.5038576390211544,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.34534534534534533,1.490446108684393,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.36036036036036034,1.4774712918936108,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.37537537537537535,1.4649754753419055,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.39039039039039036,1.4529966433324981,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.40540540540540543,1.4415679603387765,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.42042042042042044,1.430717366174366,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.43543543543543545,1.4204672958579938,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.45045045045045046,1.4108345310166623,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.46546546546546547,1.4018301841188356,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.4804804804804805,1.3934598113176533,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.4954954954954955,1.3857236445497447,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.5105105105105106,1.3786169290738575,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.5255255255255256,1.3721303490763772,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.5405405405405406,1.366250521469682,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.5555555555555556,1.3609605366320705,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.5705705705705706,1.3562405245705096,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.5855855855855856,1.3520682257453411,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.6006006006006006,1.3484195474393847,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.6156156156156156,1.3452690889058765,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.6306306306306306,1.3425906213947576,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.6456456456456456,1.3403575123374982,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.6606606606606606,1.3385430862807999,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.6756756756756757,1.3371209184347637,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.6906906906906907,1.33606505980377,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.7057057057057057,1.3353501956912872,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.7207207207207207,1.3349517418348185,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.7357357357357357,1.3348458844834992,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.7507507507507507,1.3350095723510793,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.7657657657657657,1.3354204695534346,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.7807807807807807,1.3360568793799177,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.7957957957957957,1.336897649071189,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.8108108108108109,1.3379220657108135,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.8258258258258259,1.3391097529185116,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.8408408408408409,1.3404405772986763,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.8558558558558559,1.3418945725913,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.8708708708708709,1.3434518882395763,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.8858858858858859,1.345092767676418,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.9009009009009009,1.3467975600907789,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.9159159159159159,1.348546767814228,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.9309309309309309,1.3503211298204192,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.9459459459459459,1.3521017402056967,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.960960960960961,1.3538701989685804,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.975975975975976,1.3556087909768755,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+0.990990990990991,1.3573006877483078,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.006006006006006,1.3589301656134305,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.021021021021021,1.360482833011593,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.0360360360360361,1.3619458591178015,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.0510510510510511,1.3633081957282447,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.0660660660660661,1.364560784352511,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.0810810810810811,1.3656967407698801,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.0960960960960962,1.366711509892783,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.1111111111111112,1.3676029846213356,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.1261261261261262,1.3683715834369887,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.1411411411411412,1.3690202827317883,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.1561561561561562,1.3695546012562412,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.1711711711711712,1.3699825355421873,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.1861861861861862,1.3703144466632398,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.2012012012012012,1.3705629001793296,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.2162162162162162,1.3707424625199378,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.2312312312312312,1.37086945834271,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.2462462462462462,1.3709616945156553,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.2612612612612613,1.3710381572748755,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.2762762762762763,1.3711186897770706,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.2912912912912913,1.3712236576784116,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.3063063063063063,1.3713736105202754,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.3213213213213213,1.3715889465900692,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.3363363363363363,1.3718895885645253,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.3513513513513513,1.372294676654944,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.3663663663663663,1.3728222851895775,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.3813813813813813,1.37348916762412,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.3963963963963963,1.3743105339093813,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.4114114114114114,1.375299863010632,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.4264264264264264,1.3764687522117607,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.4414414414414414,1.3778268036947467,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.4564564564564564,1.3793815478030695,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.4714714714714714,1.3811384014148498,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.4864864864864864,1.3831006589993111,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.5015015015015014,1.3852695132339714,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.5165165165165164,1.387644101536703,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.5315315315315314,1.3902215745257738,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.5465465465465464,1.3929971822631146,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.5615615615615615,1.395964374154411,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.5765765765765765,1.3991149085605867,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.5915915915915915,1.4024389684986653,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.6066066066066067,1.4059252802510602,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.6216216216216217,1.409561232232684,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.6366366366366367,1.4133329920542468,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.6516516516516517,1.4172256203366103,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.6666666666666667,1.421223180444624,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.6816816816816818,1.4253088438910169,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.6966966966966968,1.4294649916865905,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.7117117117117118,1.4336733123607615,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.7267267267267268,1.4379148977304295,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.7417417417417418,1.4421703377437232,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.7567567567567568,1.4464198158630797,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.7717717717717718,1.4506432064784343,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.7867867867867868,1.4548201757612456,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.8018018018018018,1.4589302871921097,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.8168168168168168,1.4629531127323467,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.8318318318318318,1.4668683502786322,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.8468468468468469,1.4706559476579215,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.8618618618618619,1.4742962330066711,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.8768768768768769,1.4777700509535199,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.8918918918918919,1.4810589036071407,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.906906906906907,1.4841450949589046,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.921921921921922,1.487011876959225,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.936936936936937,1.4896435952303495,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.951951951951952,1.4920258321480215,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.966966966966967,1.4941455448669592,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.981981981981982,1.4959911957857548,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+1.996996996996997,1.4975528729466023,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.012012012012012,1.4988223979432125,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.027027027027027,1.4997934190625166,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.042042042042042,1.500461487605948,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.057057057057057,1.5008241156166187,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.0720720720720722,1.5008808135699385,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.0870870870870872,1.5006331069569991,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.1021021021021022,1.5000845310913045,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.1171171171171173,1.4992406038892228,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.1321321321321323,1.4981087768014996,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.1471471471471473,1.496698364497058,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.1621621621621623,1.495020454310658,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.1771771771771773,1.493087796853691,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.1921921921921923,1.4909146795438113,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.2072072072072073,1.4885167851267276,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.2222222222222223,1.4859110375355213,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.2372372372372373,1.4831154376536995,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.2522522522522523,1.4801488917128354,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.2672672672672673,1.4770310351605485,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.2822822822822824,1.4737820548765064,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.2972972972972974,1.470422512591547,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.3123123123123124,1.4669731722768942,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.3273273273273274,1.4634548341174212,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.3423423423423424,1.4598881774664045,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.3573573573573574,1.4562936149024777,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.3723723723723724,1.4526911591770244,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.3873873873873874,1.4491003044581228,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.4024024024024024,1.4455399228532873,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.4174174174174174,1.4420281767370131,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.4324324324324325,1.4385824469317026,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.4474474474474475,1.435219276304396,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.4624624624624625,1.4319543278609168,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.4774774774774775,1.4288023559583065,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.4924924924924925,1.4257771888313204,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.5075075075075075,1.4228917202551767,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.5225225225225225,1.4201579078596789,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.5375375375375375,1.4175867753840286,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.5525525525525525,1.4151884160296575,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.5675675675675675,1.4129719940410734,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.5825825825825826,1.4109457417296882,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.5975975975975976,1.4091169493574243,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.6126126126126126,1.4074919456163304,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.6276276276276276,1.406076066873575,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.6426426426426426,1.4048736138903724,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.6576576576576576,1.4038877953559081,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.6726726726726726,1.403120658286253,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.6876876876876876,1.4025730061026755,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.7027027027027026,1.4022443059990681,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.7177177177177176,1.4021325880066369,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.7327327327327327,1.4022343389363714,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.7477477477477477,1.4025443950948535,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.7627627627627627,1.4030558382965033,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.7777777777777777,1.4037599002055334,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.7927927927927927,1.404645880406791,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.8078078078078077,1.405701083802751,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.8228228228228227,1.4069107829455365,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.8378378378378377,1.40825821072465,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.8528528528528527,1.4097245884369765,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.8678678678678677,1.4112891936656378,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.8828828828828827,1.4129294715968117,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.8978978978978978,1.4146211924240333,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.9129129129129128,1.4163386563501756,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.9279279279279278,1.4180549464282597,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.942942942942943,1.4197422281180416,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.957957957957958,1.4213720930162106,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.972972972972973,1.422915942787524,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+2.987987987987988,1.4243454079270925,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.003003003003003,1.4256327946664102,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.018018018018018,1.4267515521414629,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.033033033033033,1.4276767509118244,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.048048048048048,1.428385563091691,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.063063063063063,1.4288577337583876,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.078078078078078,1.429076032964874,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.093093093093093,1.4290266776162022,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.108108108108108,1.4286997126836036,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.123123123123123,1.4280893417227967,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.138138138138138,1.4271941974257558,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.153153153153153,1.4260175439502054,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.168168168168168,1.4245674040132401,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.183183183183183,1.4228566051739269,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.198198198198198,1.4209027413275672,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.2132132132132134,1.4187280471516563,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.2282282282282284,1.4163591850375346,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.2432432432432434,1.413826945868558,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.2582582582582584,1.4111658668221254,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.2732732732732734,1.408413771137175,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.2882882882882885,1.4056112364617928,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.3033033033033035,1.4028009999418902,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.3183183183183185,1.4000273096001417,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.3333333333333335,1.397335232758037,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.3483483483483485,1.3947699332512202,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.3633633633633635,1.3923759299625282,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.3783783783783785,1.3901963497361456,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.3933933933933935,1.3882721880326805,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.4084084084084085,1.386641590735289,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.4234234234234235,1.3853391703213271,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.4384384384384385,1.3843953691766524,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.4534534534534536,1.3838358821568157,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.4684684684684686,1.3836811496010304,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.4834834834834836,1.3839459308931685,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.4984984984984986,1.384638967353856,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.5135135135135136,1.3857627417572145,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.5285285285285286,1.3873133401147275,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.5435435435435436,1.3892804195813881,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.5585585585585586,1.3916472844418135,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.5735735735735736,1.394391070156922,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.5885885885885886,1.397483033427956,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.6036036036036037,1.400888944201189,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.6186186186186187,1.404569573532464,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.6336336336336337,1.4084812692980857,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.6486486486486487,1.4125766099206012,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.6636636636636637,1.4168051246188162,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.6786786786786787,1.4211140672344718,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.6936936936936937,1.4254492294748384,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.7087087087087087,1.429755778478988,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.7237237237237237,1.4339791029990916,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.7387387387387387,1.438065652212861,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.7537537537537538,1.4419637512682124,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.7687687687687688,1.4456243781154967,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.7837837837837838,1.44900188700566,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.798798798798799,1.452054665212575,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.813813813813814,1.454745711052289,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.828828828828829,1.4570431230869698,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.843843843843844,1.4589204924735069,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.858858858858859,1.4603571926925702,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.873873873873874,1.461338563312949,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.888888888888889,1.461855986941398,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.903903903903904,1.4619068610094708,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.918918918918919,1.4614944684845868,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.933933933933934,1.460627753891952,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.948948948948949,1.4593210131301941,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.963963963963964,1.4575935073959048,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.978978978978979,1.4554690130481323,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+3.993993993993994,1.4529753204007765,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.009009009009009,1.450143695198461,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.024024024024024,1.4470083168915264,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.039039039039039,1.4436057077743558,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.054054054054054,1.4399741665967847,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.069069069069069,1.4361532194232798,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.084084084084084,1.432183099332674,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.099099099099099,1.4281042650674807,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.114114114114114,1.4239569670096122,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.129129129129129,1.419780866939639,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.1441441441441444,1.4156147159941652,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.1591591591591595,1.4114960931383422,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.1741741741741745,1.4074612043847954,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.1891891891891895,1.4035447409812605,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.2042042042042045,1.3997797929169664,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.2192192192192195,1.3961978124162113,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.2342342342342345,1.3928286206419824,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.2492492492492495,1.389700449659984,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.2642642642642645,1.3868400108402807,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.2792792792792795,1.3842725803167915,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.2942942942942945,1.3820220918900263,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.3093093093093096,1.3801112278425867,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.324324324324325,1.3785614985270822,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.33933933933934,1.3773933022619294,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.354354354354355,1.3766259580041404,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.36936936936937,1.3762777044268082,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.384384384384385,1.3763656603748728,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.3993993993994,1.3769057431658815,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.414414414414415,1.3779125428006722,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.42942942942943,1.3793991518099655,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.444444444444445,1.3813769521445811,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.45945945945946,1.38385536217876,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.474474474474475,1.3868415484990941,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.48948948948949,1.3903401086587925,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.504504504504505,1.3943527324549787,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.51951951951952,1.3988778505035595,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.534534534534535,1.4039102799134298,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.54954954954955,1.4094408776739398,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.564564564564565,1.4154562129435124,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.57957957957958,1.421938269743607,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.594594594594595,1.428864191604717,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.60960960960961,1.4362060794669789,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.624624624624625,1.4439308535994657,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.63963963963964,1.4520001894657586,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.654654654654655,1.4603705363316088,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.66966966966967,1.4689932259919798,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.684684684684685,1.477814677305729,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.6996996996997,1.4867767002901358,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.714714714714715,1.495816901376487,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.72972972972973,1.5048691891024057,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.744744744744745,1.5138643770652458,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.75975975975976,1.522730878440264,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.774774774774775,1.5313954838407178,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.78978978978979,1.5397842118338678,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.804804804804805,1.547823219099141,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.81981981981982,1.5554397550972978,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.834834834834835,1.5625631442848986,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.84984984984985,1.5691257774264542,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.864864864864865,1.5750640924896624,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.87987987987988,1.5803195250105193,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.894894894894895,1.5848394077253918,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.90990990990991,1.5885777997126826,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.924924924924925,1.59149622627732,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.93993993993994,1.5935643123383842,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.954954954954955,1.594760294117507,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.96996996996997,1.595071396427723,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+4.984984984984985,1.5944940657671385,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5,1.5930340526504725,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.015015015015015,1.5907063400731112,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.03003003003003,1.5875349185950236,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.045045045045045,1.5835524121476126,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.06006006006006,1.5787995621949222,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.075075075075075,1.573324581212545,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.09009009009009,1.5671823894802908,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.105105105105105,1.560433751824951,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.12012012012012,1.5531443331178172,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.135135135135135,1.5453836929648443,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.15015015015015,1.5372242410810346,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.165165165165165,1.5287401752912422,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.18018018018018,1.520006423943655,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.195195195195195,1.5110976137783452,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.21021021021021,1.5020870829986674,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.225225225225225,1.4930459575037802,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.24024024024024,1.484042306027171,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.255255255255255,1.4751403873717912,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.27027027027027,1.4664000001292816,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.285285285285285,1.4578759423156025,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.3003003003003,1.4496175853461841,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.315315315315315,1.441668563805821,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.33033033033033,1.4340665796315215,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.345345345345345,1.4268433167005683,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.36036036036036,1.4200244594700526,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.375375375375375,1.4136298073032818,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.39039039039039,1.4076734744832,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.405405405405405,1.402164164678201,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.42042042042042,1.3971055078010826,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.435435435435435,1.3924964467820644,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.45045045045045,1.388331661742811,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.465465465465465,1.3846020193795958,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.48048048048048,1.3812950359989136,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.495495495495495,1.3783953435498173,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.51051051051051,1.375885149109845,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.525525525525525,1.3737446795489743,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.54054054054054,1.3719526044617494,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.555555555555555,1.370486431865675,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.57057057057057,1.3693228725631283,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.585585585585585,1.3684381704080344,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.6006006006006,1.367808396968137,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.615615615615615,1.3674097101974396,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.63063063063063,1.3672185777080827,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.645645645645645,1.3672119660415618,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.66066066066066,1.3673674979797374,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.675675675675675,1.3676635804069939,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.6906906906906904,1.3680795055447137,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.7057057057057055,1.3685955285410765,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.7207207207207205,1.3691929244314611,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.7357357357357355,1.3698540274084097,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.7507507507507505,1.3705622551782244,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.7657657657657655,1.371302120957126,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.7807807807807805,1.3720592353960737,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.7957957957957955,1.3728203004406756,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.8108108108108105,1.373573096849033,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.8258258258258255,1.374306466820947,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.8408408408408405,1.3750102929478538,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.8558558558558556,1.3756754744816542,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.870870870870871,1.3762939017465272,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.885885885885886,1.3768584293813984,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.900900900900901,1.377362849000213,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.915915915915916,1.3778018617882892,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.930930930930931,1.378171051510312,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.945945945945946,1.3784668583822863,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.960960960960961,1.3786865542495321,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.975975975975976,1.3788282195089616,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+5.990990990990991,1.3788907222108384,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.006006006006006,1.3788736997681017,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.021021021021021,1.3787775436868392,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.036036036036036,1.37860338770677,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.051051051051051,1.378353099704415,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.066066066066066,1.3780292776632965,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.081081081081081,1.3776352499546205,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.096096096096096,1.3771750800987437,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.111111111111111,1.3766535760920053,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.126126126126126,1.3760763042850277,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.141141141141141,1.3754496076864524,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.156156156156156,1.3747806284389543,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.171171171171171,1.3740773340706824,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.186186186186186,1.3733485469629574,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.201201201201201,1.3726039762923232,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.216216216216216,1.3718542515006689,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.231231231231231,1.3711109561206176,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.246246246246246,1.3703866605358286,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.261261261261261,1.3696949519901127,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.276276276276276,1.3690504598807502,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.291291291291291,1.368468874087509,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.306306306306306,1.3679669538103851,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.321321321321321,1.367562524128949,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.336336336336336,1.3672744572699853,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.351351351351351,1.3671226353955308,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.366366366366366,1.3671278916193386,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.381381381381381,1.3673119259458109,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.396396396396396,1.367697192920922,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.411411411411412,1.368306758006875,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.426426426426427,1.3691641200568825,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.441441441441442,1.3702929977841218,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.456456456456457,1.3717170787963495,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.471471471471472,1.3734597306050214,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.486486486486487,1.3755436740083526,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.501501501501502,1.3779906203780694,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.516516516516517,1.380820875627421,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.531531531531532,1.3840529149744316,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.546546546546547,1.3877029340023184,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.561561561561562,1.391784382915223,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.576576576576577,1.3963074922432877,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.591591591591592,1.401278799513644,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.606606606606607,1.4067006875187031,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.621621621621622,1.4125709457248852,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.636636636636637,1.4188823670214497,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.651651651651652,1.425622392362098,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.666666666666667,1.432772815860614,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.681681681681682,1.4403095625342142,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.696696696696697,1.4482025501239268,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.711711711711712,1.456415645252744,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.726726726726727,1.4649067226161925,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.741741741741742,1.4736278339581295,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.756756756756757,1.4825254913038772,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.771771771771772,1.491541066354974,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.786786786786787,1.5006113051599668,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.801801801801802,1.5096689542410695,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.816816816816817,1.518643491363458,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.831831831831832,1.527461951175805,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.846846846846847,1.5360498331237291,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.861861861861862,1.5443320764380517,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.876876876876877,1.5522340847195701,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.891891891891892,1.55968278076519,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.906906906906907,1.5666076708801902,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.921921921921922,1.5729418970562192,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.936936936936937,1.5786232551059165,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.951951951951952,1.5835951571550997,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.966966966966967,1.5878075178039721,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.981981981981982,1.591217544761026,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+6.996996996996997,1.5937904167881394,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.012012012012012,1.595499834314245,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.027027027027027,1.5963284310031403,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.042042042042042,1.5962680378091527,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.057057057057057,1.5953197945226059,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.072072072072072,1.5934941073889253,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.087087087087087,1.5908104549713575,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.102102102102102,1.5872970479098574,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.117117117117117,1.5829903515053472,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.132132132132132,1.5779344830362096,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.147147147147147,1.5721804983116914,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.162162162162162,1.5657855841191872,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.177177177177177,1.5588121748803312,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.192192192192192,1.5513270129635464,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.207207207207207,1.5434001726957751,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.222222222222222,1.535104068178668,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.237237237237237,1.5265124645666854,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.252252252252252,1.5176995115429774,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.267267267267267,1.5087388163830233,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.282282282282282,1.4997025722850292,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.297297297297297,1.4906607556364226,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.312312312312312,1.4816804036478761,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.327327327327327,1.4728249813925063,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.342342342342342,1.464153844808831,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.357357357357357,1.4557218037296396,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.372372372372372,1.4475787865478977,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.387387387387387,1.4397696057810874,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.402402402402402,1.4323338215962398,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.4174174174174174,1.4253056983502375,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.4324324324324325,1.418714247417294,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.4474474474474475,1.412583348043499,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.4624624624624625,1.4069319367055224,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.4774774774774775,1.4017742544694665,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.4924924924924925,1.3971201411524607,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.5075075075075075,1.392975364685831,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.5225225225225225,1.3893419739609223,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.5375375375375375,1.386218663600316,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.5525525525525525,1.3836011395272645,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.5675675675675675,1.3814824748906651,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.5825825825825826,1.3798534468238846,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.597597597597598,1.3787028456522603,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.612612612612613,1.3780177494908405,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.627627627627628,1.377783758662186,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.642642642642643,1.3779851859809051,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.657657657657658,1.3786052006602845,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.672672672672673,1.3796259253564334,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.687687687687688,1.3810284876330474,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.702702702702703,1.3827930288592767,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.717717717717718,1.3848986751961232,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.732732732732733,1.3873234768356533,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.747747747747748,1.3900443229850843,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.762762762762763,1.3930368411901155,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.777777777777778,1.39627529042922,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.792792792792793,1.3997324579489194,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.807807807807808,1.4033795700234344,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.822822822822823,1.40718622669328,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.837837837837838,1.411120370059641,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.852852852852853,1.4151482948887852,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.867867867867868,1.4192347091291242,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.882882882882883,1.4233428504898964,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.897897897897898,1.4274346635131825,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.912912912912913,1.4314710396381394,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.927927927927928,1.4354121206655266,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.942942942942943,1.4392176638454044,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.957957957957958,1.4428474646010225,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.972972972972973,1.4462618307385566,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+7.987987987987988,1.4494220999479417,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.003003003003004,1.4522911905433793,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.018018018018019,1.4548341737881632,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.033033033033034,1.4570188548540755,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.048048048048049,1.4588163485281194,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.063063063063064,1.4602016352357619,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.078078078078079,1.4611540828228284,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.093093093093094,1.4616579198385515,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.108108108108109,1.4617026467854781,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.123123123123124,1.4612833729304033,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.138138138138139,1.4604010677729544,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.153153153153154,1.4590627181018156,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.168168168168169,1.457281383679199,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.183183183183184,1.4550761469198716,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.198198198198199,1.4524719544034719,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.213213213213214,1.449499350606004,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.228228228228229,1.4461941067846713,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.243243243243244,1.442596750428046,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.258258258258259,1.4387520030222662,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.273273273273274,1.4347081360215739,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.288288288288289,1.4305162567932737,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.303303303303304,1.426229537888157,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.318318318318319,1.4219024042325168,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.333333333333334,1.4175896937235415,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.348348348348349,1.413345807223522,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.363363363363364,1.4092238640880654,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.378378378378379,1.4052748791384704,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.393393393393394,1.4015469764161452,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.408408408408409,1.3980846541639376,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.423423423423424,1.3949281142977812,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.438438438438439,1.3921126682004306,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.453453453453454,1.3896682290281468,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.468468468468469,1.3876188989148655,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.483483483483484,1.3859826575304797,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.498498498498499,1.3847711564440963,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.513513513513514,1.3839896217015926,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.528528528528529,1.3836368649892388,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.543543543543544,1.3837054017587744,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.558558558558559,1.3841816727677139,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.573573573573574,1.3850463636728116,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.588588588588589,1.3862748156315565,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.603603603603604,1.3878375183407647,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.618618618618619,1.38970067559379,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.633633633633634,1.3918268322871357,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.64864864864865,1.3941755508687323,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.663663663663664,1.3967041245069614,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.67867867867868,1.3993683137818302,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.693693693693694,1.402123093464757,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.70870870870871,1.404923395965633,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.723723723723724,1.4077248382858227,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.73873873873874,1.4104844198205841,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.753753753753754,1.4131611790970493,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.76876876876877,1.415716798502306,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.783783783783784,1.4181161472343815,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.7987987987988,1.4203277540751373,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.813813813813814,1.4223242031123864,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.82882882882883,1.4240824471978222,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.843843843843844,1.4255840356825444,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.85885885885886,1.4268152547842068,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.873873873873874,1.4277671807679493,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.88888888888889,1.4284356479237692,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.903903903903904,1.4288211350527873,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.91891891891892,1.4289285757908903,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.933933933933934,1.4287670995605257,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.94894894894895,1.4283497112129895,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.963963963963964,1.427692918472883,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.97897897897898,1.4268163170980002,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+8.993993993993994,1.4257421442031486,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.00900900900901,1.4244948104551214,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.024024024024024,1.4231004218258327,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.03903903903904,1.421586301298069,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.054054054054054,1.4199805203678788,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.06906906906907,1.418311449402016,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.084084084084084,1.4166073349175503,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.0990990990991,1.414895910688942,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.114114114114114,1.413204048296158,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.12912912912913,1.4115574513484637,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.144144144144144,1.4099803961975763,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.15915915915916,1.4084955205355216,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.174174174174174,1.4071236598999792,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.18918918918919,1.4058837308232768,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.204204204204204,1.4047926581960477,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.21921921921922,1.4038653434029844,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.234234234234235,1.4031146689498504,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.24924924924925,1.4025515346545558,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.264264264264265,1.4021849200299683,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.27927927927928,1.4020219672446375,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.294294294294295,1.4020680790044044,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.30930930930931,1.4023270258421652,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.324324324324325,1.4028010576173986,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.33933933933934,1.403491014490223,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.354354354354355,1.4043964332209065,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.36936936936937,1.4055156453274191,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.384384384384385,1.406845864381467,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.3993993993994,1.4083832605078939,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.414414414414415,1.4101230209451054,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.42942942942943,1.4120593962981698,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.444444444444445,1.4141857328472516,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.45945945945946,1.416494491941211,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.474474474474475,1.4189772580916302,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.48948948948949,1.4216247378732074,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.504504504504505,1.4244267521223222,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.51951951951952,1.4273722242015894,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.534534534534535,1.4304491672618638,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.54954954954955,1.4336446734869854,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.564564564564565,1.4369449082543326,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.57957957957958,1.4403351119942414,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.594594594594595,1.4437996122925882,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.60960960960961,1.4473218484648926,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.624624624624625,1.450884410449726,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.63963963963964,1.454469093437376,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.654654654654655,1.4580569691804646,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.66966966966967,1.4616284744405479,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.684684684684685,1.4651635165221577,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.6996996996997,1.4686415953466982,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.714714714714715,1.4720419410353986,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.72972972972973,1.4753436655149097,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.744744744744745,1.4785259262416475,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.75975975975976,1.4815680997711036,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.774774774774775,1.4844499625843217,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.78978978978979,1.4871518763323623,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.804804804804805,1.489654974476377,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.81981981981982,1.4919413471899183,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.834834834834835,1.4939942213535078,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.84984984984985,1.495798132510531,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.864864864864865,1.497339085766946,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.87987987987988,1.4986047028029086,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.894894894894895,1.49958435241801,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.90990990990991,1.5002692623474534,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.924924924924925,1.500652610456897,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.93993993993994,1.500729593839743,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.954954954954955,1.5004974747921953,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.96996996996997,1.4999556031167471,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+9.984984984984985,1.4991054146913894,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10,1.497950406726691,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.015015015015015,1.4964960906021674,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.03003003003003,1.4947499236137156,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.045045045045045,1.4927212213620091,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.06006006006006,1.4904210528555712,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.075075075075075,1.4878621206806872,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.09009009009009,1.4850586287942107,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.105105105105105,1.482026140618001,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.12012012012012,1.4787814301502589,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.135135135135135,1.4753423287585945,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.15015015015015,1.4717275701832557,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.165165165165165,1.4679566360620355,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.18018018018018,1.4640496039985296,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.195195195195195,1.4600269998445612,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.21021021021021,1.4559096554691406,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.225225225225225,1.451718572857586,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.24024024024024,1.44747479494331,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.255255255255255,1.4431992831414802,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.27027027027027,1.4389128011482064,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.285285285285285,1.4346358042111356,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.3003003003003,1.4303883327859954,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.315315315315315,1.4261899092849077,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.33033033033033,1.4220594365100214,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.345345345345345,1.4180150963596743,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.36036036036036,1.4140742474988972,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.375375375375375,1.4102533209023589,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.39039039039039,1.4065677125002682,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.405405405405405,1.4030316725763567,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.42042042042042,1.3996581920660158,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.435435435435435,1.3964588864617729,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.45045045045045,1.3934438786279701,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.465465465465465,1.3906216824291362,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.48048048048048,1.3879990896569696,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.495495495495495,1.3855810632687109,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.51051051051051,1.3833706403940365,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.525525525525525,1.3813688489006815,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.54054054054054,1.3795746415050707,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.555555555555555,1.3779848514532864,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.57057057057057,1.3765941736648253,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.585585585585585,1.3753951749192685,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.6006006006006,1.3743783361738449,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.615615615615615,1.3735321294357996,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.63063063063063,1.3728431307933526,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.645645645645645,1.372296170256275,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.66066066066066,1.3718745180025296,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.675675675675675,1.371560105507393,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.69069069069069,1.3713337788874966,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.705705705705705,1.371175580668397,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.72072072072072,1.3710650551262533,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.735735735735735,1.3709815714065219,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.75075075075075,1.3709046578275628,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.765765765765765,1.3708143401716733,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.78078078078078,1.3706914763817073,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.795795795795796,1.3705180799407088,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.81081081081081,1.370277624328934,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.825825825825826,1.3699553213310496,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.84084084084084,1.3695383665995835,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.855855855855856,1.3690161467518756,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.87087087087087,1.3683804033603473,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.885885885885886,1.3676253504538995,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.9009009009009,1.3667477435388757,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.915915915915916,1.3657468996221191,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.93093093093093,1.3646246692235213,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.945945945945946,1.3633853628464478,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.96096096096096,1.362035635777799,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.975975975975976,1.3605843363632721,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+10.99099099099099,1.3590423240015317,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.006006006006006,1.3574222639828675,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.02102102102102,1.3557384069313432,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.036036036036036,1.3540063609717397,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.05105105105105,1.3522428648201887,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.066066066066066,1.3504655697877754,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.08108108108108,1.3486928381965124,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.096096096096096,1.3469435649539556,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.11111111111111,1.3452370280415387,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.126126126126126,1.3435927724757009,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.14114114114114,1.3420305309389173,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.156156156156156,1.3405701827934244,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.17117117117117,1.339231751630289,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.186186186186186,1.3380354399179408,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.2012012012012,1.33700169774506,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.216216216216216,1.33615132114819,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.23123123123123,1.3355055741177226,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.246246246246246,1.3350863271258182,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.26126126126126,1.3349162039511093,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.276276276276276,1.335018727716923,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.29129129129129,1.3354184564370548,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.306306306306306,1.3361410979942907,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.32132132132132,1.3372135943765764,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.336336336336336,1.3386641651722428,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.35135135135135,1.3405223007839286,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.366366366366366,1.3428186965601139,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.381381381381381,1.345585120059371,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.396396396396396,1.3488542049463774,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.411411411411411,1.3526591665577465,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.426426426426426,1.357033435951749,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.441441441441441,1.3620102112469163,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.456456456456456,1.3676219272323922,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.471471471471471,1.373899646564338,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.486486486486486,1.380872378308214,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.501501501501501,1.3885663321001012,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.516516516516516,1.397004118728658,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.531531531531531,1.4062039104234603,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.546546546546546,1.41617857650953,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.561561561561561,1.426934812280978,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.576576576576576,1.4384722808835435,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.591591591591591,1.4507827895988918,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.606606606606606,1.4638495231154405,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.621621621621621,1.477646357075844,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.636636636636636,1.4921372753414737,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.651651651651651,1.5072759139487426,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.666666666666666,1.5230052536043013,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.681681681681681,1.5392574807444934,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.696696696696696,1.5559540346585903,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.711711711711711,1.573005854955825,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.726726726726726,1.5903138397800414,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.741741741741741,1.6077695207049902,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.756756756756756,1.625255955267514,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.771771771771771,1.6426488327298512,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.786786786786786,1.6598177830454899,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.801801801801801,1.6766278732944588,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.816816816816816,1.6929412702292188,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.831831831831831,1.708619042216758,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.846846846846846,1.7235230689645817,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.861861861861861,1.7375180231627365,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.876876876876876,1.750473384733096,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.891891891891891,1.762265445903637,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.906906906906906,1.7727792639447293,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.921921921921921,1.781910518207925,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.936936936936936,1.7895672291474867,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.951951951951951,1.7956712992899881,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.966966966966966,1.8001598396108924,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.981981981981981,1.8029862493975277,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+11.996996996996996,1.80412102329953,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.012012012012011,1.8035522657262024,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.027027027027026,1.801285899846561,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.042042042042041,1.7973455659583382,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.057057057057056,1.7917722116753723,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.072072072072071,1.7846233839903065,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.087087087087086,1.7759722405557277,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.102102102102101,1.7659063042591143,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.117117117117116,1.754525991134661,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.132132132132131,1.741942946678265,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.147147147147146,1.728278229568189,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.162162162162161,1.7136603845422107,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.177177177177176,1.6982234476878182,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.192192192192191,1.6821049276552829,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.207207207207206,1.6654438053404361,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.222222222222221,1.6483785924813341,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.237237237237236,1.6310454864849973,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.252252252252251,1.6135766547913892,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.267267267267266,1.5960986773593289,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.282282282282281,1.5787311706062062,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.297297297297296,1.5615856105406722,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.312312312312311,1.5447643670846083,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.327327327327327,1.5283599558700933,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.342342342342342,1.5124545082868004,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.357357357357357,1.4971194553944065,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.372372372372372,1.4824154166287555,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.387387387387387,1.4683922801196942,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.402402402402402,1.4550894579754559,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.417417417417417,1.4425362971188176,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.432432432432432,1.4307526242037685,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.447447447447447,1.419749401793375,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.462462462462462,1.4095294723148435,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.477477477477477,1.4000883662825117,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.492492492492492,1.3914151518362408,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.507507507507507,1.3834933037130392,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.522522522522522,1.376301571278384,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.537537537537537,1.3698148271118347,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.552552552552552,1.364004879789494,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.567567567567567,1.3588412368559142,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.582582582582582,1.3542918064564484,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.597597597597597,1.3503235286389392,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.612612612612612,1.3469029298691453,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.627627627627627,1.343996596781673,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.642642642642642,1.3415715675594762,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.657657657657657,1.3395956415584533,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.672672672672672,1.3380376098347584,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.687687687687687,1.3368674110622882,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.702702702702702,1.336056218923482,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.717717717717717,1.3355764683999674,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.732732732732732,1.3354018294675565,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.747747747747747,1.3355071375038228,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.762762762762762,1.3358682902411714,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.777777777777777,1.3364621213437637,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.792792792792792,1.337266260656487,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.807807807807807,1.338258990876628,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.822822822822824,1.3394191098469996,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.837837837837839,1.3407258068804473,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.852852852852854,1.3421585605225415,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.867867867867869,1.3436970639695969,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.882882882882884,1.3453211830150085,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.897897897897899,1.347010949935448,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.912912912912914,1.3487465951902686,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.927927927927929,1.3505086172365905,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.942942942942944,1.3522778892048024,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.957957957957959,1.3540357996816685,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.972972972972974,1.3557644234565904,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+12.987987987987989,1.357446716845452,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.003003003003004,1.359066731155477,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.018018018018019,1.3606098370290514,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.033033033033034,1.3620629518321863,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.048048048048049,1.3634147619545012,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.063063063063064,1.3646559318726856,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.078078078078079,1.365779292099963,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.093093093093094,1.3667799986901747,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.108108108108109,1.3676556577684882,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.123123123123124,1.3684064095918953,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.138138138138139,1.3690349678650915,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.153153153153154,1.369546611406308,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.168168168168169,1.369949126723476,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.183183183183184,1.3702527015704937,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.198198198198199,1.3704697710512916,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.213213213213214,1.3706148192722936,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.228228228228229,1.3707041408604739,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.243243243243244,1.3707555678187375,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.258258258258259,1.3707881681439655,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.273273273273274,1.3708219233549024,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.288288288288289,1.3708773925464925,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.303303303303304,1.3709753707932615,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.318318318318319,1.3711365496670807,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.333333333333334,1.3713811873240336,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.348348348348349,1.3717287950712507,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.363363363363364,1.3721978465756586,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.378378378378379,1.372805514958572,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.393393393393394,1.3735674419735808,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.408408408408409,1.3744975423352965,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.423423423423424,1.3756078450990044,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.438438438438439,1.3769083728321565,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.453453453453454,1.3784070582109724,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.468468468468469,1.3801096966586346,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.483483483483484,1.3820199327492284,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.498498498498499,1.384139277360261,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.513513513513514,1.3864671519858704,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.528528528528529,1.3890009562333996,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.543543543543544,1.3917361543208528,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.558558558558559,1.394666376367085,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.573573573573574,1.3977835304075603,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.588588588588589,1.401077921358248,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.603603603603604,1.4045383735641017,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.618618618618619,1.4081523540794383,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.633633633633634,1.411906094404934,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.64864864864865,1.4157847090188762,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.663663663663664,1.4197723096579729,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.67867867867868,1.423852114896698,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.693693693693694,1.4280065551177585,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.70870870870871,1.4322173734378278,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.723723723723724,1.436465723534979,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.73873873873874,1.4407322656049766,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.753753753753754,1.444997261845852,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.76876876876877,1.449240672932788,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.783783783783784,1.453442256901462,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.7987987987988,1.4575816717160444,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.813813813813814,1.4616385825698504,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.82882882882883,1.4655927746675173,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.843843843843844,1.4694242718845307,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.85885885885886,1.4731134613120682,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.873873873873874,1.4766412232911041,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.88888888888889,1.4799890661383515,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.903903903903904,1.483139264385339,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.91891891891892,1.4860749990061133,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.933933933933934,1.4887804978121117,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.94894894894895,1.491241173954926,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.963963963963964,1.4934437603067732,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.97897897897898,1.4953764373888692,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+13.993993993993994,1.4970289524915312,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.00900900900901,1.4983927276755318,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.024024024024024,1.4994609544588131,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.03903903903904,1.5002286731708412,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.054054054054054,1.5006928351913016,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.06906906906907,1.5008523465728252,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.084084084084084,1.5007080918692663,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.0990990990991,1.5002629373427803,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.114114114114114,1.4995217130942202,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.12912912912913,1.4984911740429567,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.144144144144144,1.4971799400643666,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.15915915915916,1.4955984159670697,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.174174174174174,1.493758692348942,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.18918918918919,1.4916744287031451,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.204204204204204,1.4893607204456107,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.21921921921922,1.4868339517972418,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.234234234234235,1.484111636671822,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.24924924924925,1.4812122498896967,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.264264264264265,1.4781550511541677,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.27927927927928,1.4749599042899968,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.294294294294295,1.4716470942506155,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.30930930930931,1.4682371443536182,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.324324324324325,1.4647506361052718,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.33933933933934,1.4612080338288735,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.354354354354355,1.4576295161248591,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.36936936936937,1.4540348159707985,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.384384384384385,1.4504430710260605,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.3993993993994,1.4468726854492309,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.414414414414415,1.4433412042771245,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.42942942942943,1.4398652011626085,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.444444444444445,1.4364601800337835,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.45945945945946,1.4331404910267052,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.474474474474475,1.429919260862758,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.48948948948949,1.426808337691782,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.504504504504505,1.4238182503021382,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.51951951951952,1.4209581815043841,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.534534534534535,1.4182359554194306,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.54954954954955,1.415658038335975,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.564564564564565,1.4132295527360907,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.57957957957958,1.4109543040132149,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.594594594594595,1.4088348193158495,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.60960960960961,1.406872397839028,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.624624624624625,1.4050671717530887,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.63963963963964,1.4034181768091114,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.654654654654655,1.401923431499589,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.66966966966967,1.4005800234921562,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.684684684684685,1.3993842019056095,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.6996996996997,1.3983314738742563,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.714714714714715,1.3974167037605316,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.72972972972973,1.3966342133366105,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.744744744744745,1.395977881269402,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.75975975975976,1.3954412403117575,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.774774774774775,1.3950175707238501,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.78978978978979,1.3946999886159501,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.804804804804805,1.394481528108207,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.81981981981982,1.3943552164327544,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.834834834834835,1.3943141413462452,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.84984984984985,1.3943515104643955,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.864864864864865,1.3944607023631286,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.87987987987988,1.3946353095041624,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.894894894894895,1.3948691732293415,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.90990990990991,1.3951564112231278,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.924924924924925,1.395491437964283,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.93993993993994,1.3958689787758836,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.954954954954955,1.3962840781391177,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.96996996996997,1.3967321029639281,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+14.984984984984985,1.3972087415123027,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
+15,1.3977099986523345,Har18,Harrison & Pearce (2018),harmonicity,#11A3FF,"7 dB/octave
+roll-off"
