@@ -81,26 +81,26 @@ ggsave("025-bonang-dyads.pdf", path = PLOT_DIR, width = 14, height = 10, scale =
 
 sweep_v_line_over_plot(
   plot = BONANG$plot$profiles,
-  x_start = 0, 
-  x_end = 15, 
-  duration = 75, 
-  path = "output/videos/bonang-dyads.mp4", 
-  width = 8, 
+  x_start = 0,
+  x_end = 15,
+  duration = 75,
+  path = "output/videos/bonang-dyads.mp4",
+  width = 8,
   height = 5.5,
   fps = 30,
   dpi = 300,
   audio_components = c(
     static_basic_harmonic_complex_tone(
-      midi = 60, 
-      amplitude = 1, 
-      n_harmonics = 5L, 
+      midi = 60,
+      amplitude = 1,
+      n_harmonics = 5L,
       decay_dB_per_octave = 0,
       octave_definition = 2
     ),
     linear_freq_sweep_bonang_tone(
-      start_midi_root = 60, 
-      end_midi_root = 75, 
-      duration = 75, 
+      start_midi_root = 60,
+      end_midi_root = 75,
+      duration = 75,
       amplitude = 1
     )
   )

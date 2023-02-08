@@ -138,7 +138,7 @@ for (timbre in c("Stretched", "Harmonic", "Compressed")) {
     .dyad_profile,
     x_start = 0,
     x_end = 15,
-    duration = 75, 
+    duration = 75,
     path = .dyad_video_path,
     fps = 30,
     dpi = 300,
@@ -175,9 +175,9 @@ for (i in seq_along(DYAD_EXPERIMENTS)) {
   exp_label <- names(DYAD_EXPERIMENTS)[i]
   exp <- DYAD_EXPERIMENTS[[i]]
   timbre <- exp$timbre$full
-  timbre$tone_sparse_fr_spectrum(60) %>% 
-    wave() %>% 
-    hrep::filter_adsr(attack = 0.05, decay = 0.05, sustain = 0.9, hold = 0.6, release = 0.25) %>% 
+  timbre$tone_sparse_fr_spectrum(60) %>%
+    wave() %>%
+    hrep::filter_adsr(attack = 0.05, decay = 0.05, sustain = 0.9, hold = 0.6, release = 0.25) %>%
     hrep::save_wav(
       glue::glue("output/audio-examples/{exp_label}.wav")
     )

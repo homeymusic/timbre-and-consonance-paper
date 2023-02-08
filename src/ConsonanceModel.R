@@ -416,8 +416,6 @@ MaMi.CoDi <- R6Class(
                                                        timbre,
                                                        COHERENT_WAVES)$x
       
-      # measure consonance with each pitch as the tonic
-      # whichever tonic results in the most major chord is the winner
       mami.codi = midi %>% purrr::imap(function(tonic.midi, index) {
         tonic.hertz = hrep::midi_to_freq(tonic.midi)
         tonic.timbre.hertz = self$get_sparse_fr_spectrum(tonic.midi,
@@ -427,8 +425,8 @@ MaMi.CoDi <- R6Class(
         mami.codi.R::mami.codi.hertz(tonic.hertz,
                                tonic.timbre.hertz,
                                chord.timbre.hertz)
-      }) %>% bind_rows %>% arrange(desc(major_minor))
-      mami.codi$consonance_dissonance[[1]]
+      }) %>% bind_rows
+      mami.codi$consonance_dissonance %>% max
     }
   )
 )
