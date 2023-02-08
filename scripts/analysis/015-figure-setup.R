@@ -43,15 +43,16 @@ for (label in ROLL_OFF_EXPS) {
 }
 
 MODELS <- c(
+  'Periodicity model' = 'mami.codi',
   "Interference model" = "Hutchinson & Knopoff (1978)",
   "Harmonicity model" = "Harrison & Pearce (2018)",
   # "Harmonicity" = "Harrison & Pearce (2018) (revised)",
-  "Composite model" = "Combined",
+  "Composite model" = "Combined"
   # "Interference (revised)" = "Hutchinson & Knopoff (1978) (revised)"
-  'Periodicity model' = 'mami.codi.R'
 )
 
 MODELS_ALL <- c(
+  'mami.codi',
   "Hutchinson & Knopoff (1978)",
   "Interference (revised)" = "Hutchinson & Knopoff (1978) (revised)",
   "Sethares (1993)",
@@ -59,8 +60,7 @@ MODELS_ALL <- c(
   "Harrison & Pearce (2018)",
   "Milne (2013)",
   "Praat (F0)",
-  "Composite model" = "Combined",
-  'mami.codi.R'
+  "Composite model" = "Combined"
 ) %>% set_names(., .)
 
 PLOT_DIR = "output/plots"

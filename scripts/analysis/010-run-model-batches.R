@@ -83,35 +83,11 @@ models <- list(
   # RevisedHar18$new(options = list(
   #   raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
   #   raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
-  # ))
-  # MaMi.CoDi.Lowest.As.Tonic$new(options = list(
-  #   raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
-  #   raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
   # )),
-  # MaMi.CoDi.Highest.As.Tonic$new(options = list(
-  #   raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
-  #   raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
-  # )),
-  # MaMi.CoDi.All.As.Tonic$new(options = list(
-  #   raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
-  #   raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
-  # )),
-  # MaMi.CoDi.Max.As.Tonic$new(options = list(
-  #   raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
-  #   raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
-  # )),
-  MaMi.CoDi.Major.As.Tonic$new(options = list(
+  MaMi.CoDi$new(options = list(
     raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
     raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
   ))
-  # MaMi.CoDi.Minor.As.Tonic$new(options = list(
-  #   raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
-  #   raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
-  # )),
-  # MaMi.CoDi.Major.D.0.01.As.Tonic$new(options = list(
-  #   raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
-  #   raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
-  # ))
 )
 
 Experiment <- function(
@@ -716,7 +692,7 @@ for (roll_off in c(2, 7, 12)) {
       bootstrap_iter = BOOTSTRAP_REPS
     )
   }
-  
+
   EXPERIMENTS[[1 + length(EXPERIMENTS)]] <- Experiment(
     "%s dB roll-off (harmonic dyads)" %>% sprintf(roll_off),
     timbre = BasicHarmonicTone$new(

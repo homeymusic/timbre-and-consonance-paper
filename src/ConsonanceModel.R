@@ -1,6 +1,7 @@
 library(R6)
 library(reticulate)
 library(tidyverse)
+library(mami.codi.R)
 
 source("src/custom_hutchinson_knopoff_model.R")
 
@@ -392,16 +393,16 @@ praat_analyze <- memoise::memoise(praat_analyze, cache = memoise::cache_filesyst
 #   )
 # )
 
-MaMi.CoDi.Lowest.As.Tonic <- R6Class(
-  'MaMi.CoDi.Lowest.As.Tonic',
+MaMi.CoDi <- R6Class(
+  'MaMi.CoDi',
   inherit = ConsonanceModel,
   public = list(
     
     allow_parallel = TRUE,
     
-    initialize = function(label='mami.codi.R.lowest.as.tonic', 
-                          theory = 'periodicity', 
-                          plot_colour = '#F3A904', ...) {
+    initialize = function(label='mami.codi', 
+                          theory = 'periodicity',
+                          plot_colour = '#664433', ...) {
       super$initialize(
         label = label,
         theory = theory,
@@ -415,245 +416,19 @@ MaMi.CoDi.Lowest.As.Tonic <- R6Class(
                                                        timbre,
                                                        COHERENT_WAVES)$x
       
-      tonic.midi = midi[1]
-      tonic.hertz = hrep::midi_to_freq(tonic.midi)
-      tonic.timbre.hertz = self$get_sparse_fr_spectrum(tonic.midi,
-                                                       timbre[1],
-                                                       COHERENT_WAVES)$x
-      
-      mami.codi.R::mami.codi(tonic.hertz,
-                             tonic.timbre.hertz,
-                             chord.timbre.hertz)$consonance_dissonance
-    }
-  )
-)
-
-MaMi.CoDi.Highest.As.Tonic <- R6Class(
-  'MaMi.CoDi.Highest.As.Tonic',
-  inherit = ConsonanceModel,
-  public = list(
-    
-    allow_parallel = TRUE,
-    
-    initialize = function(label='mami.codi.R.highest.as.tonic', 
-                          theory = 'periodicity', 
-                          plot_colour = '#ABDAF3', ...) {
-      super$initialize(
-        label = label,
-        theory = theory,
-        plot_colour = plot_colour,
-        ...
-      )
-    },
-    
-    get_consonance = function(midi, timbre) {
-      chord.timbre.hertz = self$get_sparse_fr_spectrum(midi,
-                                                       timbre,
-                                                       COHERENT_WAVES)$x
-      
-      tonic.midi = midi[length(midi)]
-      tonic.hertz = hrep::midi_to_freq(tonic.midi)
-      tonic.timbre.hertz = self$get_sparse_fr_spectrum(tonic.midi,
-                                                       timbre[[length(timbre)]],
-                                                       COHERENT_WAVES)$x
-      
-      mami.codi.R::mami.codi(tonic.hertz,
-                             tonic.timbre.hertz,
-                             chord.timbre.hertz)$consonance_dissonance
-    }
-  )
-)
-
-MaMi.CoDi.All.As.Tonic <- R6Class(
-  'MaMi.CoDi.All.As.Tonic',
-  inherit = ConsonanceModel,
-  public = list(
-    
-    allow_parallel = TRUE,
-    
-    initialize = function(label='mami.codi.R.all.as.tonic', 
-                          theory = 'periodicity', 
-                          plot_colour = '#FF5500', ...) {
-      super$initialize(
-        label = label,
-        theory = theory,
-        plot_colour = plot_colour,
-        ...
-      )
-    },
-    
-    get_consonance = function(midi, timbre) {
-      chord.timbre.hertz = self$get_sparse_fr_spectrum(midi,
-                                                       timbre,
-                                                       COHERENT_WAVES)$x
-      
-      midi %>% purrr::imap_dbl(function(tonic.midi, index) {
+      # measure consonance with each pitch as the tonic
+      # whichever tonic results in the most major chord is the winner
+      mami.codi = midi %>% purrr::imap(function(tonic.midi, index) {
         tonic.hertz = hrep::midi_to_freq(tonic.midi)
         tonic.timbre.hertz = self$get_sparse_fr_spectrum(tonic.midi,
                                                          timbre[index],
                                                          COHERENT_WAVES)$x
         
-        mami.codi.R::mami.codi(tonic.hertz,
-                               tonic.timbre.hertz,
-                               chord.timbre.hertz)$consonance_dissonance
-        
-      }) %>% mean
-    }
-  )
-)
-
-MaMi.CoDi.Max.As.Tonic <- R6Class(
-  'MaMi.CoDi.Max.As.Tonic',
-  inherit = ConsonanceModel,
-  public = list(
-    
-    allow_parallel = TRUE,
-    
-    initialize = function(label='mami.codi.R.max.as.tonic', 
-                          theory = 'periodicity', 
-                          plot_colour = '#73DE73', ...) {
-      super$initialize(
-        label = label,
-        theory = theory,
-        plot_colour = plot_colour,
-        ...
-      )
-    },
-    
-    get_consonance = function(midi, timbre) {
-      chord.timbre.hertz = self$get_sparse_fr_spectrum(midi,
-                                                       timbre,
-                                                       COHERENT_WAVES)$x
-      
-      midi %>% purrr::imap_dbl(function(tonic.midi, index) {
-        tonic.hertz = hrep::midi_to_freq(tonic.midi)
-        tonic.timbre.hertz = self$get_sparse_fr_spectrum(tonic.midi,
-                                                         timbre[index],
-                                                         COHERENT_WAVES)$x
-        
-        mami.codi.R::mami.codi(tonic.hertz,
-                               tonic.timbre.hertz,
-                               chord.timbre.hertz)$consonance_dissonance
-        
-      }) %>% max
-    }
-  )
-)
-
-MaMi.CoDi.Major.As.Tonic <- R6Class(
-  'MaMi.CoDi.Major.As.Tonic',
-  inherit = ConsonanceModel,
-  public = list(
-    
-    allow_parallel = TRUE,
-    
-    initialize = function(label='mami.codi.R.major.as.tonic', 
-                          theory = 'periodicity', 
-                          plot_colour = '#F3A904', ...) {
-      super$initialize(
-        label = label,
-        theory = theory,
-        plot_colour = plot_colour,
-        ...
-      )
-    },
-    
-    get_consonance = function(midi, timbre) {
-      chord.timbre.hertz = self$get_sparse_fr_spectrum(midi,
-                                                       timbre,
-                                                       COHERENT_WAVES)$x
-      
-      t = midi %>% purrr::imap(function(tonic.midi, index) {
-        tonic.hertz = hrep::midi_to_freq(tonic.midi)
-        tonic.timbre.hertz = self$get_sparse_fr_spectrum(tonic.midi,
-                                                         timbre[index],
-                                                         COHERENT_WAVES)$x
-        
-        mami.codi.R::mami.codi(tonic.hertz,
+        mami.codi.R::mami.codi.hertz(tonic.hertz,
                                tonic.timbre.hertz,
                                chord.timbre.hertz)
-        
       }) %>% bind_rows %>% arrange(desc(major_minor))
-      t$consonance_dissonance[[1]]
-    }
-  )
-)
-
-MaMi.CoDi.Minor.As.Tonic <- R6Class(
-  'MaMi.CoDi.Minor.As.Tonic',
-  inherit = ConsonanceModel,
-  public = list(
-    
-    allow_parallel = TRUE,
-    
-    initialize = function(label='mami.codi.R.minor.as.tonic', 
-                          theory = 'periodicity', 
-                          plot_colour = '#ABDAF3', ...) {
-      super$initialize(
-        label = label,
-        theory = theory,
-        plot_colour = plot_colour,
-        ...
-      )
-    },
-    
-    get_consonance = function(midi, timbre) {
-      chord.timbre.hertz = self$get_sparse_fr_spectrum(midi,
-                                                       timbre,
-                                                       COHERENT_WAVES)$x
-      
-      t = midi %>% purrr::imap(function(tonic.midi, index) {
-        tonic.hertz = hrep::midi_to_freq(tonic.midi)
-        tonic.timbre.hertz = self$get_sparse_fr_spectrum(tonic.midi,
-                                                         timbre[index],
-                                                         COHERENT_WAVES)$x
-        
-        mami.codi.R::mami.codi(tonic.hertz,
-                               tonic.timbre.hertz,
-                               chord.timbre.hertz)
-        
-      }) %>% bind_rows %>% arrange(major_minor)
-      t$consonance_dissonance[[1]]
-    }
-  )
-)
-
-MaMi.CoDi.Major.D.0.01.As.Tonic <- R6Class(
-  'MaMi.CoDi.Major.D.0.01.As.Tonic',
-  inherit = ConsonanceModel,
-  public = list(
-    
-    allow_parallel = TRUE,
-    
-    initialize = function(label='mami.codi.R.major.d.0.01.as.tonic', 
-                          theory = 'periodicity', 
-                          plot_colour = '#73DE73', ...) {
-      super$initialize(
-        label = label,
-        theory = theory,
-        plot_colour = plot_colour,
-        ...
-      )
-    },
-    
-    get_consonance = function(midi, timbre) {
-      chord.timbre.hertz = self$get_sparse_fr_spectrum(midi,
-                                                       timbre,
-                                                       COHERENT_WAVES)$x
-      
-      t = midi %>% purrr::imap(function(tonic.midi, index) {
-        tonic.hertz = hrep::midi_to_freq(tonic.midi)
-        tonic.timbre.hertz = self$get_sparse_fr_spectrum(tonic.midi,
-                                                         timbre[index],
-                                                         COHERENT_WAVES)$x
-        
-        mami.codi.R::mami.codi(tonic.hertz,
-                               tonic.timbre.hertz,
-                               chord.timbre.hertz,
-                               d=0.01)
-        
-      }) %>% bind_rows %>% arrange(desc(major_minor))
-      t$consonance_dissonance[[1]]
+      mami.codi$consonance_dissonance[[1]]
     }
   )
 )
