@@ -16,7 +16,7 @@ source("src/utils.R")
 source("src/instrument-timbres.R")
 source("src/parameters.R")
 
-OUTPUT_DIR <- "explorations/results"
+OUTPUT_DIR <- "explorations/data"
 
 if (!(exists("multisession_launched") && multisession_launched)) {
   # Enable parallel processing (only run this once per session)

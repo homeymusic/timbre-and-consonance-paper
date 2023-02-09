@@ -15,9 +15,9 @@ MODELS_ALL <- c(
 
 EXPERIMENTS <- list(
   Experiment(
-    "Harmonic dyads (3 dB roll-off)",
+    "harmonic",
     timbre = BasicHarmonicTone$new(
-      label = "Harmonic",
+      label = "harmonic",
       n_harmonics = 10,
       decay_dB_per_octave = 3,
       octave_definition = 2.0
@@ -37,12 +37,12 @@ EXPERIMENTS <- list(
     smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
   ),  
   Experiment(
-    "Stretched dyads (3 dB roll-off)",
+    "stretched",
     timbre = BasicHarmonicTone$new(
       n_harmonics = 10,
       decay_dB_per_octave = 3,
       octave_definition = 2.1,
-      label = "Stretched"
+      label = "stretched"
     ),
     domain = Domain(
       label = "Dyads",
@@ -59,9 +59,9 @@ EXPERIMENTS <- list(
     smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
   ), 
   Experiment(
-    "Compressed dyads (3 dB roll-off)",
+    "compressed",
     timbre = BasicHarmonicTone$new(
-      label = "Compressed",
+      label = "compressed",
       n_harmonics = 10,
       decay_dB_per_octave = 3,
       octave_definition = 1.9
@@ -81,7 +81,7 @@ EXPERIMENTS <- list(
     smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
   ),
   Experiment(
-    "Bonang dyads",
+    "bonang",
     timbre = GamelanTone$new(),
     timbre_bass = BasicHarmonicTone$new(
       n_harmonics = 4,

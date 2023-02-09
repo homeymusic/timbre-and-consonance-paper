@@ -22,7 +22,8 @@ EXPERIMENTS <-
   map(import_experiment)
 
 PLOT_DIR = "explorations/results/plots"
-R.utils::mkdirs(PLOT_DIR)
+PLOT_COMPONENTS_DIR = paste0(PLOT_DIR,'/components')
+R.utils::mkdirs(PLOT_COMPONENTS_DIR)
 
 if (!(exists("multisession_launched") && multisession_launched)) {
   # Enable parallel processing (only run this once per session)
@@ -78,19 +79,17 @@ cowplot::plot_grid(
   # scale = 0.975
 )
 
-ggsave(paste0(PLOT_DIR,"/stretching-dyads.pdf"), width = 14, height = 15, scale = 0.6)
+ggsave("/Combined.pdf", path = PLOT_DIR, width = 14, height = 15, scale = 0.6)
 
 
 ########################################################################
 # Plots for presentations, supplementary etc.
 ########################################################################
 
-R.utils::mkdirs(paste0(PLOT_DIR,"/presentation/stretching"))
-
 DYAD_PLOTS$spectra
 ggsave(
   "stretched spectra.png", 
-  path = paste0(PLOT_DIR,"/presentation/stretching"),
+  path = PLOT_COMPONENTS_DIR,
   dpi = 250,
   width = 7,
   height = 2.5,
@@ -139,8 +138,8 @@ for (timbre in c("Stretched", "Harmonic", "Compressed")) {
   
   ggsave(
     plot = .dyad_profile,
-    filename = paste0(timbre, " dyads (3 dB roll-off).png"),
-    path = paste0(PLOT_DIR,"/presentation/stretching"),
+    filename = paste0(timbre, ".png"),
+    path = PLOT_COMPONENTS_DIR,
     dpi = 250,
     width = 8, 
     height = 6
@@ -205,4 +204,4 @@ cowplot::plot_grid(
   rel_heights = c(2, 5)
 )
 
-ggsave("025-bonang-dyads.pdf", path = PLOT_DIR, width = 14, height = 10, scale = 0.6)
+ggsave("Bonang.pdf", path = PLOT_DIR, width = 14, height = 10, scale = 0.6)
