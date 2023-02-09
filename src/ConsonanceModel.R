@@ -422,9 +422,9 @@ MaMi.CoDi <- R6Class(
                                                          timbre[index],
                                                          COHERENT_WAVES)$x
         
-        mami.codi.R::mami.codi.hertz(tonic.hertz,
-                               tonic.timbre.hertz,
-                               chord.timbre.hertz)
+        mami.codi.R::mami.codi.hertz(chord.timbre.hertz,
+                                     tonic.hertz,
+                                     tonic.timbre.hertz)
       }) %>% bind_rows
       mami.codi$consonance_dissonance %>% max
     }

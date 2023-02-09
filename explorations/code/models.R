@@ -1,11 +1,17 @@
-source("explorations/code/setup.R")
-
 models <- list(
   MaMi.CoDi$new(options = list(
     raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
     raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
   ))
 )
+
+MODELS <- c(
+  'Periodicity model' = 'mami.codi'
+)
+
+MODELS_ALL <- c(
+  'mami.codi'
+) %>% set_names(., .)
 
 EXPERIMENTS <- list(
   Experiment(
