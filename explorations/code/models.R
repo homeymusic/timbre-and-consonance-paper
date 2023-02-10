@@ -1,5 +1,5 @@
 models <- list()
-for (t in 1:length(tonic_selectors())) {
+for (t in 1:length(mami.codi.R::tonic_selectors())) {
   for (h in (c(1,2,3,4,5,0))) {
     for (l in (c(-2,-3,-4,-5,-1,0))) {
       for (r in (1 / seq(from=0.005,to=0.012,by=0.001))) {

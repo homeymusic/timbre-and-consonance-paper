@@ -18,7 +18,7 @@ source("src/parameters.R")
 
 OUTPUT_DIR <- "explorations/data"
 
-if (!(exists("multisession_launched") && multisession_launched)) {
+if (FALSE && !(exists("multisession_launched") && multisession_launched)) {
   # Enable parallel processing (only run this once per session)
   message("Setting up parallel compute...")
   plan(multisession)

@@ -444,7 +444,7 @@ MaMi.CoDi <- R6Class(
         frequency.resolution   = self$frequency.resolution,
         reference.high.octaves = self$reference.high.octaves,
         reference.low.octaves  = self$reference.low.octaves,
-        tonic_selector         = tonic_selectors()[self$tonic_selector]
+        tonic_selector         = mami.codi.R::tonic_selectors()[self$tonic_selector]
       )$consonance_dissonance
     }
   )
