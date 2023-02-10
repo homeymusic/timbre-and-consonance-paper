@@ -398,7 +398,7 @@ MaMi.CoDi <- R6Class(
   inherit = ConsonanceModel,
   public = list(
     
-    allow_parallel = FALSE,
+    allow_parallel = TRUE,
     frequency.resolution   = NULL,
     reference.high.octaves = NULL,
     reference.low.octaves  = NULL,

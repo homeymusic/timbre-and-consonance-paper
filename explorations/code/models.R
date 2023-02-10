@@ -29,28 +29,6 @@ MODELS_ALL <- c(
 
 EXPERIMENTS <- list(
   Experiment(
-    "harmonic",
-    timbre = BasicHarmonicTone$new(
-      label = "harmonic",
-      n_harmonics = 10,
-      decay_dB_per_octave = 3,
-      octave_definition = 2.0
-    ),
-    domain = Domain(
-      label = "Dyads",
-      n_dimensions = 1,
-      int_range = c(0, 15)
-    ),
-    data = ~ DyadRating$new(
-      "input/data-csv/rating/rating_dyh3dd.csv",
-      int_range = c(0, 15),
-      resolution = RESOLUTION_BEHAVIOURAL_1D,
-      smooth_bandwidth = experiment$smooth_bandwidth,
-      bootstrap_iter = BOOTSTRAP_REPS
-    ),
-    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
-  ),  
-  Experiment(
     "stretched",
     timbre = BasicHarmonicTone$new(
       n_harmonics = 10,
@@ -112,6 +90,28 @@ EXPERIMENTS <- list(
       resolution = RESOLUTION_BEHAVIOURAL_1D,
       bootstrap_iter = BOOTSTRAP_REPS,
       smooth_bandwidth = experiment$smooth_bandwidth
+    ),
+    smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
+  ),
+  Experiment(
+    "harmonic",
+    timbre = BasicHarmonicTone$new(
+      label = "harmonic",
+      n_harmonics = 10,
+      decay_dB_per_octave = 3,
+      octave_definition = 2.0
+    ),
+    domain = Domain(
+      label = "Dyads",
+      n_dimensions = 1,
+      int_range = c(0, 15)
+    ),
+    data = ~ DyadRating$new(
+      "input/data-csv/rating/rating_dyh3dd.csv",
+      int_range = c(0, 15),
+      resolution = RESOLUTION_BEHAVIOURAL_1D,
+      smooth_bandwidth = experiment$smooth_bandwidth,
+      bootstrap_iter = BOOTSTRAP_REPS
     ),
     smooth_bandwidth = BEHAVIOURAL_SMOOTH_BROAD
   )
