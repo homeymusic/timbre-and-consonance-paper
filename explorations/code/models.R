@@ -1,9 +1,23 @@
-models <- list(
-  MaMi.CoDi$new(options = list(
-    raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
-    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
-  ))
-)
+models <- list()
+for (t in 1:length(tonic_selectors())) {
+  for (h in (c(1,2,3,4,5,0))) {
+    for (l in (c(-2,-3,-4,-5,-1,0))) {
+      for (r in (1 / seq(from=0.005,to=0.012,by=0.001))) {
+        model <- MaMi.CoDi$new(
+          options = list(
+            raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
+            raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
+          ),
+          frequency.resolution   = r,
+          reference.high.octaves = h,
+          reference.low.octaves  = l,
+          tonic_selector         = t
+        )
+        models <- append(models, model)
+      }
+    } 
+  }
+}
 
 MODELS <- c(
   'Periodicity model' = 'mami.codi'

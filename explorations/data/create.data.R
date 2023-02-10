@@ -61,7 +61,6 @@ get_model_profile_1d <- function(model, experiment) {
   #     smooth_sigma <- model$options$smooth_sigma
   #   }
   # }
-  
   DyadModelProfile$new(
     model = model,
     timbre_1 = timbre_1,

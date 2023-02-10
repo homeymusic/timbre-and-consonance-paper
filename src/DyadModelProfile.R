@@ -25,7 +25,6 @@ DyadModelProfile <- R6Class(
       smooth_resolution = 1000,
       smooth_sigma = 0.25
     ) {
-
       self$model <- model
       self$timbre_1 <- timbre_1
       self$timbre_2 <- timbre_2

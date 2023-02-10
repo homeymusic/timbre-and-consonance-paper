@@ -398,13 +398,36 @@ MaMi.CoDi <- R6Class(
   inherit = ConsonanceModel,
   public = list(
     
-    allow_parallel = TRUE,
+    allow_parallel = FALSE,
+    frequency.resolution   = NULL,
+    reference.high.octaves = NULL,
+    reference.low.octaves  = NULL,
+    tonic_selector         = NULL,
     
     initialize = function(label='mami.codi', 
                           theory = 'periodicity',
-                          plot_colour = '#664433', ...) {
+                          plot_colour = '#664433', 
+                          frequency.resolution   = 100,
+                          reference.high.octaves = +1,
+                          reference.low.octaves  = -2,
+                          tonic_selector         =  1,
+                          ...) {
+      
+      self$frequency.resolution   = frequency.resolution
+      self$reference.high.octaves = reference.high.octaves
+      self$reference.low.octaves  = reference.low.octaves
+      self$tonic_selector         = tonic_selector
+
       super$initialize(
-        label = label,
+        label = paste0(label,
+                       '.t.',
+                       self$tonic_selector,
+                       '.h.',
+                       self$reference.high.octaves,
+                       '.l.',
+                       self$reference.low.octaves,
+                       '.r.',
+                       self$frequency.resolution %>% round),
         theory = theory,
         plot_colour = plot_colour,
         ...
@@ -412,21 +435,17 @@ MaMi.CoDi <- R6Class(
     },
     
     get_consonance = function(midi, timbre) {
-      chord.timbre.hertz = self$get_sparse_fr_spectrum(midi,
-                                                       timbre,
-                                                       COHERENT_WAVES)$x
-      
-      mami.codi = midi %>% purrr::imap(function(tonic.midi, index) {
-        tonic.hertz = hrep::midi_to_freq(tonic.midi)
-        tonic.timbre.hertz = self$get_sparse_fr_spectrum(tonic.midi,
-                                                         timbre[index],
-                                                         COHERENT_WAVES)$x
-        
-        mami.codi.R::mami.codi.hertz(chord.timbre.hertz,
-                                     tonic.hertz,
-                                     tonic.timbre.hertz)
-      }) %>% bind_rows
-      mami.codi$consonance_dissonance %>% max
+      chord.timbre.hertz = midi %>% purrr::imap(function(pitch.midi, index) {
+        timbre[[index]]$sparse_fr_spectrum(pitch.midi,coherent=COHERENT_WAVES)$x
+      })
+      mami.codi.hertz(
+        chord.hertz            = hrep::midi_to_freq(midi),
+        chord.timbre.hertz     = chord.timbre.hertz,
+        frequency.resolution   = self$frequency.resolution,
+        reference.high.octaves = self$reference.high.octaves,
+        reference.low.octaves  = self$reference.low.octaves,
+        tonic_selector         = tonic_selectors()[self$tonic_selector]
+      )$consonance_dissonance
     }
   )
 )
