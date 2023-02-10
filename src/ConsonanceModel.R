@@ -399,6 +399,7 @@ MaMi.CoDi <- R6Class(
   public = list(
     
     allow_parallel = TRUE,
+    metric                 = NULL,
     frequency.resolution   = NULL,
     reference.high.octaves = NULL,
     reference.low.octaves  = NULL,
@@ -406,13 +407,15 @@ MaMi.CoDi <- R6Class(
     
     initialize = function(label='mami.codi', 
                           theory = 'periodicity',
-                          plot_colour = '#664433', 
+                          plot_colour = '#664433',
+                          metric                 = 1,
                           frequency.resolution   = 100,
                           reference.high.octaves = +1,
                           reference.low.octaves  = -2,
                           tonic_selector         =  1,
                           ...) {
       
+      self$metric                 = metric
       self$frequency.resolution   = frequency.resolution
       self$reference.high.octaves = reference.high.octaves
       self$reference.low.octaves  = reference.low.octaves
@@ -420,6 +423,8 @@ MaMi.CoDi <- R6Class(
 
       super$initialize(
         label = paste0(label,
+                       '.m.',
+                       self$metric,
                        '.t.',
                        self$tonic_selector,
                        '.h.',
