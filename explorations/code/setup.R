@@ -2,6 +2,7 @@ library(tidyverse)
 library(furrr)
 library(ggpubr)
 library(lazyeval)
+library(parallelly)
 
 theme_set(theme_pubr())
 
@@ -21,7 +22,7 @@ OUTPUT_DIR <- "explorations/data"
 if (!(exists("multisession_launched") && multisession_launched)) {
   # Enable parallel processing (only run this once per session)
   message("Setting up parallel compute...")
-  plan(multisession)
+  plan(multisession, workers=parallelly::availableCores())
   multisession_launched <- TRUE
 }
 

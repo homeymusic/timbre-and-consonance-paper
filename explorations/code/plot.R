@@ -28,7 +28,7 @@ R.utils::mkdirs(PLOT_COMPONENTS_DIR)
 if (!(exists("multisession_launched") && multisession_launched)) {
   # Enable parallel processing (only run this once per session)
   message("Setting up parallel compute...")
-  plan(multisession)
+  plan(multisession, workers=parallelly::availableCores())
   multisession_launched <- TRUE
 }
 
