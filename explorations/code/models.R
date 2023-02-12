@@ -1,8 +1,8 @@
 models <- list()
-for (r in c(100,200,400,800,1600)) {
-  for (t in c(1,2)) {
-    for (l in (c(-1,-2,-3,-4,-5,0))) {
-      for (h in (c(1,2,3,4,5,0))) {
+for (r in c(800,850,1600,3200)) {
+  for (t in c(1)) {
+    for (l in -1) {
+      for (h in 6:13) {
         for (m in c(1)) {
           model <- MaMi.CoDi$new(
             options = list(
