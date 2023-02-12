@@ -17,8 +17,30 @@ source("src/parameters.R")
 source("src/Timbre.R")
 source("src/sine_sweep.R")
 
-EXPERIMENTS <- 
-  list_experiments() %>% 
+MODELS <- c(
+  '0.618'='mami.codi.m.1.t.1.h.2.l.-1.r.100',
+  '0.538'='mami.codi.m.1.t.2.h.2.l.-2.r.100',
+  '0.528'='mami.codi.m.1.t.1.h.1.l.-1.r.100'
+)
+
+MODELS_ALL <- c(
+  'mami.codi.m.1.t.1.h.1.l.-1.r.100'
+) %>% set_names(., .)
+
+list_explorations <- function() {
+  list.dirs(paste0(OUTPUT_DIR), recursive = FALSE) %>% 
+    set_names(., basename(.))  
+}
+
+import_models <- function(path) {
+  params <- yaml::read_yaml(file.path(path, "..", "params.yml"))
+  list_models(path) %>% 
+    set_names(., .) %>% 
+    map(import_model, dir = path)
+}
+
+EXPERIMENTS <-
+  list_explorations() %>%
   map(import_experiment)
 
 PLOT_DIR = "explorations/results/plots"
@@ -37,9 +59,9 @@ if (!(exists("multisession_launched") && multisession_launched)) {
 ########################################################################
 
 DYAD_EXPERIMENTS <- list(
-  "Stretched" = EXPERIMENTS$`Stretched dyads (3 dB roll-off)`,
-  "Harmonic" = EXPERIMENTS$`Harmonic dyads (3 dB roll-off)`,
-  "Compressed" = EXPERIMENTS$`Compressed dyads (3 dB roll-off)`
+  "stretched" = EXPERIMENTS$`stretched`,
+  "harmonic" = EXPERIMENTS$`harmonic`,
+  "compressed" = EXPERIMENTS$`compressed`
 )
 
 DYAD_PLOTS <- PlotDyadModelsExperiments$new(
@@ -96,9 +118,9 @@ ggsave(
   scale = 1.1
 )
 
-for (timbre in c("Stretched", "Harmonic", "Compressed")) {
+for (timbre in c("stretched", "harmonic", "compressed")) {
   .dyad_experiments <- 
-    EXPERIMENTS[paste0(timbre, " dyads (3 dB roll-off)")] %>% 
+    EXPERIMENTS[paste0(timbre)] %>% 
     set_names(timbre)
   
   .dyad_plots <- PlotDyadModelsExperiments$new(
@@ -149,7 +171,7 @@ for (timbre in c("Stretched", "Harmonic", "Compressed")) {
 BONANG <- 
   PlotDyadModelsExperiments$new(
     experiments = list(
-      "Bonang" = EXPERIMENTS$`Bonang dyads`
+      "bonang" = EXPERIMENTS$`bonang`
     ),
     models = MODELS,
     label_spectrum = FALSE,
@@ -204,4 +226,4 @@ cowplot::plot_grid(
   rel_heights = c(2, 5)
 )
 
-ggsave("Bonang.pdf", path = PLOT_DIR, width = 14, height = 10, scale = 0.6)
+ggsave("bonang.pdf", path = PLOT_DIR, width = 14, height = 10, scale = 0.6)

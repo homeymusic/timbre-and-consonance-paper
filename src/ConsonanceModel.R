@@ -399,27 +399,27 @@ MaMi.CoDi <- R6Class(
   public = list(
     
     allow_parallel = TRUE,
-    metric                 = NULL,
-    frequency.resolution   = NULL,
-    reference.high.octaves = NULL,
-    reference.low.octaves  = NULL,
-    tonic_selector         = NULL,
-    
+    metric         = NULL,
+    resolution     = NULL,
+    high_register  = NULL,
+    low_register   = NULL,
+    tonic_selector = NULL,
+
     initialize = function(label='mami.codi', 
                           theory = 'periodicity',
                           plot_colour = '#664433',
-                          metric                 = 1,
-                          frequency.resolution   = 100,
-                          reference.high.octaves = +1,
-                          reference.low.octaves  = -2,
-                          tonic_selector         =  1,
+                          metric         = 1,
+                          resolution     = 100,
+                          high_register  = +1,
+                          low_register   = -1,
+                          tonic_selector =  1,
                           ...) {
       
-      self$metric                 = metric
-      self$frequency.resolution   = frequency.resolution
-      self$reference.high.octaves = reference.high.octaves
-      self$reference.low.octaves  = reference.low.octaves
-      self$tonic_selector         = tonic_selector
+      self$metric         = metric
+      self$resolution     = resolution
+      self$high_register  = high_register
+      self$low_register   = low_register
+      self$tonic_selector = tonic_selector
 
       super$initialize(
         label = paste0(label,
@@ -428,11 +428,11 @@ MaMi.CoDi <- R6Class(
                        '.t.',
                        self$tonic_selector,
                        '.h.',
-                       self$reference.high.octaves,
+                       self$high_register,
                        '.l.',
-                       self$reference.low.octaves,
+                       self$low_register,
                        '.r.',
-                       self$frequency.resolution %>% round),
+                       self$resolution %>% round),
         theory = theory,
         plot_colour = plot_colour,
         ...
@@ -443,13 +443,14 @@ MaMi.CoDi <- R6Class(
       chord.timbre.hertz = midi %>% purrr::imap(function(pitch.midi, index) {
         timbre[[index]]$sparse_fr_spectrum(pitch.midi,coherent=COHERENT_WAVES)$x
       })
-      mami.codi.R::duplex(
+      mami.codi.R::mami.codi(
         chord                  = hrep::midi_to_freq(midi),
+        FUN                    = periodicity,
+        low_register           = self$low_register,
+        high_register          = self$high_register,
         chord.timbre           = chord.timbre.hertz,
         tonic_selector         = mami.codi.R::tonic_selectors()[self$tonic_selector],
-        reference.high.octaves = self$reference.high.octaves,
-        reference.low.octaves  = self$reference.low.octaves,
-        frequency.resolution   = self$frequency.resolution
+        resolution   = self$resolution
       )$consonance_dissonance
     }
   )

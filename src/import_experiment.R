@@ -31,6 +31,7 @@ rescale_to_range <- function(x) {
 }
 
 add_combined_model <- function(models, params) {
+
   coef = c(
     # From https://github.com/pmcharrison/incon/blob/master/R/har-2019.R
     # -1.62001025973261,
