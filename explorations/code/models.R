@@ -1,8 +1,10 @@
 models <- list()
-for (r in c(800,850,1600,3200)) {
+
+# NEXT UP: -1,4 seq(845,855,1)
+for (r in seq(700,900,1)) {
   for (t in c(1)) {
     for (l in -1) {
-      for (h in 6:13) {
+      for (h in 6) {
         for (m in c(1)) {
           model <- MaMi.CoDi$new(
             options = list(
