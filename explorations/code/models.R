@@ -1,6 +1,10 @@
 models <- list()
 
-# NEXT UP: -1,4 seq(845,855,1)
+# !!!!!!!!!
+# TODO: once I find best low_register, high_register and resolution then...
+# ... try all the tonic strategies on it and view the results.
+# !!!!!!!!!
+
 for (r in seq(700,900,1)) {
   for (t in c(1)) {
     for (l in -1) {
