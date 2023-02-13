@@ -234,6 +234,24 @@
       "Hash": "543776ae6848fde2f48ff3816d0628bc",
       "Requirements": []
     },
+    "bit": {
+      "Package": "bit",
+      "Version": "4.0.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "d242abec29412ce988848d0294b208fd",
+      "Requirements": []
+    },
+    "bit64": {
+      "Package": "bit64",
+      "Version": "4.0.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "9fe98599ca456d6552421db0d6772d8f",
+      "Requirements": [
+        "bit"
+      ]
+    },
     "blob": {
       "Package": "blob",
       "Version": "1.2.3",
@@ -552,6 +570,25 @@
         "vctrs"
       ]
     },
+    "dtplyr": {
+      "Package": "dtplyr",
+      "Version": "1.2.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "c5f8828a0b459a703db190b001ad4818",
+      "Requirements": [
+        "crayon",
+        "data.table",
+        "dplyr",
+        "ellipsis",
+        "glue",
+        "lifecycle",
+        "rlang",
+        "tibble",
+        "tidyselect",
+        "vctrs"
+      ]
+    },
     "dycon": {
       "Package": "dycon",
       "Version": "0.2.2",
@@ -688,6 +725,26 @@
         "parallelly"
       ]
     },
+    "gargle": {
+      "Package": "gargle",
+      "Version": "1.3.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "bb3208dcdfeb2e68bf33c87601b3cbe3",
+      "Requirements": [
+        "cli",
+        "fs",
+        "glue",
+        "httr",
+        "jsonlite",
+        "lifecycle",
+        "openssl",
+        "rappdirs",
+        "rlang",
+        "rstudioapi",
+        "withr"
+      ]
+    },
     "generics": {
       "Package": "generics",
       "Version": "0.1.3",
@@ -816,6 +873,60 @@
       "Hash": "4f2596dfb05dac67b9dc558e5c6fba2e",
       "Requirements": []
     },
+    "gmp": {
+      "Package": "gmp",
+      "Version": "0.7-1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "2381309e05cfc9d3bf86d23b5f54f5a5",
+      "Requirements": []
+    },
+    "googledrive": {
+      "Package": "googledrive",
+      "Version": "2.0.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "c3a25adbbfbb03f12e6f88c5fb1f3024",
+      "Requirements": [
+        "cli",
+        "gargle",
+        "glue",
+        "httr",
+        "jsonlite",
+        "lifecycle",
+        "magrittr",
+        "pillar",
+        "purrr",
+        "rlang",
+        "tibble",
+        "uuid",
+        "vctrs",
+        "withr"
+      ]
+    },
+    "googlesheets4": {
+      "Package": "googlesheets4",
+      "Version": "1.0.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "3b449d5292327880fc6cb61d0b2e9063",
+      "Requirements": [
+        "cellranger",
+        "cli",
+        "curl",
+        "gargle",
+        "glue",
+        "googledrive",
+        "httr",
+        "ids",
+        "magrittr",
+        "purrr",
+        "rematch2",
+        "rlang",
+        "tibble",
+        "vctrs"
+      ]
+    },
     "gridExtra": {
       "Package": "gridExtra",
       "Version": "2.3",
@@ -899,16 +1010,16 @@
     },
     "hrep": {
       "Package": "hrep",
-      "Version": "0.15.0",
+      "Version": "0.16.1",
       "Source": "GitHub",
-      "RemoteType": "github",
       "Remotes": "pmcharrison/abcR",
+      "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteRepo": "hrep",
       "RemoteUsername": "pmcharrison",
       "RemoteRef": "HEAD",
-      "RemoteSha": "744bb3629d35671f897a6c46dd79b63892af6257",
-      "Hash": "684b300d644e678d95e9ac11ea1677a0",
+      "RemoteSha": "9132b7a937063097ef0b7d91c2c7fcc5c0f83366",
+      "Hash": "16b028b6afadee70c5e9f37f56f60030",
       "Requirements": [
         "Rdpack",
         "abcR",
@@ -993,6 +1104,17 @@
         "jsonlite",
         "mime",
         "openssl"
+      ]
+    },
+    "ids": {
+      "Package": "ids",
+      "Version": "1.0.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "99df65cfef20e525ed38c3d2577f7190",
+      "Requirements": [
+        "openssl",
+        "uuid"
       ]
     },
     "inconData": {
@@ -1200,11 +1322,12 @@
       "RemoteRepo": "mami.codi.R",
       "RemoteUsername": "homeymusic",
       "RemoteRef": "HEAD",
-      "RemoteSha": "50febc4808ad938a19f37b332faebc3ed2d55c4f",
-      "Hash": "237f9c1de55f7ecb1d161e682fc53572",
+      "RemoteSha": "7e417f5ba4d8608a36cc1c5999027b5365358d80",
+      "Hash": "522c52c584124cb2e0a67479419d6167",
       "Requirements": [
         "checkmate",
         "dplyr",
+        "gmp",
         "magrittr",
         "memoise",
         "purrr",
@@ -1551,7 +1674,9 @@
         "hms",
         "lifecycle",
         "rlang",
-        "tibble"
+        "tibble",
+        "tzdb",
+        "vroom"
       ]
     },
     "readxl": {
@@ -1941,8 +2066,11 @@
         "crayon",
         "dbplyr",
         "dplyr",
+        "dtplyr",
         "forcats",
         "ggplot2",
+        "googledrive",
+        "googlesheets4",
         "haven",
         "hms",
         "httr",
@@ -1994,12 +2122,30 @@
         "signal"
       ]
     },
+    "tzdb": {
+      "Package": "tzdb",
+      "Version": "0.3.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b2e1cbce7c903eaf23ec05c58e59fb5e",
+      "Requirements": [
+        "cpp11"
+      ]
+    },
     "utf8": {
       "Package": "utf8",
       "Version": "1.2.3",
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "1fe17157424bb09c48a8b3b550c753bc",
+      "Requirements": []
+    },
+    "uuid": {
+      "Package": "uuid",
+      "Version": "1.1-0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "f1cb46c157d080b729159d407be83496",
       "Requirements": []
     },
     "vctrs": {
@@ -2034,6 +2180,29 @@
       "Repository": "CRAN",
       "Hash": "62f4b5da3e08d8e5bcba6cac15603f70",
       "Requirements": []
+    },
+    "vroom": {
+      "Package": "vroom",
+      "Version": "1.6.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "7015a74373b83ffaef64023f4a0f5033",
+      "Requirements": [
+        "bit64",
+        "cli",
+        "cpp11",
+        "crayon",
+        "glue",
+        "hms",
+        "lifecycle",
+        "progress",
+        "rlang",
+        "tibble",
+        "tidyselect",
+        "tzdb",
+        "vctrs",
+        "withr"
+      ]
     },
     "waldo": {
       "Package": "waldo",

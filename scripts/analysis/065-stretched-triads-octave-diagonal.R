@@ -81,7 +81,7 @@ peak_df <- furrr::future_map_dfr(1:NBOOT, function(i) {
     obj$behaviour$full$data <- old_raw_data
     peaks
   })
-}, .progress = TRUE, .options = future_options(seed = TRUE))
+}, .progress = TRUE, .options = furrr_options(seed = TRUE))
 
 
 diagonal_summary <- peak_df %>% 

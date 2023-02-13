@@ -22,7 +22,7 @@ DyadBootstrappable <- R6Class(
           self$get_profile(get_bootstrapped_dataset())
         },
         .progress = TRUE, 
-        .options = future_options(seed = TRUE)
+        .options = furrr_options(seed = TRUE)
       )
       bootstrapped_profiles
     },

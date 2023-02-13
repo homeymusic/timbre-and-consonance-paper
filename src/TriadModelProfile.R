@@ -74,7 +74,7 @@ TriadModelProfile <- R6Class(
                               self$model$get_consonance,
                               timbre = timbre_list,
                               .progress = TRUE, 
-                              .options = furrr::future_options(seed = TRUE))
+                              .options = furrr::furrr_options(seed = TRUE))
       } else {
         plyr::laply(df$midi, 
                     self$model$get_consonance, 
@@ -118,7 +118,7 @@ TriadModelProfile <- R6Class(
           )
         },
         .progress = TRUE,
-        .options = future_options(seed = TRUE)
+        .options = furrr_options(seed = TRUE)
       )
 
       # smoothed$output <- smooth_2d_gaussian(

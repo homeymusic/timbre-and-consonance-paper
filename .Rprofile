@@ -1,3 +1,2 @@
-source("renv/activate.R")
-
 options(pkgType = "binary")
+source("renv/activate.R")

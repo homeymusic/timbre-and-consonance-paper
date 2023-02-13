@@ -63,7 +63,7 @@ DyadModelProfile <- R6Class(
                               timbre = list(self$timbre_1,
                                             self$timbre_2),
                               .progress = TRUE,
-                              .options = furrr::future_options(seed = TRUE))
+                              .options = furrr::furrr_options(seed = TRUE))
       } else {
         plyr::laply(profile$midi, 
                     self$model$get_consonance, 

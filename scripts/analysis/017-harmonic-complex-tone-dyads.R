@@ -195,7 +195,7 @@ consonance_minus_dissonance_rating <-
     consonance_summary <- data_sample %>% filter(type == "Consonant")
     dissonance_summary <- data_sample %>% filter(type == "Dissonant")
     consonance_summary$avg_rating - dissonance_summary$avg_rating
-  }, .progress = TRUE, .options = future_options(seed = TRUE))
+  }, .progress = TRUE, .options = furrr_options(seed = TRUE))
 
 difference_summary <- 
   tibble(

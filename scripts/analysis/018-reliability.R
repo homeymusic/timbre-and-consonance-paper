@@ -103,7 +103,7 @@ reliability_estimates$harmonic_dyads <-
   future_map_dfr(
     1:1000,
     ~ split_half_reliability(HARMONIC_DYADS, resolution = 100, resample_over = "participant_id"),
-    .options = future_options(seed = 1L),
+    .options = furrr_options(seed = 1L),
     .progress = TRUE
   )
 
@@ -126,7 +126,7 @@ reliability_estimates$harmonic_major_3rd <-
   future_map_dfr(
     1:1000,
     ~ split_half_reliability(EXPERIMENTS$`Major 3rd (3 dB roll-off)`, resolution = 100, resample_over = "participant_id"),
-    .options = future_options(seed = 1L),
+    .options = furrr_options(seed = 1L),
     .progress = TRUE
   )
 
@@ -145,7 +145,7 @@ reliability_estimates$harmonic_triads <-
   future_map_dfr(
     1:1000, 
     ~ split_half_reliability(HARMONIC_TRIADS, resolution = 100, resample_over = "network_id"),
-    .options = future_options(seed = 1L),
+    .options = furrr_options(seed = 1L),
     .progress = TRUE
   )
 
