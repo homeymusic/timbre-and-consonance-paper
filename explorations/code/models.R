@@ -6,8 +6,8 @@ models <- list()
 # ... and run the other experiments
 # !!!!!!!!!
 
-for (r in seq(700,900,1)) {
-  for (t in c(1)) {
+for (r in 800:900) {
+  for (t in +1) {
     for (l in -1) {
       for (h in 6) {
         for (m in c(1)) {
