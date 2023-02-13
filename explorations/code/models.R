@@ -6,7 +6,7 @@ models <- list()
 # ... and run the other experiments
 # !!!!!!!!!
 
-for (r in 800:900) {
+for (r in 850) {
   for (t in +1) {
     for (l in -1) {
       for (h in 6) {

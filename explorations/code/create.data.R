@@ -166,7 +166,6 @@ for (experiment in EXPERIMENTS) {
     )
   }
   
-  
   export_behavioural(
     dir = file.path(output_dir, "behaviour"),
     experiment = experiment
