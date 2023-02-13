@@ -3,6 +3,7 @@ models <- list()
 # !!!!!!!!!
 # TODO: once I find best low_register, high_register and resolution then...
 # ... try all the tonic strategies on it and view the results.
+# ... and run the other experiments
 # !!!!!!!!!
 
 for (r in seq(700,900,1)) {
