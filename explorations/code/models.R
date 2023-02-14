@@ -1,16 +1,10 @@
 models <- list()
 
-# !!!!!!!!!
-# TODO: once I find best low_register, high_register and resolution then...
-# ... try all the tonic strategies on it and view the results.
-# ... and run the other experiments
-# !!!!!!!!!
-
 for (m in 1) {
-  for (t in 1) {
-    for (h in 6) {
-      for (l in -1) {
-        for (r in 726.3) {
+  for (t in c(1,2,3)) {
+    for (h in 1:3) {
+      for (l in -1:-3) {
+        for (r in seq(100,1000,50)) {
           model <- MaMi.CoDi$new(
             options = list(
               raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
