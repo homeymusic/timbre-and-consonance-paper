@@ -6,7 +6,7 @@ models <- list()
 # ... and run the other experiments
 # !!!!!!!!!
 
-for (r in 727.9) {
+for (r in seq(735,737,0.1)) {
   for (t in +1) {
     for (l in -1) {
       for (h in 6) {
