@@ -432,7 +432,7 @@ MaMi.CoDi <- R6Class(
                        '.l.',
                        self$low_register,
                        '.r.',
-                       self$resolution %>% round),
+                       self$resolution %>% round(3)),
         theory = theory,
         plot_colour = plot_colour,
         ...
