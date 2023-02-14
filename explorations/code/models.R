@@ -6,11 +6,11 @@ models <- list()
 # ... and run the other experiments
 # !!!!!!!!!
 
-for (r in 736) {
-  for (t in +1) {
-    for (l in -1) {
-      for (h in 6) {
-        for (m in c(1)) {
+for (m in 1) {
+  for (t in 1) {
+    for (h in 6) {
+      for (l in -1) {
+        for (r in 726.3) {
           model <- MaMi.CoDi$new(
             options = list(
               raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,

@@ -18,11 +18,11 @@ source("src/Timbre.R")
 source("src/sine_sweep.R")
 
 MODELS <- c(
-  'Duplexed Periodicity'='mami.codi.m.1.t.1.h.6.l.-1.r.736',
+  'Duplexed Periodicity'='mami.codi.m.1.t.1.h.6.l.-1.r.726.3'
 )
 
 MODELS_ALL <- c(
-  'mami.codi.m.1.t.1.h.1.l.-1.r.100'
+  'mami.codi.m.1.t.1.h.6.l.-1.r.726.3'
 ) %>% set_names(., .)
 
 list_explorations <- function() {
@@ -72,7 +72,7 @@ DYAD_PLOTS <- PlotDyadModelsExperiments$new(
   dyad_measure_labels = "left",
   consonance_label = "Pleasantness",
   reference_spectrum = 2,
-  profile_row_heights = rep(c(2.5, 1, 1, 2.5), times = 3),
+  profile_row_heights = rep(c(3,3), times = 3),
   return_plot_list = TRUE,
   spectrum_plot_direction = "horizontal",
   plot_bootstrap_peaks = TRUE,
@@ -180,7 +180,7 @@ BONANG <-
     rel_widths = c(4, 4),
     return_plot_list = TRUE,
     debug = FALSE,
-    profile_row_heights = c(3, 1, 1),
+    profile_row_heights = c(3, 3),
     spectrum_plot_direction = "horizontal",
     plot_bootstrap_peaks = TRUE
   )
