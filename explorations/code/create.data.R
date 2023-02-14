@@ -147,30 +147,55 @@ summarise_model_profile <- function(profile, experiment) {
       timbre_label = map_chr(model_id, ~ experiment$timbre$label)
     )
 }
+# 
+# for (experiment in EXPERIMENTS) {
+#   message(sprintf("\nProcessing experiment '%s'...", experiment$label)) 
+#   
+#   output_dir <- file.path(OUTPUT_DIR, experiment$label)
+#   
+#   export_timbre(
+#     dir = file.path(output_dir, "timbre"),
+#     experiment
+#   )
+#   
+#   for (model in models) {
+#     export_model(
+#       dir = file.path(output_dir, "models"),
+#       model = model,
+#       experiment = experiment
+#     )
+#   }
+#   
+#   export_behavioural(
+#     dir = file.path(output_dir, "behaviour"),
+#     experiment = experiment
+#   )
+#   
+#   export_params(output_dir, experiment)
+# }
 
-for (experiment in EXPERIMENTS) {
-  message(sprintf("\nProcessing experiment '%s'...", experiment$label)) 
-  
-  output_dir <- file.path(OUTPUT_DIR, experiment$label)
-  
-  export_timbre(
-    dir = file.path(output_dir, "timbre"),
-    experiment
-  )
-  
-  for (model in models) {
+for (model in models) {
+  message(sprintf("\nProcessing model '%s'...", model$label)) 
+  for (experiment in EXPERIMENTS) {
+    message(sprintf("\nProcessing experiment '%s'...", experiment$label)) 
+    
+    output_dir <- file.path(OUTPUT_DIR, experiment$label)
+    
+    export_timbre(
+      dir = file.path(output_dir, "timbre"),
+      experiment
+    )
+    
     export_model(
       dir = file.path(output_dir, "models"),
       model = model,
       experiment = experiment
     )
+    
+    export_behavioural(
+      dir = file.path(output_dir, "behaviour"),
+      experiment = experiment
+    )
+    export_params(output_dir, experiment)
   }
-  
-  export_behavioural(
-    dir = file.path(output_dir, "behaviour"),
-    experiment = experiment
-  )
-  
-  export_params(output_dir, experiment)
 }
-
