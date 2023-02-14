@@ -18,9 +18,7 @@ source("src/Timbre.R")
 source("src/sine_sweep.R")
 
 MODELS <- c(
-  '0.618'='mami.codi.m.1.t.1.h.2.l.-1.r.100',
-  '0.538'='mami.codi.m.1.t.2.h.2.l.-2.r.100',
-  '0.528'='mami.codi.m.1.t.1.h.1.l.-1.r.100'
+  'Duplexed Periodicity'='mami.codi.m.1.t.1.h.6.l.-1.r.736',
 )
 
 MODELS_ALL <- c(
