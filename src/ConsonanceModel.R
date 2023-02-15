@@ -443,7 +443,7 @@ MaMi.CoDi <- R6Class(
       chord.timbre.hertz = midi %>% purrr::imap(function(pitch.midi, index) {
         timbre[[index]]$sparse_fr_spectrum(pitch.midi,coherent=COHERENT_WAVES)$x
       })
-      m = mami.codi.R::mami.codi(
+      mami.codi.R::mami.codi(
         chord                  = hrep::midi_to_freq(midi),
         FUN                    = periodicity,
         low_register           = self$low_register,
@@ -451,10 +451,7 @@ MaMi.CoDi <- R6Class(
         chord.timbre           = chord.timbre.hertz,
         tonic_selector         = mami.codi.R::tonic_selectors()[self$tonic_selector],
         resolution   = self$resolution
-      )
-      m$interval = midi[2] - midi[1]
-      MAMI.CODI.STRETCHED.TIBBLE <<- tibble::add_row(MAMI.CODI.STRETCHED.TIBBLE,m)
-      m$consonance_dissonance
+      )$consonance_dissonance
     }
   )
 )
