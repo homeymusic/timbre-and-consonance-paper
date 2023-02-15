@@ -475,13 +475,13 @@ PlotDyadModelsExperiments <- R6Class(
   public = list(
     plot_bootstrap_peaks = NULL,
     bootstrapped_peaks = NULL,
-    raw_points = FALSE,
-    
+    raw_points = NULL,
     
     rescale_mode = "none",
     
-    initialize = function(plot_bootstrap_peaks = FALSE, ...) {
+    initialize = function(plot_bootstrap_peaks = FALSE, raw_points = FALSE,...) {
       self$plot_bootstrap_peaks = plot_bootstrap_peaks
+      self$raw_points = raw_points
       super$initialize(...)
     },
     
@@ -563,7 +563,7 @@ PlotDyadModelsExperiments <- R6Class(
         p <- p + 
           geom_point(
             aes(x = interval, y = max(value)),
-            color = 'skyblue',
+            color = '#664433',
             size = 3*0.21, # 7*0.21
             alpha = 0.24, # 0.28
             inherit.aes = FALSE) 
