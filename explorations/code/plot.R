@@ -18,11 +18,11 @@ source("src/Timbre.R")
 source("src/sine_sweep.R")
 
 MODELS <- c(
-  'Duplexed Periodicity'='mami.codi.m.1.t.1.h.2.l.-1.r.100'
+  'Duplexed Periodicity'='mami.codi.m.1.t.1.h.2.l.-1.r.73.54'
 )
 
 MODELS_ALL <- c(
-  'mami.codi.m.1.t.1.h.2.l.-1.r.100'
+  'mami.codi.m.1.t.1.h.2.l.-1.r.73.54'
 ) %>% set_names(., .)
 
 list_explorations <- function() {
