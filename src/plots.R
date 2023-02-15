@@ -475,18 +475,20 @@ PlotDyadModelsExperiments <- R6Class(
   public = list(
     plot_bootstrap_peaks = NULL,
     bootstrapped_peaks = NULL,
+    plot_raw_points = NULL,
     raw_points = NULL,
     
     rescale_mode = "none",
     
-    initialize = function(plot_bootstrap_peaks = FALSE, raw_points = FALSE,...) {
+    initialize = function(plot_bootstrap_peaks = FALSE, plot_raw_points = FALSE,...) {
       self$plot_bootstrap_peaks = plot_bootstrap_peaks
-      self$raw_points = raw_points
+      self$plot_raw_points = plot_raw_points
       super$initialize(...)
     },
     
     make_plot = function(...) {
       if (self$plot_bootstrap_peaks) {
+        browser()
         self$bootstrapped_peaks <- 
           map2_dfr(
             .x = self$experiments, 
@@ -499,6 +501,11 @@ PlotDyadModelsExperiments <- R6Class(
             measure = measure %>% factor(levels(self$profile_plot_data$measure))
           )
       }
+      if (self$plot_raw_points) {
+        browser()
+        self$raw_points <- tibble::tibble(actual_interval = 7, actual_value=100)
+      }
+      
       super$make_plot(...)
     },
     
@@ -558,16 +565,6 @@ PlotDyadModelsExperiments <- R6Class(
           alpha = timbre,
           size = size
         ))
-      
-      if (self$raw_points) {
-        p <- p + 
-          geom_point(
-            aes(x = interval, y = max(value)),
-            color = '#664433',
-            size = 3*0.21, # 7*0.21
-            alpha = 0.24, # 0.28
-            inherit.aes = FALSE) 
-      }
       
       if (self$plot_bootstrap_peaks) {
         p <- p +
@@ -629,6 +626,16 @@ PlotDyadModelsExperiments <- R6Class(
         )
       }
       
+      if (self$plot_raw_points) {
+        p <- p + geom_point(
+            aes(actual_interval, actual_value),
+            data = self$raw_points,
+            color = '#664433',
+            size = 3*0.21, # 7*0.21
+            alpha = 0.24, # 0.28
+            inherit.aes = FALSE) 
+      }
+      
       p <- p + 
         scale_x_continuous("Interval (semitones)", breaks = self$interval_breaks) + 
         scale_y_continuous(self$consonance_label, breaks = scales::extended_breaks(n = 4)) + #, breaks = minimal_breaks) +
@@ -676,6 +683,7 @@ PlotDyadModelsExperiments <- R6Class(
       # if (!add_experiment_labels) {
       #   # p <- p + theme(plot.margin = unit(c(6, -55, 6, 6), "points"))
       # }
+      
       p
     }
   )
