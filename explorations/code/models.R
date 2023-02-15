@@ -1,10 +1,10 @@
 models <- list()
-
+# winner so far: m1 t1 h2 l-1 r100
 for (m in 1) {
-  for (r in seq(100,1000,50)) {
-    for (t in c(1,2,3)) {
-      for (h in 0:3) {
-        for (l in 0:-3) {
+  for (r in 90:110) {
+    for (t in 1) {
+      for (h in 2) {
+        for (l in -1) {
           model <- MaMi.CoDi$new(
             options = list(
               raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
