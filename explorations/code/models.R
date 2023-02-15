@@ -2,7 +2,7 @@ models <- list()
 
 # winner so far: m1 t1 h2 l-1 r100
 for (m in  1) {
-  for (r in 70:79) {
+  for (r in seq(73,75,0.1)) {
     for (t in 1) {
       for (h in 2) {
         for (l in -1) {
