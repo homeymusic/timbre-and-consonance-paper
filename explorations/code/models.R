@@ -2,9 +2,9 @@ models <- list()
 
 # winner so far: m1 t1 h2 l-1 r100
 for (m in  1) {
-  for (r in 1:750) {
+  for (r in 100) {
     for (t in 1) {
-      for (h in 2) {
+      for (h in 1) {
         for (l in -1) {
           model <- MaMi.CoDi$new(
             options = list(
