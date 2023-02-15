@@ -488,7 +488,6 @@ PlotDyadModelsExperiments <- R6Class(
     
     make_plot = function(...) {
       if (self$plot_bootstrap_peaks) {
-        browser()
         self$bootstrapped_peaks <- 
           map2_dfr(
             .x = self$experiments, 
@@ -502,8 +501,6 @@ PlotDyadModelsExperiments <- R6Class(
           )
       }
       if (self$plot_raw_points) {
-        browser()
-        self$raw_points <- tibble::tibble(actual_interval = 7, actual_value=100)
       }
       
       super$make_plot(...)
@@ -627,13 +624,6 @@ PlotDyadModelsExperiments <- R6Class(
       }
       
       if (self$plot_raw_points) {
-        p <- p + geom_point(
-            aes(actual_interval, actual_value),
-            data = self$raw_points,
-            color = '#664433',
-            size = 3*0.21, # 7*0.21
-            alpha = 0.24, # 0.28
-            inherit.aes = FALSE) 
       }
       
       p <- p + 
