@@ -1,8 +1,14 @@
 models <- list()
+<<<<<<< HEAD
 
 # 'mami.codi.m.1.t.1.h.2.l.-1.r.100'
 for (m in 1) {
   for (r in 100) {
+=======
+# winner so far: m1 t1 h2 l-1 r100
+for (m in 1) {
+  for (r in 90:110) {
+>>>>>>> 9288ba1fd50ed9dad0d2d648d92ef79793907247
     for (t in 1) {
       for (h in 2) {
         for (l in -1) {
