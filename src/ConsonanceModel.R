@@ -407,7 +407,7 @@ MaMi.CoDi <- R6Class(
 
     initialize = function(label='mami.codi', 
                           theory = 'periodicity',
-                          plot_colour = '#664433',
+                          plot_colour = '#FF5500',
                           metric         = 1,
                           resolution     = 100,
                           high_register  = +1,

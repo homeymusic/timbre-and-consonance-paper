@@ -18,11 +18,11 @@ source("src/Timbre.R")
 source("src/sine_sweep.R")
 
 MODELS <- c(
-  'Duplexed Periodicity'='mami.codi.m.1.t.1.h.6.l.-1.r.726.3'
+  'Duplexed Periodicity'='mami.codi.m.1.t.1.h.2.l.-1.r.100'
 )
 
 MODELS_ALL <- c(
-  'mami.codi.m.1.t.1.h.6.l.-1.r.726.3'
+  'mami.codi.m.1.t.1.h.2.l.-1.r.100'
 ) %>% set_names(., .)
 
 list_explorations <- function() {
@@ -75,9 +75,12 @@ DYAD_PLOTS <- PlotDyadModelsExperiments$new(
   profile_row_heights = rep(c(3,3), times = 3),
   return_plot_list = TRUE,
   spectrum_plot_direction = "horizontal",
-  plot_bootstrap_peaks = TRUE,
+  # plot_bootstrap_peaks = TRUE,
+  plot_bootstrap_peaks = FALSE,
   interval_breaks = 0:15
 )$plot
+
+browser()
 
 cowplot::plot_grid(
   DYAD_PLOTS$spectra +
@@ -134,7 +137,8 @@ for (timbre in c("stretched", "harmonic", "compressed")) {
     profile_row_heights = c(3, 1, 1, 3),
     return_plot_list = TRUE,
     spectrum_plot_direction = "horizontal",
-    plot_bootstrap_peaks = TRUE,
+    # plot_bootstrap_peaks = TRUE,
+    plot_bootstrap_peaks = FALSE,
     interval_breaks = 0:15
   )
   .dyad_plots$plot$profiles
@@ -182,7 +186,8 @@ BONANG <-
     debug = FALSE,
     profile_row_heights = c(3, 3),
     spectrum_plot_direction = "horizontal",
-    plot_bootstrap_peaks = TRUE
+    # plot_bootstrap_peaks = TRUE
+    plot_bootstrap_peaks = FALSE
   )
 
 BONANG$plot$spectra <- 
