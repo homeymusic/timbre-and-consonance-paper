@@ -26,11 +26,6 @@ if (!(exists("multisession_launched") && multisession_launched)) {
   multisession_launched <- TRUE
 }
 
-if (FALSE) {
-  # Delete output directory, forcing all results to regenerate
-  unlink(OUTPUT_DIR, recursive = TRUE)
-}
-
 Experiment <- function(
     label, 
     timbre, 

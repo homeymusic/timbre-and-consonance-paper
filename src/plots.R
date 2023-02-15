@@ -475,7 +475,7 @@ PlotDyadModelsExperiments <- R6Class(
   public = list(
     plot_bootstrap_peaks = NULL,
     bootstrapped_peaks = NULL,
-    raw_points = TRUE,
+    raw_points = FALSE,
     
     
     rescale_mode = "none",

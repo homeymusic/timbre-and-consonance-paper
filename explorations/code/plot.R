@@ -77,10 +77,9 @@ DYAD_PLOTS <- PlotDyadModelsExperiments$new(
   spectrum_plot_direction = "horizontal",
   # plot_bootstrap_peaks = TRUE,
   plot_bootstrap_peaks = FALSE,
-  interval_breaks = 0:15
+  interval_breaks = 0:15,
+  raw_points = TRUE
 )$plot
-
-browser()
 
 cowplot::plot_grid(
   DYAD_PLOTS$spectra +
@@ -187,7 +186,8 @@ BONANG <-
     profile_row_heights = c(3, 3),
     spectrum_plot_direction = "horizontal",
     # plot_bootstrap_peaks = TRUE
-    plot_bootstrap_peaks = FALSE
+    plot_bootstrap_peaks = FALSE,
+    raw_points = TRUE
   )
 
 BONANG$plot$spectra <- 
