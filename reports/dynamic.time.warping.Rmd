@@ -2,41 +2,36 @@
 title: "Dynamic Time Warping"
 ---
 
-```{r, setup, include=FALSE}
+```{r, setup, include=FALSE, cache=TRUE}
 project.root = rprojroot::find_rstudio_root_file()
 knitr::opts_knit$set(root.dir = project.root) # for future chunks
 setwd(project.root) # for this chunk
 source('./scripts/analysis/010-run-model-batches.R')
 source("src/import_experiment.R")
 EXPERIMENTS <- list_experiments() %>% map(import_experiment)
+source('./reports/utils.R')
 ```
 
-Behavior versus interference simplex model for harmonic dyads.
+Behavior, interference simplex and periodicity duplex
 
-```{r}
+```{r echo=FALSE}
 HARMONIC_DYADS <- EXPERIMENTS$`Harmonic dyads (3 dB roll-off)`
-behaviour.harmonic = HARMONIC_DYADS$behaviour
-interference.simplex.harmonic = HARMONIC_DYADS$models$`Hutchinson & Knopoff (1978)`
-periodicity.duplex.harmonic = HARMONIC_DYADS$models$`mami.codi.m.1.t.1.h.2.l.-1.r.73.5759`
-```
+harmonic.behaviour = HARMONIC_DYADS$behaviour
+harmonic.interference.simplex = HARMONIC_DYADS$models$`Hutchinson & Knopoff (1978)`
+harmonic.periodicity.duplex = HARMONIC_DYADS$models$`mami.codi.m.1.t.1.h.2.l.-1.r.73.5759`
+#periodicity.simplex.harmonic = HARMONIC_DYADS$models$`mami.codi.m.1.t.1.h.0.l.0.r.73.5759`
 
-
-```{r }
-source('./explorations/code/utils.R')
-
-stretched.behaviour = results.for('stretched','behaviour')
-stretched.interference.simplex = results.for('stretched','interference.simplex')
-stretched.periodicity.duplex = results.for('stretched','periodicity.duplex')
-
-plot.interval.sweep(stretched.behaviour$profile$interval,
-                    stretched.behaviour$profile$rating)
-plot.interval.sweep(stretched.interference.simplex$full$profile$interval,
-                    stretched.interference.simplex$full$profile$output,
-                    stretched.interference.simplex$full$raw_profile$interval,
-                    stretched.interference.simplex$full$raw_profile$output)
-plot.interval.sweep(stretched.periodicity.duplex$full$profile$interval,
-                    stretched.periodicity.duplex$full$profile$output,
-                    stretched.periodicity.duplex$full$raw_profile$interval,
-                    stretched.periodicity.duplex$full$raw_profile$output)
+plot.interval.consonance(harmonic.behaviour$summary$interval,
+                         harmonic.behaviour$summary$rating,
+                         harmonic.behaviour$full$data$interval,
+                         harmonic.behaviour$full$data$rating)
+plot.interval.consonance(harmonic.interference.simplex$full$profile$interval,
+                         harmonic.interference.simplex$full$profile$output,
+                         harmonic.interference.simplex$full$raw_profile$interval,
+                         harmonic.interference.simplex$full$raw_profile$output)
+plot.interval.consonance(harmonic.periodicity.duplex$full$profile$interval,
+                         harmonic.periodicity.duplex$full$profile$output,
+                         harmonic.periodicity.duplex$full$raw_profile$interval,
+                         harmonic.periodicity.duplex$full$raw_profile$output)
 ```
 
