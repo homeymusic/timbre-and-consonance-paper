@@ -84,6 +84,8 @@ models <- list(
   #   raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
   #   raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
   # )),
+  #
+  # mami.codi duplex
   MaMi.CoDi$new(
     options = list(
       raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
@@ -93,6 +95,18 @@ models <- list(
     resolution     = (200/exp(1)),
     high_register  = 2,
     low_register   = -1,
+    tonic_selector = 1
+  ),
+  # mami.codi simplex high and low registers = the tonic
+  MaMi.CoDi$new(
+    options = list(
+      raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
+      raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
+    ),
+    metric         = 1,
+    resolution     = (200/exp(1)),
+    high_register  = 0,
+    low_register   = 0,
     tonic_selector = 1
   )
 )
