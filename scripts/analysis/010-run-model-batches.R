@@ -90,7 +90,7 @@ models <- list(
       raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
     ),
     metric         = 1,
-    resolution     = 73.5759,
+    resolution     = (200/exp(1)),
     high_register  = 2,
     low_register   = -1,
     tonic_selector = 1
