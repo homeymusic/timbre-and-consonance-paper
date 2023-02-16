@@ -51,3 +51,4 @@ Domain <- function(
   class(x) <- c("Domain", class(x))
   x
 }
+
