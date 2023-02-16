@@ -27,3 +27,19 @@ results.for <- function(experiment.name,model.name) {
   readRDS(file.name.for(experiment.name,model.name))
 }
 
+homey.brown       = '#664433'
+homey.cream       = '#F3DDAB'
+homey.dark.cream  = '#7F745A'
+homey.blue        = '#ABDAF3'
+homey.red         = '#FF5500'
+homey.maize       = '#F3A904'
+homey.green       = '#73DE73'
+
+plot.interval.sweep <- function(x.lines,y.lines,x.points,y.points=NULL,title=NULL) {
+  plot(x.lines, y.lines, col=homey.red, lwd = 3, type='l', main=title)
+  if (!is.null(y.points)) {
+    points(x.points, y.points, col=homey.dark.cream)
+  }
+  print(abline(v = 0:15,lty = 2, col = "gray"))
+  print(axis(1, at=0:15))
+}

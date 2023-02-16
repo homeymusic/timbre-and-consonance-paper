@@ -84,10 +84,17 @@ models <- list(
   #   raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
   #   raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
   # )),
-  MaMi.CoDi$new(options = list(
-    raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
-    raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
-  ))
+  MaMi.CoDi$new(
+    options = list(
+      raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
+      raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
+    ),
+    metric         = 1,
+    resolution     = 73.5759,
+    high_register  = 2,
+    low_register   = -1,
+    tonic_selector = 1
+  )
 )
 
 Experiment <- function(
