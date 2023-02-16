@@ -1,10 +1,9 @@
 models <- list()
 
-# winner so far: m1 t1 h2 l-1 r100
 for (m in  1) {
-  for (r in 100) {
+  for (r in c(2,10,2:10 %o% 10^(1:3))) {
     for (t in 1) {
-      for (h in 1) {
+      for (h in 2) {
         for (l in -1) {
           model <- MaMi.CoDi$new(
             options = list(
