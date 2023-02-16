@@ -85,7 +85,7 @@ models <- list(
   #   raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
   # )),
   #
-  # mami.codi duplex
+  # mami.codi duplex symmetrical
   MaMi.CoDi$new(
     options = list(
       raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
@@ -93,7 +93,19 @@ models <- list(
     ),
     metric         = 1,
     resolution     = (200/exp(1)),
-    high_register  = 2,
+    high_register  = +1,
+    low_register   = -1,
+    tonic_selector = 1
+  ),
+  # mami.codi duplex asymmetrical
+  MaMi.CoDi$new(
+    options = list(
+      raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
+      raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
+    ),
+    metric         = 1,
+    resolution     = (200/exp(1)),
+    high_register  = +2,
     low_register   = -1,
     tonic_selector = 1
   ),

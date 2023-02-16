@@ -36,10 +36,14 @@ homey.maize       = '#F3A904'
 homey.green       = '#73DE73'
 
 plot.interval.consonance <- function(x.lines,y.lines,x.points,y.points=NULL,title=NULL) {
-  plot(x.lines, y.lines, col=homey.red, lwd = 3, type='l', main=title)
+  plot(x.lines, y.lines, col=homey.red, lwd = 3, type='l',
+       main=title, xlab='Intervals', ylab = 'Consonance')
   if (!is.null(y.points)) {
     points(x.points, y.points, col=homey.dark.cream)
   }
   abline(v = 0:15,lty = 2, col = "gray")
   axis(1, at=0:15)
+}
+variable.name <- function(v) {
+  deparse(substitute(v))
 }

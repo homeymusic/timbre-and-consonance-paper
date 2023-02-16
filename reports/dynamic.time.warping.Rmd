@@ -9,29 +9,34 @@ setwd(project.root) # for this chunk
 source('./scripts/analysis/010-run-model-batches.R')
 source("src/import_experiment.R")
 EXPERIMENTS <- list_experiments() %>% map(import_experiment)
-source('./reports/utils.R')
 ```
 
-Behavior, interference simplex and periodicity duplex
+Behavior, interference simplex, periodicity simplex, and periodicity duplex.
 
-```{r echo=FALSE}
+```{r, harmonic.plots, echo=FALSE}
+source('./reports/utils.R')
 HARMONIC_DYADS <- EXPERIMENTS$`Harmonic dyads (3 dB roll-off)`
 harmonic.behaviour = HARMONIC_DYADS$behaviour
-harmonic.interference.simplex = HARMONIC_DYADS$models$`Hutchinson & Knopoff (1978)`
-harmonic.periodicity.duplex = HARMONIC_DYADS$models$`mami.codi.m.1.t.1.h.2.l.-1.r.73.5759`
-#periodicity.simplex.harmonic = HARMONIC_DYADS$models$`mami.codi.m.1.t.1.h.0.l.0.r.73.5759`
 
+# plot behaviour
 plot.interval.consonance(harmonic.behaviour$summary$interval,
                          harmonic.behaviour$summary$rating,
                          harmonic.behaviour$full$data$interval,
-                         harmonic.behaviour$full$data$rating)
-plot.interval.consonance(harmonic.interference.simplex$full$profile$interval,
-                         harmonic.interference.simplex$full$profile$output,
-                         harmonic.interference.simplex$full$raw_profile$interval,
-                         harmonic.interference.simplex$full$raw_profile$output)
-plot.interval.consonance(harmonic.periodicity.duplex$full$profile$interval,
-                         harmonic.periodicity.duplex$full$profile$output,
-                         harmonic.periodicity.duplex$full$raw_profile$interval,
-                         harmonic.periodicity.duplex$full$raw_profile$output)
+                         harmonic.behaviour$full$data$rating,
+                         title=variable.name(harmonic.behaviour))
+
+# plot models
+experiment.models = list('harmonic.interference.simplex' = HARMONIC_DYADS$models$`Hutchinson & Knopoff (1978)`,
+                         'harmonic.periodicity.duplex.symmetrical' = HARMONIC_DYADS$models$`mami.codi.m.1.t.1.h.1.l.-1.r.73.5759`,
+                         'harmonic.periodicity.duplex.asymmetrical' = HARMONIC_DYADS$models$`mami.codi.m.1.t.1.h.2.l.-1.r.73.5759`,
+                         'harmonic.periodicity.simplex' = HARMONIC_DYADS$models$`mami.codi.m.1.t.1.h.0.l.0.r.73.5759`)
+for (name in names(experiment.models)) {
+  results = experiment.models[[name]]
+  plot.interval.consonance(results$full$profile$interval,
+                           results$full$profile$output,
+                           results$full$raw_profile$interval,
+                           results$full$raw_profile$output,
+                           title=name)
+}
 ```
 
