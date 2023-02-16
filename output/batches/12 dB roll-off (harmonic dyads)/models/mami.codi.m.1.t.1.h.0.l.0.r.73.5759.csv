@@ -1,0 +1,2001 @@
+interval,output,model_id,model_label,model_theory,model_colour,timbre_label
+0,136.62005421536244,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.015015015015015015,136.31763603816884,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.03003003003003003,136.0028872892527,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.04504504504504504,135.67616681618864,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.06006006006006006,135.33796403318178,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.07507507507507508,134.98890811493223,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.09009009009009009,134.62977586968844,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.10510510510510511,134.2614978671414,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.12012012012012012,133.8851623762737,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.13513513513513514,133.50201666327308,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.15015015015015015,133.11346521414328,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.16516516516516516,132.72106448441275,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.18018018018018017,132.3265138423238,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.19519519519519518,131.9316424638985,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.21021021021021022,131.538392058464,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.22522522522522523,131.14879544966894,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.24024024024024024,130.7649512053776,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.2552552552552553,130.38899469319688,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.2702702702702703,130.02306612738124,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.2852852852852853,129.66927635601448,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.3003003003003003,129.32967130181177,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.3153153153153153,129.00619610238127,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.3303303303303303,128.70066008389168,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.34534534534534533,128.41470373553292,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.36036036036036034,128.14976882405992,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.37537537537537535,127.90707269566785,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.39039039039039036,127.68758765916367,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.40540540540540543,127.49202613781186,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.42042042042042044,127.3208320300621,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.43543543543543545,127.17417844809502,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.45045045045045046,127.05197172649538,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.46546546546546547,126.95386133061389,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.4804804804804805,126.87925506319387,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.4954954954954955,126.82733878343893,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.5105105105105106,126.79709972534471,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.5255255255255256,126.78735243707293,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.5405405405405406,126.79676636025772,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.5555555555555556,126.82389412216688,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.5705705705705706,126.86719971508356,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.5855855855855856,126.92508587355937,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.6006006006006006,126.9959201169957,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.6156156156156156,127.07805908773362,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.6306306306306306,127.16987096979693,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.6456456456456456,127.26975590901216,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.6606606606606606,127.37616446258916,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.6756756756756757,127.48761417981905,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.6906906906906907,127.60270445318223,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.7057057057057057,127.72012978199697,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.7207207207207207,127.83869156286198,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.7357357357357357,127.95730846901637,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.7507507507507507,128.07502541257702,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.7657657657657657,128.19102100864026,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.7807807807807807,128.30461338793043,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.7957957957957957,128.41526414407406,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.8108108108108109,128.52258016057192,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.8258258258258259,128.62631304734532,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.8408408408408409,128.72635593142883,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.8558558558558559,128.82273739262462,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.8708708708708709,128.91561241183064,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.8858858858858859,129.00525030388158,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.9009009009009009,129.09201973238348,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.9159159159159159,129.1763710435079,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.9309309309309309,129.25881629995453,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.9459459459459459,129.3399075353754,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.960960960960961,129.42021387345025,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.975975975975976,129.50029825505345,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+0.990990990990991,129.58069458339642,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.006006006006006,129.66188612437008,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.021021021021021,129.74428598368198,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.0360360360360361,129.82822042260963,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.0510510510510511,129.91391567202845,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.0660660660660661,130.0014887643825,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.0810810810810811,130.09094273261286,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.0960960960960962,130.1821663330459,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.1111111111111112,130.27493824669924,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.1261261261261262,130.36893551204582,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.1411411411411412,130.4637457536402,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.1561561561561562,130.55888260605505,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.1711711711711712,130.65380360064788,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.1861861861861862,130.74792969099352,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.2012012012012012,130.8406655459115,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.2162162162162162,130.93141973853085,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.2312312312312312,131.0196240043885,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.2462462462462462,131.10475082693017,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.2612612612612613,131.18632872826328,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.2762762762762763,131.26395478792546,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.2912912912912913,131.33730407281482,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.3063063063063063,131.40613582675667,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.3213213213213213,131.47029642816133,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.3363363363363363,131.52971926948663,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.3513513513513513,131.58442183496766,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.3663663663663663,131.63450034756644,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.3813813813813813,131.68012241895855,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.3963963963963963,131.7215181667146,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.4114114114114114,131.75897026218053,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.4264264264264264,131.79280334457175,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.4414414414414414,131.82337318688087,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.4564564564564564,131.85105593396727,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.4714714714714714,131.87623765987124,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.4864864864864864,131.89930441720028,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.5015015015015014,131.92063288300673,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.5165165165165164,131.9405816484782,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.5315315315315314,131.95948315807723,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.5465465465465464,131.97763627985427,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.5615615615615615,131.99529948306508,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.5765765765765765,132.01268461072493,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.5915915915915915,132.02995126052528,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.6066066066066067,132.0472018235713,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.6216216216216217,132.06447727173918,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.6366366366366367,132.08175382576513,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.6516516516516517,132.09894067215336,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.6666666666666667,132.1158789228284,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.6816816816816818,132.13234202317642,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.6966966966966968,132.1480378089496,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.7117117117117118,132.16261238899028,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.7267267267267268,132.17565598888905,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.7417417417417418,132.18671083195255,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.7567567567567568,132.1952810609504,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.7717717717717718,132.20084462085464,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.7867867867867868,132.20286693378398,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.8018018018018018,132.20081610770458,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.8168168168168168,132.19417933531534,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.8318318318318318,132.18248006394697,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.8468468468468469,132.16529545567568,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.8618618618618619,132.14227361285614,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.8768768768768769,132.11315002056165,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.8918918918918919,132.0777626555337,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.906906906906907,132.036065231539,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.921921921921922,131.9881380927314,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.936936936936937,131.93419632788303,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.951951951951952,131.87459475644468,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.966966966966967,131.80982952887922,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.981981981981982,131.74053618466496,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+1.996996996996997,131.66748411763072,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.012012012012012,131.5915675056802,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.027027027027027,131.51379286653292,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.042042042042042,131.43526349924747,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.057057057057057,131.35716115994225,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.0720720720720722,131.2807253968156,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.0870870870870872,131.20723103248625,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.1021021021021022,131.13796432965512,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.1171171171171173,131.07419840857384,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.1321321321321323,131.01716850174608,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.1471471471471473,130.9680476330807,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.1621621621621623,130.92792329606752,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.1771771771771773,130.8977756793883,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.1921921921921923,130.87845794975888,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.2072072072072073,130.87067905185697,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.2222222222222223,130.87498942505542,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.2372372372372373,130.89176996752812,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.2522522522522523,130.92122450131984,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.2672672672672673,130.96337590845968,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.2822822822822824,131.0180660195733,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.2972972972972974,131.08495924434385,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.3123123123123124,131.16354983947144,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.3273273273273274,131.2531726166659,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.3423423423423424,131.35301680315462,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.3573573573573574,131.4621426829313,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.3723723723723724,131.57950057142375,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.3873873873873874,131.7039516124018,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.4024024024024024,131.83428983664732,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.4174174174174174,131.96926488976408,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.4324324324324325,132.10760482361428,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.4474474474474475,132.24803835366632,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.4624624624624625,132.38931601358507,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.4774774774774775,132.53022968828768,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.4924924924924925,132.6696300759339,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.5075075075075075,132.80644171537534,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.5225225225225225,132.9396753148815,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.5375375375375375,133.06843722607886,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.5525525525525525,133.19193601890495,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.5675675675675675,133.30948622355686,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.5825825825825826,133.4205094084176,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.5975975975975976,133.5245328535731,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.6126126126126126,133.62118615323075,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.6276276276276276,133.71019613347997,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.6426426426426426,133.79138050196875,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.6576576576576576,133.86464065214392,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.6726726726726726,133.92995402711884,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.6876876876876876,133.9873664088475,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.7027027027027026,134.03698444030675,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.7177177177177176,134.0789686161609,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.7327327327327327,134.11352689611283,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.7477477477477477,134.14090901055556,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.7627627627627627,134.16140144607505,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.7777777777777777,134.17532302441634,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.7927927927927927,134.1830209276799,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.8078078078078077,134.18486697876446,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.8228228228228227,134.1812539622302,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.8378378378378377,134.17259176822665,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.8528528528528527,134.15930316087457,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.8678678678678677,134.14181901103044,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.8828828828828827,134.12057288889383,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.8978978978978978,134.09599498053277,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.9129129129129128,134.06850536933163,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.9279279279279278,134.03850680332806,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.942942942942943,134.00637714691402,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.957957957957958,133.97246178510346,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.972972972972973,133.93706630565885,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+2.987987987987988,133.90044982470104,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.003003003003003,133.86281934186178,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.018018018018018,133.8243255095475,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.033033033033033,133.78506017665708,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.048048048048048,133.74505602053654,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.063063063063063,133.70428851365384,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.078078078078078,133.6626803860781,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.093093093093093,133.62010864493246,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.108108108108108,133.5764141018534,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.123123123123123,133.53141324397663,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.138138138138138,133.48491216821674,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.153153153153153,133.43672218787376,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.168168168168168,133.38667661999682,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.183183183183183,133.3346481762976,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.198198198198198,133.28056631403925,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.2132132132132134,133.22443385990064,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.2282282282282284,133.16634220216946,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.2432432432432434,133.1064843566773,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.2582582582582584,133.04516525052802,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.2732732732732734,132.98280863466624,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.2882882882882885,132.91996013030428,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.3033033033033035,132.857286032634,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.3183183183183185,132.79556763443424,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.3333333333333335,132.73569098743778,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.3483483483483485,132.6786321850318,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.3633633633633635,132.6254384196815,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.3783783783783785,132.577205235561,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.3933933933933935,132.53505055418896,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.4084084084084085,132.50008619145132,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.4234234234234235,132.47338770173528,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.4384384384384385,132.45596347325485,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.4534534534534536,132.44872405338432,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.4684684684684686,132.4524527006836,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.4834834834834836,132.46777813966955,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.4984984984984986,132.49515043540114,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.5135135135135136,132.53482080957903,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.5285285285285286,132.58682609186192,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.5435435435435436,132.65097834486784,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.5585585585585586,132.72686002561682,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.5735735735735736,132.81382485778687,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.5885885885885886,132.91100439650168,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.6036036036036037,133.01732007901288,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.6186186186186187,133.13150037881505,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.6336336336336337,133.252102524871,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.6486486486486487,133.37753811796355,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.6636636636636637,133.50610187740577,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.6786786786786787,133.63600268633323,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.6936936936936937,133.76539607355906,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.7087087087087087,133.89241727360158,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.7237237237237237,134.01521404132848,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.7387387387387387,134.13197845953377,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.7537537537537538,134.2409770613372,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.7687687687687688,134.34057868847378,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.7837837837837838,134.4292796149254,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.798798798798799,134.50572557667638,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.813813813813814,134.56873045694354,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.828828828828829,134.61729147724964,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.843843843843844,134.65060083454603,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.858858858858859,134.6680538009563,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.873873873873874,134.66925336468174,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.888888888888889,134.65401153854486,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.903903903903904,134.62234749804995,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.918918918918919,134.57448273605064,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.933933933933934,134.51083343902496,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.948948948948949,134.43200030364974,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.963963963963964,134.33875602474896,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.978978978978979,134.23203069921908,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+3.993993993993994,134.112895406918,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.009009009009009,133.98254424955434,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.024024024024024,133.84227515215704,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.039039039039039,133.69346975758873,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.054054054054054,133.53757277079725,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.069069069069069,133.37607113340823,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.084084084084084,133.21047342779545,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.099099099099099,133.04228991977277,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.114114114114114,132.87301364759935,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.129129129129129,132.70410294968363,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.1441441441441444,132.53696579259346,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.1591591591591595,132.37294621411309,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.1741741741741745,132.21331313362376,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.1891891891891895,132.05925170566823,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.2042042042042045,131.91185730491117,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.2192192192192195,131.77213213551462,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.2342342342342345,131.64098435960796,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.2492492492492495,131.5192295428996,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.2642642642642645,131.40759412556142,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.2792792792792795,131.30672054812356,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.2942942942942945,131.21717359957947,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.3093093093093096,131.13944751176578,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.324324324324325,131.0739733029089,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.33933933933934,131.02112587540682,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.354354354354355,130.9812303985983,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.36936936936937,130.9545675553521,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.384384384384385,130.94137729950555,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.3993993993994,130.9418608561594,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.414414414414415,130.95618079441533,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.42942942942943,130.98445910753412,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.444444444444445,131.0267733435559,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.45945945945946,131.0831509349687,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.474474474474475,131.15356197403554,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.48948948948949,131.2379107663635,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.504504504504505,131.33602656536596,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.51951951951952,131.44765394142595,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.534534534534535,131.57244326980265,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.54954954954955,131.70994182966348,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.564564564564565,131.85958599319008,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.57957957957958,132.02069494963752,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.594594594594595,132.1924663566227,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.60960960960961,132.37397424269884,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.624624624624625,132.5641694049951,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.63963963963964,132.76188245739104,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.654654654654655,132.96582959259368,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.66966966966967,133.17462102985914,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.684684684684685,133.38677203298636,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.6996996996997,133.6007163042425,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.714714714714715,133.81482149206064,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.72972972972973,134.0274064959678,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.744744744744745,134.23676021265086,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.75975975975976,134.44116134287637,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.774774774774775,134.63889886975153,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.78978978978979,134.82829282332858,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.804804804804805,135.00771496286814,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.81981981981982,135.17560903368926,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.834834834834835,135.33051028758294,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.84984984984985,135.47106399126733,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.864864864864865,135.59604268342397,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.87987987987988,135.7043619749187,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.894894894894895,135.79509471683772,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.90990990990991,135.8674833856098,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.924924924924925,135.92095055315986,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.93993993993994,135.95510732299485,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.954954954954955,135.96975962137745,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.96996996996997,135.96491223799268,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+4.984984984984985,135.94077051495867,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5,135.89773958916803,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.015015015015015,135.83642110330183,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.03003003003003,135.75760731774733,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.045045045045045,135.66227258092331,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.06006006006006,135.5515621503352,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.075075075075075,135.42677840137168,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.09009009009009,135.28936451480342,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.105105105105105,135.14088579559964,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.12012012012012,134.98300884260266,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.135135135135135,134.81747885764003,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.15015015015015,134.64609545013087,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.165165165165165,134.47068735523732,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.18018018018018,134.29308653623679,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.195195195195195,134.1151021815051,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.21021021021021,133.93849513035008,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.225225225225225,133.76495326782026,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.24024024024024,133.5960684154053,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.255255255255255,133.43331521221313,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.27027027027027,133.27803243079754,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.285285285285285,133.1314071053779,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.3003003003003,132.9944617706545,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.315315315315315,132.86804502035474,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.33033033033033,132.7528255000241,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.345345345345345,132.64928935254366,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.36036036036036,132.5577410414307,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.375375375375375,132.4783073898526,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.39039039039039,132.41094459561674,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.405405405405405,132.35544791667624,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.42042042042042,132.3114636696592,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.435435435435435,132.27850314656155,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.45045045045045,132.2559580322744,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.465465465465465,132.24311689762763,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.48048048048048,132.23918234813678,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.495495495495495,132.24328842624692,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.51051051051051,132.2545178928556,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.525525525525525,132.27191905040104,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.54054054054054,132.29452181285748,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.555555555555555,132.32135277565385,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.57057057057057,132.35144908895003,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.585585585585585,132.38387098910786,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.6006006006006,132.41771289394774,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.615615615615615,132.45211301598042,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.63063063063063,132.48626149288702,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.645645645645645,132.51940707485488,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.66066066066066,132.5508624428885,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.675675675675675,132.58000825998437,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.6906906906906904,132.60629607737692,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.7057057057057055,132.6292502304496,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.7207207207207205,132.6484688631567,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.7357357357357355,132.66362421604873,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.7507507507507505,132.67446230170464,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.7657657657657655,132.68080207340088,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.7807807807807805,132.6825341694136,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.7957957957957955,132.67961928800722,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.8108108108108105,132.6720862187689,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.8258258258258255,132.66002952653722,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.8408408408408405,132.6436068568968,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.8558558558558556,132.62303580916728,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.870870870870871,132.59859030595544,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.885885885885886,132.57059637929834,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.900900900900901,132.5394272934199,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.915915915915916,132.50549793384874,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.930930930930931,132.46925841218712,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.945945945945946,132.43118686463384,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.960960960960961,132.39178145929026,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.975975975975976,132.35155167055294,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+5.990990990990991,132.3110089262952,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.006006006006006,132.27065678245222,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.021021021021021,132.23098082724053,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.036036036036036,132.19243856068775,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.051051051051051,132.1554495316896,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.066066066066066,132.1203860419809,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.081081081081081,132.0875647421709,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.096096096096096,132.0572394478617,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.111111111111111,132.02959549295062,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.126126126126126,132.00474591229224,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.141141141141141,131.98272970737824,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.156156156156156,131.96351239760506,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.171171171171171,131.9469889975984,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.186186186186186,131.93298948993566,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.201201201201201,131.9212867847666,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.216216216216216,131.91160707580093,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.231231231231231,131.90364241852907,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.246246246246246,131.89706527400986,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.261261261261261,131.89154468264917,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.276276276276276,131.8867636595649,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.291291291291291,131.88243733867765,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.306306306306306,131.87833133870853,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.321321321321321,131.87427978276747,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.336336336336336,131.87020237595286,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.351351351351351,131.8661199339475,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.366366366366366,131.86216776136453,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.381381381381381,131.85860630268894,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.396396396396396,131.85582853186364,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.411411411411412,131.8543636092575,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.426426426426427,131.85487641677597,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.441441441441442,131.8581626824398,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.456456456456457,131.86513952333144,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.471471471471472,131.87683136802428,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.486486486486487,131.89435136321885,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.501501501501502,131.9188785201722,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.516516516516517,131.95163100967892,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.531531531531532,131.99383616418748,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.546546546546547,132.04669788600333,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.561561561561562,132.11136228509085,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.576576576576577,132.188882472522,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.591591591591592,132.28018351038767,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.606606606606607,132.386028561087,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.621621621621622,132.50698728467924,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.636636636636637,132.6434075002538,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.651651651651652,132.7953910556926,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.666666666666667,132.96277474129232,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.681681681681682,133.1451169399791,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.696696696696697,133.34169053561644,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.711711711711712,133.55148240812932,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.726726726726727,133.7731996380629,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.741741741741742,134.005282332805,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.756756756756757,134.24592278136186,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.771771771771772,134.49309045337364,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.786786786786787,134.7445621892515,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.801801801801802,134.9979567888681,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.816816816816817,135.2507731013331,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.831831831831832,135.50043065118757,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.846846846846847,135.7443118077812,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.861861861861862,135.97980451335562,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.876876876876877,136.2043446280637,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.891891891891892,136.41545702165854,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.906906906906907,136.61079463536618,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.921921921921922,136.7881748461768,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.936936936936937,136.9456125818323,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.951951951951952,137.08134975085906,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.966966966966967,137.19388066164817,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.981981981981982,137.28197320267657,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+6.996996996996997,137.3446856390092,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.012012012012012,137.38137894655856,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.027027027027027,137.39172465543172,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.042042042042042,137.3757082090211,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.057057057057057,137.3336278697259,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.072072072072072,137.2660892198194,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.087087087087087,137.17399532207665,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.102102102102102,137.0585326244488,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.117117117117117,136.92115272093204,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.132132132132132,136.76355012044112,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.147147147147147,136.58763622918443,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.162162162162162,136.39550982029735,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.177177177177177,136.18942434605776,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.192192192192192,135.9717525398412,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.207207207207207,135.7449488524302,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.222222222222222,135.51151036446706,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.237237237237237,135.27393690698668,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.252252252252252,135.03469119806857,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.267267267267267,134.79615985891243,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.282282282282282,134.56061620112612,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.297297297297297,134.33018567406552,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.312312312312312,134.10681482376214,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.327327327327327,133.89224454238877,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.342342342342342,133.68798828055736,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.357357357357357,133.49531575733712,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.372372372372372,133.315242539973,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.387387387387387,133.14852568375335,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.402402402402402,132.99566543038318,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.4174174174174174,132.85691276932482,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.4324324324324325,132.73228247976417,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.4474474474474475,132.6215710996671,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.4624624624624625,132.52437912039824,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.4774774774774775,132.44013658688343,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.4924924924924925,132.36813119893384,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.5075075075075075,132.30753796189757,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.5225225225225225,132.25744942511656,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.5375375375375375,132.21690557369178,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.5525525525525525,132.1849225000403,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.5675675675675675,132.1605190724081,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.5825825825825826,132.14274093248812,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.597597597597598,132.13068128740164,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.612612612612613,132.12349810593102,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.627627627627628,132.12042747842526,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.642642642642643,132.12079304789393,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.657657657657658,132.12401156071593,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.672672672672673,132.12959471416076,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.687687687687688,132.1371475905544,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.702702702702703,132.1463640614516,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.717717717717718,132.15701961768673,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.732732732732733,132.1689621317726,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.747747747747748,132.18210108783197,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.762762762762763,132.1963958219505,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.777777777777778,132.2118433040793,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.792792792792793,132.22846596350703,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.807807807807808,132.24630001597782,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.822822822822823,132.26538469455164,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.837837837837838,132.28575272124047,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.852852852852853,132.30742228528848,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.867867867867868,132.33039071964114,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.882882882882883,132.35462999244612,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.897897897897898,132.38008405792053,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.912912912912913,132.40666804289356,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.927927927927928,132.43426918373382,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.942942942942943,132.46274937476934,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.957957957957958,132.49194914486165,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.972972972972973,132.52169284421788,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+7.987987987987988,132.55179479911536,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.003003003003004,132.58206617781713,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.018018018018019,132.6123223060518,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.033033033033034,132.64239017411978,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.048048048048049,132.67211588880784,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.063063063063064,132.70137184045288,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.078078078078079,132.73006337720486,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.093093093093094,132.75813480325573,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.108108108108109,132.78557454407562,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.123123123123124,132.81241934821966,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.138138138138139,132.83875742095822,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.153153153153154,132.864730409067,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.168168168168169,132.8905341781137,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.183183183183184,132.91641834337878,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.198198198198199,132.942684533326,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.213213213213214,132.96968338076638,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.228228228228229,132.99781025219076,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.243243243243244,133.02749974098066,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.258258258258259,133.05921896615473,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.273273273273274,133.0934597356974,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.288288288288289,133.1307296529166,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.303303303303304,133.1715422659742,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.318318318318319,133.21640638469776,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.333333333333334,133.2658147146077,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.348348348348349,133.32023198500193,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.363363363363364,133.38008277478588,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.378378378378379,133.44573926509744,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.393393393393394,133.5175091700148,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.408408408408409,133.5956241140251,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.423423423423424,133.68022873580674,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.438438438438439,133.7713708007399,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.453453453453454,133.868992598257,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.468468468468469,133.9729238839595,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.483483483483484,134.08287660019909,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.498498498498499,134.19844157298488,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.513513513513514,134.31908733869386,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.528528528528529,134.44416120277535,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.543543543543544,134.57289257659886,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.558558558558559,134.7043985803286,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.573573573573574,134.83769184195629,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.588588588588589,134.9716903681545,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.603603603603604,135.10522931401243,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.618618618618619,135.23707443821183,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.633633633633634,135.3659369994548,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.64864864864865,135.49048982997547,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.663663663663664,135.60938431296984,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.67867867867868,135.72126799220192,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.693693693693694,135.82480255257096,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.70870870870871,135.91868192807877,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.723723723723724,136.0016503159613,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.73873873873874,136.07251989999062,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.753753753753754,136.13018810932184,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.76876876876877,136.17365425914775,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.783783783783784,136.2020354336716,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.7987987987988,136.21458147898417,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.813813813813814,136.21068897261227,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.82882882882883,136.18991402794464,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.843843843843844,136.1519837765157,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.85885885885886,136.09680635114884,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.873873873873874,136.0244791708685,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.88888888888889,135.93529530743524,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.903903903903904,135.82974769675943,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.91891891891892,135.70853094971378,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.933933933933934,135.57254051910198,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.94894894894895,135.42286899527386,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.963963963963964,135.260799333835,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.97897897897898,135.08779486580153,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+8.993993993993994,134.9054860030412,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.00900900900901,134.71565362842347,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.024024024024024,134.52020924822708,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.03903903903904,134.32117208054567,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.054054054054054,134.12064335349098,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.06906906906907,133.9207781862594,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.084084084084084,133.7237555197762,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.0990990990991,133.53174664695615,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.114114114114114,133.3468829613452,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.12912912912913,133.1712235934246,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.144144144144144,133.00672363344123,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.15915915915916,132.85520364657017,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.174174174174174,132.71832116990788,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.18918918918919,132.59754484171526,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.204204204204204,132.49413175299492,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.21921921921922,132.40910853230918,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.234234234234235,132.34325657987668,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.24924924924925,132.29710176011469,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.264264264264265,132.27090874694343,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.27927927927928,132.26468009747097,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.294294294294295,132.27816001120576,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.30930930930931,132.31084261752292,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.324324324324325,132.36198452720063,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.33933933933934,132.43062128743657,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.354354354354355,132.51558729630912,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.36936936936937,132.61553866406828,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.384384384384385,132.7289784562606,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.3993993993994,132.8542837183018,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.414414414414415,132.98973366297352,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.42942942942943,133.13353840121957,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.444444444444445,133.28386761188557,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.45945945945946,133.43887857660064,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.474474474474475,133.59674305039545,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.48948948948949,133.75567249509547,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.504504504504505,133.91394126894562,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.51951951951952,134.0699074399812,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.534534534534535,134.22203096985746,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.54954954954955,134.36888909653675,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.564564564564565,134.50918882574985,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.57957957957958,134.6417765198612,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.594594594594595,134.76564464620128,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.60960960960961,134.87993581285588,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.624624624624625,134.98394427642071,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.63963963963964,135.07711515188453,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.654654654654655,135.15904158861125,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.66966966966967,135.22946019791715,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.684684684684685,135.28824502708545,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.6996996996997,135.33540037247056,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.714714714714715,135.37105271174175,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.72972972972973,135.3954420138384,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.744744744744745,135.40891265670365,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.75975975975976,135.41190414938086,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.774774774774775,135.40494181872066,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.78978978978979,135.38862758383726,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.804804804804805,135.36363090549298,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.81981981981982,135.330679964446,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.834834834834835,135.2905530938143,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.84984984984985,135.24407046664794,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.864864864864865,135.19208602173933,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.87987987987988,135.13547959841722,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.894894894894895,135.07514924450214,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.90990990990991,135.01200366026805,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.924924924924925,134.9469547444619,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.93993993993994,134.8809102153035,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.954954954954955,134.81476628897522,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.96996996996997,134.7494004094529,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+9.984984984984985,134.68566403570563,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10,134.62437550450463,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.015015015015015,134.56631299864932,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.03003003003003,134.51220766083645,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.045045045045045,134.4627369023301,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.06006006006006,134.41851796285022,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.075075075075075,134.38010178366295,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.09009009009009,134.34796725981448,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.105105105105105,134.3225159399926,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.12012012012012,134.30406724386557,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.135135135135135,134.29285426721754,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.15015015015015,134.28902024502656,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.165165165165165,134.29261574205665,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.18018018018018,134.30359663970486,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.195195195195195,134.32182298684342,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.21021021021021,134.347058781173,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.225225225225225,134.37897274600846,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.24024024024024,134.4171401651587,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.255255255255255,134.46104583522904,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.27027027027027,134.51008818974617,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.285285285285285,134.56358464237914,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.3003003003003,134.6207781865359,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.315315315315315,134.6808452751121,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.33033033033033,134.74290498653,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.345345345345345,134.80602946096414,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.36036036036036,134.86925556350664,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.375375375375375,134.93159769894802,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.39039039039039,134.99206166614792,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.405405405405405,135.0496593993095,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.42042042042042,135.10342439996313,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.435435435435435,135.15242761861063,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.45045045045045,135.1957935007165,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.465465465465465,135.23271587031158,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.48048048048048,135.26247328843243,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.495495495495495,135.28444349560658,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.51051051051051,135.29811653025706,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.525525525525525,135.30310611068552,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.54054054054054,135.29915887928038,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.555555555555555,135.28616113530583,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.57057057057057,135.26414272785854,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.585585585585585,135.23327784327105,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.6006006006006,135.19388250038259,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.615615615615615,135.14640866067762,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.63063063063063,135.0914349653329,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.645645645645645,135.02965422384142,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.66066066066066,134.96185789449152,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.675675675675675,134.88891791044472,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.69069069069069,134.81176631108085,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.705705705705705,134.73137323130067,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.72072072072072,134.6487238765837,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.735735735735735,134.5647951644244,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.75075075075075,134.4805327398934,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.765765765765765,134.39682907225145,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.78078078078078,134.31450330989608,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.795795795795796,134.23428351302724,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.81081081081081,134.15679179934057,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.825825825825826,134.08253283125438,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.84084084084084,134.01188594837646,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.855855855855856,133.945101111837,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.87087087087087,133.88229868419907,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.885885885885886,133.82347292670028,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.9009009009009,133.76849896135522,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.915915915915916,133.71714282535464,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.93093093093093,133.66907414484774,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.945945945945946,133.62388087916898,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.96096096096096,133.58108553810106,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.975975975975976,133.54016225558894,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+10.99099099099099,133.50055411359483,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.006006006006006,133.46169014805636,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.02102102102102,133.4230015322566,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.036036036036036,133.38393651707145,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.05105105105105,133.34397380720992,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.066066066066066,133.30263416163604,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.08108108108108,133.25949011837488,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.096096096096096,133.21417385235216,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.11111111111111,133.16638327362244,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.126126126126126,133.11588655681564,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.14114114114114,133.06252535636395,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.156156156156156,133.00621700278774,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.17117117117117,132.94695599114775,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.186186186186186,132.88481506333184,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.2012012012012,132.81994615226841,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.216216216216216,132.7525814009972,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.23123123123123,132.6830343966115,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.246246246246246,132.61170167329087,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.26126126126126,132.53906444560653,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.276276276276276,132.46569043909932,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.29129129129129,132.3922355959876,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.306306306306306,132.31944535570673,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.32132132132132,132.2481551481881,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.336336336336336,132.1792896968454,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.35135135135135,132.11386071153922,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.366366366366366,132.05296256139633,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.381381381381381,131.99776555392816,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.396396396396396,131.94950650960809,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.411411411411411,131.9094764076948,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.426426426426426,131.8790049860845,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.441441441441441,131.8594423006673,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.456456456456456,131.85213738246927,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.471471471471471,131.85841426760496,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.486486486486486,131.87954580924003,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.501501501501501,131.91672580589193,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.516516516516516,131.97104009032336,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.531531531531531,132.04343731249534,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.546546546546546,132.1347002139202,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.561561561561561,132.2454182258043,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.576576576576576,132.37596222739103,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.591591591591591,132.52646227311484,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.606606606606606,132.6967890382028,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.621621621621621,132.88653964427806,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.636636636636636,133.09502841271322,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.651651651651651,133.32128295851217,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.666666666666666,133.56404588686587,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.681681681681681,133.82178219442574,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.696696696696696,134.09269231435508,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.711711711711711,134.3747305849971,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.726726726726726,134.66562877292776,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.741741741741741,134.96292414804032,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.756756756756756,135.2639914960565,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.771771771771771,135.5660783662686,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.786786786786786,135.8663427918448,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.801801801801801,136.16189268771382,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.816816816816816,136.44982612642823,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.831831831831831,136.72727171361433,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.846846846846846,136.99142832850976,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.861861861861861,137.23960355745015,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.876876876876876,137.4692502240397,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.891891891891891,137.67800050374098,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.906906906906906,137.86369719733736,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.921921921921921,138.0244218220837,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.936936936936936,138.15851925699212,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.951951951951951,138.26461874622507,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.966966966966966,138.34165111983998,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.981981981981981,138.38886213335502,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+11.996996996996996,138.40582185737821,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.012012012012011,138.39243006774598,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.027027027027026,138.34891759823978,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.042042042042041,138.2758436257932,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.057057057057056,138.1740888664197,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.072072072072071,138.04484467320114,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.087087087087086,137.88959804952776,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.102102102102101,137.71011262458248,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.117117117117116,137.50840568593665,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.132132132132131,137.28672142686165,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.147147147147146,137.0475006428625,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.162162162162161,136.79334720080647,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.177177177177176,136.5269917012153,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.192192192192191,136.25125285499644,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.207207207207206,135.9689971943634,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.222222222222221,135.68309782771868,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.237237237237236,135.3963930235354,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.252252252252251,135.11164546288225,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.267267267267266,134.8315030291077,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.282282282282281,134.55846200248337,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.297297297297296,134.29483349497974,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.312312312312311,134.0427138952201,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.327327327327327,133.80395999727847,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.342342342342342,133.58016936240014,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.357357357357357,133.3726663146289,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.372372372372372,133.18249380582552,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.387387387387387,133.01041120980219,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.402402402402402,132.85689792706768,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.417417417417417,132.72216250894735,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.432432432432432,132.60615685031655,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.447447447447447,132.50859486083942,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.462462462462462,132.428974911327,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.477477477477477,132.3666052690611,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.492492492492492,132.3206316864738,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.507507507507507,132.29006629243256,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.522522522522522,132.2738169537601,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.537537537537537,132.2707163240043,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.552552552552552,132.27954987281873,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.567567567567567,132.2990822873226,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.582582582582582,132.32808175026187,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.597597597597597,132.36534172196258,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.612612612612612,132.40969997710258,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.627627627627627,132.4600547666899,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.642642642642642,132.51537808445548,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.657657657657657,132.57472611030184,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.672672672672672,132.63724697791375,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.687687687687687,132.70218606700718,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.702702702702702,132.76888905236345,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.717717717717717,132.836802952667,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.732732732732732,132.9054754145306,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.747747747747747,132.97455244441076,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.762762762762762,133.04377476775431,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.777777777777777,133.11297295558526,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.792792792792792,133.18206141894035,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.807807807807807,133.25103133598913,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.822822822822824,133.31994254965954,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.837837837837839,133.38891445859667,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.852852852852854,133.45811592360764,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.867867867867869,133.52775422640184,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.882882882882884,133.5980631470194,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.897897897897899,133.66929026909676,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.912912912912914,133.74168367503384,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.927927927927929,133.81547825216177,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.942942942942944,133.89088189138417,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.957957957957959,133.96806191629466,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.972972972972974,134.04713212827755,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+12.987987987987989,134.12814088675248,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.003003003003004,134.21106065944733,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.018018018018019,134.29577947233977,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.033033033033034,134.3820946609625,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.048048048048049,134.46970927381616,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.063063063063064,134.55823140590218,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.078078078078079,134.64717664853202,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.093093093093094,134.7359737345641,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.108108108108109,134.8239733411093,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.123123123123124,134.91045989031468,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.138138138138139,134.9946660692822,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.153153153153154,135.0757896786805,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.168168168168169,135.15301232198516,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.183183183183184,135.22551936859392,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.198198198198199,135.29252056833434,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.213213213213214,135.35327066485496,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.228228228228229,135.40708935238314,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.243243243243244,135.45337994418313,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.258258258258259,135.49164617016777,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.273273273273274,135.52150659261,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.288288288288289,135.5427062187985,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.303303303303304,135.55512499299425,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.318318318318319,135.55878296189275,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.333333333333334,135.55384202253475,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.348348348348349,135.54060427395856,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.363363363363364,135.5195070990261,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.378378378378379,135.4911151966848,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.393393393393394,135.45610986424765,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.408408408408409,135.41527589191526,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.423423423423424,135.3694864766212,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.438438438438439,135.3196865892942,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.453453453453454,135.26687523967698,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.468468468468469,135.2120870775874,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.483483483483484,135.1563737512169,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.498498498498499,135.10078541437943,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.513513513513514,135.04635273834228,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.528528528528529,134.99406974274197,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.543543543543544,134.94487771661682,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.558558558558559,134.8996504569071,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.573573573573574,134.85918100954598,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.588588588588589,134.82417005863476,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.603603603603604,134.79521607280768,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.618618618618619,134.77280728494233,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.633633633633634,134.7573155516951,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.64864864864865,134.74899211253506,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.663663663663664,134.74796524349833,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.67867867867868,134.75423977826802,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.693693693693694,134.76769844801487,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.70870870870871,134.7881049714955,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.723723723723724,134.81510880822356,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.73873873873874,134.84825147036278,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.753753753753754,134.88697427378992,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.76876876876877,134.930627396109,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.783783783783784,134.97848009986276,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.7987987987988,135.02973197328345,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.813813813813814,135.0835250389437,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.82882882882883,135.13895658260358,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.843843843843844,135.19509256000833,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.85885885885886,135.2509814475708,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.873873873873874,135.30566841257914,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.88888888888889,135.35820968826923,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.903903903903904,135.40768704705275,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.91891891891892,135.4532222695823,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.933933933933934,135.4939915064922,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.94894894894895,135.52923942222182,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.963963963963964,135.55829299548472,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.97897897897898,135.58057482855708,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+13.993993993993994,135.59561578832555,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.00900900900901,135.60306676752577,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.024024024024024,135.60270931729107,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.03903903903904,135.59446486524988,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.054054054054054,135.57840220081897,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.06906906906907,135.55474288525141,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.084084084084084,135.52386423267254,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.0990990990991,135.48629951373957,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.114114114114114,135.44273505898718,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.12912912912913,135.39400398665796,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.144144144144144,135.34107635085098,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.15915915915916,135.28504559960086,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.174174174174174,135.22711134683155,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.18918918918919,135.1685585931603,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.204204204204204,135.11073367288446,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.21921921921922,135.05501735149534,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.234234234234235,135.0027956421451,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.24924924924925,134.95542904256527,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.264264264264265,134.9142210079569,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.27927927927928,134.88038656283413,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.294294294294295,134.8550220092736,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.30930930930931,134.83907670556542,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.324324324324325,134.83332786483047,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.33933933933934,134.83835925684033,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.354354354354355,134.85454458936266,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.36936936936937,134.88203620138887,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.384384384384385,134.92075952517698,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.3993993993994,134.97041357451107,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.414414414414415,135.0304775017049,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.42942942942943,135.10022304534348,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.444444444444445,135.17873247469316,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.45945945945946,135.26492143515924,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.474474474474475,135.35756592157594,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.48948948948949,135.45533246084912,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.504504504504505,135.55681047937523,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.51951951951952,135.6605457686967,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.534534534534535,135.76507394778008,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.54954954954955,135.8689528525026,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.564564564564565,135.97079286031718,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.57957957957958,136.06928427614108,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.594594594594595,136.16322105757166,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.60960960960961,136.25152033504165,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.624624624624625,136.3332373755983,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.63963963963964,136.4075758370565,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.654654654654655,136.47389335176084,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.66966966966967,136.53170265625963,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.684684684684685,136.58066863642784,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.6996996996997,136.62060178051655,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.714714714714715,136.65144862115397,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.72972972972973,136.67327979988826,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.744744744744745,136.68627640529445,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.75975975975976,136.6907152210022,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.774774774774775,136.6869534779805,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.78978978978979,136.67541364196464,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.804804804804805,136.65656868852184,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.81981981981982,136.63092823142844,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.834834834834835,136.5990257807859,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.84984984984985,136.56140732080547,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.864864864864865,136.51862131752105,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.87987987987988,136.47121019674407,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.894894894894895,136.41970327409285,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.90990990990991,136.3646110725979,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.924924924924925,136.30642092902426,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.93993993993994,136.24559376681123,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.954954954954955,136.18256190010823,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.96996996996997,136.11772772821874,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+14.984984984984985,136.05146318120254,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
+15,135.9841097838082,MaMi.CoDi,mami.codi.m.1.t.1.h.0.l.0.r.73.5759,periodicity,#FF5500,"12 dB/octave
+roll-off"
