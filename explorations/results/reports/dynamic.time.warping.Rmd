@@ -1,0 +1,30 @@
+---
+title: "Dynamic Time Warping"
+---
+
+```{r, setup, include=FALSE}
+project.root = rprojroot::find_rstudio_root_file()
+knitr::opts_knit$set(root.dir = project.root)
+```
+
+Behavior versus interference simplex model for stretched timbre.
+
+```{r }
+source('./explorations/code/utils.R')
+
+stretched.behaviour = results.for('stretched','behaviour')
+stretched.interference.simplex = results.for('stretched','interference.simplex')
+stretched.periodicity.duplex = results.for('stretched','periodicity.duplex')
+
+plot.interval.sweep(stretched.behaviour$profile$interval,
+                    stretched.behaviour$profile$rating)
+plot.interval.sweep(stretched.interference.simplex$full$profile$interval,
+                    stretched.interference.simplex$full$profile$output,
+                    stretched.interference.simplex$full$raw_profile$interval,
+                    stretched.interference.simplex$full$raw_profile$output)
+plot.interval.sweep(stretched.periodicity.duplex$full$profile$interval,
+                    stretched.periodicity.duplex$full$profile$output,
+                    stretched.periodicity.duplex$full$raw_profile$interval,
+                    stretched.periodicity.duplex$full$raw_profile$output)
+```
+
