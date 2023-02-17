@@ -82,6 +82,21 @@ TriadModelProfile <- R6Class(
                     .progress = "text")
       }
       
+      df$major_minor <- if (self$model$vectorised) {
+        self$model$get_major_minor_list_batched(df$midi, timbre_list)
+      } else if (self$model$allow_parallel) {
+        furrr::future_map_dbl(df$midi, 
+                              self$model$get_major_minor,
+                              timbre = timbre_list,
+                              .progress = TRUE, 
+                              .options = furrr::furrr_options(seed = TRUE))
+      } else {
+        plyr::laply(df$midi, 
+                    self$model$get_major_minor, 
+                    timbre = timbre_list,
+                    .progress = "text")
+      }
+      
       df %>% 
         select(interval_1, interval_2, output)
     },
@@ -130,6 +145,27 @@ TriadModelProfile <- R6Class(
       #   sigma_x = sigma,
       #   sigma_y = sigma
       # )
+      
+      smoothed$major_minor <- furrr::future_pmap_dbl(
+        list(
+          probe_x = smoothed$interval_1,
+          probe_y = smoothed$interval_2
+        ),
+        function(probe_x, probe_y) {
+          Rcpp::sourceCpp("src/smooth_2d_gaussian.cpp")
+          smooth_2d_gaussian(
+            profile$interval_1,
+            profile$interval_2,
+            profile$major_minor,
+            probe_x,
+            probe_y,
+            sigma_x = sigma,
+            sigma_y = sigma
+          )
+        },
+        .progress = TRUE,
+        .options = furrr_options(seed = TRUE)
+      )
       
       smoothed
     },

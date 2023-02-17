@@ -46,6 +46,24 @@ ConsonanceModel <- R6Class(
       do.call(c, unname(results_by_batch))
     },
     
+    get_major_minor = function(midi, timbre) {
+      0
+    },
+    
+    get_major_minor_list = function(midi_list, timbre) {
+      stop("get_major_minor_list not implemented for",self$name)
+    },
+    
+    get_major_minor_list_batched = function(midi_list, timbre, batch_size = 500L) {
+      batch_ids <- ceiling(seq_along(midi_list) / batch_size)
+      batches <- split(midi_list, batch_ids)
+      results_by_batch <- plyr::llply(batches, 
+                                      self$get_major_minor_list, 
+                                      timbre = timbre, 
+                                      .progress = "time")
+      do.call(c, unname(results_by_batch))
+    },
+    
     get_sparse_fr_spectrum = function(midi, timbre, coherent) {
       if (is(timbre, "Timbre")) {
         timbre$sparse_fr_spectrum(midi, coherent = coherent)
@@ -396,15 +414,33 @@ praat_analyze <- memoise::memoise(praat_analyze, cache = memoise::cache_filesyst
 MaMi.CoDi <- R6Class(
   'MaMi.CoDi',
   inherit = ConsonanceModel,
+  private = list(
+    
+    major_minor.consonance_dissonance = function(midi, timbre) {
+      chord.timbre.hertz = midi %>% purrr::imap(function(pitch.midi, index) {
+        timbre[[index]]$sparse_fr_spectrum(pitch.midi,coherent=COHERENT_WAVES)$x
+      })
+      mami.codi.R::mami.codi(
+        chord                  = hrep::midi_to_freq(midi),
+        FUN                    = periodicity,
+        low_register           = self$low_register,
+        high_register          = self$high_register,
+        chord.timbre           = chord.timbre.hertz,
+        tonic_selector         = mami.codi.R::tonic_selectors()[self$tonic_selector],
+        resolution   = self$resolution
+      )
+    }
+    
+  ),
   public = list(
     
-    allow_parallel = TRUE,
+    allow_parallel = FALSE,
     metric         = NULL,
     resolution     = NULL,
     high_register  = NULL,
     low_register   = NULL,
     tonic_selector = NULL,
-
+    
     initialize = function(label='mami.codi', 
                           theory = 'periodicity',
                           plot_colour = '#FF5500',
@@ -420,7 +456,7 @@ MaMi.CoDi <- R6Class(
       self$high_register  = high_register
       self$low_register   = low_register
       self$tonic_selector = tonic_selector
-
+      
       super$initialize(
         label = paste0(label,
                        '.m.',
@@ -440,18 +476,12 @@ MaMi.CoDi <- R6Class(
     },
     
     get_consonance = function(midi, timbre) {
-      chord.timbre.hertz = midi %>% purrr::imap(function(pitch.midi, index) {
-        timbre[[index]]$sparse_fr_spectrum(pitch.midi,coherent=COHERENT_WAVES)$x
-      })
-      mami.codi.R::mami.codi(
-        chord                  = hrep::midi_to_freq(midi),
-        FUN                    = periodicity,
-        low_register           = self$low_register,
-        high_register          = self$high_register,
-        chord.timbre           = chord.timbre.hertz,
-        tonic_selector         = mami.codi.R::tonic_selectors()[self$tonic_selector],
-        resolution   = self$resolution
-      )$consonance_dissonance
+      private$major_minor.consonance_dissonance(midi, timbre)$consonance_dissonance
+    },
+    
+    get_major_minor = function(midi, timbre) {
+      private$major_minor.consonance_dissonance(midi, timbre)$major_minor
     }
+    
   )
 )

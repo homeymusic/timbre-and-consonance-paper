@@ -72,7 +72,28 @@ DyadModelProfile <- R6Class(
                     .progress = "text")
       }
       
-      profile %>% select(interval, output)
+      profile$major_minor <- if (self$model$vectorised) {
+        self$model$get_major_minor_list_batched(
+          profile$midi, 
+          timbre = list(self$timbre_1,
+                        self$timbre_2)
+        )
+      } else if (self$model$allow_parallel) {
+        furrr::future_map_dbl(profile$midi, 
+                              self$model$get_major_minor,
+                              timbre = list(self$timbre_1,
+                                            self$timbre_2),
+                              .progress = TRUE,
+                              .options = furrr::furrr_options(seed = TRUE))
+      } else {
+        plyr::laply(profile$midi, 
+                    self$model$get_major_minor, 
+                    timbre = list(self$timbre_1,
+                                  self$timbre_2),
+                    .progress = "text")
+      }
+      
+      profile %>% select(interval, output, major_minor)
     },
     
     get_smoothed_profile = function(profile, sigma, resolution) {
@@ -89,8 +110,15 @@ DyadModelProfile <- R6Class(
           probe_x = interval,
           probe_y = rep(0.0, times = length(interval)),
           sigma_x = sigma,
-          sigma_y = sigma
-        )
+          sigma_y = sigma),
+        major_minor = smooth_2d_gaussian(
+          data_x = profile$interval,
+          data_y = rep(0.0, times = length(profile$interval)),
+          data_val = profile$major_minor,
+          probe_x = interval,
+          probe_y = rep(0.0, times = length(interval)),
+          sigma_x = sigma,
+          sigma_y = sigma)
       )
       
       smoothed
