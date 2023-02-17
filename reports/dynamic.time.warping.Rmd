@@ -11,10 +11,11 @@ source('./scripts/analysis/010-run-model-batches.R')
 ```
 
 
-```{r, dyad.plots, echo=FALSE}
+```{r, dyad.plots, echo=FALSE, results='asis'}
 source('./reports/utils.R')
 
 for (experiment.name in names(DYAD_EXPERIMENTS)) {
+  cat('\n\n##',experiment.name,'\n')
   
   experiment = DYAD_EXPERIMENTS[[experiment.name]]
 
@@ -25,11 +26,11 @@ for (experiment.name in names(DYAD_EXPERIMENTS)) {
                            title=paste(experiment.name,'behaviour'))
   
   models = list(
-    'periodicity.simplex' = experiment$models$`mami.codi.m.1.t.1.h.0.l.0.r.73.5759`,
-    'periodicity.duplex.symmetrical' = experiment$models$`mami.codi.m.1.t.1.h.1.l.-1.r.73.5759`,
-    'periodicity.duplex.asymmetrical.high' = experiment$models$`mami.codi.m.1.t.1.h.2.l.-1.r.73.5759`,
-    'periodicity.duplex.asymmetrical.low' = experiment$models$`mami.codi.m.1.t.1.h.1.l.-2.r.73.5759`,
-    'interference.simplex' = experiment$models$`Hutchinson & Knopoff (1978)`)
+    'periodicity.duplex'   = experiment$models$`mami.codi.m.1.t.1.h.2.l.-1.r.73.5759`,
+    'interference.simplex' = experiment$models$`Hutchinson & Knopoff (1978)`,
+    "harmonicity.simplex"  = experiment$models$`Harrison & Pearce (2018)`,
+    'periodicity.simplex'  = experiment$models$`mami.codi.m.1.t.1.h.0.l.0.r.73.5759`
+  )
   
   for (model.name in names(models)) {
     model = models[[model.name]]
