@@ -97,7 +97,7 @@ models <- list(
     low_register   = -1,
     tonic_selector = 1
   ),
-  # mami.codi duplex asymmetrical
+  # mami.codi duplex asymmetrical high
   MaMi.CoDi$new(
     options = list(
       raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
@@ -107,6 +107,18 @@ models <- list(
     resolution     = (200/exp(1)),
     high_register  = +2,
     low_register   = -1,
+    tonic_selector = 1
+  ),
+  # mami.codi duplex asymmetrical low
+  MaMi.CoDi$new(
+    options = list(
+      raw_resolution_1d = DEFAULT_RESOLUTION_MODEL_1D,
+      raw_resolution_2d = DEFAULT_RESOLUTION_MODEL_2D
+    ),
+    metric         = 1,
+    resolution     = (200/exp(1)),
+    high_register  = +1,
+    low_register   = -2,
     tonic_selector = 1
   ),
   # mami.codi simplex high and low registers = the tonic
