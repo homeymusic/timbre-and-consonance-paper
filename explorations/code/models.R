@@ -1,7 +1,7 @@
 models <- list()
 
 for (m in  1) {
-  for (r in c(2,10,2:10 %o% 10^(1:3))) {
+  for (r in 73.5759) {
     for (t in 1) {
       for (h in 2) {
         for (l in -1) {

@@ -1,42 +1,43 @@
 ---
-title: "Dynamic Time Warping"
+title: "Dyad Models"
 ---
 
 ```{r, setup, include=FALSE, cache=TRUE}
 project.root = rprojroot::find_rstudio_root_file()
 knitr::opts_knit$set(root.dir = project.root) # for future chunks
 setwd(project.root) # for this chunk
+print(getwd())
 source('./scripts/analysis/010-run-model-batches.R')
-source("src/import_experiment.R")
-EXPERIMENTS <- list_experiments() %>% map(import_experiment)
 ```
 
-Behavior, interference simplex, periodicity simplex, and periodicity duplex.
 
-```{r, harmonic.plots, echo=FALSE}
+```{r, dyad.plots, echo=FALSE}
 source('./reports/utils.R')
-HARMONIC_DYADS <- EXPERIMENTS$`Harmonic dyads (3 dB roll-off)`
-harmonic.behaviour = HARMONIC_DYADS$behaviour
 
-# plot behaviour
-plot.interval.consonance(harmonic.behaviour$summary$interval,
-                         harmonic.behaviour$summary$rating,
-                         harmonic.behaviour$full$data$interval,
-                         harmonic.behaviour$full$data$rating,
-                         title=variable.name(harmonic.behaviour))
+for (experiment.name in names(DYAD_EXPERIMENTS)) {
+  
+  experiment = DYAD_EXPERIMENTS[[experiment.name]]
 
-# plot models
-experiment.models = list('harmonic.interference.simplex' = HARMONIC_DYADS$models$`Hutchinson & Knopoff (1978)`,
-                         'harmonic.periodicity.duplex.symmetrical' = HARMONIC_DYADS$models$`mami.codi.m.1.t.1.h.1.l.-1.r.73.5759`,
-                         'harmonic.periodicity.duplex.asymmetrical' = HARMONIC_DYADS$models$`mami.codi.m.1.t.1.h.2.l.-1.r.73.5759`,
-                         'harmonic.periodicity.simplex' = HARMONIC_DYADS$models$`mami.codi.m.1.t.1.h.0.l.0.r.73.5759`)
-for (name in names(experiment.models)) {
-  results = experiment.models[[name]]
-  plot.interval.consonance(results$full$profile$interval,
-                           results$full$profile$output,
-                           results$full$raw_profile$interval,
-                           results$full$raw_profile$output,
-                           title=name)
+  plot.interval.consonance(experiment$behaviour$summary$interval,
+                           experiment$behaviour$summary$rating,
+                           experiment$behaviour$full$data$interval,
+                           experiment$behaviour$full$data$rating,
+                           title=paste(experiment.name,'behaviour'))
+  
+  models = list(
+    'periodicity.simplex' = experiment$models$`mami.codi.m.1.t.1.h.0.l.0.r.73.5759`,
+    'periodicity.duplex.symmetrical' = experiment$models$`mami.codi.m.1.t.1.h.1.l.-1.r.73.5759`,
+    'periodicity.duplex.asymmetrical.high' = experiment$models$`mami.codi.m.1.t.1.h.2.l.-1.r.73.5759`,
+    'periodicity.duplex.asymmetrical.low' = experiment$models$`mami.codi.m.1.t.1.h.1.l.-2.r.73.5759`,
+    'interference.simplex' = experiment$models$`Hutchinson & Knopoff (1978)`)
+  
+  for (model.name in names(models)) {
+    model = models[[model.name]]
+    plot.interval.consonance(model$full$profile$interval,
+                             model$full$profile$output,
+                             model$full$raw_profile$interval,
+                             model$full$raw_profile$output,
+                             title=paste(experiment.name,model.name))
+  }
 }
 ```
-

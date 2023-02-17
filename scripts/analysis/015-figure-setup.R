@@ -9,17 +9,12 @@ theme_set(
   )
 )
 
-source("src/import_experiment.R")
 source("src/plots.R")
 source("src/utils.R")
 source("src/TriadGSP.R")
 source("src/parameters.R")
 source("src/Timbre.R")
 source("src/sine_sweep.R")
-
-EXPERIMENTS <- 
-  list_experiments() %>% 
-  map(import_experiment)
 
 ROLL_OFF_EXPS  <- c(
   "12 dB roll-off (harmonic dyads)",

@@ -15,6 +15,7 @@ source("src/TriadModelProfile.R")
 source("src/utils.R")
 source("src/instrument-timbres.R")
 source("src/parameters.R")
+source("src/import_experiment.R")
 
 OUTPUT_DIR <- "output/batches"
 
@@ -934,3 +935,14 @@ for (experiment in EXPERIMENTS) {
   
   export_params(output_dir, experiment)
 }
+
+
+EXPERIMENTS <- 
+  list_experiments() %>% 
+  map(import_experiment)
+
+DYAD_EXPERIMENTS <- list(
+  "Stretched" = EXPERIMENTS$`Stretched dyads (3 dB roll-off)`,
+  "Harmonic" = EXPERIMENTS$`Harmonic dyads (3 dB roll-off)`,
+  "Compressed" = EXPERIMENTS$`Compressed dyads (3 dB roll-off)`
+)
