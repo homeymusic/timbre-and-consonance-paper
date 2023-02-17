@@ -1,0 +1,11 @@
+---
+title: "Dynamic Time Warping"
+---
+
+```{r, setup, include=FALSE, cache=TRUE}
+project.root = rprojroot::find_rstudio_root_file()
+knitr::opts_knit$set(root.dir = project.root) # for future chunks
+setwd(project.root) # for this chunk
+print(getwd())
+source('./scripts/analysis/010-run-model-batches.R')
+```
